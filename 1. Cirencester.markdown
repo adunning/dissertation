@@ -1,0 +1,120 @@
+# The Use and Creation of Books at Cirencester
+When Alexander Neckam became the abbot of St Mary’s abbey in Cirencester in 1213, a position he held until his death in 1217,[@knowles:2001heads, pp. 1:159–60, with corrections on 1:278] he became the head of an organization that was very much tied up with the cares of the world; a powerful figure who was also lord of the manor, by royal prerogative.^[On the early relationship between the abbots and the townspeople, see @rollison:2011commune, ch. 1; @fuller:1884cirencester] He was the sixth to hold this position since the (re?)constitution of the abbey by Henry I in 1117.^[On the abbey's early history, see @wilkinson:1998cirencester; @evans:1993cirencester] With perhaps forty canons resident, Cirencester was one of the largest Augustinian foundations in England.[@knowles:1948religious, p. 2:259]
+
+- summarize argument: Augustinians liked books, there are evident reasons why A would be attracted to them, and Cirencester was a good fit
+- the ethos of the order is an influence, and he is bringing stuff from scholasticism to Cirencester
+ 
+## Augustinians and their books
+- who were the Augustinians?
++ stuff about pastoral care: did this matter?
+
+- why are books important?
+
+- what does Watson/Webber say about books?
+- what did augustinians read?
+- does the 'pastoral care' thing matter?
+
+- what do rules say about daily life and about provision for books?
+
+- importance of teaching?
+
+
+- what were the expectations of a typical canon?
+
+- what intellectual attitudes to they show, esp. to scholasticism? (how does this compare to other orders? start with R.W.S.)
+
+- how does A compare?
+
+Alexander, as a teacher, would have fit in very well with such a group
+
+
+## Surviving books from Cirencester
+- so why Cirencester?
+
+A market town where there was no end of work for them. 
+
+- what did they have in C?
+
+Cirencester has no surviving library catalogue, but we can start with the list of @ker:1964medieval and @ker:1987medieval:
+
+- Hereford, Cathedral Library
+	+ O.i.3: Gregory, Regula Pastoralis; Palladius, Historia Lausiaca; Ambrosius Autpertus, De uitiis et uirtutibus
+	+ O.i.6: Julian of Toledo, Prognosticon furturi saeculi; Idalius of Barcelona, Letter to Julian; letters and sermons; Gerlandus, De abaco; Gerbert, Regulae abaci; Rithmomachia Wirceburgensis; ‘a monastic florilegium’
+	+ O.i.10: Gregory, Dialogi
+	+ O.ii.4: Gilbert de la Porée, Epistula Pauli cum glossa
+	+ O.iii.10: Robert of Cricklade, Homiliae in Ezechielem
+	+ O.v.10
+	+ O.v.13
+	+ O.vi.10
+	+ P.i12
+	+ P.i.17
+	+ P.ii.14
+	+ P.ii.15
+	+ P.iii.7
+	+ P.iv.8
+	+ P.iv.9
+	+ P.v.3
+	+ P.v.4
+	+ P.v.9
+- London, British Library
+	+ Cotton Claud. B.ii
+	+ Cotton Vesp. A.xv
+	+ Royal 3 A.xii
+	+ Royal 5 E.xviii
+	+ Royal 7 F.i
+	+ Royal 7 F.vi
+- Oxford, All Souls’ College, 82
+- Oxford, Bodleian Library
+	+ Barlow 48
+	+ Bodley 284
+	+ Laud lat. 17
+- Oxford, Jesus College
+	+ 3
+	+ 26
+	+ 34
+	+ 48
+	+ 52
+	+ 53
+	+ 62
+	+ 63
+	+ 67
+	+ 68
+	+ 70
+	+ 94
+
+To this list, I suspect that one could add Oxford, Corpus Christi College, 000; its style; this contains Bede’s _____, which changes little about our impression of the canons’ reading.
+It is perhaps notable that there are very few glossed biblical texts among these remnants. This was a major feature, for instance, of the library at Oseney Abbey, which is otherwise a similarly conservative collection to that of Cirencester (it owned a volume of Alexander Neckam, but this was an addition of the fifteenth century).
+
+## Scribes at Cirencester and their ‘house style’
+
+TODO: does it even make sense to include this section here?
+
+- St Mary’s in Frankenal: A Cirencester connection? how does the analysis of this place work?
+
+- St Bart's Smithfield? write BL lady Boyle lecture about this
+
+- St Fridewide's? write Henry Mayer-Hartig as introduced by Fr O'Donavan
+
+To judge from surviving volumes, Cirencester had a rich tradition of making books, and seems to have developed something of a house style, with a peculiarly beautiful method of creating decorated initials. Almost all the books at Cirencester from before Alexander’s time, however, were copies of patristic works, as were common at Augustinian houses. One can also get some idea of the books Alexander had access to through citations in his writings, though it is not altogether clear whether he consulted them at Cirencester or elsewhere.
+
+Alexander clearly benefited from the patristic reading available to him, but clearly wanted something more current and direct. During his time at Paris, Alexander was inspired by the work of authors such as his teacher William de Montibus to bring the latest in scholastic theology to bear on practical pastoral matters. When he came to Cirencester, he was probably shocked to find that he had no such tools to accomplish what he saw as his work there. Alexander’s writings, however, would have represented something quite new to the canons: works that they could use in everyday life.
+
+
+## Alexander’s background
+- so how does this mesh with what A. would have learned under William de M?
+
+- note his specific praise of M. in *LSD*
+
+- what do we know about St Friedeswide's, A's home?
+
+- Robert Cricklade: what did he write?
+
+- note his real dates, which are not what most people think (edition)
+
+> Studiosis et precipue claustralibus et scolasticis Rodbertus Crikeladensis prior Oxinefordie non superbe sapere, sed tramitem discipline humiliter percurrere. Plinii Secundi libros de Naturali Historia XXXVII in IX coartare uolumina conatus sum ad communem omnium ea legere uolentium utilitatem, hac usus breuitate, ut uobis satisfaciam et fastidiosis causam ocitandi tolla. placuit enim memorabiliora et utiliora conscibere, superfluis uero et nostro tempori non necessariis supersedere. quid enim prodest singularum urbium aut uiculorum siue etiam locorum nomina percurrere, cum non uiculorum siue etiam locorum nomina percurrere, cum non lceat inde tributa exigere? [@cricklade:2002defloratio, pp. 2–3]
+
+- did R send A to Cirencester? if so, why?
+
+- what would A have thought when he arrived at Cirencester
+
+- which brings us to the next chapter, on what he feels the need to supply
