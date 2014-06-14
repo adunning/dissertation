@@ -8,6 +8,75 @@ When Alexander Neckam became the abbot of St Mary’s abbey in Cirencester in 12
 - the ethos of the order is an influence, and he is bringing stuff from scholasticism to Cirencester
  
 # Augustinians and their books
+The Rule of St Augustine is maddeningly unspecific, and this is no less the case in its discussion of intellectual persuits. There are only two passages relating to books or reading in the *Ordo Monasterii* after an early discussion of the lessons for the offices:
+
+>| Operentur a mane usque ad sextam,
+>| et a sexta usque ad nonam uacent lectioni,
+>| et ad nonam reddant codice.
+
+>| *Let them work from early morning till noon
+>| and take leisure for reading from noon till three,
+>| and at three o'clock return the books.*[*Ordo Monasterii* 3, translated by @lawless:1987augustine, 74–75]
+
+---
+
+>| Sedentes ad mensam taceant, audientes lectionem.
+
+>| *When seated at table,
+>| they are to be silent and listen to the reading.*[*Ordo Monasterii* 7, translated by @lawless:1987augustine, 76–77]
+
+The *Praeceptum* is a little more specific, but still has little to say:
+
+>| Et nolite cantare, nisi quod legitis esse cantandum;
+>| quod autem non it a scriptum est ut cantetur, non cantetur.
+
+>| *Keep to the prescribed text when you sing;
+>| avoid texts which are not suited for singing.*[*Praeceptum* 2.4, translated by @lawless:1987augustine, 84–85]
+
+---
+
+>| Cum acceditis ad mensam, donec inde surgatis,
+>| quod uobis secundum consuetudinem legitur,
+>| sine tumultu et contentionibus audite.
+
+>| *Listen to the customary reading
+>| from the beginning to the end of the meal
+>| without commotion or arguments.*[*Praeceptum* 3.2, translated by @lawless:1987augustine, 84–85]
+
+---
+
+>| Siue autem qui cellario, siue qui uestibus,
+>| siue qui codicibus praeponuntur,
+>| sine murmure seruiant fratribus suis.
+>| Codices certa hora singulis diebus petantur;
+>| extra horam qui petierit, non accipiat.
+
+>| *Those responsible for food, clothing, or books
+>| are to serve their brothers without grumbling.
+>| Books are to be requested at a definite hour each day;
+>| requests made at other times will be denied.*[*Praeceptum* 4.9–10, translated by @lawless:1987augustine, 96–97]
+
+Webber and Watson point out an attempt to determine precisely what this means in the *Colloquium magistri et discipuli in regulam beati Augustini de uita clericorum* (or *Bridlington Dialogue*), based on Richard of St Victor's *De questionibus regule sancti Augustini solutis* [@webber:1998libraries, p. xxi; from @lawson:1960bridlington, p. 162; Richard's text is edited in @colker:1962richard, p. 219]. It appears that the Augustinian canons themselves had little idea what to make of such strictures [see the text translated in @colker:1962richard, p. 219; quoted in @webber:1998libraries, p. xxi]. Richard and the *Bridlington Dialogue* tend towards liberality in their interpretations.
+
+
+
+But it also has this comment:
+
+>| Ut autem uos in hoc libello
+>| tamquam in speculo possitis inspicere,
+>| ne per obliuionem aliquid neglegatis,
+>| semel in septimana uobis legatur.
+
+>| *These precepts should be read to you once a week,
+>| so that you will see yourselves
+>| in this little book as in a mirror
+>| and not neglect anything through forgetfulness.*[*Praeceptum* 8.2, translated by @lawless:1987augustine, 102–3]
+
+This passage is probably what Alexander Neckam has in mind when he refers to his *Tractatus super Mulierem fortem* as *speculum animi mei*, as we will see later.
+
+Why were books important to such an order? 
+
+
 - who were the Augustinians?
 + stuff about pastoral care: did this matter?
 
@@ -90,6 +159,8 @@ It is perhaps notable that there are very few glossed biblical texts among these
 
 # Scribes at Cirencester and their ‘house style’
 
+
+
 TODO: does it even make sense to include this section here?
 
 - St Mary’s in Frankenal: A Cirencester connection? how does the analysis of this place work?
@@ -101,6 +172,8 @@ TODO: does it even make sense to include this section here?
 To judge from surviving volumes, Cirencester had a rich tradition of making books, and seems to have developed something of a house style, with a peculiarly beautiful method of creating decorated initials. Almost all the books at Cirencester from before Alexander’s time, however, were copies of patristic works, as were common at Augustinian houses. One can also get some idea of the books Alexander had access to through citations in his writings, though it is not altogether clear whether he consulted them at Cirencester or elsewhere.
 
 Alexander clearly benefited from the patristic reading available to him, but clearly wanted something more current and direct. During his time at Paris, Alexander was inspired by the work of authors such as his teacher William de Montibus to bring the latest in scholastic theology to bear on practical pastoral matters. When he came to Cirencester, he was probably shocked to find that he had no such tools to accomplish what he saw as his work there. Alexander’s writings, however, would have represented something quite new to the canons: works that they could use in everyday life.
+
+One of the most remarkable features of the earlier books from Cirencester is their very detailed colophons. @webber:1998libraries have suggested that these were included as a reminder to pray for the souls of those who made the books and their benefactors [p. xxv].
 
 
 # Alexander’s background
