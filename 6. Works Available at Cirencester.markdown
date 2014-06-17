@@ -1,0 +1,197 @@
+---
+Title: Works Available at Cirencester
+...
+
+Cirencester has no surviving library catalogue, but we can get at least some idea of what works were available at the abbey, based on the lists in the *Registrum Anglie* [@mynors:1991registrum, pp. <!-- PAGE -->] and by Leland [@webber:1998libraries, pp. 27–28], together with the survivors [@ker:1964medieval, pp. 51–52; @ker:1987medieval, p. 14]:
+
+<!-- TODO: Add information from the *Registrum*. -->
+
+# Aelred of Rievaulx
+: *De Iesu puero duodenni* (Leland)
+: *De institutione inclusarum* (Hereford, Cathedral Library, P.i.17)
+<!-- Assuming here that these aren't the same? Check Webber. -->
+
+# Aldhelm
+: *De uirginitate* (Hereford, Cathedral Library, P.i.17)
+
+# Alexander Neckam
+: Commentary on the Athanasian Creed (Oxford, Bodleian Library, Bodley 284)
+: *De laudibus diuinae sapientiae* (Leland) <!-- CHECK: did that scroll thing appear in SS? -->
+: *De naturis rerum* (Oxford, Magdalene College, 139; identified with Cirencester by Michael Gullick in the forthcoming library catalogue by Ralph Hannah, confirmed independently)
+: Gloss on the Psalms (two copies: Oxford, Bodleian Library, Bodley 284; Oxford, Jesus College, 94; Leland)
+: *Laus beatissime uirginis*/Commentary on the Song of Songs (Leland)
+: Sermons on the Nativity of the Blessed Virgin Mary (Oxford, Jesus College, 94)
+: *Speculum speculationum* (Leland; probably London, British Library, Royal 7 F.i)
+: *Tractatus super Mulierem fortem* (Oxford, Jesus College, 94)
+: *Tractatus super Prouerbii Salomonis* (Oxford, Jesus College, 94)
+
+# Autpert Ambrose
+: *De conflictu uitiorum et uirtutum* (Hereford, Cathedral Library, P.v.9)
+: *De uitiis et uirtutibus* (Hereford, Cathedral Library, O.i.3)
+
+# Anselm of Canterbury
+: *De moribus per similitudines* (Hereford, Cathedral Library, P.v.9)
+: Letters (Hereford, Cathedral Library, P.ii.15)
+
+# Augustine
+: Collection of twenty-five sermons (Hereford, Cathedral Library, P.iii.7)
+: *Contra Faustum* (Hereford, Cathedral Library, P.v.4)
+: *De adulterinis coniugiis* (Hereford, Cathedral Library, P.v.9)
+: *De baptismo contra Donatistas* (Hereford, Cathedral Library, P.ii.14)
+: *De baptismo paruulorum* (two copies: Hereford, Cathedral Library, P.ii.14; Hereford, Cathedral Library, P.v.9)
+: *De bono coniugali* (Hereford, Cathedral Library, P.v.9)
+: *De bono uiduitatis* (Hereford, Cathedral Library, P.v.9)
+: *De dono perseuerantiae* (Hereford, Cathedral Library, O.vi.10)
+: *De Genesi ad litteram* (Hereford, Cathedral Library, O.vi.10)
+: *De Genesi contra Manicheos* (Hereford, Cathedral Library, P.iii.7)
+: *De gratia et libero arbitrio* (Hereford, Cathedral Library, P.v.9)
+: *De gratia noui testamenti*, Ep. 140 (Hereford, Cathedral Library, P.v.9)
+: *De pastoribus*, Serm. 46 (Hereford, Cathedral Library, P.v.9)
+: *De praedestinatione sanctorum* (Hereford, Cathedral Library, O.vi.10)
+: *De sancta uiginitate* (Hereford, Cathedral Library, P.v.9)
+: *De spiritu et littera* (Hereford, Cathedral Library, P.v.9)
+: *De Trinitate* (Hereford, Cathedral Library, P.v.3)
+: *De uera religione* (Hereford, Cathedral Library, P.v.9)
+: *De unico baptismo* (Hereford, Cathedral Library, P.ii.14)
+: *De utilitate credendi* (Hereford, Cathedral Library, P.v.9)
+: *Enchiridion* (two copies: Hereford, Cathedral Library, P.i.12; Hereford, Cathedral Library, P.v.9)
+: *In Ioannis epistulam ad Parthos* (Hereford, Cathedral Library, P.i.12)
+: *Retractiones* (Hereford, Cathedral Library, P.v.9)
+
+# Pseudo-Augustine
+: *Contra quinque hereses* (London, British Library, Royal 5 E.xviii)
+: *De spiritu et anima* (Hereford, Cathedral Library, P.v.9)
+
+# Bede
+: Commentary on Acts (Oxford, Jesus College, 68)
+: Commentary on the Apocalypse (Oxford, Jesus College, 68)
+: Commentary on the Catholic Epistles (Oxford, Jesus College, 70)
+: Commentary on Ezra and Nehemiah (London, British Library, Royal 3 A.xii; Leland)
+: Commentary on Mark (Oxford, Jesus College, 67)
+: Commentary on Samuel, 'Liber … exposicionis allegorice super Samuelem' (Oxford, Jesus College, 53)
+: Commentary on Kings, 'Liber … de triginta questionibus super Regum ad litteram' (Oxford, Jesus College, 53)
+: *De nominibus locorum* (Oxford, Jesus College, 68)
+: *De tabernaculo* (Oxford, Jesus College, 52)
+: *De templo Salomonis* (Oxford, Jesus College, 52)
+: *Retractionum libellus* (Oxford, Jesus College, 68) <!-- Check title of this entry. -->
+
+# Bernard of Cluny
+: *De contemptu mundi* (Hereford, Cathedral Library, P.i.17)
+
+# Caesarius of Arles
+: Sermons (Hereford, Cathedral Library, P.iii.7)
+
+# Fulbert of Chartres
+: *Epistolae* (Hereford, Cathedral Library, P.ii.15)
+
+# Gerbert
+: *Regulae abaci* (Hereford, Cathedral Library, O.i.6)
+
+# Gerlandus
+: *De abaco* (Hereford, Cathedral Library, O.i.6)
+
+# Geoffrey Babio du Louroux
+: Commentary on Matthew (Leland)
+
+# Gilbert de la Porée
+: *Epistula Pauli cum glossa* (Hereford, Cathedral Library, O.ii.4)
+
+# Gregory the Great
+: *Dialogi* (Hereford, Cathedral Library, O.i.10)
+: *Regula Pastoralis* (Hereford, Cathedral Library, O.i.3)
+
+# Gregory of Nazianzus (trans. Rufinus)
+: *Apologeticus*, with preface by Rufinus (Oxford, Jesus College, 3)
+: Various sermons (Oxford, Jesus College, 3) <!-- Is this some sort of standard collection? Cf. Lambeth 338. -->
+
+# Pseudo-Hegesippus
+: *De excidio Iudeorum* (Oxford, Jesus College, 63)
+
+# Hugh of Fouilloy
+: *De claustro anime* (Hereford, Cathedral Library, P.v.9)
+
+# Hugh of St Victor
+: *De sacramentis* (Hereford, Cathedral Library, P.iv.9)
+
+# Pseudo-Hugh of St Victor
+: *Speculum ecclesie* (Oxford, Jesus College, 48)
+
+# Idalius of Barcelona
+: Letter to Julian (Hereford, Cathedral Library, O.i.6)
+
+# Isidore of Seville
+: *Epistola ad Massonam* (London, British Library, Royal 5 E.xviii)
+: *Sententiae* (London, British Library, Royal 5 E.xviii)
+
+# Ivo of Chartres
+: *Epistolae* (Hereford, Cathedral Library, P.ii.15)
+: *Panormia* (Oxford, Jesus College, 26)
+
+# Jacobus de Voragine
+: *Legenda sanctorum* (Hereford, Cathedral Library, O.v.13)
+
+# John Cassian
+: *Collationes* 11–24 (Book 2) (Hereford, Cathedral Library, O.v.10)
+
+# John of Salisbury
+: *Vita sancti Thomae Cantuariensis archiepiscopi* (London, British Library, Cotton Claudius B.ii)
+: Excerpts from John of Salisbury's letters concerning Thomas Becket (London, British Library, Cotton Claudius B.ii)
+
+# Julian of Toledo
+: *Prognosticon furturi saeculi* (Hereford, Cathedral Library, O.i.6)
+
+# Lanfranc
+: Letters (Hereford, Cathedral Library, P.ii.15)
+
+# Odo of Morimond
+: *Analytica ternarii*, from his *De numerorum significatione* (Leland)
+
+# Orosius
+: *Contra paganos* (Oxford, Jesus College, 34 and Oxford, Jesus College, 62)
+
+# Palladius of Galatia
+: *Historia Lausiaca* (Hereford, Cathedral Library, O.i.3)
+
+# Paterius
+: *Liber testimoniorum ueteris testamenti ex opusculis sancti Gregorii* (London, British Library, Royal 7 F.vi); with Bruno's supplement, as described in @guglielmetti:2006tradizione [p. 119 (no. 462)]
+
+# Robert of Cricklade
+: *De connubio Iacobi* (Hereford, Cathedral Library, P.iv.8; Leland)
+: *Homiliae in Ezechielem* (Hereford, Cathedral Library, O.iii.10; Leland)
+
+# Robert of Tumbalena
+: *Commentariorum in Cantica canticorum libri duo* (Oxford, Jesus College, 48), as identified in @guglielmetti:2006tradizione [p. 161 (no. 648)]
+
+# Thomas Becket
+: Letters (London, British Library, Cotton Claudius B.ii; discussed in @gullick:1990twelfth)
+
+# Virgil
+: *Ecloga* (Oxford, All Souls’ College, 82)
+: *Aeneis* (Oxford, All Souls’ College, 82)
+: *Georgica* (Oxford, All Souls’ College, 82)
+
+# William of Auvergne
+: *De claustro anime* (Hereford, Cathedral Library, P.v.9)
+
+# Anonymous
+: *De septem uiciis requirendis in confessione* (Hereford, Cathedral Library, P.v.9)
+: Early papal correspondence (London, British Library, Cotton Vespasian A.xv)
+: Excerpts from legal and patristic texts (Oxford, Jesus College, 26)
+: Gloss on the epistles of Paul, *inc.* 'Sicut ad antiquum populum erudiendum', Stegmüller 10179 (Oxford, Jesus College, 48)
+: *Interrogatio* on biblical questions (Hereford, Cathedral Library, P.v.9)
+: Misc. letters and sermons (Hereford, Cathedral Library, O.i.6)
+: Misc. verses (Oxford, All Souls’ College, 82; see @watson:1997descriptive [p. 173])
+: Monastic florilegium (Hereford, Cathedral Library, O.i.6)
+: Notes on the canons (Hereford, Cathedral Library, P.v.9)
+: *Rithmomachia Wirceburgensis* (Hereford, Cathedral Library, O.i.6)
+: *Tractatus de septem gradibus confessionis* (London, British Library, Royal 5 E.xviii)
+<!-- Double-check the entries from Hereford. -->
+
+Oxford, Bodleian Library, Barlow 48
+Oxford, Bodleian Library, Bodley 284
+Oxford, Bodleian Library, Laud lat. 17
+
+
+
+To this list, I suspect that one could add Oxford, Corpus Christi College, 000; its style; this contains Bede’s _____, which changes little about our impression of the canons’ reading.
+It is perhaps notable that there are very few glossed biblical texts among these remnants. This was a major feature, for instance, of the library at Oseney Abbey, which is otherwise a similarly conservative collection to that of Cirencester (it owned a volume of Alexander Neckam, but this was an addition of the fifteenth century).
