@@ -206,3 +206,13 @@ If we look at the copy of the commentary in Oxford, Jesus College, MS 94, the ne
 I have not yet been able to conclude decisively whether or not this work is a direct autograph of Galfridus. While almost the entire book is in the same hand, there is two passages added in other hands (fols. 13v and 166r), the latter of which can be seen to be contemporary with the manuscript by the fact that it is integrated into its decorative scheme.  Perhaps one of these is an addition in the hand of the compiler, with the rest is dictated by him. In yet another hand is a glossed copy of a work written by another Galfridus, presented as a letter of Geoffrey of Malmesbury to Alexander, bishop of Lincoln, which is somewhat less professionally executed and added onto the manuscript. (Having another Geoffrey and Alexander together probably seemed too good a coincidence to omit.) Clearly, in any case, Galfridus was not working alone: it is sometimes easier to determine authorial involvement than to pinpoint the author's precise role.
 
 # Why?
+
+# Textual Modifications
+
+<!-- FL fol. 189r: how does the punctuation from J and B? Can we use this to test whether it was copied from one of these manuscripts? -->
+
+Lingue 
+igitur petulantia. conuicia. contumelie. obprobria. 
+detractiones. adulationes. irrisiones. lites. uirgia. 
+indignationes timide gestus indisciplinati. procul 
+relegentur a sanctitate uestra.
