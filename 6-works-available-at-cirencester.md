@@ -2,7 +2,7 @@
 Title: Works Available in Cirencester's Library
 ...
 
-Cirencester has no surviving library catalogue, but some idea of the works available at the abbey can be gleaned from the listings in the *Registrum Anglie* [@mynors:1991registrum, pp. 288–89 (no. 104)] and by Leland [@webber:1998libraries, pp. 27–28], together with the survivors [@ker:1964medieval, pp. 51–52; @ker:1987medieval, p. 14], for which information on titles is mostly based on library catalogues, silently corrected where necessary [@planta:1802catalogue; @coxe:1852catalogus; @coxe:1973laudian; @warner:1921catalogue; @hunt:1895summary; @mynors:1993catalogue; @watson:1997descriptive; @thomson:2009descriptive].
+Cirencester has no surviving library catalogue, but some idea of the works available at the abbey can be gleaned from the listings in the *Registrum Anglie* [@mynors:1991registrum, pp. 288–89 (no. 104)] and by Leland [@webber:1998libraries, pp. 27–28], together with the survivors [@ker:1964medieval, pp. 51–52; @ker:1987medieval, p. 14], for which information on titles is mostly based on library catalogues [@planta:1802catalogue; @coxe:1852catalogus; @coxe:1973laudian; @warner:1921catalogue; @hunt:1895summary; @mynors:1993catalogue; @watson:1997descriptive; @thomson:2009descriptive], silently corrected where necessary.
 
 The attribution of items marked † is considered spurious by modern scholars.
 
@@ -71,14 +71,14 @@ The attribution of items marked † is considered spurious by modern scholars.
 : † *Dialogus quaestionum LXV* (*Registrum* 1.200)
 : *Enchiridion* (two copies: Hereford, Cathedral Library, P.i.12; Hereford, Cathedral Library, P.v.9)
 : *In Ioannis epistulam ad Parthos* (Hereford, Cathedral Library, P.i.12)
-: *Liber florigerus* (*Registrum* 1.295, 'Augustini florum'); see @wilmart:1932auteurs [p. 453] <!-- Check ref. -->
+: *Liber florigerus* (*Registrum* 1.295, 'Augustini florum') [see @wilmart:1932auteurs, p. 453] <!-- Check ref. -->
 : *Retractiones* (Hereford, Cathedral Library, P.v.9)
 : *Sermo ad iuuenes* (*serm.* 391) (*Registrum* 1.250)
 : *Sermo de lapsu mundi et auaritia* (*serm.* 60) (Hereford, Cathedral Library, P.iii.7; *Registrum* 1.191)
 : *Sermo de ouibus* (*serm.* 47) (*Registrum* 1.316)
 : *Sermo de periurio* (*serm.* 180) (*Registrum* 1.247)
 : *Sermo de excidio urbis Romae* (*Registrum* 1.251)
-: *Sermones de uerbis Domini et apostoli* (*Registrum* 1.103); see @coninck:2006tradition
+: *Sermones de uerbis Domini et apostoli* (*Registrum* 1.103) [see @coninck:2006tradition]
 : *Speculum Quis ignorat* (*Registrum* 1.121)
 : † *Tractatus de oboedientia* (*Registrum* 1.315, 'Sermo de obediencia')
 
@@ -241,7 +241,7 @@ The attribution of items marked † is considered spurious by modern scholars.
 : *Historia Lausiaca* (Hereford, Cathedral Library, O.i.3)
 
 # Paterius
-: *Liber testimoniorum ueteris testamenti ex opusculis sancti Gregorii* (London, British Library, Royal 7 F.vi); with Bruno's supplement, as described in @guglielmetti:2006tradizione [p. 119 (no. 462)]
+: *Liber testimoniorum ueteris testamenti ex opusculis sancti Gregorii* (London, British Library, Royal 7 F.vi); with Bruno's supplement [as described in @guglielmetti:2006tradizione, p. 119 (no. 462)]
 
 # Iulianus Pomerius
 : *De uita contemplatiua* (*Registrum* 23.6, attrib. Prosper, *De uita actiua et contemplatiua*)
@@ -254,33 +254,33 @@ The attribution of items marked † is considered spurious by modern scholars.
 : *Homiliae in Ezechielem* (Hereford, Cathedral Library, O.iii.10; Leland)
 
 # Robert of Tumbalena
-: *Commentariorum in Cantica canticorum libri duo* (Oxford, Jesus College, 48); as identified in @guglielmetti:2006tradizione [p. 161 (no. 648)]
+: *Commentariorum in Cantica canticorum libri duo* (Oxford, Jesus College, 48) [as identified by @guglielmetti:2006tradizione, p. 161 (no. 648)]
 
 # Thomas Becket
-: Letters (London, British Library, Cotton Claudius B.ii); discussed in @gullick:1990twelfth
+: Letters (London, British Library, Cotton Claudius B.ii) [discussed in @gullick:1990twelfth; @mcdonough:2005cambridge, pp. 800–805]
 
 # Virgil
 : *Aeneis* (Oxford, All Souls’ College, 82)
 : *Ecloga* (Oxford, All Souls’ College, 82)
 : *Georgica* (Oxford, All Souls’ College, 82)
-: † Misc. verses (Oxford, All Souls’ College, 82); see @watson:1997descriptive [p. 173]
+: † Misc. verses (Oxford, All Souls’ College, 82) [@watson:1997descriptive, p. 173]
 
 # William of Auvergne
 : *De claustro anime* (Hereford, Cathedral Library, P.v.9)
 
 # Anonymous
-: Cirencester Cartularies (Oxford, Bodleian Library, Dep. c. 392; Oxford, Bodleian Library, Dep. c. 393; Longleat House, Marquess of Bath MS 38b; see @ross:1964cartulary)
+: Cirencester Cartularies (Oxford, Bodleian Library, Dep. c. 392; Oxford, Bodleian Library, Dep. c. 393; Longleat House, Marquess of Bath MS 38b) [see @ross:1964cartulary]
 : *De septem uiciis requirendis in confessione* (Hereford, Cathedral Library, P.v.9)
 : Early papal correspondence (London, British Library, Cotton Vespasian A.xv)
 : Excerpts from legal and patristic texts (Oxford, Jesus College, 26)
 : Gloss on the epistles of Paul, *inc.* 'Sicut ad antiquum populum erudiendum', Stegmüller 10179 (Oxford, Jesus College, 48)
 : *Interrogatio* on biblical questions (Hereford, Cathedral Library, P.v.9)
-: Litany and Prayers for the Dead (Oxford, Bodleian Library, Laud lat. 17; used in @ottosen:1993responsories)
+: Litany and Prayers for the Dead (Oxford, Bodleian Library, Laud lat. 17) [used in @ottosen:1993responsories]
 : Misc. letters and sermons (Hereford, Cathedral Library, O.i.6)
 : Monastic florilegium (Hereford, Cathedral Library, O.i.6)
 : Notes on the canons (Hereford, Cathedral Library, P.v.9)
 : *Rithmomachia Wirceburgensis* (Hereford, Cathedral Library, O.i.6)
-: 'Stavelot Commentary' on the Athanasian Creed (Oxford, Bodleian Library, Laud lat. 17); see @häring:1972commentaries [p. 229], printed in @burn:1896athanasian [pp. 11–20; introduction, xlviii–l])
+: 'Stavelot Commentary' on the Athanasian Creed (Oxford, Bodleian Library, Laud lat. 17) [see @häring:1972commentaries, p. 229; printed in @burn:1896athanasian, pp. 11–20, introduction xlviii–l])]
 : *Tractatus de septem gradibus confessionis* (London, British Library, Royal 5 E.xviii)
 
 <!-- Double-check the entries from Hereford. -->
