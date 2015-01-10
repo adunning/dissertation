@@ -233,6 +233,14 @@ relegentur a sanctitate uestra.
 
 ## Method of Quotation
 
+As one works through the manuscripts, a number of trends become apparent:
+
+- The beginning each source is carefully noted (though occasional errors are made, usually through the omission of rubrics).
+- Sources are not exactly quoted verbatim, but words are added to make them flow together with the other excerpts and ensure that no loose ends are left after their removal from their original context (e.g. removing cross-references).
+- Each passage is not necessarily a new selection; a single long passage is often selected and interspersed with other works. Although Galfridus uses selections from across the Alexandrine corpus, the selections from within those works tend to be concentrated to certain parts of the book, rather than being spread evenly, perhaps indicating that he did not actually have to 
+
+How was this book intended to be read? One assumes that it is part of the rise of consultation that rose around this time [@hermand:2014lecture], and that it was probably not intended to be read from beginning to end.
+
 # The Verse Florilegium
 
 # Later Readers
