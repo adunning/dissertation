@@ -4,7 +4,7 @@ title: Reading Alexander through the florilegium 'Sol meldunensis'
 - Cloistered Exchange -->
 ...
 
-After Alexander's death, readers continued to repurpose his writings to meet their developing needs. Some of the best evidence for how contemporaries might have used Alexander's writing is found in a florilegium now held at the Cambridge University Library. The main section of the book, called here *Sol meldunensis* from its incipit, compiled by one Galfridus, strings together passages from nearly all Alexander's prose works (including some that do not otherwise survive) to form new 'sermons', as it presents them, adding connecting phrases to blend the excerpts together, though the resulting works are so long that they can hardly have been used as such. Various prose and verse pieces have been added to the manuscript by both the original and other hands, likely a product of an exchange between the houses of Cirencester and Malmesubury.
+After Alexander's death, readers continued to repurpose his writings to meet their developing needs. Some of the best evidence for how contemporaries might have used Alexander's writing is found in a florilegium now held at the Cambridge University Library. The main section of the book, called here *Sol meldunensis* from its incipit, compiled by one Galfridus, strings together passages from nearly all Alexander's prose works (including some that do not otherwise survive) to form new 'sermons', as it presents them, adding connecting phrases to blend the excerpts together, though the resulting works are so long that they can hardly have been used as such. Various prose and verse pieces have been added to the manuscript by both the original and other hands, likely a product of an exchange between the houses of Cirencester and Malmesbury.
 
 <!--Should S.M. be used to refer to the entire MS? -->
 
@@ -16,15 +16,7 @@ After Alexander's death, readers continued to repurpose his writings to meet the
 
 The book is collated a^2^, 1^10+1^ (3 added), 2^10^–6^10^, 7^8+1^ (8 added), 8^10^, 9^10+1^ (11 added), 10^10^–21^10^ || 22^10^ || 23^10^, 24^10–6^ (6–10 cancelled), for a total of ii + 236 parchment folios (foliated 1–237, with an inserted slip in quire 8 foliated 70bis). The irregular number of folios in quire 8 suggests that it could have originally been planned as the end of the manuscript; *Sol meldunensis* book one (which, unlike book two, is not labelled as such) ends on fol. 69v.
 
-An earlier cataloguer, probably M.R. James, has pencilled an alternative collation on the back flyleaf: '2 flyleaves. 1^12^ (10 cancelled) 2–6^10^ 7^10^ (2 cancelled) 8–9^10^ 10^12^ (11 cancelled) 11–21^10^ | 22^10^ | 23^10^ 24^10^ (wants 5–10): 237 ff (out of 242; 238–42 lost; 70 *bis* an inserted slip; 92 misbound after 93)'. This incorrect perception appears to have two causes. Each quire is surrounded by a thin strip of parchment, which can be easily confused with a cancelled folio. The note on fols. 92 and 93 was intended as a solution to the problem that the catchphrase on fol. 91v does not match the first line of 92r. The cataloguer was probably reacting to @hardwick:1856catalogue [p. 3:232], who had stated that a leaf was missing between fols. 91 and 92, and recognized it as a later standalone addition. A mark appears to direct the insertion of the leaf's text on 93v, but it does not seem necessary to postulate that the leaf should have been originally placed there; it is bound with quire 9, not 10 as he thought (the stub from the other end of the leaf is found before 82). The cataloguer modified the pencilled folation for fols. 92 and 93, swapping them to reflect this theory (leaving the real fol. 92 labelled 93 and fol. 93 labelled 92).
-
-- University Library, Gg. 6. 42(= G) [NA] [DVC] [Florilegium]
-    - seems to be a standard Cambridge binding; identical to Kk.5.10
-        - that book also has parchment strips between quires; seems to
-          be a Cambridge thing also, but note that it must have been
-          done before James, since it sometimes confuses him
-          
-
+An earlier cataloguer, probably M.R. James, has pencilled an alternative collation on the back flyleaf: '2 flyleaves. 1^12^ (10 cancelled) 2–6^10^ 7^10^ (2 cancelled) 8–9^10^ 10^12^ (11 cancelled) 11–21^10^ | 22^10^ | 23^10^ 24^10^ (wants 5–10): 237 ff (out of 242; 238–42 lost; 70 *bis* an inserted slip; 92 misbound after 93)'. This incorrect perception appears to have two causes. Each quire is surrounded by a thin strip of parchment, which can be easily confused with a cancelled folio. (This appears to be a Cambridge binding practice, also found e.g. on MS Kk.5.10.) The note on fols. 92 and 93 was intended as a solution to the problem that the catchphrase on fol. 91v does not match the first line of 92r. The cataloguer was probably reacting to @hardwick:1856catalogue [p. 3:232], who had stated that a leaf was missing between fols. 91 and 92, and recognized it as a later standalone addition. A mark appears to direct the insertion of the leaf's text on 93v, but it does not seem necessary to postulate that the leaf should have been originally placed there; it is bound with quire 9, not 10 as he thought (the stub from the other end of the leaf is found before 82). The cataloguer modified the pencilled folation for fols. 92 and 93, swapping them to reflect this theory (leaving the real fol. 92 labelled 93 and fol. 93 labelled 92).
 
 - (some notes by Hunt in Alexander Neckam, (thesis) 160–61)
 
@@ -38,22 +30,8 @@ An earlier cataloguer, probably M.R. James, has pencilled an alternative collati
             - Iste liber constat Moritio Gyffard, testante Iesu.
         - 3r
             - at top of page, with UV light one can make out
-              'Cyrencestris'; below this is an inscription in a
-              humanist hand beginning 'De' that has been expunged
-        - 4r
-            - ruled in pencil
-            - vert 24 | 95.5 | 116 | 119.5 | 141.25 | 142
-            - hor 2 | 16.5 | 21.5 | 136.5 | 141 | 180 | 184 | 205.5 |
-              210
-            - ls 4.5–5
-            - the last of these rules is perhaps for aligning the
-              catchword, and is often omitted; its location varies
-              somewhat (sometimes e.g. as high as 203
-            - the three rules below the textblock are sometimes omitted
-        - 5
-            - measures 142 x 181
-            - a small mark at the bottom of 5v that is probably
-              supposed to show where the page is to be inserted
+              'Cyrencestris'; 
+
         - fol. 5 is an extra leaf
             - On the recto is a line draynig with colour wash of two
               men in monastic (?) habits. On the 1. is a young man
@@ -74,17 +52,12 @@ An earlier cataloguer, probably M.R. James, has pencilled an alternative collati
               pauperes spiritu.
             - Quis? quid? cur? quantum, qui quali, qualiter, ex quo. In
               hiis circumstanciis…
-        - There is no gap between fols. 91 and 92, as the Cambridge
-          catalogue says. The catchword on fol. 91v is Formam autem,
-          and thes are the first words of fol. 93r. Fol. 92 is an
-          inserted leaf written in the hand of the text containing the
-          story of the Chartres deacon from Corr. Prom., Meyer p. 682f.
-        - fol 212v
+       - fol 212v
             - Nunc pater et domine tu uideris hic liber omne
               sue punctum tulerit seu uiciosus erit.
               stare uelis, stabit; si non, hunc flamma cremabit;
               si posui partes uelud is qui ne<s>ciit artes,
-              hac misere uice doctor apostolice.
+              hac misere uixce doctor apostolice.
               laude tui pena dedit hec rudimenta camena
               ob decus ingenue laudis ubique tue.
               ¶ Mutua discurrant inter nos pagina, nota
@@ -130,6 +103,21 @@ An earlier cataloguer, probably M.R. James, has pencilled an alternative collati
 
 ### Page Layout
 
+        - 4r
+            - ruled in pencil
+            - vert 24 | 95.5 | 116 | 119.5 | 141.25 | 142
+            - hor 2 | 16.5 | 21.5 | 136.5 | 141 | 180 | 184 | 205.5 |
+              210
+            - ls 4.5–5
+            - the last of these rules is perhaps for aligning the
+              catchword, and is often omitted; its location varies
+              somewhat (sometimes e.g. as high as 203
+            - the three rules below the textblock are sometimes omitted
+        - 5
+            - measures 142 x 181
+            - a small mark at the bottom of 5v that is probably
+              supposed to show where the page is to be inserted
+
 ## Contents
 
 The manuscript can be divided into three 'booklets' bound into a single volume [on booklet theory, see @gillespie:2011medieval]: the first consisting of *Sol meldunensis*, Galfridus's prose florilegium composed entirely of Alexander Neckam's works, divided into two books (which is often what scholars mean when they refer to the 'Neckam Florilegium'); the second of Geoffrey of Monmouth's *Prophetia Merlini*; the third of a verse florilegium containing mostly Alexander's poetry but also related material from other authors, lacking formal organization but certainly not put together at random. The question is whether this material was intended to be placed together; *Sol meldunensis* has a definite close, and the later booklets do not refer to it directly. The second booklet has even been thought to come from a different manuscript entirely [Hunt??? cat??? McD???], though in its decoration it is in many ways imitative of the material that preceds it. The third booklet was certainly produced by the same scribes as *Sol meldunensis*. Under closer examination, the materials form an imitative unity.
@@ -138,19 +126,21 @@ The manuscript can be divided into three 'booklets' bound into a single volume [
 
 Though Galfridus does not appear in any lists of English writers, he presents his florilegium as a new work, and it seems most appropriate to think of it as such as rather than a mere mine for information on the canon of Alexander Neckam's writings. It is structured under the following major headings:
 
-- Epistula. (fol. 3r) [beginning book one]
+- Epistula. (fol. 3r)
 - Incipit proemium in librum Secundum. (fol. 70r)
 - Incipit liber secundus. In quo agitur de misericordia et de suggillatione quorundam uitiorum. (fol. 72r)
 
+There is a good case to be made for believing that the second book is a later addition: book one  is never described as such, closing  with a selection of poetry  and another verse epistle. Book two  similarly closes with a selection of verses addressed to Geoffrey. The entire work is written in the same hand, and so it is not entirely clear why the author determined to make this change in organization.
+
 ### II. Geoffrey of Monmouth, *Prophetia Merlini* (quire 22, fols. 213–222)
 
-R.W. Hunt thought that this was a quire from another manuscript; this may be so, but it seems far too convenient that it is presented first of all as another Geoffrey addressing an Alexander, surely recalling the abbot of Malmesbury and Alexander Neckam. Geoffrey of Monmouth and [Alexander of Lincoln] were both bishops; Geoffrey of Malmesbury and Alexander Neckam were both abbots. Perhaps this 
+R.W. Hunt thought that this was a quire from another manuscript [????]; this may be so, but it seems far too convenient that it is presented first of all as another Geoffrey addressing an Alexander, recalling the abbot of Malmesbury and Alexander Neckam; this rubric is in the same hand as that  Geoffrey of Monmouth and [Alexander of Lincoln] were both bishops; Geoffrey of Malmesbury and Alexander Neckam were both abbots. The inclusion of the passage is otherwise mysterious: William of Malmesbury was not particularly fond of Geoffrey of Monmouth [@malmesbury:1998gesta, p. ?]. The text is widely spaced to allow for glosses to be inserted between the lines. Alisha reader has taken advantage of this though not perhaps to the extent envisioned by the original scribe.
 
-The inclusion of the passage is otherwise mysterious: William of Malmesbury was not particularly fond of Geoffrey of Monmouth [@malmesbury:1998gesta, p. ?], but perhaps this was seen as a convenient way of reflecting a desire on the abbot's part to 
-
-It is given the siglum ζ in Michael Reeve's edition of the text, one of five manuscripts viewed as stemming from the hypothetical anscestor Π [@monmouth:2007history, pp. xxx, l].
+The manuscript is given the siglum ζ in Michael Reeve's edition of the text, one of five manuscripts viewed as stemming from the hypothetical ancestor Π [@monmouth:2007history, pp. xxx, l].
 
 ### III. The verse Alexander Neckam florilegium (quires 23–24, fols. 223–237)
+
+The final section of the manuscript is a collection of verses written both by Alexander Neckam and his contemporaries. Broadly speaking, the first section is a collection of verses on wine; the second, a collection of material on fables; the last, devotional material. Unlike, however, the prose florilegium, the scribe does not even make an attempt at an outward system of organizatiHe and SAEon. In common with the first part of the manuscript is the page layout, the marginal titles, and the script. There is no verse epistle or proem. The final item in the manuscript, *De saluatore mundi*, is not even attributed to Alexander Neckam, though from the style is is hard to imagine that it could have been written by anybody else.
 
 ### Poems on Wine
 
@@ -189,7 +179,7 @@ It is given the siglum ζ in Michael Reeve's edition of the text, one of five ma
 
 <!--Check what Nigel Morgan, Gothic MSS 2:130 has to say. -->
 
-The word 'simplicis' in the third verse is glossed 'claustralis',^['Simplex uocatur claustralis; dicitur et simplex qui sine plica duplicitatis est.'] implying that he was a monk or regular canon [one wonders whether he could be connected to a 'magister Galfridus de Stanrewik' mentioned as owing rent to the house in 1240: @ross:1964cartulary, no. 614]. A recent catalogue suggests that the book could have originated at either Cirencester or Malmesbury [@binski:2011western, p. 106]; Cirencester seems most likely, as this is the only known location where all the works the text uses were available [@mcdonough:2005cambridge, p. 792n41]. It certainly belonged to Cirencester in a later period; at the top of fol. 3r, one can make out (with the help of an ultraviolet light) the erased word 'Cyrencestris'. The form matches a later style of *ex libris* found in a manuscript of Alexander's commentary on the Psalms (now Oxford, Bodleian Library, MS Bodley 284) dating to the late thirteenth or fourteenth century.
+The word 'simplicis' in the third verse is glossed 'claustralis',^['Simplex uocatur claustralis; dicitur et simplex qui sine plica duplicitatis est.'] implying that he was a monk or regular canon [one wonders whether he could be connected to a 'magister Galfridus de Stanrewik' mentioned as owing rent to the house in 1240: @ross:1964cartulary, no. 614]. A recent catalogue suggests that the book could have originated at either Cirencester or Malmesbury [@binski:2011western, p. 106]; Cirencester seems most likely, as this is the only known location where all the works the text uses were available [@mcdonough:2005cambridge, p. 792n41]. It certainly belonged to Cirencester in a later period; at the top of fol. 3r, one can make out, with the help of an ultraviolet light, the erased word 'Cyrencestris' (below this is an inscription in a humanist hand beginning 'De', also expunged). The form matches a later style of *ex libris* found in a manuscript of Alexander's commentary on the Psalms (now Oxford, Bodleian Library, MS Bodley 284) dating to the late thirteenth or fourteenth century.
 
 
 71v, Epistle at the end of the proem to book two:
