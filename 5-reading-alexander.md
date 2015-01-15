@@ -1,5 +1,7 @@
 ---
 title: Reading Alexander through the florilegium 'Sol meldunensis'
+abstract: |
+    Galfridus, the compiler of *Sol meldunensis*, the prose Alexander Neckam florilegium in Cambridge, University Library, MS Gg.6.42, is shown to made a fairly narrow body of selections from Alexander Neckam's works in his effort to make the material more useful for contemporary purposes of consultation. The layers of addition discernible in the manuscript are suggested to have been the result of a collaboration between the houses of Cirencester and Malmesbury.
 <!--alt:
 - Cloistered Exchange -->
 ...
