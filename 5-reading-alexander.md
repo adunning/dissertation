@@ -6,9 +6,7 @@ abstract: |
 - Cloistered Exchange -->
 ...
 
-After Alexander's death, readers continued to repurpose his writings to meet their developing needs. Some of the best evidence for how contemporaries might have used Alexander's writing is found in a florilegium now held at the Cambridge University Library. The main section of the book, called here *Sol meldunensis* from its incipit, compiled by one Galfridus, strings together passages from nearly all Alexander's prose works (including some that do not otherwise survive) to form new 'sermons', as it presents them, adding connecting phrases to blend the excerpts together, though the resulting works are so long that they can hardly have been used as such. Various prose and verse pieces have been added to the manuscript by both the original and other hands, likely a product of an exchange between the houses of Cirencester and Malmesbury.
-
-<!--Should S.M. be used to refer to the entire MS? -->
+After Alexander's death, readers continued to repurpose his writings to meet their developing needs. Some of the best evidence for how contemporaries might have used Alexander's writing is found in a florilegium now held at the Cambridge University Library [the manuscript has previously been discussed by @esposito:1915some; @russell:1932alexander; @hunt:1936alexander, pp. 160-161; @mcdonough:2004laus; @mcdonough:2005cambridge]. The main section of the book, called here *Sol meldunensis* from its incipit, compiled by one Galfridus, strings together passages from nearly all Alexander's prose works (including some that do not otherwise survive) to form new 'sermons', as it presents them, adding connecting phrases to blend the excerpts together, though the resulting works are so long that they can hardly have been used as such. Various prose and verse pieces have been added to the manuscript by both the original and other hands, likely a product of an exchange between the houses of Cirencester and Malmesbury.
 
 # The Manuscript: Cambridge, University Library, Gg.6.42
 
@@ -16,12 +14,9 @@ After Alexander's death, readers continued to repurpose his writings to meet the
 
 ### Structure
 
-The book is collated a^2^, 1^10+1^ (3 added), 2^10^–6^10^, 7^8+1^ (8 added), 8^10^, 9^10+1^ (11 added), 10^10^–21^10^ || 22^10^ || 23^10^, 24^10–6^ (6–10 cancelled), for a total of ii + 236 parchment folios (foliated 1–237, with an inserted slip in quire 8 foliated 70bis). The irregular number of folios in quire 8 suggests that it could have originally been planned as the end of the manuscript; *Sol meldunensis* book one (which, unlike book two, is not labelled as such) ends on fol. 69v.
+The book is collated a^2^, 1^10+1^ (3 added), 2^10^–6^10^, 7^8+1^ (8 added), 8^10^, 9^10+1^ (11 added), 10^10^–21^10^ || 22^10^ || 23^10^, 24^10–6^ (6–10 cancelled), for a total of ii + 236 parchment folios (foliated 1–237, with an inserted slip in quire 8 foliated 70bis). The irregular number of folios in quire 8 suggests that it could originally have been planned as the end of the manuscript; *Sol meldunensis* book one (which, unlike book two, is not labelled as such) ends on fol. 69v.
 
 An earlier cataloguer, probably M.R. James, has pencilled an alternative collation on the back flyleaf: '2 flyleaves. 1^12^ (10 cancelled) 2–6^10^ 7^10^ (2 cancelled) 8–9^10^ 10^12^ (11 cancelled) 11–21^10^ | 22^10^ | 23^10^ 24^10^ (wants 5–10): 237 ff (out of 242; 238–42 lost; 70 *bis* an inserted slip; 92 misbound after 93)'. This incorrect perception appears to have two causes. Each quire is surrounded by a thin strip of parchment, which can be easily confused with a cancelled folio. (This appears to be a Cambridge binding practice, also found e.g. on MS Kk.5.10.) The note on fols. 92 and 93 was intended as a solution to the problem that the catchphrase on fol. 91v does not match the first line of 92r. The cataloguer was probably reacting to @hardwick:1856catalogue [p. 3:232], who had stated that a leaf was missing between fols. 91 and 92, and recognized it as a later standalone addition. A mark appears to direct the insertion of the leaf's text on 93v, but it does not seem necessary to postulate that the leaf should have been originally placed there; it is bound with quire 9, not 10 as he thought (the stub from the other end of the leaf is found before 82). The cataloguer modified the pencilled folation for fols. 92 and 93, swapping them to reflect this theory (leaving the real fol. 92 labelled 93 and fol. 93 labelled 92).
-
-- (some notes by Hunt in Alexander Neckam, (thesis) 160–61)
-
 
     - I
         - fol. 2v s. XV
@@ -151,6 +146,8 @@ The final section of the manuscript is a collection of verses written both by Al
 - Petrus Blesensis, Responsio (223v–224)
 - Alexander Nequam, De vino (224v–232)
 
+Peter of Blois knew Alexander [; cited by @russell:1932alexander, p. 263]
+
 ### Other verses by Alexander Neckam
 
 - Novus Avianus (232v–234v)
@@ -183,6 +180,7 @@ The final section of the manuscript is a collection of verses written both by Al
 
 The word 'simplicis' in the third verse is glossed 'claustralis',^['Simplex uocatur claustralis; dicitur et simplex qui sine plica duplicitatis est.'] implying that he was a monk or regular canon [one wonders whether he could be connected to a 'magister Galfridus de Stanrewik' mentioned as owing rent to the house in 1240: @ross:1964cartulary, no. 614]. A recent catalogue suggests that the book could have originated at either Cirencester or Malmesbury [@binski:2011western, p. 106]; Cirencester seems most likely, as this is the only known location where all the works the text uses were available [@mcdonough:2005cambridge, p. 792n41]. It certainly belonged to Cirencester in a later period; at the top of fol. 3r, one can make out, with the help of an ultraviolet light, the erased word 'Cyrencestris' (below this is an inscription in a humanist hand beginning 'De', also expunged). The form matches a later style of *ex libris* found in a manuscript of Alexander's commentary on the Psalms (now Oxford, Bodleian Library, MS Bodley 284) dating to the late thirteenth or fourteenth century.
 
+## Intent
 
 71v, Epistle at the end of the proem to book two:
 
@@ -216,19 +214,46 @@ The first eight lines of the verse epistle at the end of the proem to book two (
 
 (Cf. the various notes made in the margins.)
 
-## Intent
 
-The final verse epistle of *Sol meldunensis* further supports the idea that Galfridus was based at Cirencester and not Malmesbury, indicating a desire to correspond [noted in (Hunt??? and) @mcdonough:2005cambridge, p. 792]:
+The final verse epistle of *Sol meldunensis* further supports the idea that Galfridus was based at Cirencester and not Malmesbury, indicating a desire to correspond [noted in (Hunt??? and) @mcdonough:2005cambridge, p. 792]. As with the epistle closing the first half of the work, this is primarily adapted from Reginald of Canterbury, here addressing Gilbert Crispin, abbot of Westminster from 1085 to 1117 [printed in @wright:1872anglo, pp. 2:259–60]. The first group of lines (according to the manuscript's own divisions) correspond to Reginald's lines 23–28 and 37–38; the last to his 39–40. The middle couplet is from the end of a poem by Alexander Neckam addressed to 'doctor Radulfe' [@neckam:2008suppletio, p. 227 (carmina metrica, 16.17–18); also cited in @méril:1854poésies, pp. 170–171].<!--check H for note on Radulfus --> It appears on fol. 212v as follows:
 
+> | ¶ Nunc pater et domne tu uideris hic liber omne
+> |     Seu punctum tulerit^[Cf. Horace, *De arte poetica* 343–44: 'omne tulit punctum qui miscuit utile dulci, / lectorem delectando pariterque monendo.'] seu uiciosus erit.
+> | Stare uelis, stabit; si non, hunc flamma cremabit;
+> |     Laus sua sermo tuus interitusue suus.
+> | Si posui partes uelud is qui ne⟨s⟩ciit artes,
+> |     Hac miserere uice doctor apostolice.
+> | Laude tui plena dedit hec rudimenta camena,
+> |     Ob decus ingenue laudis ubique tue.
+>
 > | ¶ Mutua discurrat inter nos pagina; nota
-> |   Mens tua mensque mea sit mediante nota.
-                            
-> | Let a page go between us in turn;
-> | May your mind be noted as well as mine.
+> |     Mens tua mensque mea sit mediante nota.
+>
+> | ¶ Gaudia presentis uite semperque manentis
+> |     Et bona cuncta deus det tibi domne meus.
+
+> | ¶ Now, O father and lord, you see
+> |     whether this book carries every point or is full of faults.
+> | If you wish it to remain, it will remain; if not, a blaze will burn it;
+> |     your speech is its praise or destruction.
+> | If I have arranged its parts as somebody who does not know the arts,
+> |     have mercy on this fate, O apostolic doctor.
+> | Filled with you praise, this poetry gives the rudiments
+> |     before the glory of your natural praise everywhere.
+>
+> | ¶ Let a page go between us in turn;
+> |     may your mind be noted as well as mine.
+>
+> | ¶ May God give you the joy of the present and continuing life,
+> |     and all good things, my lord.
+
 
 *Nota* here could refer both to the adjective (i.e. 'known') as well as the noun (a mark or sign).
 
-<!--check DMLBS; parallels? -->
+
+
+Reginald of Canterbury, Domno Gilleberto abbati Westmonasteriensi (ed. Wright, Anglo-Latin Satirical Poets and Epigrammatists, vol. 2, 260) 39–40
+
 
 It is tempting to think that this explains the book's structure.
 
@@ -278,7 +303,7 @@ How was this book intended to be read? One assumes that it is part of the rise o
 
 # Later Readers
 
-On fol. 2v, one finds this:
+On fol. 2v, one finds this in a fifteenth-century hand:
 
 > | To Cirencester & bid them pray for me.
 > | He that prayeth for me Jesu have merci on hym.
