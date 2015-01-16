@@ -18,102 +18,35 @@ The book is collated a^2^, 1^10+1^ (3 added), 2^10^–6^10^, 7^8+1^ (8 added), 8
 
 An earlier cataloguer, probably M.R. James, has pencilled an alternative collation on the back flyleaf: '2 flyleaves. 1^12^ (10 cancelled) 2–6^10^ 7^10^ (2 cancelled) 8–9^10^ 10^12^ (11 cancelled) 11–21^10^ | 22^10^ | 23^10^ 24^10^ (wants 5–10): 237 ff (out of 242; 238–42 lost; 70 *bis* an inserted slip; 92 misbound after 93)'. This incorrect perception appears to have two causes. Each quire is surrounded by a thin strip of parchment, which can be easily confused with a cancelled folio. (This appears to be a Cambridge binding practice, also found e.g. on MS Kk.5.10.) The note on fols. 92 and 93 was intended as a solution to the problem that the catchphrase on fol. 91v does not match the first line of 92r. The cataloguer was probably reacting to @hardwick:1856catalogue [p. 3:232], who had stated that a leaf was missing between fols. 91 and 92, and recognized it as a later standalone addition. A mark appears to direct the insertion of the leaf's text on 93v, but it does not seem necessary to postulate that the leaf should have been originally placed there; it is bound with quire 9, not 10 as he thought (the stub from the other end of the leaf is found before 82). The cataloguer modified the pencilled folation for fols. 92 and 93, swapping them to reflect this theory (leaving the real fol. 92 labelled 93 and fol. 93 labelled 92).
 
-    - I
-        - fol. 2v s. XV
-            - To Cirencester & bid them pray for me. / He that prayeth
-              for me Jesu have merci on hym.
-            - number below this seems to be 990: Cyrencester classmark?
-            - (again, can be read under UV light)
-            - Iste liber constat Moritio Gyffard, testante Iesu.
-        - 3r
-            - at top of page, with UV light one can make out
-              'Cyrencestris'; 
-
-        - fol. 5 is an extra leaf
-            - On the recto is a line draynig with colour wash of two
-              men in monastic (?) habits. On the 1. is a young man
-              offering a book to an older one who is bearded, and who
-              has the tigmata in his hands and feet. On the verso is a
-              similar drawing of two men. On r. the elder has
-              forefinger raised in blessing and a crook-shaped staff in
-              other hand; on 1. is the younger with a T shaped staff in
-              left hand.
-            - measure
-        - 5r Epistola
-        - 69r–71v Extracts from Alexander's verses
-        - 71v Epistola
-        - 72r
-            - Incipit liber secundus in quo agitur de misericordia et
-              de suggillatione quorundam utiorum.
-            - Ex sermone de omnibus sanctis qui sic incipit: beati
-              pauperes spiritu.
-            - Quis? quid? cur? quantum, qui quali, qualiter, ex quo. In
-              hiis circumstanciis…
-       - fol 212v
-            - Nunc pater et domine tu uideris hic liber omne
-              sue punctum tulerit seu uiciosus erit.
-              stare uelis, stabit; si non, hunc flamma cremabit;
-              si posui partes uelud is qui ne<s>ciit artes,
-              hac misere uixce doctor apostolice.
-              laude tui pena dedit hec rudimenta camena
-              ob decus ingenue laudis ubique tue.
-              ¶ Mutua discurrant inter nos pagina, nota
-              mens mea mensque tua sit mediante nota.
-              ¶ Gaudia presentis uite semperque manentis
-              et bona cuncta deus det tibi domne deus.
-            - (elegiacs)
-    - II
-        - fol. 213–222v
-            - A gathering from another ms contining the letter of
-              Geoffrey of Monmouth to Alexander Bishop of Lincoln.
-        - 215r
-            - ruled in plummet?
-            - vert 13 | 18 | 105 | 110 | 138
-            - hor 18.5 | 35.5 | 176.5 | 208
-            - ls 8.5; text 5, with space for glosses (3.5)
-    - III
-        - fol. 223r–v
-            - Poems on wine and beer by Peter of Blois and Rober de
-              Beaufeu. Printed from ths MS by E. Braunholz, Zeitschr.
-              f. roman. Philol. 47, 1927, 32–34.
-        - 223r
-            - vert 23 | 27.5 | 98.5 | 115.5 | 119 | 141.5
-            - hor 14 | 19 | 154 | 157.5 | 178 | 182.5 | 207.5 | 209
-            - ls 4.5 (gen; sometimes 4–5)
-        - fol. 224r
-            - Poem of Alexander to Thomas abbot of Gloucester.
-        - fols. 232v–232r
-            - Nouus Auianus
-        - fols. 235r–236r
-            - Miscellaneous verses.
-        - fols. 236v
-            - s. XV extracts
-        - fols. 237r–v
-            - In a hand contemporary with, but different from, the main
-              hand. De passione sauatoris.
-            - Spendori patris fons sol ares …
-            - Printed from this MS in Anal. hymnica 31 p. 36f, not
-              quite accurately. A line is omitted after 7.5 Iesu post
-              discrimen forte; and another after 9.11 Ex ipsa carnem
-              sumentem.
-
-
 ### Page Layout
 
-        - 4r
-            - ruled in pencil
-            - vert 24 | 95.5 | 116 | 119.5 | 141.25 | 142
-            - hor 2 | 16.5 | 21.5 | 136.5 | 141 | 180 | 184 | 205.5 |
-              210
-            - ls 4.5–5
-            - the last of these rules is perhaps for aligning the
-              catchword, and is often omitted; its location varies
-              somewhat (sometimes e.g. as high as 203
-            - the three rules below the textblock are sometimes omitted
-        - 5
-            - measures 142 x 181
-            - a small mark at the bottom of 5v that is probably
-              supposed to show where the page is to be inserted
+- 4r
+    - ruled in pencil
+    - vert 24 | 95.5 | 116 | 119.5 | 141.25 | 142
+    - hor 2 | 16.5 | 21.5 | 136.5 | 141 | 180 | 184 | 205.5 |
+      210
+    - ls 4.5–5
+    - the last of these rules is perhaps for aligning the
+      catchword, and is often omitted; its location varies
+      somewhat (sometimes e.g. as high as 203
+    - the three rules below the textblock are sometimes omitted
+- 5
+    - measures 142 x 181
+    - a small mark at the bottom of 5v that is probably
+      supposed to show where the page is to be inserted
+
+
+- 215r
+    - ruled in plummet?
+    - vert 13 | 18 | 105 | 110 | 138
+    - hor 18.5 | 35.5 | 176.5 | 208
+    - ls 8.5; text 5, with space for glosses (3.5)
+- 223r
+    - vert 23 | 27.5 | 98.5 | 115.5 | 119 | 141.5
+    - hor 14 | 19 | 154 | 157.5 | 178 | 182.5 | 207.5 | 209
+    - ls 4.5 (gen; sometimes 4–5)
+
+
 
 ## Contents
 
@@ -146,7 +79,9 @@ The final section of the manuscript is a collection of verses written both by Al
 - Petrus Blesensis, Responsio (223v–224)
 - Alexander Nequam, De vino (224v–232)
 
-Peter of Blois corresponded with Alexander, and there is a possibility that his letter 31 is addressed to him on this topic [@blois:1993later, pp. 159–60n].
+Peter of Blois corresponded with Alexander, and there is a possibility that his letter 31 on this topic is addressed to him [@blois:1993later, pp. 159–60n].
+
+[printed from this MS by @blois:1998carmina, p. 280–81 (carmina I, 6a)<!-- check-->; @braunholtz:1927streitgedichte, pp. 32–34]
 
 ### Other verses by Alexander Neckam
 
@@ -155,6 +90,16 @@ Peter of Blois corresponded with Alexander, and there is a possibility that his 
 - De vase aureo in quo continetur Eucharistia, etc. (235–236)
 
 - De passione Salvatoris (237–237v).
+
+        - fols. 237r–v
+            - In a hand contemporary with, but different from, the main
+              hand. De passione sauatoris.
+            - Spendori patris fons sol ares …
+            - Printed from this MS in Anal. hymnica 31 p. 36f, not
+              quite accurately. A line is omitted after 7.5 Iesu post
+              discrimen forte; and another after 9.11 Ex ipsa carnem
+              sumentem.
+
 
 ## Origin
 
@@ -251,10 +196,6 @@ The final verse epistle of *Sol meldunensis* further supports the idea that Galf
 *Nota* here could refer both to the adjective (i.e. 'known') as well as the noun (a mark or sign).
 
 
-
-Reginald of Canterbury, Domno Gilleberto abbati Westmonasteriensi (ed. Wright, Anglo-Latin Satirical Poets and Epigrammatists, vol. 2, 260) 39–40
-
-
 It is tempting to think that this explains the book's structure.
 
 Quire 22, containing Geoffrey of Monmouth's *Prophetia Merlini*, is in a another hand from the rest of the tome, and indeed @hunt:1984schools [p. ???] thought that it was from a different manuscript entirely. It seems plausible that this was an addition directed by the abbot in response to the invitation: the text is presented as opening with a letter to Alexander, bishop of Lincoln. If Geoffrey the monk first sent a text by an Alexander to Geoffrey the abbot, it is clever to respond with a text by a Geoffrey, addressed to an Alexander, back to Geoffrey. Quires 23 and 24 might then be further additions from Cirencester, to which the abbot might have responded with the various additions to the prose florilegium on fols. ???; indeed, there is potential here for several more stages of back-and-forth. Perhaps the book happened to be in Cirencester awaiting further additions at the abbot's death, and was never returned to Malmesbury, lacking any monks there with an interest in Alexander's works.
@@ -265,9 +206,9 @@ the addition of another text from a Geo
 
 <!--So why would a canon at Cirencester be writing to the abbot of Malmesbury? What was happening around here at the time? (Something to do with debts incurred at C, or was that later?) -->
 
-> Venerabili canonico Cyrencestr. et amico carissimo et fratri in Christo magistro Waltero Melidie (?) frater S., dictus prior Maimesbir', salutem piam et perpetuam in Domino feliciter. Cum de bonis omnibus bene sapere bonorum mentibus bene affectis sit officiosum debitum, hiis tamen quos et noticia caros et amor intimos exhibet precipuus debetur honor et in bene gestis predicatio meritorum et in bonis successibus extollencia laudum. Hinc ergo quota pars amicorum predicandi viri et magni amici magistri Alexandri titulos extollere cupiens, dum montes parturio ridiculum in partu [mus] emittere dici possum; adeo majus est quod sencio quam quod ore depromere [possum]. Sed quoniam talis nature nativus color inolevit ut fidium que instrumentis extense sunt consuetudinem sequar, que, quolibet casu, si tanguntur, silere non possunt, ego michi tacere non possum quin vel mecum animo me satisfaciam. Vestram vero bonitatem mei consilii participem esse velim que nullo malicie fuco, ni fallor, mea verba signabit. Sic enim genituram vestram benivolus respexit horoscopus ut nullius nocivi syderis sit papa decretum [*sic*]. Postquam itaque in manus meas venit liber ille qui, quasi de verborum significacionibus vel proprietatibus, vel, si quid hujusmodi dici debeat, editus est a bono magistro, introductorio modo ad instructionem minorum, in ipsa facie prologi adeo gavisus sum ut ad singula verba benedictiones illi votivas orarem. Ita in eo nitet intentio justi propositi quod dulcis karitas fideli dispensatori suo suggessit ut ubera sponse videatur ostendere ad alliciendos parvulos ad sugendum lac et pre ubertate commedant butyrum, nec mel scientie vidi defuturum ut, eo infecti, sciant reprobare malum et eligere bonum. Hinc quasi porticum Salomonis ingressus, dum transmissas quondam scolasticas picturas intueor quasi per amena virecta juventutis oblite florum odores quos in tali viro emarcuisse putaveram vehementer admiratus sum, sed laudanda est felicis memorie cella que tot et tantas et tam varias apothecarum gazas comprehendit et sine marcore servare prevaluit. Hie bene paterfamilias bonus et dives dici debet qui de thesauro suo nova et vetera profert; sine dubio sedem sapientie dici res et effectus cum experientia jubent animam ejus [*sic*]. Hec est sponsa fidelis que omnia poma nova et vetera dilecto reservat, ut quasi aliquibus de familia illius modesta hillaritate dicere possit:
+> Venerabili canonico Cyrencestr. et amico carissimo et fratri in Christo magistro Waltero Melidie (?) frater S., dictus prior Maimesbir', salutem piam et perpetuam in Domino feliciter. Cum de bonis omnibus bene sapere bonorum mentibus bene affectis sit officiosum debitum, hiis tamen quos et noticia caros et amor intimos exhibet precipuus debetur honor et in bene gestis predicatio meritorum et in bonis successibus extollencia laudum. Hinc ergo quota pars amicorum predicandi uiri et magni amici magistri Alexandri titulos extollere cupiens, dum montes parturio ridiculum in partu [mus] emittere dici possum; adeo maius est quod sencio quam quod ore depromere [possum]. Sed quoniam talis nature natiuus color inoleuit ut fidium que instrumentis extense sunt consuetudinem sequar, que, quolibet casu, si tanguntur, silere non possunt, ego michi tacere non possum quin uel mecum animo me satisfaciam. Vestram uero bonitatem mei consilii participem esse uelim que nullo malicie fuco, ni fallor, mea uerba signabit. Sic enim genituram uestram beniuolus respexit horoscopus ut nullius nociui syderis sit papa decretum [*sic*]. Postquam itaque in manus meas uenit liber ille qui, quasi de uerborum significacionibus uel proprietatibus, uel, si quid huiusmodi dici debeat, editus est a bono magistro, introductorio modo ad instructionem minorum, in ipsa facie prologi adeo gauisus sum ut ad singula uerba benedictiones illi uotiuas orarem. Ita in eo nitet intentio iusti propositi quod dulcis karitas fideli dispensatori suo suggessit ut ubera sponse uideatur ostendere ad alliciendos paruulos ad sugendum lac et pre ubertate commedant butyrum, nec mel scientie uidi defuturum ut, eo infecti, sciant reprobare malum et eligere bonum. Hinc quasi porticum Salomonis ingressus, dum transmissas quondam scolasticas picturas intueor quasi per amena uirecta iuuentutis oblite florum odores quos in tali uiro emarcuisse putaueram uehementer admiratus sum, sed laudanda est felicis memorie cella que tot et tantas et tam uarias apothecarum gazas comprehendit et sine marcore seruare preualuit. Hie bene paterfamilias bonus et diues dici debet qui de thesauro suo noua et uetera profert; sine dubio sedem sapientie dici res et effectus cum experientia iubent animam eius [*sic*]. Hec est sponsa fidelis que omnia poma noua et uetera dilecto reseruat, ut quasi aliquibus de familia illius modesta hillaritate dicere possit:
 > | Sunt nobis mitia poma,
-> | Casta nec molles et pressi copia lactis.[in London, BL, Royal MS 5 C.v, fol. 57r–57v and Paris, BN, MS Latin 11867, fol. 240va–b: cited in @meyer:1896notice, p. 657n1]
+> | Casta nec molles et pressi copia lactis.[in London, BL, Royal MS 5 C.v, fol. 57r–57v and Paris, BnF, MS Latin 11867, fol. 240va–b: cited in @meyer:1896notice, p. 657n1]
 
 <!--http://gallica.bnf.fr/ark:/12148/btv1b90667289/f243.zoom.r=11867.langEN -->
 
@@ -315,7 +256,7 @@ How was this book intended to be read? One assumes that it is part of the rise o
 On fol. 2v, one finds this in a fifteenth-century hand:
 
 > | To Cirencester & bid them pray for me.
-> | He that prayeth for me Jesu have merci on hym.
+> | He that prayeth for me Jesu have merci on hym.^[Below this appears to be the number 990.]
 
 > | Iste liber constat moritio
 > | gyffardi testante iesu
@@ -323,3 +264,5 @@ On fol. 2v, one finds this in a fifteenth-century hand:
 <!--who was Maurice Gyffard? -->
 
 The manuscript was among the books owned by John Moore, bishop of Ely (1646–1714), presented to the library in 1715 by George I, with the standard bookplate on the opening flyleaf [@ringrose:1998royal].
+
+
