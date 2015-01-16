@@ -6,7 +6,7 @@ abstract: |
 - Cloistered Exchange -->
 ...
 
-After Alexander's death, readers continued to repurpose his writings to meet their developing needs. Some of the best evidence for how contemporaries might have used Alexander's writing is found in a florilegium now held at the Cambridge University Library [the manuscript has previously been discussed by @esposito:1915some; @russell:1932alexander; @hunt:1936alexander, pp. 160-161; @mcdonough:2004laus; @mcdonough:2005cambridge]. The main section of the book, called here *Sol meldunensis* from its incipit, compiled by one Galfridus, strings together passages from nearly all Alexander's prose works (including some that do not otherwise survive) to form new 'sermons', as it presents them, adding connecting phrases to blend the excerpts together, though the resulting works are so long that they can hardly have been used as such. Various prose and verse pieces have been added to the manuscript by both the original and other hands, likely a product of an exchange between the houses of Cirencester and Malmesbury.
+After Alexander's death, readers continued to repurpose his writings to meet their developing needs. Some of the best evidence for how contemporaries might have used Alexander's writing is found in a florilegium now held at the Cambridge University Library [the manuscript has previously been discussed by @esposito:1915some; @russell:1932alexander; @hunt:1936alexander, pp. 160-161; @morgan:1982early, p. 2:130 (no. 84); @hunt:1984schools, pp. 118, 128, 140, 145, 147, 152–53, 155; @neckam:1999suppletio, pp. 119, 123, 130, 142, 152, 160, 161; @mcdonough:2004laus; @mcdonough:2005cambridge; @binski:2011western, pp. 106–107 (no. 113), pl. 37]. The main section of the book, called here *Sol meldunensis* from its incipit, compiled by one Galfridus, strings together passages from nearly all Alexander's prose works (including some that do not otherwise survive) to form new 'sermons', as it presents them, adding connecting phrases to blend the excerpts together, though the resulting works are so long that they can hardly have been used as such. Various prose and verse pieces have been added to the manuscript by both the original and other hands, likely a product of an exchange between the houses of Cirencester and Malmesbury.
 
 # The Manuscript: Cambridge, University Library, Gg.6.42
 
@@ -146,7 +146,7 @@ The final section of the manuscript is a collection of verses written both by Al
 - Petrus Blesensis, Responsio (223v–224)
 - Alexander Nequam, De vino (224v–232)
 
-Peter of Blois knew Alexander [; cited by @russell:1932alexander, p. 263]
+Peter of Blois corresponded with Alexander, and there is a possibility that his letter 31 is addressed to him on this topic [@blois:1993later, pp. 159–60n].
 
 ### Other verses by Alexander Neckam
 
@@ -176,11 +176,11 @@ Peter of Blois knew Alexander [; cited by @russell:1932alexander, p. 263]
 > | May you be a pious favourer of fault, and may you, a benignant judge,
 > | Absolve what the presumption of the tongue does wrong.
 
-<!--Check what Nigel Morgan, Gothic MSS 2:130 has to say. -->
+<!--Check what Nigel Morgan, Early Gothic MSS 2:130, no. 84 has to say. -->
 
 The word 'simplicis' in the third verse is glossed 'claustralis',^['Simplex uocatur claustralis; dicitur et simplex qui sine plica duplicitatis est.'] implying that he was a monk or regular canon [one wonders whether he could be connected to a 'magister Galfridus de Stanrewik' mentioned as owing rent to the house in 1240: @ross:1964cartulary, no. 614]. A recent catalogue suggests that the book could have originated at either Cirencester or Malmesbury [@binski:2011western, p. 106]; Cirencester seems most likely, as this is the only known location where all the works the text uses were available [@mcdonough:2005cambridge, p. 792n41]. It certainly belonged to Cirencester in a later period; at the top of fol. 3r, one can make out, with the help of an ultraviolet light, the erased word 'Cyrencestris' (below this is an inscription in a humanist hand beginning 'De', also expunged). The form matches a later style of *ex libris* found in a manuscript of Alexander's commentary on the Psalms (now Oxford, Bodleian Library, MS Bodley 284) dating to the late thirteenth or fourteenth century.
 
-## Intent
+## Address
 
 71v, Epistle at the end of the proem to book two:
 
@@ -215,7 +215,7 @@ The first eight lines of the verse epistle at the end of the proem to book two (
 (Cf. the various notes made in the margins.)
 
 
-The final verse epistle of *Sol meldunensis* further supports the idea that Galfridus was based at Cirencester and not Malmesbury, indicating a desire to correspond [noted in (Hunt??? and) @mcdonough:2005cambridge, p. 792]. As with the epistle closing the first half of the work, this is primarily adapted from Reginald of Canterbury, here addressing Gilbert Crispin, abbot of Westminster from 1085 to 1117 [printed in @wright:1872anglo, pp. 2:259–60]. The first group of lines (according to the manuscript's own divisions) correspond to Reginald's lines 23–28 and 37–38; the last to his 39–40. The middle couplet is from the end of a poem by Alexander Neckam addressed to 'doctor Radulfe' [@neckam:2008suppletio, p. 227 (carmina metrica, 16.17–18); also cited in @méril:1854poésies, pp. 170–171].<!--check H for note on Radulfus --> It appears on fol. 212v as follows:
+The final verse epistle of *Sol meldunensis* further supports the idea that Galfridus was based at Cirencester and not Malmesbury, indicating a desire to correspond [noted in (Hunt??? and) @mcdonough:2005cambridge, p. 792]. As with the epistle closing the first half of the work, this is primarily adapted from Reginald of Canterbury, here addressing Gilbert Crispin, abbot of Westminster from 1085 to 1117 [printed in @wright:1872anglo, pp. 2:259–60]. The first group of lines (according to the manuscript's own divisions) correspond to Reginald's lines 23–28 and 37–38; the last to his 39–40. The middle couplet is from the end of a poem by Alexander Neckam entrusting his nephew for education to a 'doctor Radulfe' [@neckam:2008suppletio, p. 227 (carmina metrica, 17.17–18); @méril:1854poésies, pp. 170–71n4; @walther:1969initia, no. 15382], possibly Ralph of Dunstable, who wrote a verse life of St Alban [@hunt:1984schools, pp. 12–13; @rigg:1992history, p. 124; @mcleod:1980alban, pp. 412–16]. It appears on fol. 212v as follows:
 
 > | ¶ Nunc pater et domne tu uideris hic liber omne
 > |     Seu punctum tulerit^[Cf. Horace, *De arte poetica* 343–44: 'omne tulit punctum qui miscuit utile dulci, / lectorem delectando pariterque monendo.'] seu uiciosus erit.
@@ -264,6 +264,15 @@ the addition of another text from a Geo
 - and note that this is *not* from Reginald (discuss this poem), so this is valid (though the third verse McDonough quotes is not the same sentence!)
 
 <!--So why would a canon at Cirencester be writing to the abbot of Malmesbury? What was happening around here at the time? (Something to do with debts incurred at C, or was that later?) -->
+
+> Venerabili canonico Cyrencestr. et amico carissimo et fratri in Christo magistro Waltero Melidie (?) frater S., dictus prior Maimesbir', salutem piam et perpetuam in Domino feliciter. Cum de bonis omnibus bene sapere bonorum mentibus bene affectis sit officiosum debitum, hiis tamen quos et noticia caros et amor intimos exhibet precipuus debetur honor et in bene gestis predicatio meritorum et in bonis successibus extollencia laudum. Hinc ergo quota pars amicorum predicandi viri et magni amici magistri Alexandri titulos extollere cupiens, dum montes parturio ridiculum in partu [mus] emittere dici possum; adeo majus est quod sencio quam quod ore depromere [possum]. Sed quoniam talis nature nativus color inolevit ut fidium que instrumentis extense sunt consuetudinem sequar, que, quolibet casu, si tanguntur, silere non possunt, ego michi tacere non possum quin vel mecum animo me satisfaciam. Vestram vero bonitatem mei consilii participem esse velim que nullo malicie fuco, ni fallor, mea verba signabit. Sic enim genituram vestram benivolus respexit horoscopus ut nullius nocivi syderis sit papa decretum [*sic*]. Postquam itaque in manus meas venit liber ille qui, quasi de verborum significacionibus vel proprietatibus, vel, si quid hujusmodi dici debeat, editus est a bono magistro, introductorio modo ad instructionem minorum, in ipsa facie prologi adeo gavisus sum ut ad singula verba benedictiones illi votivas orarem. Ita in eo nitet intentio justi propositi quod dulcis karitas fideli dispensatori suo suggessit ut ubera sponse videatur ostendere ad alliciendos parvulos ad sugendum lac et pre ubertate commedant butyrum, nec mel scientie vidi defuturum ut, eo infecti, sciant reprobare malum et eligere bonum. Hinc quasi porticum Salomonis ingressus, dum transmissas quondam scolasticas picturas intueor quasi per amena virecta juventutis oblite florum odores quos in tali viro emarcuisse putaveram vehementer admiratus sum, sed laudanda est felicis memorie cella que tot et tantas et tam varias apothecarum gazas comprehendit et sine marcore servare prevaluit. Hie bene paterfamilias bonus et dives dici debet qui de thesauro suo nova et vetera profert; sine dubio sedem sapientie dici res et effectus cum experientia jubent animam ejus [*sic*]. Hec est sponsa fidelis que omnia poma nova et vetera dilecto reservat, ut quasi aliquibus de familia illius modesta hillaritate dicere possit:
+> | Sunt nobis mitia poma,
+> | Casta nec molles et pressi copia lactis.[in London, BL, Royal MS 5 C.v, fol. 57r–57v and Paris, BN, MS Latin 11867, fol. 240va–b: cited in @meyer:1896notice, p. 657n1]
+
+<!--http://gallica.bnf.fr/ark:/12148/btv1b90667289/f243.zoom.r=11867.langEN -->
+
+S = 1246? [@jones:1891charters, p. 301; cited in @russell:1932alexander, p. 265n8].
+
 
 While this is something of a conjecture, what one can almost certainly say is that the *Sol meldunensis* manuscript is not a copy. Hunt guessed that the manuscript was 'one of the original fair copies' [@hunt:1984schools, p. 118]; more detailed analysis shows that the volume is the original, probably the only copy every made. There are several long passages added to the text after the fact, done in a way that indicates addition rather than correction (fols. **???**). Perhaps most tellingly, at one point the scribe is copying out the following passage from Neckam's commentary on Proverbs:
 
