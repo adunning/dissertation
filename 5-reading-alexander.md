@@ -31,7 +31,7 @@ An earlier cataloguer, probably M.R. James, has pencilled an alternative collati
       somewhat (sometimes e.g. as high as 203
     - the three rules below the textblock are sometimes omitted
 - 5
-    - measures 142 x 181
+    - measures 
     - a small mark at the bottom of 5v that is probably
       supposed to show where the page is to be inserted
 
@@ -47,6 +47,11 @@ An earlier cataloguer, probably M.R. James, has pencilled an alternative collati
     - ls 4.5 (gen; sometimes 4–5)
 
 
+Fol. 5 is an inserted leaf, slightly smaller (142 x 181 mm) than the rest of the book: the recto bears an image of St Francis with another Franciscan, and the verso two standing friars. Nigel Morgan suggests they might be Dominicans. Without apparently knowing the details of Geoffrey the abbot, he suggests that the artist might have been familiar with the work of Matthew Paris at St Alban's, which would date the page to the 1240s [@morgan:1982early, p. 1:130 (no. 84); @lewis:1987art, p. 483n23 does not argue with this]. Could this be a contribution from Malmesbury, given its Benedictine connections?
+
+'The drawing has nothing to do with the text' [@little:1937franciscan, p. 41]
+
+young guy offering a book? [@little:1937franciscan, p. 61]
 
 ## Contents
 
@@ -87,6 +92,8 @@ Peter of Blois corresponded with Alexander, and there is a possibility that his 
 
 - Novus Avianus (232v–234v)
 
+[@bisanti:2010novus, pp. 110, 116–17, 121]
+
 - De vase aureo in quo continetur Eucharistia, etc. (235–236)
 
 - De passione Salvatoris (237–237v).
@@ -103,7 +110,7 @@ Peter of Blois corresponded with Alexander, and there is a possibility that his 
 
 ## Origin
 
-*Sol meldunensis* is addressed to 'Gaufridus' (fol. 71v), 'pastor pie' (fol. 3r). The only known candidate fitting this description is Geoffrey, abbot of Malmesbury abbey (20 km from Cirencester), which allows the volume to be dated to 1246–60 [@knowles:2001heads, p. 2:51; @hunt:1984schools, p. 118]. Presumably Geoffrey would have known Alexander before his death in 1217. The author identifies himself as 'Galfridus' (fol. 3r):
+*Sol meldunensis* is addressed to 'Gaufridus' (fol. 71v), 'pastor pie' (fol. 3r). The only known candidate fitting this description is Geoffrey, abbot of Malmesbury abbey, which allows the volume to be dated to 1246–60 [@knowles:2001heads, p. 2:51; @hunt:1984schools, p. 118]. Presumably Geoffrey would have known Alexander before his death in 1217. Malmesbury is only twenty kilometres from Cirencester; Henry III appears to have travelled directly between the two locations during his visit in July 1241 [@anonymous:1901calendar, p. 3:255; cited in @luce:1979history, p. 36]. The author identifies himself as 'Galfridus' (fol. 3r):
 
 > | Sol meldunensis et cinthia lux monachorum,
 > | Suscipiat tua queso nouum dignatio carmen
@@ -120,8 +127,6 @@ Peter of Blois corresponded with Alexander, and there is a possibility that his 
 > | May you put a polish on this work, who corrects the roughness of the cloister.
 > | May you be a pious favourer of fault, and may you, a benignant judge,
 > | Absolve what the presumption of the tongue does wrong.
-
-<!--Check what Nigel Morgan, Early Gothic MSS 2:130, no. 84 has to say. -->
 
 The word 'simplicis' in the third verse is glossed 'claustralis',^['Simplex uocatur claustralis; dicitur et simplex qui sine plica duplicitatis est.'] implying that he was a monk or regular canon [one wonders whether he could be connected to a 'magister Galfridus de Stanrewik' mentioned as owing rent to the house in 1240: @ross:1964cartulary, no. 614]. A recent catalogue suggests that the book could have originated at either Cirencester or Malmesbury [@binski:2011western, p. 106]; Cirencester seems most likely, as this is the only known location where all the works the text uses were available [@mcdonough:2005cambridge, p. 792n41]. It certainly belonged to Cirencester in a later period; at the top of fol. 3r, one can make out, with the help of an ultraviolet light, the erased word 'Cyrencestris' (below this is an inscription in a humanist hand beginning 'De', also expunged). The form matches a later style of *ex libris* found in a manuscript of Alexander's commentary on the Psalms (now Oxford, Bodleian Library, MS Bodley 284) dating to the late thirteenth or fourteenth century.
 
