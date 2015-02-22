@@ -3,22 +3,66 @@ Title: *Speculum animi mei:* The Wisdom Commentaries
 <!--Alexander's work at Cirencester? -->
 ---
 
-FLM fol. 232r:
+Alexander Neckam's most famous work, *De naturis rerum*, is most commonly described as an 'encyclopedia' [as in @talavera_esteso:1983historia; @fumagalli:1985due; @berlioz:1994recueils; @ribémont:1995natura; @schuler:2000fabrica; @voorbij:2000purpose; @ribémont:2002renaissance; @schuler:2002rives; @tilliette:2005rhétorique; @záhora:2014nature]. This view stems from its first editor's framing of the work, which he stated 'was intended to be a manual of the scientific knowledge of the time' [Wright, introduction to @neckam:1863naturis, p. xiv]. In reality, the published portion of the work is an introduction to a scriptural commentary. Wright's disdain for the project is clear by his explanation of the close to *DNR*, book 2: 'he announces his intention of treating further the subject of human vanities as introductory to his commentary on the book of Ecclesiasticus [*sic* for Ecclesiastes]' [@neckam:1863naturis, p. lxvii].
+
+Understanding *De naturis rerum* as an encyclopedia may help to provide context for some of the works that followed it to which the label has been retroactively applied, but it tells us relatively little about how Alexander conceived of his work. It has also set up false expectations for Alexander's work, meaning that modern audiences are often less than receptive. Rather, it should be understood as one of a series of meditative biblical commentaries he wrote while at Cirencester: along with *De naturis rerum*, the commentary on Ecclesiastes, there survive a commentary on the *Song of Songs*, also called *Laus beatissime uirginis* [@mcdonough:2004laus]; a *Tractatus super Parabolas Salomonis*, an incomplete commentary covering Proverbs 1:1–3:27; the *Tractatus super Mulierem fortem*, a threefold commentary on Proverbs 31:10–31; and a *Meditatio de Magdalena* [edited in @bestul:1999meditation]. Whenever Alexander himself refers to these books, he calls it a 'meditatio'. The purpose of this chapter is to explain how Alexander used this idea from the tradition of monastic biblical commentaries to meet the needs of his community, and to consider its relationship to himself, as when in the conclusion to his *Tractatus super Mulierem fortem* he calls the book 'speculum animi mei' (J, fol. 125ra).
+
+<!--Do we need more engagement with the arguments cited above? -->
+
+# What is a *meditatio*?
+
+Hunt had very little to say about Alexander's meditatiions, calling them 'the overflow of his personal devotion' <!-- adjust q, taken from Bestul --> [@hunt:1984schools, pp. 106–107]. 
+
+- Hunt's version: not a fan, 'the overflow of [Alexander's] personal devotion' <!-- adjust q, taken from Bestul --> [@hunt:1984schools, pp. 106–107]
+- there is a longer tradition of this
+
+# Meditation and Exegesis
+
+- compare to Will. Meld. Lamentations?
+
+
+FLM fol. 232r: *De commentatione uini*, book 3.?????
 
 > | Ludicra premisi. stilus ad sublimia sponte.
 > | Transiit. ascensus utilis esse solet.
 > | Inchoat a uanis. dehinc disserit *ecclesiastes*.
 > | De uanis. Vanum quis putet illud opus?
 > | Set post de uariis causis. uariando decenter.
-> | Materiam<g ref="#f161">;</g> uariis disputat ille modis.
-> | Demum conscendit. certum statuens sibi finem<g ref="#f161">;</g>
+> | Materiam⸵ uariis disputat ille modis.
+> | Demum conscendit. certum statuens sibi finem⸵
 > | Auctorem rerum principiumque deum.
 > | Principio melior est finis. ut asserit idem.
 > | Set quid? Materiam respicit ille suam.
-> | Finis erit nostri studii. nostrique laboris<g ref="#f161">;</g>
+> | Finis erit nostri studii. nostrique laboris⸵
 > | Ipse deus. perpes gloria. uera quies.
 
-# *Corrogationes noui Promethei*
+
+
+# Alexander's definition of 'meditatio'
+
+## In *CProv*
+
+- CProv, J, 57ra
+
+> Meditatio humana nunc in ipsum hominem reflectitur. nunc in ceteras transit creaturas⸵ nunc in auctorem rerum. dirigitur. Dum uero in hominem reciprocatur. aut circa ea que spectant ad nobilis creature dignitatem uersatur consideratio⸵ aut in iis que uergunt ad humane conditionis fragilitatem. Cum autem tanquam in specula residens ratio˷ rerum transitoriarum. cernit alterationes⸵ quandoque ipsarum uanitatem˷ non numquam earundem deprehendit utilitatem. Set dum in illud illud lumen immensum audet. immo gaudet mentis aciem figere deuotio˷ ad dilectum enim libenter recurrit amoris oculus⸵ nunc humanitatis assumpte humilitatem dulciter. nunc diuine maiestatis sublimitatem reuerenter intuetur. Ingrediens igitur ratio thalamum cordis et se intra se colligens⸵ dignitatem nature humane et fragilitatem considerat. transiens ad spectacula theatri mundialis⸵ rerum agnoscit uanitatem et utilitatem. erigens se supra se⸵ contemplatur humanitatem saluatoris et diuinitatem. Sic ingredienti archam cum Noe⸵ deferet columba diuine gratie⸝ ramum oliue pacis. sic egredienti in agrum mundi istius cum Ysaac gratia meditationis⸵ occurret sapientia per Rebeccam designata. sic rapto in celum cum Paulo⸵ reuelabuntur archana. que non licebit manifestari homini carnaliter sapienti.
+
+> Human meditation is sometimes turned back on man himself, sometimes it 
+
+- DNR
+- CCant
+- SMF
+- MedMag
+
+- Corrogationes Promethei?
+- other Cirencester works?
+
+# 'Meditatio' and the work of an abbot
+
+- cartulary?
+
+- other
+
+## Evidence of the *Corrogationes noui Promethei*
 
 One of the most instructive texts on Alexander's philosophy of administration is the collection *Corrogationes noui Promethei* (or *Promothei*). The collection is framed as advice to abbots:
 
@@ -26,7 +70,7 @@ One of the most instructive texts on Alexander's philosophy of administration is
 > |     than to be feared? Let love rule from him, and after that fear.
 
 > | Quid decet abbatem qui plus optabit amari
-> |     Quam metui? Regnet hinc amor, inde metus. [*CNP*, fol. 231va: @cropp:1991critical, lines 1–2; as emended by @gärtner:2011auftakt]
+> |     Quam metui? regnet hinc amor, inde metus. [*CNP*, fol. 231va: @cropp:1991critical, lines 1–2; as emended by @gärtner:2011auftakt]
 
 The tone allows the work to be dated to after his election in 1213. It would be rather odd for Alexander to write this if he were not himself an abbot, for what follows gives the impression of being prescriptive rather than humble suggestions for improvement from an underling [other arguments for a late composition are presented in @hunt:1984schools, pp. 60–61; @cropp:1991critical, pp. 47–52].
 
@@ -55,3 +99,4 @@ Above all, he is to be both learned and virtuous:
 If Alexander calls his book 'speculum animi mei' (*SMF*, J, fol. 125r) or his theological treatise *Speculum speculationum*, what does it mean for an abbot to be a mirror to his flock?
 
 
+# 'Speculum animi mei': Alexander's Relationship to his books
