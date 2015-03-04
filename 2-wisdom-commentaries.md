@@ -40,13 +40,19 @@ FLM fol. 232r: *De commentatione uini*, book 3.?????
 
 # Alexander's definition of 'meditatio'
 
+- bit like @leclercq:1982love [p. 16]:
+
+> In secular usage, *meditari* means, in a general way, to think, to reflect, as does *cogitare* or *considerare*; but, more than these, it often implies an affinity with the practical or even moral order. It implies thinking of a thing with the intent to do it; in other words, to prepare oneself for it, to prefigure it in the mind, to desire it, in a way, to do it in advance briefly, to practice it.
+
+- cites TLL; p. 73 on lectio vs. med.
+
 ## In *CProv*
 
-- CProv, J, 57ra
+At the beginning of his commentary on Proverbs, Alexander holds meditation in high regard:
 
-> Meditatio humana nunc in ipsum hominem reflectitur. nunc in ceteras transit creaturas⸵ nunc in auctorem rerum. dirigitur. Dum uero in hominem reciprocatur. aut circa ea que spectant ad nobilis creature dignitatem uersatur consideratio⸵ aut in iis que uergunt ad humane conditionis fragilitatem. Cum autem tanquam in specula residens ratio˷ rerum transitoriarum. cernit alterationes⸵ quandoque ipsarum uanitatem˷ non numquam earundem deprehendit utilitatem. Set dum in illud illud lumen immensum audet. immo gaudet mentis aciem figere deuotio˷ ad dilectum enim libenter recurrit amoris oculus⸵ nunc humanitatis assumpte humilitatem dulciter. nunc diuine maiestatis sublimitatem reuerenter intuetur. Ingrediens igitur ratio thalamum cordis et se intra se colligens⸵ dignitatem nature humane et fragilitatem considerat. transiens ad spectacula theatri mundialis⸵ rerum agnoscit uanitatem et utilitatem. erigens se supra se⸵ contemplatur humanitatem saluatoris et diuinitatem. Sic ingredienti archam cum Noe⸵ deferet columba diuine gratie⸝ ramum oliue pacis. sic egredienti in agrum mundi istius cum Ysaac gratia meditationis⸵ occurret sapientia per Rebeccam designata. sic rapto in celum cum Paulo⸵ reuelabuntur archana. que non licebit manifestari homini carnaliter sapienti.
+> Human meditation at one moment is turned back on man himself; at another it passes to the other created things; sometimes it is directed to the author of things. While indeed it is turned back to man, contemplation is either directed round those things that look to the dignity of a noble creature, or on those that sink to the fragility of the human condition. When, however, reason, just as if it were sitting in a watchtower, discerns the changes of transitory things, and at times their vanity, it often discovers their usefulness. But while it ventures on that immeasurable light itself, on the contrary devotion rejoices to transfix the sharpness of the mind, for the eye of love runs back gladly to the beloved: sometimes it sweetly sees the humility of taking up humanity, sometimes it reverently regards the height of divine majesty. Therefore reason, entering the inner chamber of the heart and concentrating its thoughts inwards, considers the dignity and fragility of human nature; crossing to the show of the worldly theatre, it recognizes the vanity and usefulness of things; raising itself above itself, it considers the humanity and divinity of the saviour. Thus the dove of divine grace carries the olive-branch of peace to one entering the ark with Noah; thus wisdom, symbolized through Rebecca, runs to meet one going out into the field of the world with Isaac by the grace of meditation; thus mysteries are revealed to one carried into heaven with Paul, which it will not be permitted to disclose to a wise man in the flesh.
 
-> Human meditation is sometimes turned back on man himself, sometimes it 
+> Meditatio humana nunc in ipsum hominem reflectitur. nunc in ceteras transit creaturas⸵ nunc in auctorem rerum. dirigitur. Dum uero in hominem reciprocatur. aut circa ea que spectant ad nobilis creature dignitatem uersatur consideratio⸵ aut in iis que uergunt ad humane conditionis fragilitatem. Cum autem tanquam in specula residens ratio˷ rerum transitoriarum. cernit alterationes⸵ quandoque ipsarum uanitatem˷ non numquam earundem deprehendit utilitatem. Set dum in illud illud lumen immensum audet. immo gaudet mentis aciem figere deuotio˷ ad dilectum enim libenter recurrit amoris oculus⸵ nunc humanitatis assumpte humilitatem dulciter. nunc diuine maiestatis sublimitatem reuerenter intuetur. Ingrediens igitur ratio thalamum cordis et se intra se colligens⸵ dignitatem nature humane et fragilitatem considerat. transiens ad spectacula theatri mundialis⸵ rerum agnoscit uanitatem et utilitatem. erigens se supra se⸵ contemplatur humanitatem saluatoris et diuinitatem. Sic ingredienti archam cum Noe⸵ deferet columba diuine gratie⸝ ramum oliue pacis. sic egredienti in agrum mundi istius cum Ysaac gratia meditationis⸵ occurret sapientia per Rebeccam designata. sic rapto in celum cum Paulo⸵ reuelabuntur archana. que non licebit manifestari homini carnaliter sapienti.^[*CProv*, J 57ra]
 
 - DNR
 - CCant
@@ -95,6 +101,10 @@ Above all, he is to be both learned and virtuous:
 
 > | May the pastor be to his own mirror, book, skill, model of the honest;
 > |     Form, measure, guidance, rule, life. [*CNP*, fol. 232ra: @cropp:1991critical, lines 137–38]
+
+Unfortunately, no letters from Alexander survive that might show in practice how he carried this out, but there are other examples from his time. Alan of Tewkesbury, for instance, applies exegesis to resolve everyday issues and determine how references in the Gospel might effect monastic life. He may have written to Alexander for christological advice [@harris:1982influences, pp. 8–10].
+
+<!--abbots not fond of learning: @harris:1982influences, p. 13n68; @hunt:1936english, p. 26; @leclercq:1982love, p. 241–242 (or 2nd ed?) -->
 
 If Alexander calls his book 'speculum animi mei' (*SMF*, J, fol. 125r) or his theological treatise *Speculum speculationum*, what does it mean for an abbot to be a mirror to his flock?
 
