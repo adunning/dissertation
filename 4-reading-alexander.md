@@ -1,42 +1,696 @@
 ---
-title: Reading Alexander through the florilegium 'Sol meldunensis'
+title: Reading Alexander through *Sol meldunensis*
 abstract: |
-    Galfridus, the compiler of *Sol meldunensis*, the prose Alexander Neckam florilegium in Cambridge, University Library, MS Gg.6.42, is shown to made a fairly narrow body of selections from Alexander Neckam's works in his effort to make the material more useful for contemporary purposes of consultation. The layers of addition discernible in the manuscript are suggested to have been the result of a collaboration between the houses of Cirencester and Malmesbury.
+    The compiler of *Sol meldunensis*, the collection of extracts mostly from Alexander Neckam in Cambridge, University Library, MS Gg.6.42, is shown to made a fairly narrow body of selections in his effort to make the material more useful for contemporary consultation purposes. He is identified with Alexander's nephew Geoffrey Brito. The layers of addition discernible in the manuscript are suggested to have been the result of a collaboration between the houses of Cirencester and Malmesbury.
 ...
 
 <!--alt titles:
 - Cloistered Exchange
 - Monastic Exchange -->
 
-Surviving evidence indicates that Alexander was well recognized in his own time. Alfred of Sareshel dedicates his book *De motu cordis* to his 'magistrum magnum Alexandrum Nequam' [@sareshel:1923motu, pp. 1–4 (prol.)], and Alexander’s works were cited up to the fourteenth century [discussed by @hunt1984:schools, chap. 10]. *De naturis rerum* was even read by John Dee, whose annotated copy survives as Oxford, Corpus Christi College, MS 245 [@thomson:2011descriptive, 129; @roberts:1990john, 181]. Correspondence indicates that Alexander was also respected in his own day. A letter from a canon of Cirencester praises Alexander's skill in preaching [Canterbury, Cathedral Library, MS Lit. B. 13, fol. 67r: cited in @ker:1969medieval, 2:274].<!-- check --> The letter from S., prior of Malmesbury (discussed above in chapter 3), explaining the meaning of the title *Corrogationes Promethei*, refers to Alexander in glowing terms: 'Non enim solummodo aurum recipit⸵ sed et auro tota uestitur' ('For he has not only accepted gold, but is entirely clothed in it').^[Paris, BnF, MS Latin 11867, fol. 240vb.]
+<!-- integrate these citations elsewhere: @esposito:1915some; @russell:1932alexander; @hunt:1936alexander, pp. 160-161; @morgan:1982early, p. 2:130 (no. 84); @hunt:1984schools, pp. 118, 128, 140, 145, 147, 152–53, 155; @neckam:1999suppletio, pp. 119, 123, 130, 142, 152, 160–161; @mcdonough:2004laus; @mcdonough:2005cambridge; @binski:2011western, pp. 106–107 (no. 113), pl. 37 --> 
 
-Alexander's work, indeed, appears to have gained a particularly appreciative readership at Malmesbury. Some of the best evidence for how contemporaries might have used Alexander's writing is found in a florilegium now held at the Cambridge University Library <!-- integrate these citations elsewhere: [the manuscript has previously been discussed by @esposito:1915some; @russell:1932alexander; @hunt:1936alexander, pp. 160-161; @morgan:1982early, p. 2:130 (no. 84); @hunt:1984schools, pp. 118, 128, 140, 145, 147, 152–53, 155; @neckam:1999suppletio, pp. 119, 123, 130, 142, 152, 160–161; @mcdonough:2004laus; @mcdonough:2005cambridge; @binski:2011western, pp. 106–107 (no. 113), pl. 37] -->. The main section of the book, called here *Sol meldunensis* from its incipit, compiled by one Galfridus, strings together passages from nearly all Alexander's prose works (including some that do not otherwise survive) to form new 'sermons', as it presents them, adding connecting phrases to blend the excerpts together, though the resulting works are so long that they can hardly have been used as such. Various prose and verse pieces have been added to the manuscript by both the original and other hands, likely a product of an exchange between the communities of Cirencester and Malmesbury.
+Walter of Melida's correspondence noted in the last chapter demonstrates the respect Alexander gained among his peers, which was high enough for interest in his work to endure after his death. It also hints that he gained an appreciative readership at Malmesbury. Further evidence for this, with some of the best examples for how contemporaries might have used Alexander's writings, is found in a manuscript now held at the Cambridge University Library. This miscellany is called here *Sol meldunensis* from its incipit. The opening 'florilegium', as past scholars have classified it, strings together passages from nearly all Alexander's prose works (including some that do not otherwise survive). These form new sermons, as it presents them, adding connecting phrases to blend the excerpts together, though the resulting works are so long that they can hardly have been used as such. Various prose and verse pieces have been added to the manuscript by both the original and other hands, likely a product of an exchange between the communities of Cirencester and Malmesbury.
 
-# The Manuscript: Cambridge, University Library, Gg.6.42
+# Contents and Terminology
 
-## Contents
+The manuscript is multi-layered, but can be understood as a unity: the title *Sol meldunensis* is used here to refer to the entire volume. It can be divided into three 'booklets', bound as a single volume: the first consisting of prose extracts, divided into two books; the second of Geoffrey of Monmouth's *Prophetia Merlini*; the third of a collection of verses mostly from Alexander. Hunt refers to the volume as the *Florilegium* (treating this as a title), but uses the term inconsistently to refer to either the manuscript as a whole or the prose section [his original description is @hunt:1936alexander, pp. 160-161; cf. @hunt:1984schools, pp. 54, 147]. Rigg contasts a 'florilegium' with an 'anthology', such as the collection of Alexander's poetic works in Paris, Bibliothèque nationale, MS Latin 11867: he defines a florilegium as 'a collection of excerpts' and an anthology as 'a collection of complete items (normally poems)' [@rigg:1996anthologies, pp. 708-709]. Under this understanding, it is strictly only the first part of the manuscript that can be called a florilegium; the verse section is organized in a manner similar to MS Lat. 11867, and includes complete extracts. An alternate definition of the anthology from Pearsall could equally be used to refer to the entire work: he emphasizes a purposeful assemblage, as opposed to books that have been randomly bound up, which must be 'specific, direct and fairly obvoius to the imagined contemporary reader' [@pearsall:2005whole, p. 21].<!-- check --> It would be simpler to refer to the manuscript using the more general term 'miscellany', though it is more frequently applied to later vernacular manuscripts. Where the term 'florilegium' is used here, it refers specifically to the section of prose extracts.<!-- cite @nichols:1996whole ? -->
 
-The manuscript can be divided into three 'booklets' bound into a single volume: the first consisting of *Sol meldunensis*, Galfridus's prose florilegium composed entirely of Alexander Neckam's works, divided into two books; the second of Geoffrey of Monmouth's *Prophetia Merlini*; the third of a collection of verses mostly from Alexander. The manuscript is typically called a 'florilegium', a term first applied to it by @hunt:1936alexander [pp. 160-161]. Rigg contasts it with an 'anthology', such as the collection of Alexander's poetic works in Paris, Bibliothèque nationale, MS Latin 11867, defining a florilegium as 'a collection of excerpts' and an anthology as 'a collection of complete items (normally poems)' [@rigg:1996anthologies, pp. 708-709]. By this definition, it is strictly only the first part of the manuscript that can be called a florilegium; the final booklet works in a way quite similar to MS Lat. 11867, and includes complete extracts. It would be better to call the manuscript as a whole a 'miscellany', to use a term more frequently applied to later vernacular manuscripts [on the concept, see @pearsall:2005whole]. <!-- check @doležalová:2013medieval -->
+The real question is whether the three booklets were intended to be placed together. Using the example of London, British Library, Cotton MS Titus D.XX (containing Alexander Neckam's *De nominibus utensilium*, among other things), Dinkova-Bruun has suggested that one should distinguish between a secondary miscellany, 'a codex containing various parts written at different times and by different scribes, which did not belong together originally but were bound within the same covers at a later stage, often at random', and a primary miscellany, 'a compilation created from the very beginning by a person or group of people with an overarching idea and purpose' [@dinkova-bruun:2013medieval, p. 15]. In the case of the Cambridge manuscript, the florilegium and the closing verse anthology are undeniably primary miscellanies that could be considered independently. The booklet containing the *Prophetia Merlini* complicates the matter slightly, since at first glance it seems to have little to do with the surrounding material, and its style has prompted past scholars to suppose that it came from a different manuscript entirely.<!-- [Hunt??? cat??? McD???] --> Instead, it is argued here that the entire manuscript should be understood as a 'primary miscellany', with *Sol meldunensis* originally consisting only of the formal prose florilegium, and the *Prophetia Merlini* and verse anthology being later extensions. The book as it stands is a medieval creation, and not one of the many volumes that were randomly assembled on the whim of an indiscreet modern reader.
 
-The question is whether this material was intended to be placed together; *Sol meldunensis* has a definite close, and the later booklets do not refer to it directly. The second booklet has even been thought to come from a different manuscript entirely<!-- [Hunt??? cat??? McD???] -->, though in its decoration it is in many ways imitative of the material that preceds it. The third booklet was certainly produced by the same scribes as *Sol meldunensis*. Under closer examination, the materials form an imitative unity.
+## I. The prose Alexander Neckam 'florilegium' (gatherings 1–21, fols. 3–212)
 
-### I. *Sol meldunensis*, the prose Alexander Neckam florilegium (quires 1–21, fols. 3–212)
+This is the original part of *Sol meldunensis*. It has been used in the past as a mere mine for information on the canon of Alexander Neckam's writings, but the nineteenth-century cataloguers were closer to the mark in calling it 'A Theological Treatise composed of extracts from the various works of Alexander Necham' [@hardwick:1856catalogue, p. 3:231]. Its outline runs as follows:^[Here and elsewhere, original spelling and punctuation from the manuscript is retained.]
 
-Though Galfridus does not appear in any lists of English writers, he presents his florilegium as a new work, and it seems most appropriate to think of it as such as rather than a mere mine for information on the canon of Alexander Neckam's writings. The nineteenth-century cataloguers were quite justified in calling it 'A Theological Treatise composed of extracts from the various works of Alexander Necham' [@hardwick:1856catalogue, p. 3:231]. It is structured under the following major headings:
+-   1\. Epistula.
+-   2\. [Book One]
+    -   2.1. Sermo in festiuitate reliquiarum. excerptus ex libris magistri alexandri abbatis cyrencestrie.
+        -   2.1.1. Ex sermone de sancto iohanne. qui sic incipit. Fuit homo.
+        -   2.1.2. Ex tractatu super mulierem fortem.
+        -   2.1.3. Ex tractatu super parabolas.
+        -   2.1.4. Ex eodem tractatu.
+        -   2.1.5. Ex tractatu super cantica canticorum.
+        -   2.1.6. Super parabolas.
+        -   2.1.7. Ex tractatu super parabolas.
+        -   2.1.8. Ex tractatu super mulierem fortem.
+        -   2.1.9. Super cantica.
+        -   2.1.10. Ex sermone qui sic incipit. omnia tempus habent.
+        -   2.1.11. Item. Super cantica.
+        -   2.1.12. Super mulierem fortem.
+        -   2.1.13. Ex sermone qui sic incipit. Dulce est lumen.
+        -   2.1.14. Ex sermone qui sic incipit. Scio quod redemptor meus uiuit.
+        -   2.1.15. Super cantica. libro .vͦ. capitulo xiͦ.
+        -   2.1.16. Ex tractatu super mulierem fortem.
+        -   2.1.17. Ex eodem tractatu.
+        -   2.1.18. Super ecclesiasten.
+        -   2.1.19. Super mulierem fortem.
+        -   2.1.20. Ex sermone qui sic incipit. Scio quod redemptor meus uiuit.
+        -   2.1.21. Ex tractatu super cantica canticorum.
+        -   2.1.22. Ex tractatu super ecclesiasten.
+        -   2.1.23. Ex tractatu super cantica.
+        -   2.1.24. Ex libro edito in laudem gloriose uirginis.
+        -   2.1.25. Ex sermone qui sic incipit. Hec est dies.
+        -   2.1.26. Ex sermone qui sic incipit. Absterget deus.
+        -   2.1.27. Ex glosa super Quicumque uult.
+        -   2.1.28. Ex tractatu super cantica.
+        -   2.1.29. Ex sermone qui sic incipit. Nox precessit.
+        -   2.1.30. Ex tractatu super ecclesiasten.
+        -   2.1.31. Ex sermone qui sic incipit. Tanquam aurum in fornace.
+        -   2.1.32. Eo sermone qui sic incipit. Absterget deus.
+        -   2.1.33. Ex eodem sermone.
+        -   2.1.34. Ex Glosa super matheum.
+        -   2.1.35. Ex sermone qui sic incipit. Absterget deus.
+        -   2.1.36. Ex eodem sermone.
+        -   2.1.37. Ex eodem sermone.
+        -   2.1.38. Ex Glosa super psalmum xxxvii.
+        -   2.1.39. Ex tractatu super cantica.
+        -   2.1.40. Ex sermone de apostolis qui sic incipit. Hi sunt uiri misericordie.
+        -   2.1.41. Super ecclesiasten.
+        -   2.1.42. Ex tractatu super cantica canticorum.
+        -   2.1.43. Ex tractatu super mulierem fortem.
+        -   2.1.44. Ex sermone de apostolis.
+        -   2.1.45. Ex tractatu super mulierem fortem.
+        -   2.1.46. Ex sermone de apostolis.
+        -   2.1.47. Ex tractatu super cantica canticorum.
+        -   2.1.48. Super psalmum xxxvi.
+        -   2.1.49. Ex tractatu super ecclesiasten.
+        -   2.1.50. Ex questione scolastica.
+        -   2.1.51. Ex tractatu super ecclesiasten.
+        -   2.1.52. Ex sermone de sancto iohanne.
+        -   2.1.53. Ex tractatu super mulierem fortem.
+        -   2.1.54. Ex sermone qui sic incipit. Cum esses iunior.
+    -   2.2. Descriptio misericordie et de eius commendatione.
+        -   2.2.1. Ex sermone de omnibus sanctis.
+        -   2.2.2. Super cantica.
+        -   2.2.3. Ex sermone de omnibus sanctis.
+        -   2.2.4. Ex sermone qui sici incipit. tu autem cum ieiunas.
+        -   2.2.5. Ex tractatu super cantica.
+        -   2.2.6. Ex sermone de omnibus sanctis.
+        -   2.2.7. Ex tractatu super cantica canticorum.
+    -   2.3. De speciebus misericordie.
+        -   2.3.1. Ex sermone de omnibus sanctis.
+        -   2.3.2. Super matheum.
+        -   2.3.3. Item super mattheum.
+        -   2.3.4. Ex sermone de omnibus sanctis.
+    -   2.4. De operibus misericordie.
+        -   2.4.1. Ex sermone qui sic incipit. Spiritus intelligentie.
+        -   2.4.2. Super cantica.
+        -   2.4.3. Ex libro edito in laudem gloriose uirginis.
+        -   2.4.4. Ex eodem libro.
+        -   2.4.5. Ex eodem libro.
+        -   2.4.6. Super cantica.
+        -   2.4.7. Ex libro edito in laudem gloriose uirginis.
+        -   2.4.8. Ex eodem libro.
+        -   2.4.9. In epistula ad hebreos.
+        -   2.4.10. Alia ratio de incarnatione.
+        -   2.4.11. Ex sermone qui sic incipit. Ingredere petram.
+        -   2.4.12. Ex libro edito in laudem gloriose uirginis.
+        -   2.4.13. Item ex eodem capitulo.
+        -   2.4.14. Quod peccatum hominis fuit remediabile. peccatum autem diaboli⸵ irremediabile.
+        -   2.4.15. Alia ratio de incarnatione.
+        -   2.4.16. Super cantica. Vbi legitus⸵ Reuertere reuertere sulamitis.
+        -   2.4.17. Ex libro edito in laudem gloriose uirginis.
+        -   2.4.18. Ex sermone qui sic incipit. Inclinauit celos.
+        -   2.4.19. Ex sermone qui sic incipit. Dabo uobis cor carneum.
+        -   2.4.20. Ex sermone qui sic incipit. Que est ista que ascendit de deserto.
+        -   2.4.21. Ex sermone qui sic incipit. Ecce ego mitto angelum meum.
+        -   2.4.22. Ex sermone qui sic incipit. ponam tabernaculum meum.
+        -   2.4.23. Ex libro edito in laudem gloriose uirginis.
+        -   2.4.24. Ex incidenti exponitur mistice⸵ principium geneseos.
+        -   2.4.25. Quare christus etiam in infantia dicatur fuisse uir.
+        -   2.4.26. Auctoritates introducte ad incarnationem saluatoris spectantes.
+        -   2.4.27. Ex sermone qui sic incipit. Dixit deus⸵ fiat lux.
+        -   2.4.28. Ex tractatu super cantica.
+        -   2.4.29. Ex sermone qui sic incipit. Dixit deus. fiat lux.
+        -   2.4.30. Ex sermone qui sic incipit. Inclinauit celos.
+        -   2.4.31. Ex libro edito in laude gloriosa uirginis.
+            -   2.4.31.2. Auctoritas introducta ex libro exodi. ad incarnationem domini spectans.
+            -   2.4.31.3. De manna.
+            -   2.4.31.4. Quod christus animam rationalem habuerit.
+        -   2.4.32. Ex sermone qui sic incipit. transeamus usque belleem.
+        -   2.4.33. Ex tractatu super cantica.
+        -   2.4.34. Ex proemio super parabolas.
+        -   2.4.35. Ex sermone de incarnatione domini. qui sic incipit. ponam tabernaculum meum.
+        -   2.4.36. Ex eodem sermone.
+        -   2.4.37. Ex eodem sermone.
+        -   2.4.38. Ex sermone qui sic incipit. Dixit deus. fiat lux.
+        -   2.4.39. Ex eodem sermone.
+        -   2.4.40. Ex libro edito in laudem gloriose uirginis.
+        -   2.4.41. Ex sermone qui sic incipit. tu exsurgens misereberis syon.
+        -   2.4.42. Ex eodem sermone.
+        -   2.4.43. Ex sermone qui sic incipit. tu es qui uenturus es.
+        -   2.4.44. Ex eodem sermone.
+        -   2.4.45. Ex sermone qui sic incipit. Dixit deus. fiat lux.
+        -   2.4.46. Ex sermone qui sic incipit. tu es qui uenturus es.
+        -   2.4.47. Ex sermone qui sic incipit. Dixit deus. fiat lux.
+        -   2.4.48. Ex sermone qui sic incipit. Nox precessit.
+        -   2.4.49. Ex eodem sermone.
+        -   2.4.50. Ex sermone qui sic incipit. Nox precessit.
+        -   2.4.51. Ex libro edito in laudem gloriose uirginis.
+        -   2.4.52. Ex sermone qui sic incipit. Et tu turris gregis.
+        -   2.4.53. Ex sermone qui sic incipit. Tu es qui uenturus es.
+        -   2.4.54. Ex sermone qui sic incipit. Et tu turris gregis.
+        -   2.4.55. Ex sermone qui sic incipit. Tu es qui uenturus es.
+        -   2.4.56. Ex sermone qui sic incipit. Et tu turris gregis.
+        -   2.4.57. Ex eodem sermone.
+        -   2.4.58. Ex sermone qui sic incipit. Cum exaltatus fuero a terra.
+        -   2.4.59. Ex sermone qui sic incipit. Et tu turris gregis.
+        -   2.4.60. Ex sermone qui sic incipit. tu es qui uenturus es.
+    -   2.5. De misericordia gloriose uirginis.
+        -   2.5.1. Ex sermone qui sic incipit. Spiritus intelligentie.
+        -   2.5.2. Ex sermone qui sic incipit. transeamus usque belhleem.
+        -   2.5.3. Ex sermone qui sic incipit. Spiritus intelligentie.
+        -   2.5.4. Super cantica.
+        -   2.5.5. Super mulierem fortem.
+        -   2.5.6. Super cantica.
+        -   2.5.7. Super mulierem fortem.
+        -   2.5.8. Super cantica.
+        -   2.5.9. Ex tractatu super mulierem fortem. Vbi legitur. De nocte surrexit. deditque predam domesticis suis.
+        -   2.5.10. Ex tractatu super cantica.
+        -   2.5.11. Ex tractatu super mulierem fortem.
+        -   2.5.12. Super cantica.
+        -   2.5.13. Super mulierem fortem.
+        -   2.5.14. Super Mulierem fortem.
+        -   2.5.15. Super cantica.
+        -   2.5.16. Item. Super cantica.
+        -   2.5.17. Super Mulierem fortem.
+        -   2.5.18. Ex eodem tractatu.
+        -   2.5.19. Ex libro edito in laudem gloriose uirginis.
+        -   2.5.20. Ex tractatu super cantica.
+        -   2.5.21. Ex eodem capitulo.
+        -   2.5.22. Ex eodem tractatu.
+        -   2.5.23. Super Mulierem fortem.
+        -   2.5.24. Ex libro edito in laudem gloriose uirginis.
+        -   2.5.25. Super Mulierem fortem.
+        -   2.5.26. Ex libro edito in laudem gloriose uirginis.
+        -   2.5.27. Super Mulierem fortem.
+        -   2.5.28. Ex eodem libro.
+        -   2.5.29. Super cantica.
+        -   2.5.30. Ex libro edito in laudem gloriose uirginis.
+        -   2.5.31. Ex tractatu super cantica.
+        -   2.5.32. Super Mulierem fortem.
+        -   2.5.33. Super Mulierem fortem.
+        -   2.5.34. Ex eodem tractatu.
+        -   2.5.35. Ex sermone qui sic incipit. Venit mater salomonis.
+        -   2.5.36. Super cantica.
+        -   2.5.37. Super cantica. De osculis dulcedinis et misericordie beate dei genitricis.
+        -   2.5.38. Super cantica.
+        -   2.5.39. Super cantica. libro secundo. capitulo .Viiiͦ.
+        -   2.5.40. Ex capitulo sequenti.
+        -   2.5.41. Super cantica.
+        -   2.5.42. Ex eodem libro.
+        -   2.5.43. Ex libro edito in laudem gloriose uirginis.
+        -   2.5.44. Ex eodem libro.
+        -   2.5.45. Super cantica.
+        -   2.5.46. Super cantica.
+        -   2.5.47. Super cantica.
+        -   2.5.48. Ex eodem tractatu.
+        -   2.5.49. Ex sermone qui sic incipit. Spiritus intelligentie.
+    -   2.6. De carcere pene.
+        -   2.6.1. Ex sermone qui sic incipit. Egressus petrus de carcere.
+        -   2.6.2. Ex eodem sermone.
+        -   2.6.3. Ex eodem sermone.
+        -   2.6.4. Ex sermone qui sici incipit. Misit herodes rex manus.
+        -   2.6.5. Ex tractatu super ecclesiasten.
+        -   2.6.6. Ex sermone qui sic incipit. Egressus petrus de carcere.
+        -   2.6.7. Ex tractu super cantica canticorum.
+        -   2.6.8. Super ecclesiasten.
+        -   2.6.9. Ex sermone qui sic incipit. Egressus petrus de carcere.
+        -   2.6.10. Ex eodem sermone.
+        -   2.6.11. Ex sermone qui sic incipit. Absterget deus.
+    -   2.7. Recursus ad initium sermonis.
+        -   2.7.1. Ex tractatu super ecclesiasten.
+        -   2.7.2. Super cantica.
+        -   2.7.3. Ex tractatu super Mulierem fortem.
+        -   2.7.4. Ex tractatu super cantica canticorum.
+        -   2.7.5. Ex tractatu super mulierem fortem.
+        -   2.7.6. Ex sermone de apostolis. qui sic incipit. Hii sunt uiri misericordie.
+        -   2.7.7. Ex tractatu super cantica canticorum.
+        -   2.7.8. Ex Glosa super psalmum quintum.
+        -   2.7.9. Ex sermone de apostolis.
+    -   2.9. Ad libellum.
+        -   2.9.1. Ex libro qui intitulatur laus sapientie diuine. Ex Distinctione septima.
+        -   2.9.2. Ex libro qui intitulatur laus sapientie diuine. Distinctione quarta.
+        -   2.9.3. Ex Distinctione quarta.
+        -   2.9.4. Ridemus de curia.
+-   3\. Incipit proemium in librum Secundum.
+    -   3.1. Ex libro qui intitulatur Speculum Speculationum. Ex distinctione quarta.
+    -   3.2. Ex libro qui intitulatur laus sapientie diuine. Distinctione quinta. contra inuidum.
+    -   3.3. Ex libro qui intitulatur corrogationes noui promethei.
+    -   3.4. Ex libro qui deseruit laude sapientie diuine. Distinctione secunda.
+    -   3.5. Ex eodem libro. Distinctione secunda.
+    -   3.6. Ex libro qui intitulatur laus sapientie diuine. Distinctione quinta.
+    -   3.7. Ex libro qui intitulatur laus sapientie diuine. Distinctione .iiii.a
+    -   3.8. Ex eodem libro. Distinctione .ii.a
+    -   3.9. Ex eodem libro. Distinctione .iiii.a
+    -   3.10. Epistola.
+-   4\. ¶Incipit liber secundus. In quo agitur de misericordia⸵ et de suggillatione quorundam uitiorum.
+    -   4.1. De circumstantiis misericordie et de elemosinarum efficacia.
+        -   4.1.1. Ex sermone de omnibus sanctis. qui sic incipit. Beati pauperes spiritu.
+        -   4.1.2. Super cantica.
+        -   4.1.3. Ex libro qui intitulatur corrogationes noui promethei.
+        -   4.1.4. Ex tractatu super cantica canticorum.
+        -   4.1.5. Ex sermone de omnibus sanctis.
+        -   4.1.6. Ex sermone qui sic incipit. Erunt signa in sole et luna.
+        -   4.1.7. Ex sermone qui sic incipit. Erunt signa in sole et luna.
+        -   4.1.8. Item˷ Ex eodem sermone.
+        -   4.1.9. Item. Ex eodem sermone.
+        -   4.1.10. Ex libro de naturis rerum.
+        -   4.1.11. Ex sermone qui sic incipit. nox precessit.
+        -   4.1.12. Questio scolastica.
+        -   4.1.13. Ex sermone qui sic incipit. Hodierna die noster dominus.
+        -   4.1.14. Ex tractatu super cantica canticorum.
+        -   4.1.15. Ex glosa super epistulam secundam ad thessalonicentes.
+        -   4.1.16. Ex questione scolastica.
+        -   4.1.17. Super psalmum .xlviii.
+        -   4.1.18. Ex sermone de omnibus sanctis.
+        -   4.1.19. Ex sermone qui sic incipit. Nuptie facte sunt.
+        -   4.1.20. Ex sermone de omnibus sanctis.
+        -   4.1.21. Ex tractatu super parabolas ubi agitur de iudicio et iusticia⸵ et equitate. scilicet capitulo secundo.
+        -   4.1.22. Ex sermone de omnibus sanctis.
+        -   4.1.23. Ex sermone qui sic incipit. Tu es qui uenturus es.
+        -   4.1.24. Ex sermone qui sic incipit. Exeamus extra castra.
+        -   4.1.25. Ex sermone qui sic incipit. Inclinauit celos.
+        -   4.1.26. Ex sermone de omnibus sanctis qui sic incipit. Beati pauperes spiritu.
+        -   4.1.27. Ex sermone qui sic incipit. Exeamus extra castra.
+        -   4.1.28. Ex eodem sermone.
+        -   4.1.29. Ex sermone qui sic incipit. Dixit iesus petro.
+        -   4.1.30. Ex sermone qui sic incipit. Exeamus extra castra.
+        -   4.1.31. Ex libro qui intitulatur solacium fidelis anime.
+        -   4.1.32. Ex sermone qui sici incipit. Tu es qui uenturus es.
+        -   4.1.33. Ex tractatu super parabolas.
+        -   4.1.34. Ex sermone qui sic incipit. Nuptie facte sunt.
+        -   4.1.35. Ex sermone qui sic incipit. Et tu turris gregis.
+        -   4.1.36. Ex sermone qui sic incipit. Domine si inueni gratiam.
+        -   4.1.37. Ex sermone de omnibus sanctis.
+        -   4.1.38. Ex sermone qui sic incipit. Ad locum unde exeunt flumina.
+        -   4.1.39. Ex sermone de omnibus sanctis qui sic incipit. Beati pauperes spiritu.
+        -   4.1.40. Ex eodem sermone.
+        -   4.1.41. Ex sermone de apostolis petri et pauli.
+        -   4.1.42. Ex tractatu super cantica canticorum.
+        -   4.1.43. Ex sermone de apostolis.
+        -   4.1.44. Ex tractatu super cantica.
+        -   4.1.45. Ex sermone de apostolis.
+        -   4.1.46. Ex tractatu super ecclesiasten Vbi legitur. Non prohibui cor me quin omni voluptate frueretur⸵ et oblectaret se in hiis que preparaueram.
+        -   4.1.47. Ex libro de naturis rerum.
+        -   4.1.48. Ex libro de naturis rerum.
+        -   4.1.49. Ex tractatu super mulierem fortem.
+        -   4.1.50. Ex tractatu super cantica canticorum.
+        -   4.1.51. Ex libro de naturis rerum.
+        -   4.1.52. Ex tractatu super ecclesiasten.
+    -   4.2. Narraciuncula.
+        -   4.2.1. Ex libro qui intitulatur de naturis rerum.
+        -   4.2.2. Ex tractatu super parabolas.
+        -   4.2.3. Super mulierem fortem.
+        -   4.2.4. Ex sermone qui sic incipit. Exeamus extra castra.
+        -   4.2.5. Ex libro qui intitulatur corrogationes promothei.
+        -   4.2.6. Ex sermone. exeamus extra castra.
+        -   4.2.7. Ex tractatu super ecclesiasten.
+        -   4.2.8. Ex eodem tractatu.
+        -   4.2.9. Ex libro de naturis rerum.
+        -   4.2.10. Super ecclesiasten.
+        -   4.2.11. Ex sermone qui sic incipit. Ductus est iesus in deserto.
+        -   4.2.12. Ex sermone qui sic incipit. omnia tempus habent.
+        -   4.2.13. Ex sermone qui sic incipit. Agar ancilla saray.
+        -   4.2.14. Ex eodem sermone.
+        -   4.2.15. Ex tractatu super cantica.
+        -   4.2.16. Ex sermone qui sic incipit. Agar ancilla saray.
+        -   4.2.17. Ex libro qui intitulatur solacium fidelis anime.
+        -   4.2.18. Ex eodem libro.
+        -   4.2.19. Ex libro qui intitulatur solatium fidelis anime.
+        -   4.2.20. Ex libro de naturis rerum.
+        -   4.2.21. Ex libro qui intitulatur solatium fidelis anime.
+        -   4.2.22. Ex sermone de sancto paulo qui sic incipit. Nunquid ad preceptum tuum.
+        -   4.2.23. Ex eodem sermone.
+        -   4.2.24. Ex sermone qui sic incipit. Hii sunt uiri misericordie.
+        -   4.2.25. Ex libro qui intitulatur solatium fidelis anime.
+        -   4.2.26. Ex libro qui intitulatur corrogationes promothei.
+        -   4.2.27. Ex eodem tractatu.
+        -   4.2.28. Ex tractatu super cantica canticorum.
+        -   4.2.29. Ex sermone de spiritu sancto qui sic incipit. Spciritus intelligentie.
+        -   4.2.30. Super psalmum primum.
+        -   4.2.31. Ex sermone qui sic incipit. Operamini opus uestrum.
+        -   4.2.32. Ex sermone qui sic incipit. Cantate domino.
+        -   4.2.33. Ex tractatu super mulierem fortem.
+        -   4.2.34. Ex libro qui intitulatur de naturis rerum.
+        -   4.2.35. Ex tractatu super cantica canticorum. Vbi legitur ego dilecto meo⸵ et ad me conuersio eius.
+        -   4.2.36. Super psalmum Vigesimum tercium qui sic incipit. Dominus regit me.
+        -   4.2.37. Ex tractatu de conuersione admirabili beatissime magdalenes.
+        -   4.2.38. Ex eodem tractatu.
+        -   4.2.39. Ex sermone de magdalena. qui sic incipit. Ad locum unde exeunt flumina.
+        -   4.2.40. Ex tractatu super admirabili conuersione beatissime magdalenes.
+        -   4.2.41. Ex sermone qui sic incipit. Ad locum unde exeunt flumina.
+        -   4.2.42. Ex eodem sermone.
+        -   4.2.43. Ex tractatu de conuersione ad mirabili beatissime magdalenes.
+        -   4.2.44. Ex tractatu super cantica.
+        -   4.2.45. Ex eodem tractatu.
+        -   4.2.46. Ex sermone qui sic incipit. Operamini opus.
+        -   4.2.47. Ex sermone qui sic incipit. Cantate domino.
+        -   4.2.48. Ex tractatu super ecclesiasten.
+        -   4.2.49. Ex sermone qui sic incipit cantate domino.
+        -   4.2.50. Ex sermone qui sic incipit. Operamini opus uestrum.
+        -   4.2.51. Ex tractatu super parabolas salomonis.
+        -   4.2.52. Ex tractatu super mulierem fortem.
+        -   4.2.53. Ex tractatu super parabolas.
+        -   4.2.54. Ex eodem tractatu.
+        -   4.2.55. Ex eodem tractatu.
+        -   4.2.56. Ex tractatu super ecclesiasten.
+        -   4.2.57. Ex tractatu super ecclesiasten.
+        -   4.2.58. Ex tractatu super ecclesiasten.
+        -   4.2.59. Ex tractatu super mulierem fortem.
+        -   4.2.60. Ex eodem tractatu.
+    -   4.3. [untitled]
+        -   4.3.1. [untitled]
+        -   4.3.2. Ex tractatu super mulierem fortem.
+        -   4.3.3. Ex eodem tractatu.
+        -   4.3.4. Ex eodem tractatu.
+        -   4.3.5. Ex eodem tractatu.
+        -   4.3.6. Ex tractatu super cantica canticorum.
+        -   4.3.7. Ex libro de naturis rerum.
+        -   4.3.8. Super cantica.
+        -   4.3.9. Ex sermone qui sic incipit. Exeamus extra castra.
+        -   4.3.10. Ex sermone qui sic incipit. Cum exaltatus fuero a terra.
+        -   4.3.11. Ex sermone qui sic incipit. Siquis uult uenire post me.
+        -   4.3.12. Ex tractatu super ecclesiasten.
+        -   4.3.13. Ex sermone qui sic incipit. Siquis uult uenire post me.
+        -   4.3.14. Ex sermone qui sic incipit. Grata est serenitas.
+        -   4.3.15. Ex sermone qui sic incipit. Exeamus extra castra.
+        -   4.3.16. Ex tractatu super cantica canticorum.
+        -   4.3.17. Ex eodem capitulo.
+        -   4.3.18. Ex eodem tractatu.
+        -   4.3.19. Ex tractatu super cantica canticorum.
+        -   4.3.20. Ex sermone qui sic incipit. Operamini opus uestrum.
+    -   4.4. Narraciuncula. De petro qui uocabatur ocultus.
+        -   4.4.2. Ex tractatu super parabolas.
+        -   4.4.3. Ex sermone qui sic incipit. Tu autem cum ieiunas.
+        -   4.4.4. Ex libro qui intitulatur solatium fidelis anime.
+        -   4.4.5. Ex libro qui intitulatur solacium fidelis anime.
+        -   4.4.6. Ex sermone qui sic incipit. Exeamus extra castra.
+        -   4.4.7. Ex sermone qui sic incipit. Inclinauit celos.
+    -   4.5. De auaris.
+        -   4.5.1. Ex libro de naturis rerum.
+    -   4.6. De diuiciis.
+        -   4.6.1. Ex eodem libro.
+        -   4.6.2. Ex tractatu super ecclesiasten.
+        -   4.6.3. Ex tractatu super cantica.
+        -   4.6.4. Item ex eodem tractatu.
+        -   4.6.5. Ex libro qui intitulatur de naturis rerum.
+        -   4.6.6. Ex eodem tractatu.
+        -   4.6.7. Ex tractatu super ecclesiasten.
+        -   4.6.8. Ex libro qui intitulatur de naturis rerum.
+        -   4.6.9. Ex libro qui intitulatur de naturis rerum.
+        -   4.6.10. Ex sermone qui sic incipit. cantate domino.
+        -   4.6.11. Ex tractatu super cantica canticorum.
+        -   4.6.12. Ex sermone qui sic incipit. Apertis thesauris suis.
+        -   4.6.13. Ex tractatu super cantica. Vbi legitur. quia fereculum fecit sibi rex salomoni de lignis libani columnas eius fecit argenteas reclinatorium aureum.
+        -   4.6.14. Ex tractatu super ecclesiasten.
+        -   4.6.15. Ex eodem tractatu.
+        -   4.6.16. Ex tractatu super mulierem fortem.
+        -   4.6.17. Ex tractatu super ecclesiasten.
+        -   4.6.18. Ex eodem tractatu.
+        -   4.6.19. Ex eodem capitulo.
+        -   4.6.20. Ex eodem capitulo.
+        -   4.6.21. Ex eodem capitulo.
+        -   4.6.22. Ex sermone qui sic incipit. Ponite corda uestra.
+        -   4.6.23. Ex eodem tractatu.
+        -   4.6.24. Ex libro qui intitulatur solacium fidelis anime.
+        -   4.6.25. Ex tractatu super cantica.
+        -   4.6.26. Ex sermone qui sic incipit. Cum uenerit plenitudo temporis.
+        -   4.6.27. Ex libro qui intitulatur solatium fidelis anime.
+        -   4.6.28. Ex tractatu super cantica canticorum.
+    -   4.7. Narraciuncula.
+        -   4.7.1. Ex libro qui intitulatur de naturis rerum.
+        -   4.7.2. Ex tractatu super cantica.
+        -   4.7.3. Ex tractatu super cantica canticorum. capitulo .xx.
+        -   4.7.4. Ex eodem tractatu. capitulo xix.
+        -   4.7.5. Ex eodem capitulo.
+        -   4.7.6. Ex tractatu super cantica. Vbi legitur. Qualis est dilectus tuus ex dilecto.
+        -   4.7.7. Ex tractatu super cantica.
+        -   4.7.8. Ex sermone qui sic incipit. Scio quod redemptor meus uiuit.
+        -   4.7.9. Ex tractatu super cantica.
+        -   4.7.10. Ex tractatu super mulierem fortem.
+        -   4.7.11. Super cantica.
+        -   4.7.12. Ex libro qui intitulatur solacium fidelis anime.
+        -   4.7.13. Ex eodem libro.
+        -   4.7.14. Ex sermone qui sic incipit. Vbi est qui natus est.
+        -   4.7.15. Ex sermone qui sic incipit. Mane nobiscum domine.
+        -   4.7.16. Ex libro qui intitulatur solacium fidelis anime.
+    -   4.8. [untitled]
+        -   4.8.1. Ex tractatu super ecclesiasten.
+        -   4.8.2. Ex eodem capitulo.
+        -   4.8.3. Ex sermone qui sic incipit. Ductus est iesus. ⁊et c̾etera
+        -   4.8.4. Ex tractatu super ecclesiasten.
+        -   4.8.5. Ex eodem tractatu.
+        -   4.8.6. Item ex eodem tractatu.
+        -   4.8.7. Ex eodem tractatu.
+        -   4.8.8. Ex eodem tractatu.
+        -   4.8.9. Ex eodem tractatu.
+        -   4.8.10. Ex libro de naturis rerum.
+        -   4.8.11. Ex sermone qui sic incipit. operamini opus uestrum.
+        -   4.8.12. Ex sermone qui sic incipit. Ecce ego omnia facio noua.
+        -   4.8.13. Ex eodem sermone.
+    -   4.9. De detractoribus.
+        -   4.9.1. Ex tractatu super ecclesiasten.
+        -   4.9.2. Ex libro de naturis rerum.
+    -   4.10. De adulatoribus et detractoribus.
+        -   4.10.1. Ex tractatu super ecclesiasten.
+    -   4.11. Quod uir sapiens ulcisci non debeat iniuriam sibi in detractionibus illatam incidenter.
+        -   4.11.1. Ex eodem tractatu.
+        -   4.11.2. [untitled]
+    -   4.12. Item. De adulatoribus.
+        -   4.12.1. Ex libro de naturis rerum.
+        -   4.12.2. Ex sermone qui sic incipit. Filii hominum.
+        -   4.12.3. Ex libro de naturis rerum.
+        -   4.12.4. Ex eodem libro.
+    -   4.13. Qualiter uulpis circumuenit coruum adulatione sua.
+        -   4.13.1. Ex eodem libro.
+    -   4.14. De adulatione.
+        -   4.14.1. Ex eodem libro.
+    -   4.15. De ambitione.
+        -   4.15.1. Ex libro de naturis rerum.
+    -   4.16. De ambitiosis.
+        -   4.16.1. Ex eodem libro.
+    -   4.17. De ypocritis.
+        -   4.17.1. Ex libro de naturis rerum.
+        -   4.17.2. Super ecclesiasten.
+        -   4.17.3. Ex libro de naturis rerum.
+    -   4.18. De ypocritis.
+        -   4.18.1. Super ecclesiasten.
+    -   4.19. De iis qui muneribus inhiant.
+        -   4.19.1. Ex libro de naturis.
+    -   4.20. Contra illos qui muneribus inhiant.
+        -   4.20.1. Ex eodem libro.
+        -   4.20.2. Ex libro qui intitulatur solacium fidelis anime.
+        -   4.20.3. Ex tractatu super cantica.
+        -   4.20.4. Ex libro qui intitulatur solatium fidelis anime.
+        -   4.20.5. Ex libro qui intitulatur solatium fidelis anime.
+        -   4.20.6. Ex libro de naturis rerum.
+        -   4.20.7. Ex sermone qui sic incipit. omnia tempus habent.
+        -   4.20.8. Es libro de naturis rerum.
+        -   4.20.9. Ex semone qui sic incipit. omnia tempus habent.
+        -   4.20.10. Ex libro qui intitulatur speculum speculationum. caput. lxxv. libri tercii.
+        -   4.20.11. Ex eodem libro caput. sequenti.
+        -   4.20.12. Ex libro qui intitulatur solacium fidelis anime.
+        -   4.20.13. Ex tractatu super ecclesiasten.
+        -   4.20.14. Ex libro de naturis rerum.
+        -   4.20.15. Ex sermone qui sic incipit. Obsecro uos tam quam aduenias.
+        -   4.20.16. Ex sermone qui sic incipit. filioli mei.
+        -   4.20.17. Ex sermone qui sic incipit. Obsecro vos.
+        -   4.20.18. Ex eodem sermone.
+        -   4.20.19. Ex libro de naturis rerum.
+        -   4.20.20. Ex libro qui intitulatur corrogationes noui promothei.
+        -   4.20.21. Ex libro de naturis rerum.
+        -   4.20.22. Ex sermone qui sic incipit. Ductus est iesus in desertum.
+        -   4.20.23. Ex tractatu super parabolas.
+        -   4.20.24. Ex proemio super parabolas.
+        -   4.20.25. Ex sermone qui sic incipit. Exeamus extra castra.
+        -   4.20.26. Ex sermone qui sic incipit. filioli me. manete nunc in christo.
+        -   4.20.27. Ex sermone qui sic incipit. Exeamus extra castra.
+        -   4.20.28. Ex sermone qui sic incipit. filioli manete nunc in christo.
+        -   4.20.29. Ex sermone qui sic incipit. Cum natus esset.
+        -   4.20.30. Ex sermone qui sic incipit. Cantate domino.
+        -   4.20.31. Ex sermone qui sic incipit. Cum natus esset.
+        -   4.20.32. Ex libro qui intitulatur solacium fidelis anime.
+        -   4.20.33. Ex libro edito in laudem gloriose virginis.
+        -   4.20.34. Ex sermone qui sic incipit. Tu es pastor ouium.
+        -   4.20.35. Ex eodem sermone.
+        -   4.20.36. Ex eodem sermone.
+        -   4.20.37. Ex libro de naturis rerum.
+        -   4.20.38. Ex eodem libro.
+        -   4.20.39. Ex sermone qui sic incipit. probasti cor meum.
+        -   4.20.40. Ex sermone de omnibus sanctis.
+        -   4.20.41. Ex sermone qui sic incipit. Probasti cor meum.
+        -   4.20.42. Super ecclesiasten.
+        -   4.20.43. Ex sermone qui sic incipit. Tu es pastor ouium.
+        -   4.20.44. Ex sermone qui sic incipit. Funes ceciderunt.
+        -   4.20.45. Ex sermone qui sic incipit. Filii hominum.
+        -   4.20.46. Ex sermone qui sic incipit. Si obliti sumus.
+        -   4.20.47. Ex sermone qui sic incipit. Funes ceciderunt.
+        -   4.20.48. Ex sermone qui sic incipit. Dixit iesus petro.
+        -   4.20.49. Ex sermone qui sic incipit. inclinauit celos.
+        -   4.20.50. Ex sermone qui sic incipit. pascha nostrum.
+        -   4.20.51. Ex sermone qui sic incipit. Videte vigilate et orate.
+        -   4.20.52. Ex sermone qui sic incipit. Quare appenditis argentum.
+        -   4.20.53. Ex tractatu super ecclesiasten.
+        -   4.20.54. Ex edodem capitulo.
+        -   4.20.55. Eo eodem capitulo.
+        -   4.20.56. Ex sermone qui sic incipit. Ascendit deus in iubilo.
+        -   4.20.57. Ex sermone qui sic incipit. Quare appenditis argentum.
+        -   4.20.58. Super ecclesiasten.
+        -   4.20.59. Super matheum.
+        -   4.20.60. Super mulierem fortem.
+        -   4.20.61. Ex sermone qui sic incipit. Nuptie facte sunt.
+        -   4.20.62. Ex sermone qui sic incipit. Dulce est lumen.
+        -   4.20.63. Ex sermone qui sic incipit. Letare ierusalem.
+        -   4.20.64. Ex sermone qui sic incipit. Ad te domine leuaui animam meam.
+        -   4.20.65. Ex eodem sermone.
+        -   4.20.66. Super ecclesiasten.
+        -   4.20.67. Super pslmum .xxiiii.
+        -   4.20.68. Super ecclesiasten.
+        -   4.20.69. Super psalmum .xxiii.
+        -   4.20.70. Ex libro intitulatur corrogationes promothei.
+        -   4.20.71. Super mulierem fortem.
+        -   4.20.72. Ex sermone sanctorum petri et pauli qui sic incipit. Cum esses iunior.
+        -   4.20.73. Super mulierem fortem.
+        -   4.20.74. Ex eodem tractatu.
+        -   4.20.75. Ex sermone qui sic incipit. Cum appropinquasset iesus.
+        -   4.20.76. Ex tractatu super cantica canticorum.
+        -   4.20.77. Ex sermone qui sic incipit. Delibuta est fortitudo portantis.
+        -   4.20.78. Ex tractatu super mulierem fortem.
+        -   4.20.79. Ex sermone qui sic incipit. Operamini opus uestrum ante tempus.
+        -   4.20.80. Ex tractatu super cantica canticorum.
+        -   4.20.81. Ex tractatu super ecclesiasten.
+        -   4.20.82. Ex libro qui intitulatur solacium fidelis anime.
+        -   4.20.83. Ex libro de naturis rerum.
+        -   4.20.84. Super ecclesiasten.
+    -   4.21. De Inuidia aristotilis.
+        -   4.21.1. Ex libro de naturis rerum.
+        -   4.21.2. Super ecclesiasten.
+        -   4.21.3. De eodem.
+    -   4.22. De Inuidia macedonis.
+        -   4.22.1. Ex libro de naturis rerum.
+    -   4.23. De Inuidia et superbia luciferi.
+        -   4.23.1. Ex libro de naturis rerum.
+    -   4.24. [untitled]
+        -   4.24.1. Ex eodem capitulo.
+        -   4.24.2. Ex tractatu super mulierem fortem.
+        -   4.24.3. Super cantica.
+        -   4.24.4. Super mulierem fortem.
+        -   4.24.5. Ex sermone qui sic incipit. Agar ancilla saray.
+        -   4.24.6. Ex libro qui intitulatur solacium fidelis anime.
+        -   4.24.7. Ex sermone qui sic incipit. Agar ancilla.
+    -   4.25. De Inconstancia claustralium.
+        -   4.25.1. Ex libro de naturis rerum.
+        -   4.25.2. Narraciuncula.
+    -   4.26. De Vagis claustralium discursibus.
+        -   4.26.1. Ex libro de naturis rerum.
+        -   4.26.2. Super ecclesiasten.
+        -   4.26.3. Ex libro de naturis rerum.
+    -   4.27. Quod felix sit conditio claustralium.
+        -   4.27.1. Ex tractatu super mulierem fortem.
+        -   4.27.2. Ex proemio super parabolas.
+        -   4.27.3. Ex sermone qui sic incipit. Dixit iesus petro.
+        -   4.27.4. Ex proemio super parabolas.
+    -   4.28. De perturbatoribus pacis fraterne.
+        -   4.28.1. Ex capitulo tercio libri primi de naturis rerum.
+    -   4.29. Item. De superbia et invidia.
+        -   4.29.1. Ex eodem capitulo.
+    -   4.30. De Inuidia.
+        -   4.30.1. Ex libro de naturis rerum.
+        -   4.30.2. Ex sermone qui sic incipit.
+        -   4.30.3. Ex libro de naturis rerum.
+        -   4.30.4. Ex libro de naturis rerum.
+        -   4.30.5. Ex proemio super parabolas.
+        -   4.30.6. Ex tractatu super parabolas.
+    -   4.31. De Niso et mustela.
+        -   4.31.1. Ex libro de naturis rerum.
+        -   4.31.2. Super ecclesiasten.
+        -   4.31.3. Super parabolas.
+    -   4.32. Item De Inuidia.
+        -   4.32.1. Ex libro de naturis rerum.
+    -   4.33. De Invidia et inani gloria.
+        -   4.33.1. Ex sermone qui sic incipit. Ponite corda uestra.
+    -   4.34. De Invidia que preuenit ex inani gloria.
+        -   4.34.1. Ex libro de naturis rerum.
+    -   4.35. De arrogantia.
+        -   4.35.1. Ex eodem libro.
+    -   4.36. Item. De Arrogantia.
+        -   4.36.1. Ex eodem libro.
+        -   4.36.2. Ex sermone qui sic incipit. Ductus est iesus.
+    -   4.37. De erecta ceruisem ysmael.
+        -   4.37.1. Ex libro de naturis rerum.
+    -   4.38. Ecclesiasticus. De superbia.
+        -   4.38.1. Ex eodem libro.
+    -   4.39. Contra Inuidiam.
+        -   4.39.1. Ex sermone qui sic incipit. Ductus est iesus.
+    -   4.40. De Ira.
+        -   4.40.1. Ex libro de naturis rerum.
+    -   4.41. [untitled]
+        -   4.41.1. Ex tractatu super ecclesiasten.
+    -   4.42. Narratiuncula De stutaloquio.
+        -   4.42.1. Ex eodem tractatu.
+    -   4.43. De lubricitate lingue.
+        -   4.43.1. Ex tractatu super mulierem fortem.
+        -   4.43.2. Super ecclesiasten.
+        -   4.43.3. Ex tractatu super ecclesiasten.
+        -   4.43.4. Ex eodem tractatu.
+        -   4.43.5. Super cantica canticorum.
+        -   4.43.6. Super mulierem fortem.
+        -   4.43.7. Super mulierem fortem.
+        -   4.43.8. Super mulierem fortem.
+    -   4.44. Narraciuncula. De stultiloquio.
+        -   4.44.1. Ex libro de naturis rerum.
+        -   4.44.2. Ex libro de naturis rerum.
+        -   4.44.3. Ex libro de naturis rerum.
+    -   4.45. De Inuidia Iudeorum.
+        -   4.45.1. Ex libro de naturis rerum.
+        -   4.45.2. Super mulierem fortem.
+        -   4.45.3. Super cantica.
+        -   4.45.4. Super cantica.
+        -   4.45.5. Ex tractatu super ecclesiasten.
+        -   4.45.6. Ex tractatu super cantica.
+        -   4.45.7. Ex eodem tractatu.
+        -   4.45.8. Item. Ex eodem tractatu.
+        -   4.45.9. Ex tractatu super cantica.
+        -   4.45.10. Ex eodem tractatu.
+        -   4.45.11. Ex eodem tractatu.
+        -   4.45.12. Ex tractatu super ecclesiasten.
+        -   4.45.13. Ex eodem tractatu.
+        -   4.45.14. Ex tractatu super cantica.
+        -   4.45.15. Ex glosa supper mattheum.
+        -   4.45.16. Ex sermone qui sic incipit. Memento homo.
+        -   4.45.17. Ex sermone qui sic incipit. Ponite corda uestra.
+        -   4.45.18. Ex sermone qui sic incipit. transeamus usque beleem.
+        -   4.45.19. Ex sermone qui sic incipit. Ponite corda vestra.
+        -   4.45.20. Ex tractatu super ecclesiasten.
+        -   4.45.21. Item. Ex eodem capitulo.
+        -   4.45.22. Item. ex eodem capitulo.
+        -   4.45.23. Ex eodem tractatu.
+        -   4.45.24. Ex eodem tractatu.
+        -   4.45.25. Ex eodem tractatu.
+        -   4.45.26. Ex libro de naturis rerum.
+        -   4.45.27. Ex sermone qui sic incipit. Misit herodes rex manus.
+        -   4.45.28. Ex sermone qui sic incipit. Abraham mortuus est.
+        -   4.45.29. Ex eodem sermone.
 
-- Epistula. (fol. 3r)
-- Incipit proemium in librum Secundum. (fol. 70r)
-- Incipit liber secundus. In quo agitur de misericordia et de suggillatione quorundam uitiorum. (fol. 72r)
+There is a good case to be made for the second book as an unplanned addition. Although there is no shift in the hand, book one is never described as such: it might have originally ended on fol. 68v, where the 'sermon' closes with a doxology and space left at the bottom of the page; or with the amorphous 'Ad libellum' section that follows, which collects several verses and is restricted to both sides of fol. 69.
 
-There is a good case to be made for believing that the second book is a later addition: book one  is never described as such, closing  with a selection of poetry  and another verse epistle. Book two  similarly closes with a selection of verses addressed to Geoffrey. The entire work is written in the same hand, and so it is not entirely clear why the author determined to make this change in organization.
+ closing with a selection of poetry  and another verse epistle. Book two  similarly closes with a selection of verses addressed to abbot Gaufridus. The entire work is written in the same hand, and so it is not entirely clear why the author determined to make this change in organization.
 
-### II. Geoffrey of Monmouth, *Prophetia Merlini* (quire 22, fols. 213–222)
+<!-- @pearsall:2005whole, p. 25 also notes that planning can be sporadic-->
 
-R.W. Hunt thought that this was a quire from another manuscript [????]; this may be so, but it seems far too convenient that it is presented first of all as another Geoffrey addressing an Alexander, recalling the abbot of Malmesbury and Alexander Neckam; this rubric is in the same hand as that  Geoffrey of Monmouth and [Alexander of Lincoln] were both bishops; Geoffrey of Malmesbury and Alexander Neckam were both abbots. The inclusion of the passage is otherwise mysterious: William of Malmesbury was not particularly fond of Geoffrey of Monmouth [@malmesbury:1998gesta, p. ?]. The text is widely spaced to allow for glosses to be inserted between the lines. Alisha reader has taken advantage of this though not perhaps to the extent envisioned by the original scribe.
+A recent catalogue suggests that the book could have originated at either Cirencester or Malmesbury [@binski:2011western, p. 106]; Cirencester seems most likely, as this is the only known location where all the works the text uses were available [@mcdonough:2005cambridge, p. 792n41]. It certainly belonged to Cirencester in a later period; at the top of fol. 3r, one can make out, with the help of an ultraviolet light, the erased word 'Cyrencestris' (below this is an inscription in a humanist hand beginning 'De', also expunged). The form matches a later style of *ex libris* found in a manuscript of Alexander's commentary on the Psalms (now Oxford, Bodleian Library, MS Bodley 284) dating to the late thirteenth or fourteenth century.
+
+## II. Geoffrey of Monmouth, *Prophetia Merlini* (gathering 22, fols. 213–222)
+
+R.W. Hunt thought that this was a gathering from another manuscript<!-- not the book: thesis? or was it McD? cite? -->; this may be so, but it seems far too convenient that it is presented first of all as another Geoffrey addressing an Alexander, recalling the abbot of Malmesbury and Alexander Neckam; this rubric is in the same hand as that found elsewhere in the manuscript. Geoffrey of Monmouth and [Alexander of Lincoln] were both bishops; Geoffrey of Malmesbury and Alexander Neckam were both abbots. The text is widely spaced to allow for glosses to be inserted between the lines. Alisha reader has taken advantage of this though not perhaps to the extent envisioned by the original scribe.
 
 The manuscript is given the siglum ζ in Michael Reeve's edition of the text, one of five manuscripts viewed as stemming from the hypothetical ancestor Π [@monmouth:2007history, pp. xxx, l].
 
-### III. The verse Alexander Neckam florilegium (quires 23–24, fols. 223–237)
+1. Epistula magistri Galfridi monumutensis directa alexandro Lincolniensi episcopo
+2. Prophetia Merlini.
+
+## III. The verse Alexander Neckam florilegium (gatherings 23–24, fols. 223–237)
 
 The final section of the manuscript is a collection of verses written both by Alexander Neckam and his contemporaries. Broadly speaking, the first section is a collection of verses on wine; the second, a collection of material on fables; the last, devotional material. Unlike, however, the prose florilegium, the scribe does not even make an attempt at an outward system of organizatiHe and SAEon. In common with the first part of the manuscript is the page layout, the marginal titles, and the script. There is no verse epistle or proem. The final item in the manuscript, *De saluatore mundi*, is not even attributed to Alexander Neckam, though from the style is is hard to imagine that it could have been written by anybody else.
 
@@ -71,136 +725,19 @@ In his collected letters, Peter of Blois congratulatied Alexander on taking up m
               sumentem.
 
 
+# Physical Description
 
+## Structure
 
-## Origin
+The book is collated a^2^, 1^10+1^ (3 added), 2^10^–6^10^, 7^8+1^ (8 added), 8^10^, 9^10+1^ (11 added), 10^10^–21^10^ || 22^10^ || 23^10^, 24^10–6^ (6–10 cancelled), for a total of ii + 236 parchment folios (foliated 1–237, with an inserted slip in gathering 8 foliated 70bis). The irregular number of folios in gathering 8 suggests that it could originally have been planned as the end of the manuscript; *Sol meldunensis* book one (which, unlike book two, is not labelled as such) ends on fol. 69v.
 
-*Sol meldunensis* is addressed to 'Gaufridus' (fol. 71v), 'pastor pie' (fol. 3r). The only known candidate fitting this description is Geoffrey, abbot of Malmesbury abbey, which allows the volume to be dated to 1246–60 [@knowles:2001heads, p. 2:51; @hunt:1984schools, p. 118]. Presumably Geoffrey would have known Alexander before his death in 1217. Malmesbury is only twenty kilometres from Cirencester; Henry III appears to have travelled directly between the two locations during his visit in July 1241 [@anonymous:1901calendar, p. 3:255; cited in @luce:1979history, p. 36]. The author identifies himself as 'Galfridus' (fol. 3r):
+Gathering 22 appears to have a different origin from the rest of the book; the decoration seems to be imitative of what comes before and after, but is not of the same style. My suggestion is that this gathering was added at Malmesbury, and that gatherings 23/24 were added at Cirencester. There is no necessity, of course, for gatherings to be added in chronological order [for something comparable in time and genre, cf. @townsend:1987medieval, p. 355, where part 2 of 5 seems to have been added last].
 
-> | Sol meldunensis et cinthia lux monachorum,
-> | Suscipiat tua queso nouum dignatio carmen
-> | Quod tibi Galfridi deuotio simplicis offert.
-> | Te correctorem sicio pastor pie: limam
-> | Apponas operi, qui corrigis aspera claustri.
-> | Sis pius indultor culpe, iudexque benignus
-> | Absoluas, quod deliquit presumptio lingue. (fol. 3r)
-
-> | O sun and moon of Malmesbury, light of the monks,
-> | May your honour accept, I ask, a new song
-> | Which the devotion of simple Geoffrey offers to you.
-> | I thirst for your correction, pious pastor:
-> | May you put a polish on this work, who corrects the roughness of the cloister.
-> | May you be a pious favourer of fault, and may you, a benignant judge,
-> | Absolve what the presumption of the tongue does wrong.
-
-The word 'simplicis' in the third verse is glossed 'claustralis',^['Simplex uocatur claustralis; dicitur et simplex qui sine plica duplicitatis est.'] implying that he was a monk or regular canon [one wonders whether he could be connected to a 'magister Galfridus de Stanrewik' mentioned as owing rent to the house in 1240: @ross:1964cartulary, no. 614]. A recent catalogue suggests that the book could have originated at either Cirencester or Malmesbury [@binski:2011western, p. 106]; Cirencester seems most likely, as this is the only known location where all the works the text uses were available [@mcdonough:2005cambridge, p. 792n41]. It certainly belonged to Cirencester in a later period; at the top of fol. 3r, one can make out, with the help of an ultraviolet light, the erased word 'Cyrencestris' (below this is an inscription in a humanist hand beginning 'De', also expunged). The form matches a later style of *ex libris* found in a manuscript of Alexander's commentary on the Psalms (now Oxford, Bodleian Library, MS Bodley 284) dating to the late thirteenth or fourteenth century.
-
-## Address
-
-71v, Epistle at the end of the proem to book two:
-
-The first eight lines of the verse epistle at the end of the proem to book two (fol. 71v) is taken from the dedication of Reginald of Canterbury's *Vita Malachi*, lines 2–8, originally addressed to Lambert, abbot of the Benedictine abbey of St Bertin; wisely omitting the lines describing the book's crossing of the sea, Galfridus's last four lines from Reginald's lines 28–31 [edited in @liebermann:1888raginald, pp. 531–532]:
-
-> | Pagina dulce putat cum te mea sponte^[sepe *Reginald*] salutat
-> | O Gavfride^[Lamberte *Reginald*] pie pater, omnis papa sophie.
-> | Sit precor eius aue tibi gratum dulce suaue.
-> | Esse quidem gratum tibi wlt o uir probitatum
-> | Quod te magnificat de te bona singula dicat;
-> | Grates esse, putes tibi nostras ergo salutes.
-> | Nunc bone Gavfride^[Lamberte *Reginald*] laus cuius ubique sonatur,
-> | Tucior ut per te sit littera nostra precatur.
-> | Hic^[Qui *Reginald*] si forte tibi liber inconcinna loquatur
-> | Iudex parce sibi ne statim proiciatur.
-> | Sepe relegisse cartam iuuat et meminisse;
-> | Sepius adde manum: quod habebis^[hebebit *Reginald*] erit puto planum.
-
-> | My page thinks sweetly when it greets you voluntarily,
-> | O Geoffrey, pious father, father of all wisdom.
-> | May, I pray, its hail be pleasing to you, sweet, pleasant.
-> | It wishes indeed to be pleasing to you, O man of honesty,
-> | That it magnifies you, concerning you it speaks many good things;<!--check DMLBS -->
-> | May you rejoice, may you then think on our salvation.
-> | Now, good Geoffrey, whose praise resounds everywhere,
-> | It asks that through you our letters may be safe.
-> | If perchance this book should speak clumsily to you,
-> | Judge it sparingly, that it may not be immediately abandoned.
-> | Often it is helpful to have reread a book and remember it;
-> | More often, add a hand: what you will have will be, I think, plain.
-
-(Cf. the various notes made in the margins.)
-
-
-The final verse epistle of *Sol meldunensis* further supports the idea that Galfridus was based at Cirencester and not Malmesbury, indicating a desire to correspond [noted in (Hunt??? and) @mcdonough:2005cambridge, p. 792]. As with the epistle closing the first half of the work, this is primarily adapted from Reginald of Canterbury, here addressing Gilbert Crispin, abbot of Westminster from 1085 to 1117 [printed in @wright:1872anglo, pp. 2:259–60]. The first group of lines (according to the manuscript's own divisions) correspond to Reginald's lines 23–28 and 37–38; the last to his 39–40. The middle couplet is from the end of a poem by Alexander Neckam entrusting his nephew for education to a 'doctor Radulfe' [@neckam:2008suppletio, p. 227 (carmina metrica, 17.17–18); @méril:1854poésies, pp. 170–71n4; @walther:1969initia, no. 15382], possibly Ralph of Dunstable, who wrote a verse life of St Alban [@hunt:1984schools, pp. 12–13; @rigg:1992history, p. 124; @mcleod:1980alban, pp. 412–16]. It appears on fol. 212v as follows:
-
-> | ¶ Nunc pater et domne tu uideris hic liber omne
-> |     Seu punctum tulerit^[Cf. Horace, *De arte poetica* 343–44: 'omne tulit punctum qui miscuit utile dulci, / lectorem delectando pariterque monendo.'] seu uiciosus erit.
-> | Stare uelis, stabit; si non, hunc flamma cremabit;
-> |     Laus sua sermo tuus interitusue suus.
-> | Si posui partes uelud is qui ne⟨s⟩ciit artes,
-> |     Hac miserere uice doctor apostolice.
-> | Laude tui plena dedit hec rudimenta camena,
-> |     Ob decus ingenue laudis ubique tue.
->
-> | ¶ Mutua discurrat inter nos pagina; nota
-> |     Mens tua mensque mea sit mediante nota.
->
-> | ¶ Gaudia presentis uite semperque manentis
-> |     Et bona cuncta deus det tibi domne meus.
-
-> | ¶ Now, O father and lord, you see
-> |     whether this book carries every point or is full of faults.
-> | If you wish it to remain, it will remain; if not, a blaze will burn it;
-> |     your speech is its praise or destruction.
-> | If I have arranged its parts as somebody who does not know the arts,
-> |     have mercy on this fate, O apostolic doctor.
-> | Filled with you praise, this poetry gives the rudiments
-> |     before the glory of your natural praise everywhere.
->
-> | ¶ Let a page go between us in turn;
-> |     may your mind be noted as well as mine.
->
-> | ¶ May God give you the joy of the present and continuing life,
-> |     and all good things, my lord.
-
-
-*Nota* here could refer both to the adjective (i.e. 'known') as well as the noun (a mark or sign).
-
-
-It is tempting to think that this explains the book's structure.
-
-Quire 22, containing Geoffrey of Monmouth's *Prophetia Merlini*, is in a another hand from the rest of the tome, and indeed @hunt:1984schools [p. ???] thought that it was from a different manuscript entirely. It seems plausible that this was an addition directed by the abbot in response to the invitation: the text is presented as opening with a letter to Alexander, bishop of Lincoln. If Geoffrey the monk first sent a text by an Alexander to Geoffrey the abbot, it is clever to respond with a text by a Geoffrey, addressed to an Alexander, back to Geoffrey. Quires 23 and 24 might then be further additions from Cirencester, to which the abbot might have responded with the various additions to the prose florilegium on fols. ???; indeed, there is potential here for several more stages of back-and-forth. Perhaps the book happened to be in Cirencester awaiting further additions at the abbot's death, and was never returned to Malmesbury, lacking any monks there with an interest in Alexander's works.
-
-the addition of another text from a Geo
-
-- and note that this is *not* from Reginald (discuss this poem), so this is valid (though the third verse McDonough quotes is not the same sentence!)
-
-<!--So why would a canon at Cirencester be writing to the abbot of Malmesbury? What was happening around here at the time? (Something to do with debts incurred at C, or was that later?) -->
-
-[in London, BL, Royal MS 5 C.v, fol. 57r–57v and Paris, BnF, MS Latin 11867, fol. 240va–b: cited in @meyer:1896notice, p. 657n1]
-
-S., prior of Malmesbury eludes further identification, though he is also noted in a document from 1246 [@jones:1891charters, p. 301; cited in @russell:1932alexander, p. 265n8], which indicates that this letter is probably from the same period as the florilegium.
-
-While this is something of a conjecture, what one can almost certainly say is that the *Sol meldunensis* manuscript is not a copy. Hunt guessed that the manuscript was 'one of the original fair copies' [@hunt:1984schools, p. 118]; more detailed analysis shows that the volume is the original, probably the only copy every made. There are several long passages added to the text after the fact, done in a way that indicates addition rather than correction (fols. **???**). Perhaps most tellingly, at one point the scribe is copying out the following passage from Neckam's commentary on Proverbs:
-
-> Melius est sedere in angulo domatis quam in domo communi cum uxore litigiosa. Set hec deo annuente exponetur … (fol. 173v)
-
-If we look at the copy of the commentary in Oxford, Jesus College, MS 94, the next word should have been 'inferius', but this is omitted. The compiler seems to have been happily reading along, and suddenly realized that this will not be 'explained below' in this book, because he is planning to end the excerpt at the end of the next sentence. He skips over 'inferius' partially erases 'set hec deo annuente exponetur' (and further underlines it in red to indicate that it is to be ignored), and the scribe moves on.
-
-I have not yet been able to conclude decisively whether or not this work is a direct autograph of Galfridus. While almost the entire book is in the same hand, there is two passages added in other hands (fols. 13v and 166r), the latter of which can be seen to be contemporary with the manuscript by the fact that it is integrated into its decorative scheme.  Perhaps one of these is an addition in the hand of the compiler, with the rest is dictated by him. In yet another hand is a glossed copy of a work written by another Galfridus, presented as a letter of Geoffrey of Malmesbury to Alexander, bishop of Lincoln, which is somewhat less professionally executed and added onto the manuscript. (Having another Geoffrey and Alexander together probably seemed too good a coincidence to omit.)
-
-## Physical Description
-
-### Structure
-
-The book is collated a^2^, 1^10+1^ (3 added), 2^10^–6^10^, 7^8+1^ (8 added), 8^10^, 9^10+1^ (11 added), 10^10^–21^10^ || 22^10^ || 23^10^, 24^10–6^ (6–10 cancelled), for a total of ii + 236 parchment folios (foliated 1–237, with an inserted slip in quire 8 foliated 70bis). The irregular number of folios in quire 8 suggests that it could originally have been planned as the end of the manuscript; *Sol meldunensis* book one (which, unlike book two, is not labelled as such) ends on fol. 69v.
-
-Quire 22 appears to have a different origin from the rest of the book; the decoration seems to be imitative of what comes before and after, but is not of the same style. My suggestion is that this quire was added at Malmesbury, and that quires 23/24 were added at Cirencester. There is no necessity, of course, for quires to be added in chronological order [for something comparable in time and genre, cf. @townsend:1987medieval, p. 355, where part 2 of 5 seems to have been added last].
-
-An earlier cataloguer has pencilled an alternative collation on the back flyleaf: '2 flyleaves. 1^12^ (10 cancelled) 2–6^10^ 7^10^ (2 cancelled) 8–9^10^ 10^12^ (11 cancelled) 11–21^10^ | 22^10^ | 23^10^ 24^10^ (wants 5–10): 237 ff (out of 242; 238–42 lost; 70 *bis* an inserted slip; 92 misbound after 93)'. This was presumably Henry Bradshaw, to judge from the handwriting and quire notation style, with the first folio of each quire numbered in the bottom right-hand corner and an 'x' marked in the same place on the recto immediately following the centre of the quire [concerning his work on the theory of collation, see @needham:1988bradshaw]. This incorrect perception appears to have two causes. Each quire is surrounded by a thin strip of parchment, which can be easily confused with a cancelled folio. (Though it may have been a Cambridge binding practice: it is also found, for example, in CUL MS Kk.5.10.) The note on fols. 92 and 93 was intended as a solution to the problem that the catchphrase on fol. 91v does not match the first line of 92r. Bradshaw, correctly recognizing it as a later standalone addition, is reacting to @hardwick:1856catalogue [p. 3:232], who state that a leaf was missing between fols. 91 and 92. A mark appears to direct the insertion of the leaf's text on 93v, but it does not seem necessary to postulate that the leaf should have been originally placed there; it is bound with quire 9, not 10 as he thought (the stub from the other end of the leaf is found before 82). The cataloguer modified the pencilled folation for fols. 92 and 93, swapping them to reflect this theory (leaving the real fol. 92 labelled 93 and fol. 93 labelled 92).
+An earlier cataloguer has pencilled an alternative collation on the back flyleaf: '2 flyleaves. 1^12^ (10 cancelled) 2–6^10^ 7^10^ (2 cancelled) 8–9^10^ 10^12^ (11 cancelled) 11–21^10^ | 22^10^ | 23^10^ 24^10^ (wants 5–10): 237 ff (out of 242; 238–42 lost; 70 *bis* an inserted slip; 92 misbound after 93)'. This was presumably Henry Bradshaw, to judge from the handwriting and gathering notation style, with the first folio of each gathering numbered in the bottom right-hand corner and an 'x' marked in the same place on the recto immediately following the centre of the gathering [concerning his work on the theory of collation, see @needham:1988bradshaw]. This incorrect perception appears to have two causes. Each gathering is surrounded by a thin strip of parchment, which can be easily confused with a cancelled folio. (Though it may have been a Cambridge binding practice: it is also found, for example, in CUL MS Kk.5.10.) The note on fols. 92 and 93 was intended as a solution to the problem that the catchphrase on fol. 91v does not match the first line of 92r. Bradshaw, correctly recognizing it as a later standalone addition, is reacting to @hardwick:1856catalogue [p. 3:232], who state that a leaf was missing between fols. 91 and 92. A mark appears to direct the insertion of the leaf's text on 93v, but it does not seem necessary to postulate that the leaf should have been originally placed there; it is bound with gathering 9, not 10 as he thought (the stub from the other end of the leaf is found before 82). The cataloguer modified the pencilled folation for fols. 92 and 93, swapping them to reflect this theory (leaving the real fol. 92 labelled 93 and fol. 93 labelled 92).
 
 The manuscript was among those M.R. James examined in his work towards a revised version of the Cambridge University Library catalogue [@ditommaso:2008pseudepigrapha, pp. 148-149; in general, see @ringrose:2001legacy], and his notes still exist.
 
-### Page Layout
+## Page Layout
 
 - 4r
     - ruled in pencil
@@ -235,6 +772,202 @@ Fol. 5 is an inserted leaf, slightly smaller (142 x 181 mm) than the rest of the
 
 young guy offering a book? [@little:1937franciscan, p. 61]
 
+
+# Origin and Address
+
+The provenance and contents of the manuscript suggests that it originated at Cirencester, and the compiler of *Sol meldunensis* names himself 'Galfridus':
+
+> | Sol meldunensis et cinthia lux monachorum.
+> | Suscipiat tua queso nouum dignatio carmen⸵
+> | Quod tibi Galfridi deuotio simplicis⸵ offert.
+> | Te correctorem sicio pastor pie˷ limam⸵
+> | Apponas operi. qui corrigis aspera claustri.
+> | Sis pius indultor culpe. iudexque benignus⸵
+> | Absoluas⸝ quod deliquit presumptio lingue.^[Cambridge, UL, Gg.6.42, fol. 3r.]
+
+> | O sun and moon of Malmesbury, light of the monks,
+> | May your honour accept, I ask, a new song
+> | Which the devotion of simple Geoffrey offers to you.
+> | I thirst for your correction, pious pastor:
+> | May you put a polish on this work, who corrects the roughness of the cloister.
+> | May you be a pious favourer of fault, and may you, a benignant judge,
+> | Absolve what the presumption of the tongue does wrong.
+
+The theme of correction is a gesture of friendship found elsewhere in this period [cf. @jaeger:2014epistolae]. The word 'simplicis' in the third verse is glossed 'Simplex uocatur claustralis. dicitur et simplex qui sine plica duplicitatis est.' ('The simple man is called cloistered; he is also called simple who is without the fold of deceit.') This implies that Galfridus was a monk or regular canon.
+
+We find in a further epistle, at the end of the proem to book two, that the recipient Galfridus holds in such high regard is 'Gaufridus': this most logically points to Geoffrey, abbot of Malmesbury abbey from 1246–60 [@knowles:2001heads, p. 2:51; @hunt:1984schools, p. 118], providing an appoximate date for the volume:
+
+> | Pagina dulce putat cum te mea sponte^[sepe *Reginald*] salutat⸵
+> | O Gavfride^[Lamberte *Reginald*] pie pater. omnis papa sophie.
+> | Sit precor eius aue tibi gratum dulce suaue.
+> | Esse quidem gratum tibi wlt o uir probitatum⸵
+> | Quod te magnificat de te bona singula dicat.
+> | Grates esse. putes tibi nostras ergo salutes.
+> | Nunc bone Gavfride^[Lamberte *Reginald*] laus cuius ubique sonatur.
+> | Tucior ut per te sit littera nostra precatur.
+> | Hic^[Qui *Reginald*] si forte tibi liber inconcinna loquatur⸵
+> | Iudex parce sibi ne statim proiciatur.
+> | Sepe relegisse cartam iuuat et meminisse;
+> | Sepius adde manum. quod habebis^[hebebit *Reginald*] erit puto planum.^[Cambridge, UL, Gg.6.42, fol. 71v.]<!-- cite McD version -->
+
+> | My page thinks sweetly when it greets you voluntarily,
+> | O Geoffrey, pious father, father of all wisdom.
+> | May, I pray, its hail be pleasing to you, sweet, pleasant.
+> | It wishes indeed to be pleasing to you, O man of honesty,
+> | That it magnifies you, concerning you it speaks many good things;<!--check DMLBS -->
+> | May you rejoice, may you then think on our salvation.
+> | Now, good Geoffrey, whose praise resounds everywhere,
+> | It asks that through you our letters may be safe.
+> | If perchance this book should speak clumsily to you,
+> | Judge it sparingly, that it may not be immediately abandoned.
+> | Often it is helpful to have reread a book and remember it;
+> | More often, add a hand: what you will have will be, I think, plain.
+
+The first eight lines of this verse epistle are taken from the dedication of Reginald of Canterbury's *Vita Malachi*, lines 2–8, originally addressed to Lambert, abbot of the Benedictine abbey of St Bertin; Galfridus wisely omits lines 28–31, which describe the book's crossing of the sea, and skips to the last four lines [edited in @liebermann:1888raginald, pp. 531–532]. There was good reason to be on good terms with Malmesbury, which is only twenty kilometres from Cirencester. Henry III appears to have travelled directly between the two locations during his visit in July 1241 [@anonymous:1901calendar, p. 3:255; cited in @luce:1979history, p. 36]. The abbot of Malmesbury witnesses a number of charters relating to the abbey found in the Cirencester cartulary, and a mandate from Stephen Langton as archbishop of Canterbury makes him responsible for ensuring that the bishop of Worcester did not interfere with the churches belonging to Cirencester abbey [@ross:1964cartulary, p. 2:367 (no. 406)].
+
+The final verse epistle of *Sol meldunensis* builds on the theme of judgement and correction, once again borrowing from Reginald of Canterbury, here addressing Gilbert Crispin, abbot of Westminster from 1085 to 1117 [printed in @wright:1872anglo, pp. 2:259–60]. The first group of lines (according to the manuscript's own divisions) correspond to Reginald's lines 23–28 and 37–38; the last to his 39–40. Galfridus also adds something else, via a quotation from Alexander Neckam: a desire to correspond. The two errors made by the scribe in this couplet suggest that he was probably quoting the original from memory, whereas the quotation of Reginald is flawless. It appears on fol. 212v as follows:
+
+> | ¶ Nunc pater et domne tu uideris hic liber omne⸵
+> |     Seu punctum tulerit^[Cf. Horace, *De arte poetica* 343–44: 'omne tulit punctum qui miscuit utile dulci, / lectorem delectando pariterque monendo.'] seu uiciosus erit.
+> | Stare uelis⸵ stabit. si non⸵ hunc flamma cremabit.
+> |     Laus sua sermo tuus interitusue suus.
+> | Si posui partes uelud is qui ne⟨s⟩ciit artes.
+> |     Hac miserere uice doctor apostolice.
+> | Laude tui plena dedit hec rudimenta camena.
+> |     Ob decus ingenue laudis ubique tue.
+>
+> | ¶ Mutua discurrat^[discurrant *before correction*] inter nos pagina. nota⸵
+> |     Mens tua mensque mea^[mea … tua *before correction*] sit mediante nota.
+>
+> | ¶ Gaudia presentis uite semperque manentis⸵
+> |     Et bona cuncta deus det tibi domne meus.
+
+> | ¶ Now, O father and lord, you see
+> |     whether this book carries every point or is full of faults.
+> | If you wish it to remain, it will remain; if not, a blaze will burn it;
+> |     your speech is its praise or destruction.
+> | If I have arranged its parts as somebody who does not know the arts,
+> |     have mercy on this fate, O apostolic doctor.
+> | Filled with you praise, this poetry gives the rudiments
+> |     before the glory of your natural praise everywhere.
+>
+> | ¶ Let a page go between us in turn;
+> |     may your mind be known as well as mine with an intermediating note.
+>
+> | ¶ May God give you the joy of the present and continuing life,
+> |     and all good things, my lord.
+
+Read literally, this might precisely explain the various layers of addition found in the manuscript, and why it apparently returned to Cirencester later on. But first, this quotation is a significant clue as to the author's identity. In its original context, it is from the end of a poem by Alexander entrusting his nephew for education to a 'doctor Radulfe', possibly Ralph of Dunstable, who wrote a verse life of St Alban [@hunt:1984schools, pp. 12–13; @rigg:1992history, p. 124; @mcleod:1980alban, pp. 412–16]:
+
+> | Quem tibi transmitto doctor Radulfe nepotem⸵ 
+> |     Suscipe. deuota sedulitate doce. 
+> | Hunc fidei committo tue. uigilancia cure⸵ 
+> |     Lucra feret. sterilis non erit iste labor.
+> | Versibus et rithmis. et adhuc dictamine. per te⸵
+> |     Floreat. et sit in hiis sollicitudo uigil.
+> | Moribus informa. uirtutibus inbue. uerbis⸵
+> |     Exorna. refice dogmate. pinge metris.
+> | Sis pater et doctor pariter uidearis uterque⸵
+> |     Esse sibi. monitis doctor. amore⸵ pater. [238va]
+> | Te duce nil pueri capiat puer. et pueriles⸵
+> |     Motus⸵ edocte mentis habena regat.
+> | Te duce sub teneris annis. uirtute senescat.
+> |     Purus. et inde puer⸵ desinat esse puer.
+> | Artificem commendet opus. doctrina magistri⸵
+> |     Discipulo pateat testificante sua.
+> | Mutua discurrat inter nos pagina. nota⸵
+> |     Mens tua. mensque mea⸵ sit mediante nota. [Paris, BnF, Lat. 11867, fols. 238rb–238va, also edited in @alexander_neckam:2008suppletio, p. 226 (carmina metrica, 17.17–18); @du_méril:1854poésies, pp. 170–171n4; @hunt:1984schools, p. 13n58; @walther:1969initia, no. 15382; @gärtner:2009alexandri, pp. 198–199 notes Hochgürtel's punctuation error]
+
+> | Accept, teacher Ralph, the nephew I send to you;
+> |     teach him with diligent care.
+> | I charge him to your trustworthiness; with the vigilance of care
+> |     he will bear the benefits; this labour will not be barren.
+> | Through you, he may flourish in verses and rhymes, in addition to literary style,
+> |     and have watchful attention in these.
+> | Shape him in morals; soak him in virtues;
+> |     adorn him with words; restore him with doctrine; embellish him with metre.
+> | May you be equally a father and teacher; may you seem
+> |     to be both to him: a teacher in warnings, a father in love.
+> | With you as guide let the boy absorb nothing boyish,
+> |     and let the strap steer the youthful impulses of the taught mind.
+> | With you as guide in the tender years let him grow old in excellence of character,
+> |     pure, and from a boy let him cease to be a boy.
+> | May the work commend the artist; may the teaching of the master
+> |     be clear to the student by its own witness.
+> | Let a page go between us in turn;
+> |     may your mind be known as well as mine with an intermediating note.
+
+Hunt suggests that the nephew mentioned in this poem might have been the Peter addressed in the versified version of *Corrogationes Promethei*, though we know nothing about him [@hunt:1984schools, pp. 12–13]. This could plausibly be Peter of Blois, with whom we have already seen that Alexander had a correspondence. It is far more likely that the quotation of the couplet in *Sol meldunensis* is self-referential. As we have seen, Galfridus describes himself as 'claustralis', and we know that he must had had extensive access to Cirencester's library. There are only two figures named Geoffrey mentioned in the Cirencester cartulary who could have been active in 1246–60: one is master Galfridus de Stanrewik' (Geoffrey of Sanderwick), mentioned as owing rent to the house in 1240, who is presumably the same as Galfridus de Mortun' (Geoffrey of Morton), to whom the abbey farmed its chapels of Standerwick and Egford in 1208 [@ross:1964cartulary, pp. 2:524–25 (no. 613), 525 (no. 614)]; he has no known institutional affiliation. The best candidate is Galfridus Britonus (Geoffrey Brito), who was not only a canon at Cirencester, but also Alexander Neckam's nephew.
+
+Between 1222 and 1230, Galfridus was assigned to Cirencester's church of St John the Baptist.
+
+
+
+
+332
+
+> Nouerit vniuersitas vestra quod nos deuocionem et dilecionis perseueranciam amicorum venerabilis patris nostri bone memorie magistri Alexandri quondam abbatis et predecessoris nostri commendatnes redditum qui per sollicitudinem et diligentem procuracionem dilecti fratris et concanonici nostri domini Galfridi Britonis nepotis ipsius abbatis assignatus est percipiendus singulis annis in villa C. de quadam solda propinquiore ostio ecclesie s. Johannis Baptiste jn leua eandem ecclesiam jntrancium jn die anniuersarii ipsius abbatis jn usus conuentus nostri singulis annis expendendum grantatner recepimus viz quantum exinde percipi poterit saluo redditu xii*d*. quos dominus rex singulis annis jnde percipere consueuit. Volumus tamen quod de iis que in anniuersariis ceterorum abbatum predecessorum suorum mos est exhiberi nichil subtrahatur set ut idem redditus dicto die promtior habeatur alicuius fratris fidelis communi assensu ad hc assignati custodie committatur. Et ne in usus alios dictus redditus humili deuocione ad hoc oblatus inposterum conuertatur formam istam presenti scripto et sigilli nostri appensione confirmauimus. [@ross:1964cartulary, pp. 1:299–300 (no. 332), (no. 336), (no. 592), cited at xxxii]
+
+The charter is witnessed by William of Blois, bishop of Worcester (where Alexander was buried),<!-- check --> and John Walsh, abbot of Malmesbury.
+
+no. 336
+
+*Notification by Abbot Hugh that the residue of a rent from a messuage near the outer gate of the abbey, which belonged to Richard Woderove, has been assigned as a pittance for the convent on the anniversary of Abbot Alexander.* 1230–36
+
+> Nouerit vniuersitas vestra quod nos deuocionem et dilecionis perseueranciam amicorum venerabilis patris nostri bone memorie magistri Alexandri quondam abbatis et predecessoris nostri commendantes redditum qui per sollicitudinem ipsorum et diligentem procuracionem dilecti fratris et concanonici nostri domini G(alfridi) Britonis nepotis ipsius abbatis assignatus est percipiendus singulis annis in villa C. de quodam mesuagio propinquiore porte abbacie C. extrinsece quod fuit aliquando Ricardi Woderoue expedendum in duobus cereis ardendis singulis diebus ad missam b. Marie in ecclesia conuentuali C. a canonicis eiusdem ecclesie consuetudinarie celebrandum qui incipient ardere a principio canonis eiusdem misse vsque ad ipsius consummacionem gratanter recepimus et quod residuum dicti redditus si quod fuerit in die anniuersarii ipsius abbatis in vsus conuentus nostri singulis annis expendatur concessimus viz quantum a dicto mesuagio percipi poterit saluis nobis redditu xii*d*. et aliis consuetudinibus et seruiciis secundum consuetudinem manerii de C. Volumus tamen quod de hiis que in anniuersariis ceterorum abbatum defunctorum mos est exhiberi nichil subtrahatur sed vt idem redditus ad vsus dictos prmptior habeatur alicuius fratris fidelis de gremio nostri monasterii communi assensu ad hoc assignati custodie committatur. Et ne in usus alios dictus redditus humili deuocione ad hoc oblatus in posterum conuertatur formam istam presenti scripto et sigilli nostri appensione confirmauimus. [@ross:1964cartulary, pp. 1:301–2 (no. 336)]
+
+This charter is also witnessed by William of Blois and John Walsh.
+
+no. 578n
+
+relationship to Richard Brito?
+
+no. 592
+
+
+vicar of Milborne?
+
+Does <https://books.google.ca/books?id=enivyXE1MNIC&pg=PA133&lpg=PA133&dq=%22galfridi+britonis%22&source=bl&ots=qSrUaA1Yku&sig=7xcHgbEkm5bp9hTsQm14RjlzW6k&hl=en&sa=X&ei=A70VVbTiM4WwyQSImIDwCA&ved=0CB4Q6AEwAA#v=onepage&q=%22galfridi%20britonis%22&f=false> refer to this guy?
+
+The name also explains the inclusion of the the excerpt from Geoffrey of Monmouth as a pun, since he is best known for his *De gestis Britonum*.
+
+# Authorship
+
+The author identifies himself as 'Galfridus' (fol. 3r)
+
+Alexander was apparently quite fond of his nephew, and 
+
+
+
+
+
+
+## Address
+
+
+*Nota* here could refer both to the adjective (i.e. 'known') as well as the noun (a mark or sign).
+
+
+It is tempting to think that this explains the book's structure.
+
+Gathering 22, containing Geoffrey of Monmouth's *Prophetia Merlini*, is in a another hand from the rest of the tome, and indeed @hunt:1984schools [p. ???] thought that it was from a different manuscript entirely. It seems plausible that this was an addition directed by the abbot in response to the invitation: the text is presented as opening with a letter to Alexander, bishop of Lincoln. If Geoffrey the monk first sent a text by an Alexander to Geoffrey the abbot, it is clever to respond with a text by a Geoffrey, addressed to an Alexander, back to Geoffrey. Gatherings 23 and 24 might then be further additions from Cirencester, to which the abbot might have responded with the various additions to the prose florilegium on fols. ???; indeed, there is potential here for several more stages of back-and-forth. Perhaps the book happened to be in Cirencester awaiting further additions at the abbot's death, and was never returned to Malmesbury, lacking any monks there with an interest in Alexander's works.
+
+the addition of another text from a Geo
+
+- and note that this is *not* from Reginald (discuss this poem), so this is valid (though the third verse McDonough quotes is not the same sentence!)
+
+<!--So why would a canon at Cirencester be writing to the abbot of Malmesbury? What was happening around here at the time? (Something to do with debts incurred at C, or was that later?) -->
+
+
+
+While this is something of a conjecture, what one can almost certainly say is that the *Sol meldunensis* manuscript is not a copy. Hunt guessed that the manuscript was 'one of the original fair copies' [@hunt:1984schools, p. 118]; more detailed analysis shows that the volume is the original, probably the only copy every made. There are several long passages added to the text after the fact, done in a way that indicates addition rather than correction (fols. **???**). Perhaps most tellingly, at one point the scribe is copying out the following passage from Neckam's commentary on Proverbs:
+
+> Melius est sedere in angulo domatis quam in domo communi cum uxore litigiosa. Set hec deo annuente exponetur … (fol. 173v)
+
+If we look at the copy of the commentary in Oxford, Jesus College, MS 94, the next word should have been 'inferius', but this is omitted. The compiler seems to have been happily reading along, and suddenly realized that this will not be 'explained below' in this book, because he is planning to end the excerpt at the end of the next sentence. He skips over 'inferius' partially erases 'set hec deo annuente exponetur' (and further underlines it in red to indicate that it is to be ignored), and the scribe moves on.
+
+I have not yet been able to conclude decisively whether or not this work is a direct autograph of Galfridus. While almost the entire book is in the same hand, there is two passages added in other hands (fols. 13v and 166r), the latter of which can be seen to be contemporary with the manuscript by the fact that it is integrated into its decorative scheme.  Perhaps one of these is an addition in the hand of the compiler, with the rest is dictated by him. In yet another hand is a glossed copy of a work written by another Galfridus, presented as a letter of Geoffrey of Malmesbury to Alexander, bishop of Lincoln, which is somewhat less professionally executed and added onto the manuscript. (Having another Geoffrey and Alexander together probably seemed too good a coincidence to omit.)
+
 # The Prose Florilegium
 
 <!-- FL fol. 189r: how does the punctuation from J and B? Can we use this to test whether it was copied from one of these manuscripts? -->
@@ -259,11 +992,22 @@ As one works through the manuscripts, a number of trends become apparent:
 
 How was this book intended to be read? One assumes that it is part of the rise of consultation that rose around this time [@hermand:2014lecture], and that it was probably not intended to be read from beginning to end.
 
+
+## Punctuation
+
+Here, the punctuation is quite different from the Jesus College MS:
+
+> *Ex tractatu super 'mulierem fortem'.*
+>
+> Nonne claustri leta facies˷ paradysi representat amenitatem? Viror intermedius planiciei interiacentis. ad pascua uite nos inuitat⸝ prenuncians orti deliciarum uoluptates arbor meditulium prati obumbrans⸵ ligni uite quod est in medio paradysi tipum gerit. si formam dispositionis quadrate consulas. transmitteris ad conformitatem .iiii.or uirtutum principalium. longitudo ex equo respondens latitudini docet equalia esse latera ciuitatis. (fol. 168v)
+
+> Claustri leta facies⸵ paradisi representat amenitatem. Viror intermedius planiciei interiacentius⸵ ad pascua uite nos inuitat. prenuntians⸵ orti deliciarum uoluptates. Arbor⸝ meditullium prati uirentis obumbrans⸵ ligni uite quod est in medio paradisi⸝ tipum gerit. Si formam dispositionis quadrate consulas⸵ transmitteris ad conformitatem quatuor uirtutum principalium. Longitudo ex equo respondens latitudini⸵ docet equalia esse latera ciuitatis. (fol. 120va–b)
+
 # The Verse Florilegium
 
+    
 
-
-# Later Readers
+# Contributions of Later Readers
 
 On fol. 2v, one finds this in a fifteenth-century hand:
 
@@ -277,4 +1021,6 @@ On fol. 2v, one finds this in a fifteenth-century hand:
 
 The manuscript was among the books owned by John Moore, bishop of Ely (1646–1714), presented to the library in 1715 by George I, with the standard bookplate on the opening flyleaf [@ringrose:1998royal].
 
+# Conclusion
 
+Surviving evidence indicates that Alexander was well recognized in his own time. Alfred of Sareshel dedicates *De motu cordis* to his 'magistrum magnum Alexandrum Nequam' [@sareshel:1923motu, pp. 1–4 (prol.); further discussed in @otte:1972life, pp. 277–278], and Alexander's works were cited up to the fourteenth century [discussed by @hunt1984:schools, chap. 10]. *De naturis rerum* was even read by John Dee, whose annotated copy survives as Oxford, Corpus Christi College, MS 245 [@thomson:2011descriptive, 129; @roberts:1990john, 181].
