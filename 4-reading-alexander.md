@@ -12,7 +12,7 @@ abstract: |
 
 Walter of Melida's correspondence noted in the last chapter demonstrates the respect Alexander gained among his peers, which was high enough for interest in his work to endure after his death. It also hints that he gained an appreciative readership at Malmesbury. Further evidence for this, with some of the best examples for how contemporaries might have used Alexander's writings, is found in a manuscript now held at the Cambridge University Library. This miscellany is called here *Sol meldunensis* from its incipit. The opening 'florilegium', as past scholars have classified it, strings together passages from nearly all Alexander's prose works (including some that do not otherwise survive). These form new sermons, as it presents them, adding connecting phrases to blend the excerpts together, though the resulting works are so long that they can hardly have been used as such. Various prose and verse pieces have been added to the manuscript by both the original and other hands, likely a product of an exchange between the communities of Cirencester and Malmesbury.
 
-# Contents and Terminology
+# Contents
 
 The manuscript is multi-layered, but can be understood as a unity: the title *Sol meldunensis* is used here to refer to the entire volume. It can be divided into three 'booklets', bound as a single volume: the first consisting of prose extracts, divided into two books; the second of Geoffrey of Monmouth's *Prophetia Merlini*; the third of a collection of verses mostly from Alexander. Hunt refers to the volume as the *Florilegium* (treating this as a title), but uses the term inconsistently to refer to either the manuscript as a whole or the prose section [his original description is @hunt:1936alexander, pp. 160-161; cf. @hunt:1984schools, pp. 54, 147]. Rigg contasts a 'florilegium' with an 'anthology', such as the collection of Alexander's poetic works in Paris, Bibliothèque nationale, MS Latin 11867: he defines a florilegium as 'a collection of excerpts' and an anthology as 'a collection of complete items (normally poems)' [@rigg:1996anthologies, pp. 708-709]. Under this understanding, it is strictly only the first part of the manuscript that can be called a florilegium; the verse section is organized in a manner similar to MS Lat. 11867, and includes complete extracts. An alternate definition of the anthology from Pearsall could equally be used to refer to the entire work: he emphasizes a purposeful assemblage, as opposed to books that have been randomly bound up, which must be 'specific, direct and fairly obvoius to the imagined contemporary reader' [@pearsall:2005whole, p. 21].<!-- check --> It would be simpler to refer to the manuscript using the more general term 'miscellany', though it is more frequently applied to later vernacular manuscripts. Where the term 'florilegium' is used here, it refers specifically to the section of prose extracts.<!-- cite @nichols:1996whole ? -->
 
@@ -683,47 +683,87 @@ A recent catalogue suggests that the book could have originated at either Cirenc
 
 ## II. Geoffrey of Monmouth, *Prophetia Merlini* (gathering 22, fols. 213–222)
 
-R.W. Hunt thought that this was a gathering from another manuscript<!-- not the book: thesis? or was it McD? cite? -->; this may be so, but it seems far too convenient that it is presented first of all as another Geoffrey addressing an Alexander, recalling the abbot of Malmesbury and Alexander Neckam; this rubric is in the same hand as that found elsewhere in the manuscript. Geoffrey of Monmouth and [Alexander of Lincoln] were both bishops; Geoffrey of Malmesbury and Alexander Neckam were both abbots. The text is widely spaced to allow for glosses to be inserted between the lines. Alisha reader has taken advantage of this though not perhaps to the extent envisioned by the original scribe.
-
-The manuscript is given the siglum ζ in Michael Reeve's edition of the text, one of five manuscripts viewed as stemming from the hypothetical ancestor Π [@monmouth:2007history, pp. xxx, l].
+R.W. Hunt thought that this was a gathering from another manuscript<!-- not the book: thesis? or was it McD? cite -->; this may be so, but it seems far too convenient that it is presented first of all as another Geoffrey addressing an Alexander, recalling the abbot of Malmesbury and Alexander Neckam; this rubric is in the same hand as that found elsewhere in the manuscript. Geoffrey of Monmouth and [Alexander of Lincoln] were both bishops; Geoffrey of Malmesbury and Alexander Neckam were both abbots. The text is widely spaced to allow for glosses to be inserted between the lines. Alisha reader has taken advantage of this though not perhaps to the extent envisioned by the original scribe.
 
 1. Epistula magistri Galfridi monumutensis directa alexandro Lincolniensi episcopo
 2. Prophetia Merlini.
 
-## III. The verse Alexander Neckam florilegium (gatherings 23–24, fols. 223–237)
+The manuscript is given the siglum ζ in Michael Reeve's edition of the text, one of five manuscripts viewed as stemming from the hypothetical ancestor Π [@monmouth:2007history, pp. xxx, l].
 
-The final section of the manuscript is a collection of verses written both by Alexander Neckam and his contemporaries. Broadly speaking, the first section is a collection of verses on wine; the second, a collection of material on fables; the last, devotional material. Unlike, however, the prose florilegium, the scribe does not even make an attempt at an outward system of organizatiHe and SAEon. In common with the first part of the manuscript is the page layout, the marginal titles, and the script. There is no verse epistle or proem. The final item in the manuscript, *De saluatore mundi*, is not even attributed to Alexander Neckam, though from the style is is hard to imagine that it could have been written by anybody else.
+## III. The verse 'anthology' (gatherings 23–24, fols. 223–237)
 
-### Poems on Wine
+The final section of the manuscript is a collection of verses, all but the opening three sections by Alexander Neckam. Unlike the prose florilegium, there is no overarching system of organization, though it is still better ordered than the Paris anthology of Alexander's verses, and its text is usually better. In common with the first part of the manuscript is the page layout, the marginal titles, and the script.
 
-- Petrus Blesensis, De commendatione vini (223)
-- Robertus de Bellafago, De commendatione cervisiae (223–223v)
-- Petrus Blesensis, Responsio (223v–224)
-- Alexander Nequam, De vino (224v–232)
+### Poems on Wine (fols. 223r–232r)
 
-[printed from this MS by @blois:1998carmina, p. 280–81 (carmina I, 6a)<!-- check-->; @braunholtz:1927streitgedichte, pp. 32–34]
+This section of the anthology is the most cohesive witness to an exchange between Peter of Blois and Robert of Beaufeu on the merits of wine and beer. The relationship of these poems to those by Alexander Neckam has not been considered: but it seems probable that they either appeared together in a Cirencester source in this manner, or that it reflected personal knowledge that Alexander was responding directly to these. The group is structured under the following headings:
 
-In his collected letters, Peter of Blois congratulatied Alexander on taking up monastic vows [@peter_of_blois:1847epistolæ, pp. 2:21–26 (ep. 137); cited by @hunt:1984schools, pp. 9–12], and may have remained engaged with his work, though perhaps not with complete pleasure. He wrote two letters possibly addressed to Alexander in which he criticizes a master for being too fond of wine [@peter_of_blois:1847epistolæ, pp. 1:17–19 (no. 7); @blois:1993later, pp. 159–60n (no. 31)], which may have been linked to a series of verses on the subject. He also criticizes the views of a Magister A. on whether guilt could return to a sinner [@blois:1993later, p. 304n (no. 70)]. It is unclear whether this attention came about through a connection to Cirencester, or the reverse [cf. @blois:1993later, nos. 45, 52]. Peter's letters, however, are perhaps not the best means of judging Alexander; they have been recently labelled a 'a microhistory of anxiety' [@cotts:2009clerical, p. 56].
+- Versus magistri petri Flesensis. De commendatione uini.
+- Versus Roberti de Bellafago. De commendatione ceruisie.
+- Respontio magistri petri Blesensis.
+- Magister alexander Domino .T. abbati claudie.
+- Versus magistri alexandri nequam. de Vino. liber primus.
+- Liber secundus de commendatione vini.
+- Liber tercius de commendatione vini.
+
+The exchange between Peter of Blois and Robert of Beaufeu has been edited among Peter's other poems [@peter_of_blois:1998carmina, pp. 280–281]. @braunholtz:1927streitgedichte was the first to edit the verses by Robert de Beaufeu, but does not even mention the existence of Alexander's verses.
+
+Alexander is a known correspondant of Peter of Blois. In his collected letters, Peter of Blois congratulated Alexander on taking up monastic vows [@peter_of_blois:1847epistolæ, pp. 2:21–26 (ep. 137); cited by @hunt:1984schools, pp. 9–12], and may have remained engaged with his work, though perhaps not with complete pleasure. He criticizes the views of a Magister A. on whether guilt could return to a sinner [@blois:1993later, p. 304n (no. 70)]. Directly related to the topic of alcohol, he wrote two letters in which he criticizes a master for being too fond of wine, which Revell argued could have been addressed to Alexander [@blois:1993later, pp. 159–60n (no. 31); @peter_of_blois:1847epistolæ, pp. 1:17–19 (no. 7)]. One should keep in mind that Peter's letters have been labelled 'a microhistory of anxiety' [@cotts:2009clerical, p. 56]. The relationship could not have been entirely unfriendly, since Peter seems to have maintained a connection with Cirencester [cf. @blois:1993later, nos. 45, 52].
+
+<!--get dates for Thomas of Gloucester -->
+
+Excerpts from *De commendatione uini* have been edited from the Paris anthology [@esposito:1915some, pp. 452-460; @walther:1965kleineren, pp. 112-121], and in full by Hochgürtel [@alexander_neckam:2008suppletio].<!-- ## -->
+
+In the context of the Cambridge manuscript, the most obvious understanding of the poem to Thomas, abbot of Gloucester, is to take it as a dedication to *De commendatione uini*, as it is listed in the nineteenth-century catalogue [@hardwick:1856catalogue, p. 3:233]. Yet in the Paris anthology (as well as Madrid, Biblioteca de Palacio, MS II.468, fol. 27v), it has no connection to this work. It could be argued that the Paris manuscript should not be used as an authority, as its presentation of *De commendatione uini* is somewhat confused: the first two books (fols. 214va–215vb) are separated from the third (fols. 216va–217rb). Some of the verses are repeated on fol. 238ra: Hunt takes this as a repeated fragment, while Cropp argues that they could equally be understood as the conclusion to *Corrogationes noui Prometei*, which precedes them [@hunt:1984schools, p. 141; @cropp:1991critical, pp. 49–51, 76]. The verses to Thomas only appear on fol. 240ra, surrounded by other assorted verses. Hochgürtel, who produces an entirely ideosyncatic organization for Alexander's poems with little reference to their sequence in the manuscripts, prints this as a separate poem with no explanation.
+
+### *Nouus Auianus* (fols. 232v–234v)
+
+This is, on the whole, the most accurate manuscript of this work, which has been edited many times [-@alexander_neckam:1854novus; -@alexander_neckam:1862nouus; -@alexander_neckam:1893nouus; -@alexander_neckam:1998nouus]. It is structured here as follows:
+
+1. De lupo.
+2. De testudine.
+    1. Copiose.
+    2. De eodem compendiose.
+    3. Succincte.
+3. De Cancro.
+4. De phebo et borea.
+5. De asello.
+6. De Rana.
+
+The work ends with a space until the end of the page (fifteen lines). It has already been discussed in more detail in the context of the Avianus tradition [@bisanti:2010novus; @bisanti:2002novus].
 
 ### Other verses by Alexander Neckam
 
-- Novus Avianus (232v–234v)
+- Diuisio huius nominis roma.
+- De Vase aureo in quo continetur eucharistia.
+- (inc. *Dulcessit crebro fructus radicis amare.*)
+- Entre dous uertes⸵ la terce meure.
 
-[@bisanti:2010novus, pp. 110, 116–17, 121]
+- 
 
-- De vase aureo in quo continetur Eucharistia, etc. (235–236)
+- Contra auarum.
+- Diuisio huius nominis uires.
+- Diuisio huius uerbi laboraui.
+- (inc. *Multa deus de te dicunt per signa prophete.*)
+- Uersus retrogredi.
+- De absconsa.
+- De laterna.
+- Ieo tute uail cink mars de or.
+- Beau Gwerre chastete.
+- Apres peyre. vin ou proueyre.
+- (inc. *Gaudeo legatus niueum michi misit olorem.*)
+- (inc. *O stupor. anguillas martyr mutauit in hillas.*)
 
-- De passione Salvatoris (237–237v).
 
-        - fols. 237r–v
-            - In a hand contemporary with, but different from, the main
-              hand. De passione sauatoris.
-            - Spendori patris fons sol ares …
-            - Printed from this MS in Anal. hymnica 31 p. 36f, not
-              quite accurately. A line is omitted after 7.5 Iesu post
-              discrimen forte; and another after 9.11 Ex ipsa carnem
-              sumentem.
 
+
+
+- (inc. *Cesaris inperium per tempora longa latebit*)
+
+
+### *De passione saluatoris* (fol. 237r–v)
+
+This folio is written in a slightly different hand from that responsible for most of the manuscript [printed in @blume:1898pia, pp. 36–37, which, among other infelicities, provides an incorrect title and omits two lines, after 7.5 and 9.11]. It is not explicitly attributed to anyone, and its authorship has never been analysed in a published work. It includes wordplay, rhetorical questions, and the use of exclamations such as 'ha' typical of his style; if it is not his work, it is someone purposely imitating him.
 
 # Physical Description
 
@@ -993,15 +1033,15 @@ As one works through the manuscripts, a number of trends become apparent:
 How was this book intended to be read? One assumes that it is part of the rise of consultation that rose around this time [@hermand:2014lecture], and that it was probably not intended to be read from beginning to end.
 
 
-## Punctuation
-
-Here, the punctuation is quite different from the Jesus College MS:
+Geoffrey also freely adapts the punctuation of his sources. For instance, this passage he copies as follows:
 
 > *Ex tractatu super 'mulierem fortem'.*
 >
-> Nonne claustri leta facies˷ paradysi representat amenitatem? Viror intermedius planiciei interiacentis. ad pascua uite nos inuitat⸝ prenuncians orti deliciarum uoluptates arbor meditulium prati obumbrans⸵ ligni uite quod est in medio paradysi tipum gerit. si formam dispositionis quadrate consulas. transmitteris ad conformitatem .iiii.or uirtutum principalium. longitudo ex equo respondens latitudini docet equalia esse latera ciuitatis. (fol. 168v)
+> Nonne claustri leta facies˷ paradysi representat amenitatem? Viror intermedius planiciei interiacentis. ad pascua uite nos inuitat⸝ prenuncians orti deliciarum uoluptates arbor meditulium prati obumbrans⸵ ligni uite quod est in medio paradysi tipum gerit. si formam dispositionis quadrate consulas. transmitteris ad conformitatem .iiii.or uirtutum principalium. longitudo ex equo respondens latitudini docet equalia esse latera ciuitatis. (Gg.6.42, fol. 168v)
 
-> Claustri leta facies⸵ paradisi representat amenitatem. Viror intermedius planiciei interiacentius⸵ ad pascua uite nos inuitat. prenuntians⸵ orti deliciarum uoluptates. Arbor⸝ meditullium prati uirentis obumbrans⸵ ligni uite quod est in medio paradisi⸝ tipum gerit. Si formam dispositionis quadrate consulas⸵ transmitteris ad conformitatem quatuor uirtutum principalium. Longitudo ex equo respondens latitudini⸵ docet equalia esse latera ciuitatis. (fol. 120va–b)
+Appears in the original in a slightly different form:
+
+> Claustri leta facies⸵ paradisi representat amenitatem. Viror intermedius planiciei interiacentis⸵ ad pascua uite nos inuitat. prenuntians⸵ orti deliciarum uoluptates. Arbor⸝ meditullium prati uirentis obumbrans⸵ ligni uite quod est in medio paradisi⸝ tipum gerit. Si formam dispositionis quadrate consulas⸵ transmitteris ad conformitatem quatuor uirtutum principalium. Longitudo ex equo respondens latitudini⸵ docet equalia esse latera ciuitatis. (Oxford, Jesus College, MS 94, fol. 120va–b)
 
 # The Verse Florilegium
 
