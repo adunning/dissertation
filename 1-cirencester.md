@@ -99,6 +99,11 @@ Why were books important to such an order?
 
 Alexander, as a teacher, would have fit in very well with such a group
 
+cite these, from @mcdonough:2005cambridge, p. 809n109: 
+
+@mews:2001hugh, pp. 71-72
+@taylor:2002textual, pp. 60–61
+@clark:1897observances, p. 6
 
 # Surviving books from Cirencester
 - so why Cirencester?
