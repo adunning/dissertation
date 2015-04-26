@@ -1,7 +1,7 @@
 ---
-title: Reading Alexander through *Sol meldunensis*
+title: Reading Alexander through *Sol meldunensis* (Cambridge, University Library, Gg.6.42)
 abstract: |
-    The compiler of *Sol meldunensis*, the collection of extracts mostly from Alexander Neckam in Cambridge, University Library, MS Gg.6.42, is shown to made a fairly narrow body of selections in his effort to make the material more useful for contemporary consultation purposes. He is identified with Alexander's nephew Geoffrey Brito. The layers of addition discernible in the manuscript are suggested to have been the result of a collaboration between the houses of Cirencester and Malmesbury.
+    *Sol meldunensis* (Cambridge, University Library, MS Gg.6.42) was originally produced as a florilegium collecting extracts mostly from Alexander Neckam, produced at Cirencester as a gift to the abbot of Malmesbury, with an invitation for correction. It is argued that the monks took this literally, adding more material to the manuscript and returning it to Cirencester, where a verse anthology of Alexander's works was added. The compiler is identified as Alexander's nephew Geoffrey Brito.
 ...
 
 <!--alt titles:
@@ -221,6 +221,10 @@ The manuscript was then probably sent back to Cirencester, where a rubric was ad
 
 # Hands
 
+## Contemporary Scripts
+
+### scribe 1/2? = GB?
+
 The entirety of the portions of the manuscript produced at Cirencester seem to have been written by the same scribe. There are a few shifts to a slightly thinner variant of the script, but these are brief, and do not decisively show the work of a different scribe:
 
 <!-- image of possible shift in hand at bottom of fol. 79v and 191r -->
@@ -229,12 +233,18 @@ The entirety of the portions of the manuscript produced at Cirencester seem to h
 
 It cannot be shown whether this is Geoffrey Brito's autograph. There are at least two contemporary correctors, one of whom might be Geoffrey; the first tends to make neat annotations in a slightly squat hand, and in a slightly different shade of ink from the main text:
 
-<!--images of the squat hand -->
+### changes in rubrics
+
+<!--70v bis, Distinctione secunda -->
+
+### squat hand
 
 - the strikethrough in red
 - the example on 149r, ad hebreos
 
+### corr-contemp-dkbrown
 
+### charter hand
 
 <!-- 57r correction -->
 
@@ -243,7 +253,7 @@ It cannot be shown whether this is Geoffrey Brito's autograph. There are at leas
 
 The second writes in a cursive script in dark brown:
 
-<!--cursive 1 -->
+### compressed hand
 
 There are two more substantial marginal additions, found on fols. 13v and 166r:
 
@@ -253,19 +263,36 @@ There are two more substantial marginal additions, found on fols. 13v and 166r:
 
 These can be seen to be contemporary with the manuscript by the fact that it is integrated into its decorative scheme.
 
-# Contributions of Later Readers
+### cursive-dkbrown
+
+### cursive-ltbrown
+
+### crayon nota person + corrections
+
+## Later Readers
 
 On fol. 2v, one finds this in a fifteenth-century hand:
+
+<!--cursive-ltbrown -->
+
+<!--image of 2v -->
 
 > | To Cirencester & bid them pray for me.
 > | He that prayeth for me Jesu have merci on hym.
 
-Below this appears to be the number 990.
+Below this appears to be the number 990. In the centre of the page has been added the only mark of personal ownership in the book:
 
 > | Iste liber constat moritio
 > | gyffardi testante iesu
 
-Maurice Gyffard was probably local to Cirencester, since the name occurs frequently in the abbey's cartulary. It seems to be his hand that adds some of the glosses to the *Prophetia Merlini*, and he also contributed a selection of prophecies on England on fol. 236v, the first of which, 'Cesaris inperium per tempora longa latebit', seems to have originated towards the end of the fourteenth century [@coote:2000prophecy, pp. 148–149; printed in @frońska:2014royal, p. 28].
+Maurice Gyffard was probably local to Cirencester, since the name occurs frequently in the abbey's cartulary. It seems to be his hand that adds some of the glosses to the *Prophetia Merlini*, and he also contributed a selection of prophecies on England on fol. 236v, the first of which, 'Cesaris inperium per tempora longa latebit', is grouped in other manuscripts with a set of prophecies originating in the twelfth century at the Augustinian priory of Bridlington, though its relationship to these is unclear [printed in @frońska:2014royal, p. 28; also noted in @coote:2000prophecy, pp. 148–149; @meyvaert:1966john discusses the problem of the authorship of the Bridlington poems].
+
+A humanist hand has worked through most of book 2 of the florilegium, adding 
+
+### humanist
+
+
+### humanist-cursive
 
 The manuscript was among the books owned by John Moore, bishop of Ely (1646–1714), and was presented to the University Library in 1715 by George I, with the standard bookplate on the opening flyleaf [@ringrose:1998royal].
 
@@ -273,7 +300,7 @@ The manuscript was among the books owned by John Moore, bishop of Ely (1646–17
 
 ## I. The prose Alexander Neckam 'florilegium' (gatherings 1–21, fols. 3–212)
 
-This is the original part of *Sol meldunensis*. It has been used in the past as a mere mine for information on the canon of Alexander Neckam's writings, but the nineteenth-century cataloguers were closer to the mark in calling it 'A Theological Treatise composed of extracts from the various works of Alexander Necham' [@hardwick:1856catalogue, p. 3:231]. Its outline runs as follows:^[Here and elsewhere, original spelling and punctuation from the manuscript is retained.]
+This is the original part of *Sol meldunensis*. It has been used in the past as a mere mine for information on the canon of Alexander Neckam's writings, but the nineteenth-century cataloguers were closer to the mark in calling it 'A Theological Treatise composed of extracts from the various works of Alexander Necham' [@hardwick:1856catalogue, p. 3:231]. Its outline runs as follows:
 
 -   1\. Epistula.
 -   2\. [Book One]
@@ -928,6 +955,44 @@ This is the original part of *Sol meldunensis*. It has been used in the past as 
 
 There is a good case to be made for the second book as an unplanned addition. Although there is no shift in the hand, book one is never described as such: it might have originally ended on fol. 68v, where the 'sermon' closes with a doxology and space left at the bottom of the page; or with the amorphous 'Ad libellum' section that follows, which collects several verses and is restricted to both sides of fol. 69. Sporadic planning is common in miscellanies [@pearsall:2005whole, p. 25].
 
+
+<!-- FL fol. 189r: how does the punctuation from J and B? Can we use this to test whether it was copied from one of these manuscripts? -->
+
+Lingue 
+igitur petulantia. conuicia. contumelie. obprobria. 
+detractiones. adulationes. irrisiones. lites. uirgia. 
+indignationes timide gestus indisciplinati. procul 
+relegentur a sanctitate uestra.
+
+### Structure
+
+### Sources
+
+### Method of Quotation
+
+As one works through the manuscripts, a number of trends become apparent:
+
+- The beginning each source is carefully noted (though occasional errors are made, usually through the omission of rubrics).
+- Sources are not exactly quoted verbatim, but words are added to make them flow together with the other excerpts and ensure that no loose ends are left after their removal from their original context (e.g. removing cross-references).
+- Each passage is not necessarily a new selection; a single long passage is often selected and interspersed with other works. Although Galfridus uses selections from across the Alexandrine corpus, the selections from within those works tend to be concentrated to certain parts of the book, rather than being spread evenly, perhaps indicating that he did not actually have to 
+
+How was this book intended to be read? One assumes that it is part of the rise of consultation that rose around this time [@hermand:2014lecture], and that it was probably not intended to be read from beginning to end.
+
+
+Geoffrey also freely adapts the punctuation of his sources. For instance, this passage he copies as follows:
+
+> *Ex tractatu super 'mulierem fortem'.*
+>
+> Nonne claustri leta facies˷ paradysi representat amenitatem? Viror intermedius planiciei interiacentis. ad pascua uite nos inuitat⸝ prenuncians orti deliciarum uoluptates arbor meditulium prati obumbrans⸵ ligni uite quod est in medio paradysi tipum gerit. si formam dispositionis quadrate consulas. transmitteris ad conformitatem .iiii.or uirtutum principalium. longitudo ex equo respondens latitudini docet equalia esse latera ciuitatis. (Gg.6.42, fol. 168v)
+
+Appears in the original in a slightly different form:
+
+> Claustri leta facies⸵ paradisi representat amenitatem. Viror intermedius planiciei interiacentis⸵ ad pascua uite nos inuitat. prenuntians⸵ orti deliciarum uoluptates. Arbor⸝ meditullium prati uirentis obumbrans⸵ ligni uite quod est in medio paradisi⸝ tipum gerit. Si formam dispositionis quadrate consulas⸵ transmitteris ad conformitatem quatuor uirtutum principalium. Longitudo ex equo respondens latitudini⸵ docet equalia esse latera ciuitatis. (Oxford, Jesus College, MS 94, fol. 120va–b)
+
+
+
+- talk about the X marks found in some manuscripts
+
 ## II. Geoffrey of Monmouth, *Prophetia Merlini* (gathering 22, fols. 213–222)
 
 At first glance, the *Prophetia Merlini* would seem to have nothing to do with Alexander Neckam, but it makes more sense as it is titled in the manuscript, written in the same Cirencester hand that rubricates the rest of the manuscript: 'Epistula magistri Galfridus monumutensis directa Alexandro Lincolniensi episcopo' (fol. 213v, also written at the base of fol. 214r and partially trimmed away). As the original part of *Sol meldunensis* is presented as a Geoffrey addressing another Geoffrey about Alexander, it seems far too convenient that this section is presented as another Geoffrey addressing an Alexander, as if the abbot of Malmesbury were addressing Cirencester as a whole. There might also be an implied pun on the name of Geoffrey Brito, since Geoffrey of Monmouth's famous work was sometimes known as *De gestis Britonum*.
@@ -1013,42 +1078,14 @@ Höchgurthel doubts the authenticity of some of these poems [@alexander_neckam:2
 
 This folio is written in a slightly different hand from that responsible for most of the manuscript [printed in @blume:1898pia, pp. 36–37, which, among other infelicities, provides an incorrect title and omits two lines, after 7.5 and 9.11]. It is not explicitly attributed to anyone, and its authorship has never been analysed in a published work. It includes wordplay, rhetorical questions, and the use of exclamations such as 'ha' typical of his style; if it is not his work, it is someone purposely imitating him.
 
-
-# The Prose Florilegium
-
-<!-- FL fol. 189r: how does the punctuation from J and B? Can we use this to test whether it was copied from one of these manuscripts? -->
-
-Lingue 
-igitur petulantia. conuicia. contumelie. obprobria. 
-detractiones. adulationes. irrisiones. lites. uirgia. 
-indignationes timide gestus indisciplinati. procul 
-relegentur a sanctitate uestra.
-
-## Structure
-
-## Sources
-
-## Method of Quotation
-
-As one works through the manuscripts, a number of trends become apparent:
-
-- The beginning each source is carefully noted (though occasional errors are made, usually through the omission of rubrics).
-- Sources are not exactly quoted verbatim, but words are added to make them flow together with the other excerpts and ensure that no loose ends are left after their removal from their original context (e.g. removing cross-references).
-- Each passage is not necessarily a new selection; a single long passage is often selected and interspersed with other works. Although Galfridus uses selections from across the Alexandrine corpus, the selections from within those works tend to be concentrated to certain parts of the book, rather than being spread evenly, perhaps indicating that he did not actually have to 
-
-How was this book intended to be read? One assumes that it is part of the rise of consultation that rose around this time [@hermand:2014lecture], and that it was probably not intended to be read from beginning to end.
-
-
-Geoffrey also freely adapts the punctuation of his sources. For instance, this passage he copies as follows:
-
-> *Ex tractatu super 'mulierem fortem'.*
->
-> Nonne claustri leta facies˷ paradysi representat amenitatem? Viror intermedius planiciei interiacentis. ad pascua uite nos inuitat⸝ prenuncians orti deliciarum uoluptates arbor meditulium prati obumbrans⸵ ligni uite quod est in medio paradysi tipum gerit. si formam dispositionis quadrate consulas. transmitteris ad conformitatem .iiii.or uirtutum principalium. longitudo ex equo respondens latitudini docet equalia esse latera ciuitatis. (Gg.6.42, fol. 168v)
-
-Appears in the original in a slightly different form:
-
-> Claustri leta facies⸵ paradisi representat amenitatem. Viror intermedius planiciei interiacentis⸵ ad pascua uite nos inuitat. prenuntians⸵ orti deliciarum uoluptates. Arbor⸝ meditullium prati uirentis obumbrans⸵ ligni uite quod est in medio paradisi⸝ tipum gerit. Si formam dispositionis quadrate consulas⸵ transmitteris ad conformitatem quatuor uirtutum principalium. Longitudo ex equo respondens latitudini⸵ docet equalia esse latera ciuitatis. (Oxford, Jesus College, MS 94, fol. 120va–b)
-
 # Conclusion
 
-Surviving evidence indicates that Alexander was well recognized in his own time. Alfred of Sareshel dedicates *De motu cordis* to his 'magistrum magnum Alexandrum Nequam' [@sareshel:1923motu, pp. 1–4 (prol.); further discussed in @otte:1972life, pp. 277–278], and Alexander's works were cited up to the fourteenth century [discussed by @hunt1984:schools, chap. 10]. *De naturis rerum* was even read by John Dee, whose annotated copy survives as Oxford, Corpus Christi College, MS 245 [@thomson:2011descriptive, 129; @roberts:1990john, 181].
+Alexander was well recognized in his own time as a writer: Alfred of Sareshel dedicates *De motu cordis* to his 'magistrum magnum Alexandrum Nequam' [@sareshel:1923motu, pp. 1–4 (prol.); further discussed in @otte:1972life, pp. 277–278], and Alexander's works were cited up to the fourteenth century [discussed by @hunt1984:schools, chap. 10]. *De naturis rerum* was even read by John Dee, whose annotated copy survives as Oxford, Corpus Christi College, MS 245 [@thomson:2011descriptive, 129; @roberts:1990john, 181]. *Sol meldunensis* is not only a convenient repository for finding Alexander's genuine writings, as it has been used in the past, but is also evidence for how Alexander's community at Cirencester commemorated his work. The amount of care put into the book surely reflects the high regard in which he was held by his peers, and especially the admiration of his nephew Geoffrey Brito, the likely compiler of the book.
+
+The book also carries on Alexander Neckam's sunny view towards religious orders other than his own. In his *Tractatus super Mulierem fortem*, commenting on Prov. 31:27 and taking the strong woman as the church, he remarks:
+
+> *Considerauit* igitur sancta mater ecclesia *semitas domus sue.* dum speciales obseruantias uite regularis adinuenit studium deuotionis⸵ ducentes directissime ad domum illam de qua ait ueritas. *In domo patris mei⸵ multe mansiones sunt.* [John 14:2] In diuersis diuerse consuetudines obseruantur ecclesiis. que licet sibi aduersari uideantur⸵ tum directe ducunt ad celeste palatium obseruatores suos. Cisterciensium. cluniacensium. chartusiensium et ceterorum ordinum sanctissimas institutiones considera. quid in eis nisi deliciosam amoris sancti iocunditatem reperies?^[Oxford, Jesus College, MS 94, fol. 123va–b]
+
+> Therefore, holy mother church *has looked well to the ways of her house*, when the enthusiam for prayer finds the special practices of the regular life, leading most directly to the house concerning which truth speaks: *In the house of my Father are many mansions.* In different churches, different customs are observed, and although they may seem to oppose themselves, yet they lead those who observe them directly to the heavenly palace. Consider the Cistercians, the Cluniacs, the Carthusians, and the most holy customs of the other orders: what will you find in them other than the delicious joy of holy love?
+
+What does monastic co-operation look like in practice? In the experiment that is *Sol meldunensis*, Geoffrey Brito and the community at Cirencester extend a gesture of friendship by inviting correction and augmentation to their work. The monks at Malmesbury responded enthusiastically, probably returning the book with a new illustration, marginal additions and correction, and a new gathering of Geoffrey of Monmouth, using a page layout that specifically invites further glossing. They could have found no better way to honour the memory of the unremittingly optimistic abbot.
