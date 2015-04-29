@@ -110,3 +110,22 @@ If Alexander calls his book 'speculum animi mei' (*SMF*, J, fol. 125r) or his th
 
 
 # 'Speculum animi mei': Alexander's Relationship to his books
+
+> | ¶ Et fortassis erit aliquis mea carmina rodens.
+> |   Nam quandoque solet serpere liuor humi.
+> | Set scribens aliis scribo michi. Disco docendo.
+> |   Sic michi sic aliis utilis esse uolo.
+> | Proficiens prodesse uolo tibi candide lector.
+> |   Discipulusque mei set tibi doctor ero.
+> | Qui me commorit melius non tangere clamo.^[Horace, *Sermones* 2.1.45]
+> |   Dum michi succenses inuide parce tibi. [*Corrogationes noui Promethei* 331–38, Cambridge, University Library, Gg.6.42, fol. 70bis v (the MS quoted here) and Paris, BnF, lat. 11867, fol. 232vb: @cropp:1991critical, p. 177 (who does not note the paragraph division); linked to @alexander_neckam:1999suppletio, pp. 130, 152, 160, 161; lines 333–34 cited in @hunt:1984schools, p. 59]
+
+> | And perhaps someone will be a gnawing my verses,
+> |   for sometimes spite is accustomed to crawl on the ground.
+> | But in writing for others I write for myself. I learn by teaching:
+> |   thus I wish to be useful both to myself and others.
+> | Improving, I wish to be useful to you, pure reader
+> |   and my student, but I will be your teacher.
+> | Who disturbs me, 'better not touch', I shout:
+> |   while you are malevolently angry with me, spare yourself.
+
