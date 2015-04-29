@@ -6,44 +6,6 @@ csl: chicago-fullnote-bibliography.csl
 
 Alexander makes a number of remarks about the production of books in his *De nominibus utensilium* and *Sacerdos ad altare*. This chapter considers whether these shed any light on Alexander’s writing process, particularly in the context of manuscripts that contain examples of Alexander’s own handwriting. This was first identified by R.W. Hunt in revisions to the commentary on the Psalms; his hypothesis is here verified and extended. The hand in Oxford, Jesus College 94 can be almost certainly be understood as belonging to Alexander because the corrections it makes are found (in a slightly different form) in London, British Library, Royal 2 C. XI. The hand is also identified as occurring in several other manuscripts, certainly in the case of a few other copies of Alexander’s works, and less so in annotations from several Cirencester manuscripts. The revisions made by this hand are compared to similar cases from this period.
 
-# Alexander on Writing
-
-Alexander seems to have taken a personal interest in writing, and makes a number of comments in his *De nominibus utensilium* and *Sacerdos ad altare*, both works designed for teaching Latin. One can catch a slight glimpse into his expectations through this works, though they fall short as evidence for specific practices at Cirencester. *De nominibus utensilium* is detailed enough that a scribe's writing desk has been reconstructed primarily based on its description [@vezin:2005reconstitution].
-
-Alexander also provides one of the best descriptions of tacketing in *DNV* and *SA* [@gullick:1996from, p. 240; cited in @gumbert:2011tacketed, p. 303n12, who suggests an emendation to the text, discussed at 318–320].
-
-@gasparri:2007terminologie
-
-
-
-
-
-
-
-
-
-
-> A scribe should have an erasing knife or a razor to scratch away the filth of the parchment or skin. He should have a rough pumice stone and a little plane for cleaning and levelling out the surface of the parchment. He should have a lead and a ruler with which the parchment may be lined, with a clear margin all around, on the outer side as well as on the flesh side.
-
-> Scriptor habeat rasorium sive novaculum ad radendum sordes pergameni vel membrane. Habeat etiam pumicem mordacem et planulam ad purgandum et equandum superficiem pergameni. Plumbum habeat et linulam, quibus lineatur pergamenum, margine circumquaque tam ex parte tergi quam ex parte carnis existente libera. [@hunt:1991teaching, p. 1:188; translated by @copeland:2010naming, pp. 43–44]
-
-@hunt:1991teaching, pp. 1:188–89
-@scheler:1866trois, pp. 167–169
-@wright:1857treatise, pp. 116–117
-
-
-
-
-@haskins:1927list? @haskins:1909list?
-
-
-SA
-
-DNV
-
-
-what about CP? CNP?
-
 # Alexander's Manuscripts
 
 Alexander may have had a literary executor of sorts in Walter de Melida (alternatively Melide or Melidie). Walter is mentioned in the Cirencester cartulary as one of three advisors to the abbot Richard
@@ -82,6 +44,44 @@ The letter from S., prior of Malmesbury, to Walter explains the meaning of the t
 - 
 
 
+
+# Alexander on Writing
+
+Alexander seems to have taken a personal interest in writing, and makes a number of comments in his *De nominibus utensilium* and *Sacerdos ad altare*, both works designed for teaching Latin. One can catch a slight glimpse into his expectations through this works, though they fall short as evidence for specific practices at Cirencester. *De nominibus utensilium* is detailed enough that a scribe's writing desk has been reconstructed primarily based on its description [@vezin:2005reconstitution].
+
+Alexander also provides one of the best descriptions of tacketing in *DNV* and *SA* [@gullick:1996from, p. 240; cited in @gumbert:2011tacketed, p. 303n12, who suggests an emendation to the text, discussed at 318–320].
+
+@gasparri:2007terminologie
+
+
+
+
+
+
+
+
+
+
+> Scriptor habeat rasorium sive novaculum ad radendum sordes pergameni vel membrane. Habeat etiam pumicem mordacem et planulam ad purgandum et equandum superficiem pergameni. Plumbum habeat et linulam, quibus lineatur pergamenum, margine circumquaque tam ex parte tergi quam ex parte carnis existente libera. [@hunt:1991teaching, p. 1:188; translated by @copeland:2010naming, pp. 43–44]
+
+> A scribe should have an erasing knife or a razor to scratch away the filth of the parchment or skin. He should have a rough pumice stone and a little plane for cleaning and levelling out the surface of the parchment. He should have a lead and a ruler with which the parchment may be lined, with a clear margin all around, on the outer side as well as on the flesh side.
+
+@hunt:1991teaching, pp. 1:188–89
+@scheler:1866trois, pp. 167–169
+@wright:1857treatise, pp. 116–117
+
+
+
+
+@haskins:1927list? @haskins:1909list?
+
+
+SA
+
+DNV
+
+
+what about CP? CNP?
 
 # Alexander's Autograph
 
