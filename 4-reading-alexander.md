@@ -1,46 +1,46 @@
 ---
 title: Reading Alexander through *Sol meldunensis* (Cambridge, University Library, Gg.6.42)
+author: Andrew Dunning
 abstract: |
     *Sol meldunensis* (Cambridge, University Library, MS Gg.6.42) was originally produced as a florilegium collecting extracts mostly from Alexander Neckam, produced at Cirencester as a gift to the abbot of Malmesbury, with an invitation for correction. It is argued that the monks took this literally, adding more material to the manuscript and returning it to Cirencester, where a verse anthology of Alexander's works was added. The compiler is identified as Alexander's nephew Geoffrey Brito.
+csl: chicago-fullnote-bibliography.csl
 ...
 
 <!--alt titles:
 - Cloistered Exchange
 - Monastic Exchange -->
 
-<!-- integrate these citations elsewhere: @esposito:1915some; @russell:1932alexander; @hunt:1936alexander, pp. 160-161; @morgan:1982early, p. 2:130 (no. 84); @hunt:1984schools, pp. 118, 128, 140, 145, 147, 152–53, 155; @neckam:1999suppletio, pp. 119, 123, 130, 142, 152, 160–161; @mcdonough:2004laus; @mcdonough:2005cambridge; @binski:2011western, pp. 106–107 (no. 113), pl. 37 --> 
-
-Walter of Melida's correspondence noted in the last chapter demonstrates the respect Alexander gained among his peers, which was high enough for interest in his work to endure after his death. It also hints that he gained an appreciative readership at Malmesbury. Further evidence for this, with some of the best examples for how contemporaries might have used Alexander's writings, is found in a manuscript now held at the Cambridge University Library, Gg.6.42. This miscellany is called here *Sol meldunensis* from its incipit, written by a Cirencester canon and dedicated to the abbot of Malmesbury, both named Geoffrey. The opening 'florilegium', as past scholars have classified it, strings together passages from nearly all Alexander's prose works (including some that do not otherwise survive). These form new sermons, as it presents them, adding connecting phrases to blend the excerpts together, though the resulting works are so long that they can hardly have been used as such. Various prose and verse pieces have been added to the manuscript by both the original and other hands, likely a product of an exchange between the communities of Cirencester and Malmesbury.
+Walter of Melida's correspondence noted in the last chapter demonstrates the respect Alexander gained among his peers, which was high enough for interest in his work to endure after his death. It also hints that he gained an appreciative readership at Malmesbury. Further evidence for this, with some of the best examples for how contemporaries might have used Alexander's writings, is found in a manuscript now held at the Cambridge University Library, Gg.6.42. This miscellany is called here *Sol meldunensis* from its incipit, written by a Cirencester canon and dedicated to the abbot of Malmesbury, both named Geoffrey. The opening 'florilegium', as past scholars have classified it, strings together passages from nearly all Alexander's prose works (including some that do not otherwise survive). It has become clear that understanding this book is key to analysing Alexander, and the manuscript has fruitfully been used as a repository for identifying his genuine writings [see @esposito:1915some; @russell:1932alexander; @hunt:1984schools, pp. 125–153; @mcdonough:2004laus; @mcdonough:2005cambridge]. The excerpts are woven together to form new 'sermons', as the compiler presents them. Various pieces have been added to the manuscript by both the original and other hands, likely a product of an exchange between the communities of Cirencester and Malmesbury.
 
 # Physical Description
 
-While it has been suggested in the past that the book could have originated at either Cirencester or Malmesbury [@binski:2011western, p. 106], this chapter argues that parts of the manuscript are from both abbeys. The florilegium that forms the bulk of the manuscript must have been compiled at Cirencester, as this is the only known location where all the works it uses were available [also noted by @mcdonough:2005cambridge, p. 792n41], and presumably both this and the closing verse anthology, written by the same scribe, was also written there. It certainly belonged to Cirencester in a later period; at the top of fol. 3r, one can make out, with the help of an ultraviolet light, the erased word 'Cyrencestris' (below this is an inscription in a humanist hand beginning 'De', also expunged), in a form similar to an  *ex libris* found in a manuscript of Alexander's commentary on the Psalms from the late thirteenth century (now Oxford, Bodleian Library, MS Bodley 284).
+While it has been suggested in the past that the book could have originated at either Cirencester or Malmesbury [@binski:2011western, p. 106 (no. 113)], this chapter argues that parts of the manuscript are from both abbeys. The florilegium that forms the bulk of the manuscript must have been compiled at Cirencester, as this is the only known location where all the works it uses were available [also noted by @mcdonough:2005cambridge, p. 792n41], and presumably both this and the closing verse anthology, written by the same scribe, was also written there. It certainly belonged to Cirencester in a later period; at the top of fol. 3r, one can make out, with the help of an ultraviolet light, the erased word 'Cyrencestris' (as well as an inscription in a humanist hand), in a form similar to an *ex libris* found in a manuscript of Alexander's commentary on the Psalms from the late thirteenth century (now Oxford, Bodleian Library, MS Bodley 284).
 
-The manuscript is multi-layered, but can be understood as a unity: the title *Sol meldunensis* is used here to refer to the entire volume. It can be divided into three or potentially four 'booklets', bound as a single volume: the first containing mostly prose extracts from Alexander Neckam, divided into two books; the second Geoffrey of Monmouth's *Prophetia Merlini*; the third a collection of verses mostly from Alexander. Hunt refers to the volume as the *Florilegium* (treating this as a title), but uses the term inconsistently to refer to either the manuscript as a whole or the prose section [his original description is @hunt:1936alexander, pp. 160-161; cf. @hunt:1984schools, pp. 54, 147]. Rigg contasts this 'florilegium' with an 'anthology' such as the collection of Alexander's poetic works in Paris, Bibliothèque nationale, MS Latin 11867: he defines a florilegium as 'a collection of excerpts' and an anthology as 'a collection of complete items (normally poems)' [@rigg:1996anthologies, pp. 708-709]. Under this understanding, it is strictly only the first part of the manuscript that can be called a florilegium; the verse section is organized in a manner similar to the Paris anthology, and includes complete extracts. An alternate definition of the anthology from Pearsall could equally be used to refer to the entire work: he emphasizes a purposeful assemblage, as opposed to books that have been randomly bound up, which must be 'specific, direct and fairly obvoius to the imagined contemporary reader' [@pearsall:2005whole, p. 21].<!-- check --> It would be simpler to refer to the manuscript using the more general term 'miscellany', though it is more frequently applied to later vernacular manuscripts. Where the term 'florilegium' is used here, it refers specifically to the first booklet.<!-- cite @nichols:1996whole ? -->
+The manuscript is multi-layered, but can be understood as a unity: the title *Sol meldunensis* is used here to refer to the entire volume. It can be divided into three or potentially four 'booklets', bound as a single volume: the first containing mostly prose extracts from Alexander Neckam, divided into two books; the second Geoffrey of Monmouth's *Prophetia Merlini*; the third a collection of verses mostly from Alexander. Hunt refers to the volume as the *Florilegium* (treating this as a title), but uses the term inconsistently to refer to either the manuscript as a whole or the prose section [his original description appears in @hunt:1936alexander, pp. 160-161; cf. @hunt:1984schools, pp. 54, 147]. Rigg contasts this 'florilegium' with an 'anthology' such as the collection of Alexander's poetic works in Paris, Bibliothèque nationale, MS Latin 11867: he defines a florilegium as 'a collection of excerpts' and an anthology as 'a collection of complete items (normally poems)' [@rigg:1996anthologies, pp. 708–709]. Under this understanding, it is strictly only the first part of the manuscript that can be called a florilegium; the verse section is organized in a manner similar to the Paris anthology, and includes complete extracts. An alternate definition of the anthology from Pearsall could equally be used to refer to the entire work: he emphasizes an assemblage whose purposes must be 'specific, direct and fairly obvious to the imagined contemporary reader' [@pearsall:2005whole, p. 21], as opposed to books that have been randomly bound up.<!-- read around this --> It would be simpler to refer to the manuscript itself using the more general term 'miscellany' [for considerations of the usefulness of this term, see @nichols:1996whole]. Where the term 'florilegium' is used here, it refers specifically to the first booklet.
 
 Using the example of London, British Library, Cotton MS Titus D.XX (containing Alexander Neckam's *De nominibus utensilium*, among other things), Dinkova-Bruun has further suggested that one should distinguish between a secondary miscellany, 'a codex containing various parts written at different times and by different scribes, which did not belong together originally but were bound within the same covers at a later stage, often at random', and a primary miscellany, 'a compilation created from the very beginning by a person or group of people with an overarching idea and purpose' [@dinkova-bruun:2013medieval, p. 15]. In the case of the Cambridge manuscript, the florilegium and the closing verse anthology could be considered independently as primary miscellanies, but codicological evidence demonstrates that the entirety of *Sol meldunensis* was assembled by its creators and not by modern readers, much as its contents may seem incongruent at first glance.
 
-The first and third booklets were produced by the same scribes, while the Geoffrey of Monmouth gathering is imitative of what precedes it in terms of its decoration and page layout, but has an entirely different script, and has its lines widely spaced to allow for glossing: this is the postulated contribution of Malmesbury abbey. R.W. Hunt thought that this was a gathering from another manuscript,<!-- not the book: thesis? or was it McD? cite --> but on fol. 213v, a note has been added that appears to be from the original rubricator, and some of the contemporary annotators of this gathering can be found elsewhere in the manuscript. The entire manuscript should be understood as a 'primary miscellany': the book as it stands is a medieval creation, and not one of the many volumes that were randomly assembled on the whim of an indiscreet modern reader.
+The first and third booklets were produced by the same scribes, while the Geoffrey of Monmouth gathering is imitative of what precedes it in terms of its decoration and page layout, but has an entirely different script, and has its lines widely spaced to allow for glossing: this is the postulated contribution of Malmesbury abbey. That this is not a gathering from another manuscript is demonstrated on fol. 213v, where a note has been added that appears to be from the Cirencester rubricator. The entire manuscript should be understood as a 'primary miscellany': the book as it stands is a medieval creation, and not one of the many volumes that were randomly assembled on the whim of an indiscreet modern reader.
 
 ## Structure
 
-The book is collated a^2^, 1^10+1^ (3 added), 2^10^–6^10^, 7^8+1^ (8 added), 8^10^, 9^10+1^ (11 added), 10^10^–21^10^ || 22^10^ || 23^10^, 24^10–6^ (6–10 cancelled), for a total of ii + 236 parchment folios (foliated 1–237, with an inserted slip in gathering 8 foliated 70bis). The contents of the irregular leaves confirm that they are additions rather than evidence of lost pages. The unusual number of folios in gathering 7 might suggest that it was originally planned as the end of the manuscript, corresponding to the end of the first book of the florilegium on fol. 68v or 69v (which, unlike book two, is not labelled as such); the proem to Book 2 has been copied into the rest of the gathering, on fols. 70r–71v. Gathering 22 both begins and ends with blank leaves, and has a slightly heavier weight of parchment from the rest of the book. While the end of the last gathering has been cut away, these pages were likely blank: the verse anthology ends on fol. 236r, and fol. 236v was originally blank; both sides of fol. 237 have a hymn, which looks to have been written by the Cirencester scribes, but uses a slightly different style of decoration, with green rather than blue initials alternating with red.
+The book is collated a^2^, 1^10+1^ (3 added), 2–6^10^, 7^8+1^ (8 added), 8^10^, 9^10+1^ (11 added), 10–21^10^ || 22^10^ || 23^10^, 24^8–4^ (5–8 cancelled),<!-- still not sure about # of leaves in last gathering --> for a total of ii + 236 parchment folios (foliated 1–237, with an inserted slip in gathering 8 foliated 70bis). The contents of the irregular leaves confirm that they are additions rather than evidence of lost pages. The unusual number of folios in gathering 7 might suggest that it was originally planned as the end of the manuscript, corresponding to the end of the first book of the florilegium on fol. 68v or 69v (which, unlike book two, is not labelled as such); the proem to Book 2 has been copied into the rest of the gathering, on fols. 70r–71v. Gathering 22 both begins and ends with blank leaves, and has a slightly heavier weight of parchment in comparison to the rest of the book. While the end of the last gathering has been cut away, these pages were likely blank: the verse anthology ends on fol. 236r, and fol. 236v was originally blank; both sides of fol. 237 have a hymn, which looks to have been written by the Cirencester scribes, but uses a slightly different style of decoration, with green rather than blue initials alternating with red.
 
-An earlier cataloguer has pencilled an alternative collation on the back flyleaf: '2 flyleaves. 1^12^ (10 cancelled) 2–6^10^ 7^10^ (2 cancelled) 8–9^10^ 10^12^ (11 cancelled) 11–21^10^ | 22^10^ | 23^10^ 24^10^ (wants 5–10): 237 ff (out of 242; 238–42 lost; 70 *bis* an inserted slip; 92 misbound after 93)'. This was presumably Henry Bradshaw, to judge from the handwriting and gathering notation style, with the first folio of each gathering numbered in the bottom right-hand corner and an 'x' marked in the same place on the recto immediately following the centre of the gathering [concerning his work on the theory of collation, see @needham:1988bradshaw: thanks to Suzanne Paul of the CUL for confirmation on his practice]. His incorrect perception appears to have two causes. Each gathering is surrounded by a thin strip of parchment, which can be easily confused with a cancelled folio. (Though it may have been a Cambridge binding practice: it is also found, for example, in Cambridge, University Library, MS Kk.5.10.) The note on fols. 92 and 93 was intended as a solution to the problem that the catchphrase on fol. 91v does not match the first line of 92r. Bradshaw, correctly recognizing it as a later standalone addition, is reacting to @hardwick:1856catalogue [p. 3:232], who state that a leaf was missing between fols. 91 and 92. A mark appears to direct the insertion of the leaf's text on 93v, but it does not seem necessary to postulate that the leaf should have been originally placed there; it is bound with gathering 9, not 10 as he thought (the stub from the other end of the leaf is found before 82). The cataloguer modified the pencilled folation for fols. 92 and 93, swapping them to reflect this theory (leaving the real fol. 92 labelled 93 and fol. 93 labelled 92). The manuscript was among those M.R. James examined in his work towards a revised version of the Cambridge University Library catalogue [@ditommaso:2008pseudepigrapha, pp. 148-149; in general, see @ringrose:2001legacy].
+An earlier cataloguer has pencilled an alternative collation on the back flyleaf: '2 flyleaves. 1^12^ (10 cancelled) 2–6^10^ 7^10^ (2 cancelled) 8–9^10^ 10^12^ (11 cancelled) 11–21^10^ | 22^10^ | 23^10^ 24^10^ (wants 5–10): 237 ff (out of 242; 238–42 lost; 70 *bis* an inserted slip; 92 misbound after 93)'. This was presumably Henry Bradshaw, to judge from the handwriting and gathering notation style, with the first folio of each gathering numbered in the bottom right-hand corner and an 'x' marked in the same place on the recto immediately following the centre of the gathering [concerning his work on the theory of collation, see @needham:1988bradshaw: thanks to Suzanne Paul of the CUL for confirmation on his practice]. His incorrect perception appears to have two causes. Each gathering is surrounded by a thin strip of parchment, which can be easily confused with a cancelled folio. (Though it may have been a Cambridge binding practice: it is also found, for example, in Cambridge, University Library, MS Kk.5.10.) The note on fols. 92 and 93 was intended as a solution to the problem that the catchphrase on fol. 91v does not match the first line of 92r. Bradshaw, probably recognizing it as a later standalone addition, is reacting to the Cambridge catalogue, which states that a leaf was missing between fols. 91 and 92 [@hardwick:1856catalogue, p. 3:232]. A mark appears to direct the insertion of the leaf's text on 93v, but it does not seem necessary to postulate that the leaf should have been originally placed there; it is bound with gathering 9, not 10 as he thought (the stub from the other end of the leaf is found before fol. 82). The cataloguer modified the pencilled folation for fols. 92 and 93, swapping them to reflect this theory (leaving the real fol. 92 labelled 93 and fol. 93 labelled 92). The manuscript was among those M.R. James examined in his work towards a revised version of the Cambridge University Library catalogue [@ditommaso:2008pseudepigrapha, pp. 148-149; in general, see @ringrose:2001legacy].
 
 ## Page Layout
 
 The pages measure around 210 × 140 mm, having been trimmed on all sides by several millimetres. Their layout follows a highly consistent pattern: fol. 4r is typical of the florilegium, with vertical rules ocurring in pencil, from left to right, at 24, 95.5, 116, 119.5, 141.25, and 142 mm. Horizontal rules occur, from top to bottom, at 2, 16.5, 21.5, 136.5, 141, 180, 184, and 205.5, and 210 mm. The line spacing is typically 4.5 to 5 mm. The last of these rules may be for aligning the catchphrase, and is often omitted; its location varies somewhat (sometimes as high as 203 mm). The three rules below the textblock are sometimes omitted.
 
-<!--fol. 4r -->
+![Fol. 4r.](images/sol-meldunensis/4r.jpg)
 
 Fol. 215r, ruled in plummet, is a typical example of the Geoffrey of Monmouth booklet. Vertical rules occur at 13, 18, 105, 110, and 138 mm; horizontal at 18.5, 35.5, 176.5, and 208 mm. The line spacing is 8.5 mm, but the text is only about 5 mm high, leaving extra space for glosses (the same layout found in almost all copies of Alexnader Neckam's *De nominibus utensilium*).
 
-<!--fol. 215r -->
+![Fol. 215r.](images/sol-meldunensis/215r.jpg)
 
 In the verse anthology, using fol. 223r as an example, vertical rules occur at 23, 27.5, 98.5, 115.5, 119, and 141.5 mm; horizontal at 14, 19, 154, 157.5, 178, 182.5, 207.5, and 209 mm. The line spacing is, once again, 4.5–5 mm. This variation from the pattern of the florilegium could be evidence of a different date of production for the final two gatherings.
 
-<!-- fol. 223r -->
+![Fol. 223r.](images/sol-meldunensis/223r.jpg)
 
 # Origin and Address
 
@@ -52,8 +52,7 @@ The compiler of *Sol meldunensis* names himself 'Galfridus':
 > | Te correctorem sicio pastor pie˷ limam⸵
 > | Apponas operi. qui corrigis aspera claustri.
 > | Sis pius indultor culpe. iudexque benignus⸵
-> | Absoluas⸝ quod deliquit presumptio lingue.
-[Cambridge, UL, Gg.6.42, fol. 3r: all quotations from the manuscript use the scribal punctuation. @mcdonough:2005cambridge, p. 791 prints the first five lines and offers two literary parallels; also in @hunt:1936alexander, p. 160]
+> | Absoluas⸝ quod deliquit presumptio lingue. [Cambridge, UL, Gg.6.42, fol. 3r: all quotations from the manuscript use the scribal punctuation. @mcdonough:2005cambridge, p. 791 prints the first five lines and offers two literary parallels; also in @hunt:1936alexander, p. 160]
 
 > | O sun and moon of Malmesbury, light of the monks,
 > | May your honour accept, I ask, a new song
@@ -63,9 +62,9 @@ The compiler of *Sol meldunensis* names himself 'Galfridus':
 > | May you be a pious favourer of fault, and may you, a benignant judge,
 > | Absolve what the presumption of the tongue does wrong.
 
-The word 'simplicis' in the third verse implies that Geoffrey was a monk or regular canon; this is glossed 'Simplex uocatur claustralis. dicitur et simplex qui sine plica duplicitatis est.' ('The simple man is called cloistered; he is also called simple who is without the fold of deceit.') The theme of correction is found as a gesture of friendship in other contemporary works [cf. @jaeger:2014epistolae].
+The word 'simplicis' in the third verse implies that Geoffrey was a monk or regular canon; this is glossed 'Simplex uocatur claustralis. dicitur et simplex qui sine plica duplicitatis est.' ('The simple man is called cloistered; he is also called simple who is without the fold of deceit.') Mutual correction was one of the classic ideals of friendship [see @jaeger:2010friendship].
 
-A further epistle at the end of the proem to book two reveals that the recipient Geoffrey holds in such high regard is 'Gaufridus': this most logically points to Geoffrey, abbot of Malmesbury abbey from 1246–60 [@knowles:2001heads, p. 2:51; @hunt:1984schools, p. 118], providing an appoximate date for the volume. The first eight lines of this verse epistle are taken from the dedication of Reginald of Canterbury's *Vita Malachi*, lines 2–8, originally addressed to Lambert, abbot of the Benedictine abbey of St Bertin; Galfridus wisely omits lines 28–31, which describe the book's crossing of the sea, and skips to the last four lines [edited in @liebermann:1888raginald, pp. 531–532]:
+A further verse epistle at the end of the proem to book two reveals that the recipient Geoffrey holds in such high regard is 'Gaufridus': this most logically points to Geoffrey, abbot of Malmesbury abbey from 1246–60 [@knowles:2001heads, p. 2:51; first identified by @hunt:1984schools, p. 118], providing an appoximate date for the volume. The first eight lines of this poem are taken from the dedication of Reginald of Canterbury's *Vita Malachi*, lines 2–8, originally addressed to Lambert, abbot of the Benedictine abbey of St Bertin; Galfridus wisely omits lines 28–31, which describe the book's crossing of the sea, and skips to the last four lines [edited in @liebermann:1888raginald, pp. 531–532; see also ]:
 
 > | Pagina dulce putat cum te mea sponte^[sepe *Reginald*] salutat⸵
 > | O Gavfride^[Lamberte *Reginald*] pie pater. omnis papa sophie.
@@ -78,8 +77,7 @@ A further epistle at the end of the proem to book two reveals that the recipient
 > | Hic^[Qui *Reginald*] si forte tibi liber inconcinna loquatur⸵
 > | Iudex parce sibi ne statim proiciatur.
 > | Sepe relegisse cartam iuuat et meminisse;
-> | Sepius adde manum. quod habebis^[hebebit *Reginald*] erit puto planum.
-[Cambridge, UL, Gg.6.42, fol. 71v: the first eight lines are also printed in @mcdonough:2005cambridge, p. 791; @hunt:1936alexander, p. 160]
+> | Sepius adde manum. quod habebis^[hebebit *Reginald*] erit puto planum. [Cambridge, UL, Gg.6.42, fol. 71v: the first eight lines are also printed in @mcdonough:2005cambridge, p. 791; @hunt:1936alexander, p. 160]
 
 > | My page thinks sweetly when it greets you voluntarily,
 > | O Geoffrey, pious father, father of all wisdom.
@@ -94,9 +92,9 @@ A further epistle at the end of the proem to book two reveals that the recipient
 > | Often it is helpful to have reread a book and remember it;
 > | More often, add a hand: what you will have will be, I think, plain.
 
-There was good reason to be on good terms with Malmesbury, which is only twenty kilometres from Cirencester. Henry III appears to have travelled directly between the two locations during his visit in July 1241 [@anonymous:1901calendar, p. 3:255; cited in @luce:1979history, p. 36]. The abbot of Malmesbury witnesses several charters found in the Cirencester cartulary, and a mandate from Stephen Langton as archbishop of Canterbury likely issued between 1219 and 1228 makes the abbot responsible for ensuring that the bishop of Worcester did not encroach on the churches belonging to Cirencester abbey [@ross:1964cartulary, p. 2:367 (no. 406)].
+There was good reason to be on good terms with Malmesbury, which is only twenty kilometres from Cirencester. Henry III appears to have travelled directly between the two locations during his visit in July 1241 [@public_record_office:1901calendar, p. 3:255; cited in @luce:1979history, p. 36]. The abbot of Malmesbury witnesses several charters found in the Cirencester cartulary, and a mandate from Stephen Langton as archbishop of Canterbury likely issued between 1219 and 1228 makes the abbot responsible for ensuring that the bishop of Worcester did not encroach on the churches belonging to Cirencester abbey [@ross:1964cartulary, p. 2:367 (no. 406)].
 
-The final verse epistle of *Sol meldunensis* builds on the theme of judgement and correction, once again borrowing from Reginald of Canterbury, here addressing Gilbert Crispin, abbot of Westminster from 1085 to 1117 [printed in @wright:1872anglo, pp. 2:259–60]. The first group of lines (according to the manuscript's own divisions) correspond to Reginald's lines 23–28 and 37–38; the last to his 39–40. Geoffrey also adds something else, via a quotation from Alexander Neckam: a desire to correspond. The two errors made by the scribe in this couplet suggest that he was probably quoting the original from memory, whereas the quotation of Reginald is flawless:
+The final verse epistle of *Sol meldunensis* builds on the theme of judgement and correction, once again borrowing from Reginald of Canterbury, here addressing Gilbert Crispin, abbot of Westminster from 1085 to 1117 [printed in @wright:1872anglo, pp. 2:259–60]. The first group of lines (according to the manuscript's own divisions) correspond to Reginald's lines 23–28 and 37–38; the last to his 39–40. Geoffrey also adds something else, via a quotation from Alexander Neckam: a desire to correspond. The two errors made by the scribe in this couplet suggest that he was quoting the original from memory, whereas the quotation of Reginald is flawless:
 
 > | ¶ Nunc pater et domne tu uideris hic liber omne⸵
 > |     Seu punctum tulerit^[Cf. Horace, *De arte poetica* 343–44: 'omne tulit punctum qui miscuit utile dulci, / lectorem delectando pariterque monendo.'] seu uiciosus erit.
@@ -113,13 +111,13 @@ The final verse epistle of *Sol meldunensis* builds on the theme of judgement an
 > | ¶ Gaudia presentis uite semperque manentis⸵
 > |     Et bona cuncta deus det tibi domne meus. [Cambridge, UL, Gg.6.42, fol. 212v: printed in @hunt:1936alexander, p. 161]
 
-> | ¶ Now, O father and lord, you see
+> | ¶ Now, O father and lord, you will have seen
 > |     whether this book carries every point or is full of faults.
 > | If you wish it to remain, it will remain; if not, a blaze will burn it;
 > |     your speech is its praise or destruction.
 > | If I have arranged its parts as somebody who does not know the arts,
 > |     have mercy on this fate, O apostolic doctor.
-> | Filled with you praise, this poetry gives the rudiments
+> | Filled with your praise, this poetry gives the rudiments
 > |     before the glory of your natural praise everywhere.
 >
 > | ¶ Let a page go between us in turn;
@@ -139,7 +137,7 @@ Read literally, this might precisely explain the various layers of addition foun
 > | Moribus informa. uirtutibus inbue. uerbis⸵
 > |     Exorna. refice dogmate. pinge metris.
 > | Sis pater et doctor pariter uidearis uterque⸵
-> |     Esse sibi. monitis doctor. amore⸵ pater. [238va]
+> |     Esse sibi. monitis doctor. amore⸵ pater.
 > | Te duce nil pueri capiat puer. et pueriles⸵
 > |     Motus⸵ edocte mentis habena regat.
 > | Te duce sub teneris annis. uirtute senescat.
@@ -147,7 +145,7 @@ Read literally, this might precisely explain the various layers of addition foun
 > | Artificem commendet opus. doctrina magistri⸵
 > |     Discipulo pateat testificante sua.
 > | Mutua discurrat inter nos pagina. nota⸵
-> |     Mens tua. mensque mea⸵ sit mediante nota. [Paris, BnF, Lat. 11867, fols. 238rb–238va, also edited in @alexander_neckam:2008suppletio, p. 226 (carmina metrica, 17.17–18); @du_méril:1854poésies, pp. 170–171n4; @hunt:1984schools, p. 13n58; @walther:1969initia, no. 15382; @gärtner:2009alexandri, pp. 198–199 notes Hochgürtel's punctuation error]
+> |     Mens tua. mensque mea⸵ sit mediante nota. [Paris, BnF, Lat. 11867, fols. 238rb–238va;<!-- @walther:1969initia, no. 15382 --> edited in @du_méril:1854poésies, pp. 170–71n4; @hunt:1984schools, p. 13n58; @alexander_neckam:2008suppletio, p. 226 (carmina metrica, 17.17–18); @gärtner:2009alexandri, pp. 198–199 notes a punctuation error in Hochgürtel]
 
 > | Accept, teacher Ralph, the nephew I send to you;
 > |     teach him with diligent care.
@@ -168,9 +166,9 @@ Read literally, this might precisely explain the various layers of addition foun
 > | Let a page go between us in turn;
 > |     may your mind be known as well as mine with an intermediating note.
 
-Hunt suggests that the nephew mentioned in this poem might have been the Peter addressed in the versified version of *Corrogationes Promethei*, though we know nothing about him [@hunt:1984schools, pp. 12–13]. This could just as plausibly be Peter of Blois, whose correspondence with Alexander is important for understanding the nature of his *De commendatione uini*. It is far more likely that the quotation of the couplet in *Sol meldunensis* is self-referential. Geoffrey describes himself as 'claustralis', and he must had had extensive access to Cirencester's library. There are only two figures named Geoffrey mentioned in the Cirencester cartulary who could have been active in 1246–60: one is master Geoffrey of Sanderwick, mentioned as owing rent to the house in 1240, who is presumably the same as Geoffrey of Morton, to whom the abbey farmed its chapels of Standerwick and Egford in 1208 [@ross:1964cartulary, pp. 2:524–25 (no. 613), 525 (no. 614)]; he has no known institutional affiliation. The other candidate is Geoffrey Brito (recorded as Galfridus Britonus), who was not only a canon at Cirencester, but also Alexander Neckam's nephew.
+Hunt suggests that the nephew mentioned in this poem might have been the Peter addressed in the versified version of *Corrogationes Promethei*, though we know nothing about him [@hunt:1984schools, pp. 12–13]. This could just as plausibly be Peter of Blois, whose correspondence with Alexander is important for understanding the nature of his *De commendatione uini*. It is far more likely that the quotation of the couplet in *Sol meldunensis* is self-referential. Geoffrey describes himself as 'claustralis', and he must had had extensive access to Cirencester's library. There are only two figures named Geoffrey mentioned in the Cirencester cartulary who could have been active in 1246–60: one is master Geoffrey of Sanderwick, mentioned as owing rent to the house in 1240, who is presumably the same as Geoffrey of Morton, to whom the abbey farmed its chapels of Standerwick and Egford in 1208 [@ross:1964cartulary, pp. 2:524–25 (nos. 613, 614)]; he has no known institutional affiliation. The other candidate is Geoffrey Brito (recorded as Galfridus Britonus), who was not only a canon at Cirencester, but also Alexander Neckam's nephew.
 
-Geoffrey Brito's kinship with Alexander Neckam gives him obvious personal motivations for preserving Alexander's writings. Indeed, his personal living seems to have been somewhat dependent on the memory of Alexander, as suggested by the Cirencester cartulary. A document issued between 1215 and 1230 names him as a master, as well as the vicar of Milborne Port, located 100 km away from Cirenencester, though it is not clear whether he would have served this church in person [@ross:1964cartulary, p. 2:510 (no. 592), cited at xxxii; on the problem of residency, Ross cites @dickinson:1950origins, pp. 224–241; cf. @chibnall:1967monks]; he probably obtained this position through a relationship to Richard Brito, a royal clerk [@ross:1964cartulary, pp. 2:499–500 (no. 578)]. It must have been a promotion when, between 1222 and 1230, Geoffrey was assigned a stall in Cirencester's church of St John the Baptist, in a charter given on Alexander's anniversary (presumably that of his death), specifically naming Geoffrey as his nephew and indicating the motivation behind the act as a desire to commemorate the dead abbot's anniversary [@ross:1964cartulary, pp. 1:299–300 (no. 332)]. Between 1230 and 1236, another charter was issued assigning him to a messuage near the abbey, speaking in similar terms [@ross:1964cartulary, pp. 1:301–2 (no. 336)]. Both are witnessed by William of Blois, bishop of Worcester (where Alexander was buried), and John Walsh, abbot of Malmesbury, further hinting that it was in Geoffrey's best interests to foster the friendship between Cirencester and Malmesbury.
+Geoffrey Brito's kinship with Alexander Neckam gives him obvious personal motivations for preserving Alexander's writings. Indeed, his personal living seems to have been somewhat dependent on the memory of Alexander, as suggested by the Cirencester cartulary. A document issued between 1215 and 1230 names him as a master, as well as the vicar of Milborne Port, located over a hundred kilometres away from Cirenencester, though it is not clear whether he would have served this church in person [@ross:1964cartulary, p. 2:510 (no. 592), cited at xxxii; on the problem of residency, Ross cites @dickinson:1950origins, pp. 224–241; cf. @chibnall:1967monks]; he probably obtained this position through a relationship to Richard Brito, a royal clerk [@ross:1964cartulary, pp. 2:499–500 (no. 578)]. It must have been a promotion when, between 1222 and 1230, Geoffrey was assigned a stall in Cirencester's church of St John the Baptist, in a charter given on Alexander's anniversary (presumably that of his death), specifically naming Geoffrey as his nephew and indicating the motivation behind the act as a desire to commemorate the dead abbot's anniversary [@ross:1964cartulary, pp. 1:299–300 (no. 332)]. Between 1230 and 1236, another charter was issued assigning him to a messuage near the abbey, speaking in similar terms [@ross:1964cartulary, pp. 1:301–2 (no. 336)]. Both are witnessed by William of Blois, bishop of Worcester (where Alexander was buried), and John Walsh, abbot of Malmesbury, further hinting that it was in Geoffrey's best interests to foster the friendship between Cirencester and Malmesbury.
 
 <!-- 332
 
@@ -186,11 +184,11 @@ no. 336
 
 Hunt guessed that Gg.6.42 was 'one of the original fair copies' [@hunt:1984schools, p. 118]; more detailed analysis demonstrates that the volume *is* the original. The main text seems to have been copied directly from copies of Alexander's works, either with Geoffrey Brito dictating or copying directly, and editing as he worked. At one point, the scribe is copying out the following passage from Neckam's commentary on Proverbs:
 
-<!--image of fol. 173v -->
-
 > Melius est sedere in angulo domatis quam in domo communi cum uxore litigiosa. Set hec deo annuente exponetur … (fol. 173v)
 
-According to the copy of the commentary in Oxford, Jesus College, MS 94, the next word should have been 'inferius', but this is omitted. One can imagine Geoffrey reading along, only to suddenly realize that this will not be 'explained below' in his book, because he is planning to end the excerpt at the end of the next sentence. The scribe skips over 'inferius', partially erases 'set hec deo annuente exponetur' (and further underlines it in red to indicate that it is to be ignored), and moves on.
+According to the copy of the commentary in Oxford, Jesus College, MS 94, the next word should have been 'inferius', but this is omitted. One can imagine Geoffrey reading along, only to suddenly realize that this will not be 'explained below' in his book, because he is planning to end the excerpt at the end of the next sentence. The scribe skips over 'inferius', partially erases 'set hec deo annuente exponetur' (and further underlines it in red to indicate that it is to be ignored), and moves on:
+
+![Correction on fol. 173v.](images/sol-meldunensis/173v-corr.jpg)
 
 While the base of the entire text in the first and last booklets is in the same hand, additions to the first booklet only in several hands as well as the annexed Geoffrey of Monmouth gathering plausibly suggest that the monks at Malmesbury took Geoffrey's invitation to correct and make additions quite literally. One can identify at least four major levels of production:
 
@@ -203,79 +201,169 @@ While the base of the entire text in the first and last booklets is in the same 
 
 At this point, the manuscript was probably sent to its addressee at Malmesbury, where additions and corrections were made, following Geoffrey Brito's invitation. The monks at Malmesbury are likely responsible for the addition of the Geoffrey of Monmouth gathering, which is in a markedly different hand from the rest of the book, and uses a layout that follows the logic of what precedes it while diverging in its aims by leaving space for glosses. The initials, as well as the illustration of the dragons on fol. 214v, follow the basic style of the decorations in the florilegium, but are executed to a higher standard: it is tempting to read a sense of competition into this.
 
-<!--fol. 214v -->
+![Fol. 214v.](images/sol-meldunensis/214v-dragons.jpg)
 
 It is not, of course, necessary that gathering 22 was added after the florilegium and before the anthology, since there are many examples of books that were not assembled in chronological order [for something comparable in time and genre, cf. @townsend:1987medieval, p. 355, where part 2 of 5 seems to have been added last]. There are several hands annotating the florilegium, perhaps additions from Malmesbury: the original decorator has gone back and given a frame matching the rest of the book to most of these.
 
 One can possibly attribute to Malmesbury the inserted fol. 5, slightly smaller (142 × 181 mm) than the rest of the book, and using a very different style of drawing from what surrounds it. The recto bears an image of St Francis with another Franciscan:
 
-<!--fol. 5r -->
+![Fol. 5r.](images/sol-meldunensis/5r.jpg)
 
-The verso bears an image of two standing monastics, whom Nigel Morgan suggests might be Dominicans. A small mark at the bottom likely indicated to the binder where the page was to be inserted in the book:
+The verso bears an image of two standing monastics, whom Nigel Morgan suggests might be Dominicans. A faint mark at the bottom likely indicated to the binder where the page was to be inserted in the book:
 
-<!--fol. 5v -->
+![Fol. 5v.](images/sol-meldunensis/5v.jpg)
 
-Without apparently knowing the details of Geoffrey the abbot, Morgan suggests that the artist might have been associated <!-- what word does he use? --> with Matthew Paris at St Alban's, dating the page to the 1240s [@morgan:1982early, p. 1:130 (no. 84); @lewis:1987art, p. 483n23 does not argue with this]. One might speculate that Malmesbury, commemorating both Alexander's birth at St Alban's and their shared Benedictine affiliation, thought it appropriate to insert an image from the abbey. It has been argued in the past that 'the drawing has nothing to do with the text' [@little:1937franciscan, p. 41], but it does enforce the ideas of exchange and collaboration that Geoffrey Brito promotes. The young figure may be offering a book to St Francis [@little:1937franciscan, p. 61], and his expression matches Geoffrey Brito's words precisely.
+Without knowing the details of the abbot Geoffrey, Morgan suggests that the artist 'was directly acquainted' with the earlier work of Matthew Paris at St Alban's, dating the page to the 1240s [@morgan:1982early, p. 1:130 (no. 84); his view is repeated in @lewis:1987art, p. 483n23]. It has been argued in the past that 'the drawing has nothing to do with the text' [@little:1937franciscan, p. 41], but it does enforce the ideas of exchange and collaboration that Geoffrey Brito promotes. One might speculate that Malmesbury, commemorating both Alexander's connection to St Alban's and their shared Benedictine affiliation, thought it appropriate to insert an image from the abbey. The young figure may be offering a book to St Francis [@little:1937franciscan, p. 61], and his expression matches Geoffrey Brito's words precisely.<!--check if there is anything in Brieger, English Art 1216–1307, p. 143n3 -->
 
-The manuscript was then probably sent back to Cirencester, where a rubric was added to the Geoffrey of Monmouth gathering, as well as to the more substantial marginal additions, and integrating them into the book's decoration. The inserted leaves in the florilegium could originally have been loose additions from Malmesbury, with the Cirencester scribe rewriting them and binding them into the manuscript. I also consider the verse anthology to be a later addition due to its complete lack of integration with the florilegium, while being the work of the manuscript's Cirencester creators, coupled with its much lower degree of annotation and total lack of more substantial additions. It cannot be shown whether the manuscript was ever sent back to Malmesbury: perhaps the abbot Geoffrey died before this occurred, leaving the volume in the Cirencester library.
+The manuscript was then probably sent back to Cirencester, where a rubric was added to the Geoffrey of Monmouth gathering, as well as to the more substantial marginal additions, and integrating them into the book's decoration. The inserted leaves in the florilegium could originally have been loose additions from Malmesbury, with the Cirencester scribe rewriting them and binding them into the manuscript. I also consider the verse anthology to be a later addition due to its complete lack of integration with the florilegium, while being the work of the manuscript's Cirencester creators, coupled with its much lower degree of annotation and total lack of more substantial additions. It cannot be shown whether the manuscript was ever sent back to Malmesbury, since it eventually made its way back to the Cirencester library.
 
 # Hands
 
-## Contemporary Scripts
+The patterns found in the scribal additions to the book support the understanding of *Sol meldunensis* as a layered composition, originating from more than one institution. Only one thirteenth-century hand can be found across the entire manuscript. Substantive additions have been made to the florilegium by several different readers who do not otherwise write in the book (later integrated by the original scribe), while a different group of readers gloss the *Prophetia Merlini*, and the few annotations in the verse anthology are likely from the same reader.
 
-### scribe 1/2? = GB?
+## Florilegium/Anthology Scribe
 
-The entirety of the portions of the manuscript produced at Cirencester seem to have been written by the same scribe. There are a few shifts to a slightly thinner variant of the script, but these are brief, and do not decisively show the work of a different scribe:
+The portions of the manuscript produced at Cirencester appear to be written by the same scribe. There are a few shifts to slightly narrower or wider variants of the hand, but these are brief, and do not show substantial differences in letterforms:
 
-<!-- image of possible shift in hand at bottom of fol. 79v and 191r -->
+![Corrections on fol. 14r, likely the original scribe.](images/sol-meldunensis/scribe2-14r.jpg)
 
-<!-- 87v: original scribe comes back? -->
+![Shift to a more narrow variant of the script on fol. 79v.](images/sol-meldunensis/scribe2-79v.jpg)
 
-It cannot be shown whether this is Geoffrey Brito's autograph. There are at least two contemporary correctors, one of whom might be Geoffrey; the first tends to make neat annotations in a slightly squat hand, and in a slightly different shade of ink from the main text:
+![A correction made on fol. 134v, by appearance by the original scribe, but technically redundant.](images/sol-meldunensis/scribe2-134v.jpg)
 
-### changes in rubrics
+![Shifts between different weights on fol. 145r.](images/sol-meldunensis/scribe2-145r.jpg)
 
-<!--70v bis, Distinctione secunda -->
+![Addition to the bottom of fol. 172r: note the added ruling.](images/sol-meldunensis/scribe2-172r.jpg)
 
-### squat hand
+![A run of a narrower version of the script on fol. 191r.](images/sol-meldunensis/scribe2-191r.jpg)
 
-- the strikethrough in red
-- the example on 149r, ad hebreos
+A similar shift can be found in the rubrics:
 
-### corr-contemp-dkbrown
+![Apparent addition to a rubric on fol. 70v.](images/sol-meldunensis/rubricator-70v.jpg)
 
-### charter hand
+The rubricator does not necessarily seem to be the same person who drew the frames and other decorations, if one may judge from occasional sloppiness:
 
-<!-- 57r correction -->
+![Rubricator 43r](images/sol-meldunensis/rubricator-43r.jpg)
 
+## Correctors Interacting with the Scribe
 
-<!-- the two corrections from contemp-corr-dkbrown on that addition -->
+The scribe could theoretically be Geoffrey Brito himself, but this identification is complicated by the presence of at least two correctors who can be seen to interact with the scribe. If one of these can be identified with Geoffrey, it is probably the one that writes in a thin crayon and occasionally in ink, with a round two-compartment 'a':
 
-The second writes in a cursive script in dark brown:
+![Correcting 'uarias' on fol. 87v (also note the unneeded changes to 'similis' and 'dissimilis' from another contemporary corrector).](images/sol-meldunensis/crayon-thin-87v.jpg)
 
-### compressed hand
+![Correcting 'respiciat' on fol. 134r.](images/sol-meldunensis/2compa-134r.jpg)
 
-There are two more substantial marginal additions, found on fols. 13v and 166r:
+![Annotating fol. 145v.](images/sol-meldunensis/crayon-thin-145v.jpg)
 
-<!--fol. 13v -->
+![Correction on fol. 149r, where 'ad hebreos' seems to have been originally roughted in and later written formally by the scribe.](images/sol-meldunensis/crayon-thin-149r.jpg)
 
-<!--fol. 166r -->
+![Addition of 'et' on fol. 151r, first added in crayon and later inked in; correcting 'concupiscentia' in ink.](images/sol-meldunensis/crayon-thin-151r.jpg)
 
-These can be seen to be contemporary with the manuscript by the fact that it is integrated into its decorative scheme.
+This may be the same reader as one who adds numerous 'nota' marks throughout the manuscript. There is also a thicker crayon used to make extensive and intelligent corrections to the Geoffrey of Monmouth gathering and the verse anthology, which may be the same person working at a later date with a different writing implement, but the 'a' takes a slightly different form:
 
-### cursive-dkbrown
+![Correcting the *Prophetia Merlini* on fol. 221r.](images/sol-meldunensis/crayon-thick-221r.jpg)
 
-### cursive-ltbrown
+![Fixing 'flumina' and 'species' on fol. 233r.](images/sol-meldunensis/crayon-thick-233r.jpg)
 
-### crayon nota person + corrections
+It appears to be this hand that makes the only substantial marginal addition to the verse anthology:
+
+![Annotation on fol. 235r, itself corrected in thick crayon (changing 'contente' to 'contento').](images/sol-meldunensis/round-235r.jpg)
+
+There is also a reader who leaves a correction for the scribe in a neat, upright script:
+
+![Addition of 'nichil' in the right margin of fol. 57r, formalized by the scribe.](images/sol-meldunensis/upright-57r.jpg)
+
+The only other passage in the book in a similar hand is an annotation on the last page of the manuscript:
+
+![Addition in the bottom margin of fol. 237v.](images/sol-meldunensis/upright-237v.jpg)
+
+## Other Contemporary Correctors
+
+The original scribe frequently makes corrections to his own work in a style consistent with the original script; there also appears to be an reader of the florilegium with access to the exemplars who is unafraid to apply intelligent modifications directly to the text, but does so somewhat untidily:
+
+![Correcting 'pius' on fol. 74v.](images/sol-meldunensis/imitator-74v.jpg)
+
+![Corrections on fol. 154v.](images/sol-meldunensis/imitator-154v.jpg)
+
+![Correcting 'uitem' and 'impera' on fol. 172r.](images/sol-meldunensis/imitator-172r.jpg)
+
+It may be the same corrector who makes a number of interlinear modifications in a slightly squat hand:
+
+![Changing 'ad' to 'adhuc' on fol. 37v.](images/sol-meldunensis/corr-contemp-37v.jpg)
+
+![Adding a missing word to a marginal note on fol. 85r, and fixing 'cibariorum'.](images/sol-meldunensis/corr-contemp-85r.jpg)
+
+![Adding missing words to a marginal note at the bottom of fol. 87r (note also the unusual script used in the rubric).](images/sol-meldunensis/corr-contemp-87r.jpg)
+
+## Florilegium Annotators
+
+Several hands make one-off additions to the florilegium:
+
+![Extension of a marginal note on fol. 9r.](images/sol-meldunensis/charter-9r.jpg)
+
+![Scribal addition on fol. 13v; the rubric here does not appear to have been added by the original scribe.](images/sol-meldunensis/compressed-13v.jpg)
+
+![Continuation of the addition on fol. 14r.](images/sol-meldunensis/compressed-14r.jpg)
+
+![An addition in a somewhat spidery hand on fol. 166r, later integrated into the manuscript's system of decoration.](images/sol-meldunensis/spidery-166r.jpg)
+
+![2compg 225r](images/sol-meldunensis/2compg-225r.jpg)
+
+A narrow hand with a distinctive 'g' also makes a few additions:
+
+![Annotation on fol. 82v.](images/sol-meldunensis/narrow-82v.jpg)
+
+![Gloss on fol. 87r.](images/sol-meldunensis/narrow-87r.jpg)
+
+![Glosses on fol. 87v.](images/sol-meldunensis/narrow-87v.jpg)
+
+This hand may be related to one distinguished by the use of paraph marks as nota signs, occasionally repeating the notae of an earlier reader:
+
+!['Nota bene', fol. 9r.](images/sol-meldunensis/cursive-paraph-9r.jpg)
+
+![Redundantly changing 'aū' to 'autem' on fol. 34v (cf. the 'uarias' example on fol. 87v, above).](images/sol-meldunensis/cursive-paraph-34v.jpg)
+
+![Annotation on fol. 83r.](images/sol-meldunensis/cursive-paraph-83r.jpg)
+
+!['Nota', fol. 84r.](images/sol-meldunensis/cursive-paraph-84r.jpg)
+
+!['Nota bene', fol. 86v](images/sol-meldunensis/cursive-paraph-86v.jpg)
+
+!['Nota', fol. 87r](images/sol-meldunensis/cursive-paraph-87r.jpg)
+
+![Annotation on fol. 106v.](images/sol-meldunensis/cursive-paraph-106v.jpg)
+
+!['Nota', fol. 117v, written over an earlier mark.](images/sol-meldunensis/cursive-paraph-117v.jpg)
+
+!['Nota bene', fol. 123r](images/sol-meldunensis/cursive-paraph-123r.jpg)
+
+!['Nota', fol. 124r, written beside one from the rubricator.](images/sol-meldunensis/cursive-paraph-124r.jpg)
+
+![Second 'nota' on fol. 124r.](images/sol-meldunensis/cursive-paraph-124r-2.jpg)
+
+## Geoffrey of Monmouth Scribes
+
+There are two scribes responsible for the *Prophetia Merlini* gathering, with the shift occurring about halfway through the text:
+
+![Shift in hand on fol. 217v](images/sol-meldunensis/pm-scribe2-217v.jpg)
+
+There is also a hand that makes corrections to the *Prophetia Merlini* in a cursive script:
+
+![Fixing an instance of homeoteleuton on fol. 219r (with another example of the thick crayon).](images/sol-meldunensis/cursive-2compa-219r.jpg)
+
+![Opening rubric at the bottom of fol. 214r for the Geoffrey of Monmouth gathering, fortunately copied by the Cirencester rubricator on the previous page before it was trimmed: 'Epistula magistri galfridi monumutensis directa alexandro lincolniensi episcopo'.](images/sol-meldunensis/cursive-dkbrown-214r.jpg)
+
+![Heading for the *Prophetia Merlini* at the bottom of fol. 214v (later copied by a humanist hand onto the top of the following page).](images/sol-meldunensis/cursive-dkbrown-214v.jpg)
+
+The example above also is also an example of the original scribe adding glosses to the text, which is limited to the first few pages of the *Prophetia Merlini*, perhaps as an example of how the page layout was intended to be used. Following this, there are at least two cursive hands adding more glosses to the text:
+
+![Glosses on fol. 215r.](images/sol-meldunensis/cursive-dkbrown-215r.jpg)
 
 ## Later Readers
 
-On fol. 2v, one finds this in a fifteenth-century hand:
+The use of the manuscript did not end in the thirteenth century. The only personal marks of ownership appear to come from a later date:
 
-<!--cursive-ltbrown -->
-
-<!--image of 2v -->
+![Scribal additions on fol. 2v.](images/sol-meldunensis/mg-2v.jpg)
 
 > | To Cirencester & bid them pray for me.
 > | He that prayeth for me Jesu have merci on hym.
@@ -283,18 +371,37 @@ On fol. 2v, one finds this in a fifteenth-century hand:
 Below this appears to be the number 990. In the centre of the page has been added the only mark of personal ownership in the book:
 
 > | Iste liber constat moritio
-> | gyffardi testante iesu
+> | Gyffardi Testante Iesu
 
-Maurice Gyffard was probably local to Cirencester, since the name occurs frequently in the abbey's cartulary. It seems to be his hand that adds some of the glosses to the *Prophetia Merlini*, and he also contributed a selection of prophecies on England on fol. 236v, the first of which, 'Cesaris inperium per tempora longa latebit', is grouped in other manuscripts with a set of prophecies originating in the twelfth century at the Augustinian priory of Bridlington, though its relationship to these is unclear [printed in @frońska:2014royal, p. 28; also noted in @coote:2000prophecy, pp. 148–149; @meyvaert:1966john discusses the problem of the authorship of the Bridlington poems].
+Maurice was probably local to Cirencester, since the name Gyffard occurs frequently in the abbey's cartulary. It seems to be his hand that adds some of the glosses to the *Prophetia Merlini*, and he also contributed a selection of prophecies on England on fol. 236v, the first of which, 'Cesaris inperium per tempora longa latebit', is grouped in other manuscripts with a set of prophecies originating in the twelfth century at the Augustinian priory of Bridlington, though its relationship to these is unclear [printed in @frońska:2014royal, p. 28; also noted in @coote:2000prophecy, pp. 148–149; @meyvaert:1966john discusses the problem of the authorship of the Bridlington poems; @ward:1883catalogue, p. 1:318 also note the existence of some of the material in London, BL, Harley 1008, fol. 81]:
 
-A humanist hand has worked through most of book 2 of the florilegium, adding 
+![Additions by Maurice Gyffard on fol. 236v.](images/sol-meldunensis/mg-236v.jpg)
 
-### humanist
+Separately, a humanist hand has tentatively identified the compiler of the book as Geoffrey of Malmesbury:
 
+!['Galf. de meldy', fol. 1r.](images/sol-meldunensis/humanist-1r.jpg)
 
-### humanist-cursive
+This reader has worked through most of book 2 of the florilegium, adding running heads to many pages:
 
-The manuscript was among the books owned by John Moore, bishop of Ely (1646–1714), and was presented to the University Library in 1715 by George I, with the standard bookplate on the opening flyleaf [@ringrose:1998royal].
+![Running head on fol. 74v.](images/sol-meldunensis/humanist-74v.jpg)
+
+![Running head and highlighted passage on fol. 75r.](images/sol-meldunensis/humanist-75r.jpg)
+
+![Running head on fol. 75v.](images/sol-meldunensis/humanist-75v.jpg)
+
+![Annotations on fol. 130r.](images/sol-meldunensis/humanist-130r.jpg)
+
+![Annotation on fol. 131v.](images/sol-meldunensis/humanist-131v.jpg)
+
+![Annotations on fol. 132r.](images/sol-meldunensis/humanist-132r.jpg)
+
+![Annotations on fol. 132v.](images/sol-meldunensis/humanist-132v.jpg)
+
+![Annotations on fol. 190r.](images/sol-meldunensis/humanist-190r.jpg)
+
+![Annotations on fol. 198r.](images/sol-meldunensis/humanist-198r.jpg)
+
+There are many more examples of the humanist's running heads. There is no obvious candidate for the identification of this hand, since its provenance after the dissolution is obscure: the manuscript was among the books owned by John Moore, bishop of Ely (1646–1714), and was presented to the University Library in 1715 by George I, with the standard bookplate found on the opening flyleaf [see @ringrose:1998royal].
 
 # Contents
 
@@ -953,15 +1060,32 @@ This is the original part of *Sol meldunensis*. It has been used in the past as 
         -   4.45.28. Ex sermone qui sic incipit. Abraham mortuus est.
         -   4.45.29. Ex eodem sermone.
 
-There is a good case to be made for the second book as an unplanned addition. Although there is no shift in the hand, book one is never described as such: it might have originally ended on fol. 68v, where the 'sermon' closes with a doxology and space left at the bottom of the page; or with the amorphous 'Ad libellum' section that follows, which collects several verses and is restricted to both sides of fol. 69. Sporadic planning is common in miscellanies [@pearsall:2005whole, p. 25].
+There is a good case to be made for the second book as an unplanned addition. Although there is no shift in the hand, book one is never described as such: it might have originally ended on fol. 68v, where the 'sermon' closes with a doxology and space left at the bottom of the page; or with the amorphous 'Ad libellum' section that follows, which collects several verses and is restricted to both sides of fol. 69.
 
+Geoffrey is quite careful citing the sources he uses. The beginning each source is carefully noted, though occasional errors are made, usually through the omission of rubrics. Sources, however, are not exactly quoted verbatim: McDonough has already given many examples of Geoffrey's tendency to recast passages from Alexander to fit their new context, adding connecting phrases and other passages from Alexander in the margins as explanations [@mcdonough:2005cambridge, pp. 795–799]. Words are added to make them flow together with the other excerpts, and he ensures that no loose ends are left after their removal from their original context – removing cross-references, or some of Alexander's exclamations (e.g. 'O pia magdalena') not related to the new theme at hand. Even where he is following the text fairly closely, he often modifies the punctuation. For instance, this passage from the *Tractatus super Mulierem fortem* appears as follows in the florilegium:
 
-<!-- FL fol. 189r: how does the punctuation from J and B? Can we use this to test whether it was copied from one of these manuscripts? -->
+> *Ex tractatu super mulierem fortem.*
+>
+> Nonne claustri leta facies˷ paradysi representat amenitatem? Viror intermedius planiciei interiacentis. ad pascua uite nos inuitat⸝ prenuncians orti deliciarum uoluptates arbor meditulium prati obumbrans⸵ ligni uite quod est in medio paradysi tipum gerit. si formam dispositionis quadrate consulas. transmitteris ad conformitatem .iiii.or uirtutum principalium. longitudo ex equo respondens latitudini docet equalia esse latera ciuitatis. (Gg.6.42, fol. 168v)
 
-Lingue 
-igitur petulantia. conuicia. contumelie. obprobria. 
-detractiones. adulationes. irrisiones. lites. uirgia. 
-indignationes timide gestus indisciplinati. procul 
+In the original, it takes a slightly different form:
+
+> Claustri leta facies⸵ paradisi representat amenitatem. Viror intermedius planiciei interiacentis⸵ ad pascua uite nos inuitat. prenuntians⸵ orti deliciarum uoluptates. Arbor⸝ meditullium prati uirentis obumbrans⸵ ligni uite quod est in medio paradisi⸝ tipum gerit. Si formam dispositionis quadrate consulas⸵ transmitteris ad conformitatem quatuor uirtutum principalium. Longitudo ex equo respondens latitudini⸵ docet equalia esse latera ciuitatis. (Oxford, Jesus College, MS 94, fol. 120va–b)
+
+The Oxford manuscript is the Cirencester copy of the *Tractatus super Mulierem fortem*, and there can be no doubt that this is the text he was using, since one can often find a mark in the margin both before and after the intended quotation:
+
+![Marks corresponding to the beginning of the *Tractatus super Mulierem fortem* quotation in Oxford, Jesus College, MS 94, fol. 120va.](images/sol-meldunensis/J-120va.jpg)
+
+![Marks corresponding to the end of the quotation in Jesus College 94, fol. 120vb.](images/sol-meldunensis/J-120vb.jpg)
+
+This quotation is broken in two in the florilegium, though there is no mark in the middle of the passage to indicate this. Following the quotation above is an extract from Alexander's commentary on the Song of Songs, after which he continues with the same passage from the *Mulierem fortem* above. This is the common practice in the florilegium. Each passage is not necessarily a new selection; a single long passage is often selected and interspersed with other works. Although Galfridus uses selections from across the Alexandrine corpus, the selections from within those works tend to be concentrated to certain parts of the book. The many quotations from the *Meditatio de Magdalena*, for instance, are really two contiguous columns of the original, interspersed with other texts.
+
+<!-- FL fol. 189r: how does the punctuation from J and B? Can we use this to test whether it was copied from one of these manuscripts?
+
+Lingue
+igitur petulantia. conuicia. contumelie. obprobria.
+detractiones. adulationes. irrisiones. lites. uirgia.
+indignationes timide gestus indisciplinati. procul
 relegentur a sanctitate uestra.
 
 ### Structure
@@ -972,26 +1096,9 @@ relegentur a sanctitate uestra.
 
 As one works through the manuscripts, a number of trends become apparent:
 
-- The beginning each source is carefully noted (though occasional errors are made, usually through the omission of rubrics).
-- Sources are not exactly quoted verbatim, but words are added to make them flow together with the other excerpts and ensure that no loose ends are left after their removal from their original context (e.g. removing cross-references).
-- Each passage is not necessarily a new selection; a single long passage is often selected and interspersed with other works. Although Galfridus uses selections from across the Alexandrine corpus, the selections from within those works tend to be concentrated to certain parts of the book, rather than being spread evenly, perhaps indicating that he did not actually have to 
-
 How was this book intended to be read? One assumes that it is part of the rise of consultation that rose around this time [@hermand:2014lecture], and that it was probably not intended to be read from beginning to end.
 
-
-Geoffrey also freely adapts the punctuation of his sources. For instance, this passage he copies as follows:
-
-> *Ex tractatu super 'mulierem fortem'.*
->
-> Nonne claustri leta facies˷ paradysi representat amenitatem? Viror intermedius planiciei interiacentis. ad pascua uite nos inuitat⸝ prenuncians orti deliciarum uoluptates arbor meditulium prati obumbrans⸵ ligni uite quod est in medio paradysi tipum gerit. si formam dispositionis quadrate consulas. transmitteris ad conformitatem .iiii.or uirtutum principalium. longitudo ex equo respondens latitudini docet equalia esse latera ciuitatis. (Gg.6.42, fol. 168v)
-
-Appears in the original in a slightly different form:
-
-> Claustri leta facies⸵ paradisi representat amenitatem. Viror intermedius planiciei interiacentis⸵ ad pascua uite nos inuitat. prenuntians⸵ orti deliciarum uoluptates. Arbor⸝ meditullium prati uirentis obumbrans⸵ ligni uite quod est in medio paradisi⸝ tipum gerit. Si formam dispositionis quadrate consulas⸵ transmitteris ad conformitatem quatuor uirtutum principalium. Longitudo ex equo respondens latitudini⸵ docet equalia esse latera ciuitatis. (Oxford, Jesus College, MS 94, fol. 120va–b)
-
-
-
-- talk about the X marks found in some manuscripts
+-->
 
 ## II. Geoffrey of Monmouth, *Prophetia Merlini* (gathering 22, fols. 213–222)
 
@@ -1020,9 +1127,9 @@ This section of the anthology is the most cohesive witness to an exchange betwee
 - Liber secundus de commendatione vini.
 - Liber tercius de commendatione vini.
 
-It is significant that this is the only part of the manuscript as produced at Cirencester that uses works from authors other than Alexander; this was probably done because the compiler felt these poems were integral to the context of *De commendatione uini*, whether through his source materials or living memory. The exchange between Peter of Blois and Robert de Bellofago has been edited among Peter's other poems [@peter_of_blois:1998carmina, pp. 275-285 (nos. 1.6, 1.6a, 1.7)]. Braunholtz was the first to edit the verses by Robert, but does not mention the existence of Alexander's verses [@braunholtz:1927streitgedichte; for general remarks on the genre and additional historical context, see also @walther:1920streitgedicht, pp. 52–53; @rigg:1977golias, pp. 79–80; @weeda:2012images, pp. 296–302]. Wilmart discovered an additional contribution to the series, speculating that it was another reply by Robert [@wilmart:1938une]. Excerpts of *De commendatione uini* were reproduced at an early date from the Paris anthology [@esposito:1915some, pp. 452-460; @walther:1965kleineren, pp. 112-121], and the full work was edited by Hochgürtel [@alexander_neckam:2008suppletio, pp. 195–218 (carmina metrica, 1–3), with an introduction at lix–lxvi]. While he allows that Alexander was familiar with Peter's work, he does not appear to see *De commentatione uini* as a direct response [Hochgürtel, introduction to @alexander_neckam:2008suppletio, p. lxiii, not recognizing that Wollin's manuscript C2 is the same as Gg.6.42]; further, he produces an entirely ideosyncatic organization for Alexander's poems with almost no reference to their sequence in the manuscripts. He takes the suggestion of Rigg that the books 'may originally have been separate' too far [@rigg:1992history, p. 121; Höchgurtel, introduction to @alexander_neckam:2008suppletio, pp. lix–lx], and, without explanation, does not consider the verse epistle to Thomas to have any relationship to the text [@alexander_neckam:2008suppletio, pp. 235–236 (carmina rhythmica, 9)].
+It is significant that this is the only part of the manuscript as produced at Cirencester that uses works from authors other than Alexander; this was probably done because the compiler felt these poems were integral to the context of *De commendatione uini*, whether through his source materials or living memory. The exchange between Peter of Blois and Robert de Bellofago has been edited among Peter's other poems [@peter_of_blois:1998carmina, pp. 275-285 (nos. 1.6, 1.6a, 1.7)]. Braunholtz was the first to edit the verses by Robert, but does not mention the existence of Alexander's verses [@braunholtz:1927streitgedichte; for general remarks on the genre and additional historical context, see also @walther:1920streitgedicht, pp. 52–53; @rigg:1977golias, pp. 79–80; @weeda:2012images, pp. 296–302]. Wilmart discovered an additional contribution to the series, speculating that it was another reply by Robert [@wilmart:1938une]. Excerpts of *De commendatione uini* were reproduced at an early date from the Paris anthology [@esposito:1915some, pp. 452-460; @walther:1965kleineren, pp. 112-121; @serlo_of_wilton:1965poèmes, pp. 33–34 discusses a citation from 'Serlo'], and the full work was edited by Hochgürtel [@alexander_neckam:2008suppletio, pp. 195–218 (carmina metrica, 1–3), with an introduction at lix–lxvi]. While he allows that Alexander was familiar with Peter's work, he does not appear to see *De commentatione uini* as a direct response [Hochgürtel, introduction to @alexander_neckam:2008suppletio, p. lxiii, not recognizing that Wollin's manuscript C2 is the same as Gg.6.42]; further, he produces an entirely ideosyncatic organization for Alexander's poems with almost no reference to their sequence in the manuscripts [this approach is also criticized by @thomson:2011alexandri]. He takes the suggestion of Rigg that the books 'may originally have been separate' too far [@rigg:1992history, p. 121; Höchgurtel, introduction to @alexander_neckam:2008suppletio, pp. lix–lx], and, without explanation, does not consider the verse epistle to Thomas to have any relationship to the text [@alexander_neckam:2008suppletio, pp. 235–236 (carmina rhythmica, 9)].
 
-In the context of the Cambridge manuscript, the most obvious understanding of the poem to Thomas, abbot of Gloucester, is to take it as a dedication to *De commendatione uini*, as it is listed in the Cambridge catalogue [@hardwick:1856catalogue, p. 3:233]. In the Paris anthology, it has no connection to this work, though its presentation of *De commendatione uini* is somewhat confused: the first two books (fols. 214va–215vb) are separated from the third (fols. 216va–217rb), and some of the verses are repeated on fol. 238ra: Hunt takes this as a fragment, while Cropp argues that they could equally be understood as the conclusion to *Corrogationes noui Promethei*, which ends at this point [@hunt:1984schools, p. 141; @cropp:1991critical, pp. 49–51, 76; cf. Hochgürtel, introduction to @alexander_neckam:2008suppletio, p. lxvi]. The poem to Thomas only appears on fol. 240ra, surrounded by other assorted verses. Madrid, Biblioteca de Palacio, MS II.468 (formerly 2.e.5), has the verses to Thomas on fol. 27v, and *De commendatione uini* on fols. 179v–188v. The Cambridge manuscript is thus alone in associating the poem with the rest of *De commendatione uini*, but it seems highly sensible. While the poem does not refer directly to a work on wine, the opening line of the epistle ('Munus. set munusculum', fol. 224r) mirrors that of the response by Peter of Blois ('Scribo. set inuitus', fol. 223v), and the Goliardic rhyme scheme matches the first poem by Peter and Robert's response. The epistle must have accommpanied some 'munusculum' by Alexander, and the manuscript and stylistic evidence, as well as the note of satire and references to food, suggest *De commentatione uini* ahead of any of Alexander's other works.
+In the context of the Cambridge manuscript, the most obvious understanding of the poem to Thomas, abbot of Gloucester, is to take it as a dedication to *De commendatione uini*, as it is listed in the Cambridge catalogue [@hardwick:1856catalogue, p. 3:233]. In the Paris anthology, it has no connection to this work, though its presentation of *De commendatione uini* is somewhat confused: the first two books (fols. 214va–215vb) are separated from the third (fols. 216va–217rb), and some of the verses are repeated on fol. 238ra: Hunt takes this as a fragment, while Cropp argues that they could equally be understood as the conclusion to *Corrogationes noui Promethei*, which ends at this point [@hunt:1984schools, p. 141; @cropp:1991critical, pp. 49–51, 76; cf. Hochgürtel, introduction to @alexander_neckam:2008suppletio, p. lxvi]. The poem to Thomas only appears on fol. 240ra, surrounded by other assorted verses. Madrid, Biblioteca de Palacio, MS II.468 (formerly 2.e.5), has the verses to Thomas on fol. 27v, and *De commendatione uini* on fols. 179v–188v. The Cambridge manuscript is thus alone in associating the poem with the rest of *De commendatione uini*, but it seems highly sensible. While the poem does not refer directly to a work on wine, the opening line ('Munus. set munusculum', fol. 224r) mirrors that of the response by Peter of Blois ('Scribo. set inuitus', fol. 223v), and the Goliardic rhyme scheme matches the first poem by Peter and Robert's response. The epistle must have accommpanied some 'munusculum' by Alexander, and the manuscript and stylistic evidence, as well as the note of satire and references to food, suggest *De commentatione uini* ahead of any of Alexander's other works.
 
 A letter of Peter of Blois provides further evidence for linking the epistle to this debate, where he criticizes a Thomas for his promotion of beer over wine. Unfortunately, the opening of this letter has been lost; Revell suggested that it could have been addressed to either Alexander or Robert [@blois:1993later, pp. 159–60n (no. 31.1)]. The former is perhaps more likely, based on a passage towards the end of the letter that Alexander echoes in his own work [@blois:1993later, p. 164n (no. 31.10); @browne:1954british, pp. 77–78; @alexander_neckam:2008suppletio, pp. 218–219 (carmina metrica, 4)]. Revell also points out another letter from Peter to a magister A. on alcohol [@peter_of_blois:1847petri, pp. 1:17–19 (no. 7)], but it should be noted that Oxford, Bodleian Library, MS Bodley 426 addresses it to a magister Ambrosius. There is also more solidly attributed correspondence between the figures: he congratulates Alexander on taking up monastic vows [@peter_of_blois:1847petri, pp. 2:21–26 (no. 137); cited by @hunt:1984schools, pp. 9–12], and criticizes the views of a magister A. on whether guilt could return to a sinner [@blois:1993later, p. 304n (no. 70)]. Some of these exchanges might sound somewhat unfriendly, but this is partially Peter's style, whose letters have been labelled 'a microhistory of anxiety' [@cotts:2009clerical, p. 56]. He seems to have maintained a close connection with Cirencester [cf. @blois:1993later, nos. 45, 52]. Alexander addresses to a Peter in his versified version of *Corrogationes Promethei*, which could plausibly refer to Peter of Blois, though Hunt thought it might have been a nephew [@hunt:1984schools, pp. 12–13]. One must still speculate on how this exchange came about; but it seems certain both that Alexander is responding directly to the poems of Peter and Robert, and that he is addressing Thomas as another object of Peter's promotion of wine.
 
@@ -1030,7 +1137,7 @@ The only figure at Gloucester during Alexander's lifetime with this name was Tho
 
 ### *Nouus Auianus* (fols. 232v–234v)
 
-This is, on the whole, the most accurate manuscript of this work, which has been edited many times [-@alexander_neckam:1854novus; -@alexander_neckam:1862nouus; -@alexander_neckam:1893nouus; -@alexander_neckam:1998nouus]. It is structured here as follows:
+This is, on the whole, the most accurate manuscript of this work, which has been edited many times [@du_méril:1854poésies, pp. 260-267; -@alexander_neckam:1862nouus; -@alexander_neckam:1894nouus; -@alexander_neckam:1998nouus]. It is structured here as follows:
 
 1. De lupo.
 2. De testudine.
@@ -1044,35 +1151,37 @@ This is, on the whole, the most accurate manuscript of this work, which has been
 
 The work ends with a space until the end of the page (fifteen lines). Bisanti discusses it in more detail in the context of the Avianus tradition [@bisanti:2010novus; @bisanti:2002novus].
 
-### Other verses by Alexander Neckam
+### Other verses by Alexander Neckam (fols. 235r–236r)
 
-- Diuisio huius nominis roma.
-- De Vase aureo in quo continetur eucharistia.
-- (inc. *Dulcessit crebro fructus radicis amare.*)
-- Entre dous uertes⸵ la terce meure.
+Alexander's minor verses have already received ample treatment [in @esposito:1915some; @walther:1965kleineren; @kuijper:1966nonnullis; @alexander_neckam:2008suppletio]. The collection that closes the verse anthology is structured opens with a set of poems that are several lines long, each opening formally with a drop capital:
 
-- 
+- *Diuisio huius nominis roma.* (inc. 'En dabit absque mora⸵ celsus rome tibi mora.')
+- *De Vase aureo in quo continetur eucharistia.* (inc. 'Non manus artificis. non auri gloria. dignum⸵')
+- inc. 'Dulcessit crebro fructus radicis amare.'
+- *Entre dous uertes⸵ la terce meure.* (inc. 'Maturum medium cingit utrumque uiror.')
+- *Contra auarum.* (inc. 'Cur homo qui cinis es. per auaritiam sepelis es?')
 
-- Contra auarum.
-- Diuisio huius nominis uires.
-- Diuisio huius uerbi laboraui.
-- (inc. *Multa deus de te dicunt per signa prophete.*)
-- Uersus retrogredi.
-- De absconsa.
-- De laterna.
-- Ieo tute uail cink mars de or.
-- Beau Gwerre chastete.
-- Apres peyre. vin ou proueyre.
-- (inc. *Gaudeo legatus niueum michi misit olorem.*)
-- (inc. *O stupor. anguillas martyr mutauit in hillas.*)
+'Contra auarum' ends on fol. 236r with a few lines separated only by paraph marks:
 
+- *Diuisio huius nominis uires.* (inc. 'Redde michi uires. sum debilis. et sine ui res.')
+- *Diuisio huius uerbi laboraui.* (inc. 'Casu labor aui. uisu subito labo raui.')
+- inc. 'Multa deus de te dicunt per signa prophete.'
 
-Höchgurthel doubts the authenticity of some of these poems [@alexander_neckam:2008suppletio, p. lxxvi], though as Margaret Gibson notes, it is difficult to separate much this from other material of the period. <!-- cite -->
+A new section is then signalled with a drop capital, with the following poems:
 
-@serlo_of_wilton:1965poèmes, pp. 33–34: discussion of Serlo bit
+- *Uersus retrogredi.* (inc. 'Urbe licet mesta. faciunt turbe sibi festa.')
+- *De absconsa. Compendioso.* (inc. 'Lumine pretendor. ne ledat lumina splendor.')
+  - *Subcincte.* ('Sum. ne lux lumen ledat. nec cera uolumen.')
+- *De laterna.* (inc. 'Lucida laterne facies est grata lucerne.')
+- *Ieo tute uail cink mars de or.* (inc. 'Vi ualeo tota marcas dor. subtrahe iota.')
+- *Beau Gwerre chastete.* ('Forma decens oris⸵ expugnat castra pudoris.')
+- *Apres peyre. vin ou proueyre.* ('Post pira presbiterum quere uel adde merum')
+- inc. 'Gaudeo legatus niueum michi misit olorem.'
+- inc. 'O stupor. anguillas martyr mutauit in hillas.'
 
-- (inc. *Cesaris inperium per tempora longa latebit*)
+Höchgurthel doubts the authenticity of some of these poems [@alexander_neckam:2008suppletio, p. lxxvi], though as Margaret Gibson notes, it is difficult to separate much this from other contemporary material [@hunt:1984schools, pp. 145–146].
 
+This section was originally followed in the manuscript by a blank page, later filled in by Maurice Gyffard with prophecies (see above).
 
 ### *De passione saluatoris* (fol. 237r–v)
 
@@ -1080,7 +1189,7 @@ This folio is written in a slightly different hand from that responsible for mos
 
 # Conclusion
 
-Alexander was well recognized in his own time as a writer: Alfred of Sareshel dedicates *De motu cordis* to his 'magistrum magnum Alexandrum Nequam' [@sareshel:1923motu, pp. 1–4 (prol.); further discussed in @otte:1972life, pp. 277–278], and Alexander's works were cited up to the fourteenth century [discussed by @hunt1984:schools, chap. 10]. *De naturis rerum* was even read by John Dee, whose annotated copy survives as Oxford, Corpus Christi College, MS 245 [@thomson:2011descriptive, 129; @roberts:1990john, 181]. *Sol meldunensis* is not only a convenient repository for finding Alexander's genuine writings, as it has been used in the past, but is also evidence for how Alexander's community at Cirencester commemorated his work. The amount of care put into the book surely reflects the high regard in which he was held by his peers, and especially the admiration of his nephew Geoffrey Brito, the likely compiler of the book.
+Alexander was well recognized in his own time as a writer: Alfred of Sareshel dedicates *De motu cordis* to his 'magistrum magnum Alexandrum Nequam' [@sareshel:1923motu, pp. 1–4 (prol.); further discussed in @otte:1972life, pp. 277–278], and Alexander's works were cited up to the fourteenth century [discussed by @hunt:1984schools, chap. 10]. *De naturis rerum* was even read by John Dee, whose annotated copy survives as Oxford, Corpus Christi College, MS 245 [@thomson:2011descriptive, 129; @roberts:1990john, 181]. *Sol meldunensis* shows how Alexander's own community at Cirencester commemorated his work. The amount of care put into the book surely reflects the high regard in which he was held by his peers, and especially the admiration of his nephew Geoffrey Brito, the likely compiler of the book.
 
 The book also carries on Alexander Neckam's sunny view towards religious orders other than his own. In his *Tractatus super Mulierem fortem*, commenting on Prov. 31:27 and taking the strong woman as the church, he remarks:
 
@@ -1089,3 +1198,5 @@ The book also carries on Alexander Neckam's sunny view towards religious orders 
 > Therefore, holy mother church *has looked well to the ways of her house*, when the enthusiam for prayer finds the special practices of the regular life, leading most directly to the house concerning which truth speaks: *In the house of my Father are many mansions.* In different churches, different customs are observed, and although they may seem to oppose themselves, yet they lead those who observe them directly to the heavenly palace. Consider the Cistercians, the Cluniacs, the Carthusians, and the most holy customs of the other orders: what will you find in them other than the delicious joy of holy love?
 
 What does monastic co-operation look like in practice? In the experiment that is *Sol meldunensis*, Geoffrey Brito and the community at Cirencester extend a gesture of friendship by inviting correction and augmentation to their work. The monks at Malmesbury responded enthusiastically, probably returning the book with a new illustration, marginal additions and correction, and a new gathering of Geoffrey of Monmouth, using a page layout that specifically invites further glossing. They could have found no better way to honour the memory of the unremittingly optimistic abbot.
+
+# Bibliography
