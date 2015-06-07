@@ -4,88 +4,59 @@ author: Andrew Dunning
 csl: chicago-fullnote-bibliography.csl
 ...
 
-Alexander makes a number of remarks about the production of books in his *De nominibus utensilium* and *Sacerdos ad altare*. This chapter considers whether these shed any light on Alexander’s writing process, particularly in the context of manuscripts that contain examples of Alexander's own handwriting. This was first identified by R.W. Hunt in revisions to the commentary on the Psalms; his hypothesis is here verified and extended. The hand in Oxford, Jesus College 94 can be almost certainly be understood as belonging to Alexander because the corrections it makes are found (in a slightly different form) in London, British Library, Royal 2 C. XI. The hand is also identified as occurring in several other manuscripts, certainly in the case of a few other copies of Alexander’s works, and less so in annotations from several Cirencester manuscripts. The revisions made by this hand are compared to similar cases from this period.
+Alexander's remarks in his *De nominibus utensilium* and *Sacerdos ad altare*, both works designed for teaching Latin, indicate a personal interest in writing; the former is detailed enough that a scribe's writing desk has been reconstructed primarily based on its description [@vezin:2005reconstitution]. These works also provide some of the best descriptions of tacketed binding [@gullick:1996from, p. 240; cited in @gumbert:2011tacketed, p. 303n12, who suggests an emendation to the text, discussed at 318–20]. Contemporary manuscripts surviving from Cirencester, some of which include annotations from Alexander himself, give us a glimpse into Alexander's own working methods, and into the process of disseminating his works. Documentation hints that another canon at Cirencester, Walter de Melida, also played a significant role in this procedure. Another case of the thirteenth century, Samuel Presbiter, is introduced here for comparison; in the context of his and other contemporary works, the Cirencester manuscripts allow for the establishment of certain criteria that suggest the presence of the text's author in the correction of the manuscript.
 
-Outline:
+When speaking of modern figures, the idea of the 'author' is fairly straightforward: in most cases, the identify of the 'writer of a book or other work' (as it is defined in the *OED*) is known and uncomplicated. The premodern conception is somewhat more complicated. The classical and medieval ideas of the *auctor* are analysed most broadly by @minnis:1988medieval; both its purely intellectual and more practical aspects have been considered many times since [recently summarized in @partridge:2012author]. This problem is beyond the present scope: the Cirencester tell us much more about the process of publication than authorship – *editio*, as it is framed by @sharpe:2009anselm.
 
-- Alexander was interested in the process of writing
-- the manuscripts have had a particular influence of Walter de Melida
-- correction practices in these MSS
-
-Take-home points:
-
-- Role of Walter as literary executor
-- criteria for identifying Alexander's hand
-- criteria for arguing that corrections are authorial
-
-# Alexander on Writing
-
-Alexander seems to have taken a personal interest in writing, and makes a number of comments in his *De nominibus utensilium* and *Sacerdos ad altare*, both works designed for teaching Latin. One can catch a slight glimpse into his expectations through this works, though they fall short as evidence for specific practices at Cirencester. *De nominibus utensilium* is detailed enough that a scribe's writing desk has been reconstructed primarily based on its description [@vezin:2005reconstitution].
-
-Alexander also provides one of the best descriptions of tacketing in *DNV* and *SA* [@gullick:1996from, p. 240; cited in @gumbert:2011tacketed, p. 303n12, who suggests an emendation to the text, discussed at 318–320].
+<!-- 
+If we want to talk more about SA/DNV (CP, CNP?), consider the following:
 
 @gasparri:2007terminologie
 
+> Scriptor habeat rasorium sive novaculum ad radendum sordes pergameni vel membrane. Habeat etiam pumicem mordacem et planulam ad purgandum et equandum superficiem pergameni. Plumbum habeat et linulam, quibus lineatur pergamenum, margine circumquaque tam ex parte tergi quam ex parte carnis existente libera. [@hunt:1991teaching, p. 1:188]
 
-
-
-
-
-
-
-
-
-> Scriptor habeat rasorium sive novaculum ad radendum sordes pergameni vel membrane. Habeat etiam pumicem mordacem et planulam ad purgandum et equandum superficiem pergameni. Plumbum habeat et linulam, quibus lineatur pergamenum, margine circumquaque tam ex parte tergi quam ex parte carnis existente libera. [@hunt:1991teaching, p. 1:188; translated by @copeland:2010naming, pp. 43–44]
-
-> A scribe should have an erasing knife or a razor to scratch away the filth of the parchment or skin. He should have a rough pumice stone and a little plane for cleaning and levelling out the surface of the parchment. He should have a lead and a ruler with which the parchment may be lined, with a clear margin all around, on the outer side as well as on the flesh side.
+> A scribe should have an erasing knife or a razor to scratch away the filth of the parchment or skin. He should have a rough pumice stone and a little plane for cleaning and levelling out the surface of the parchment. He should have a lead and a ruler with which the parchment may be lined, with a clear margin all around, on the outer side as well as on the flesh side. [translated by @copeland:2010naming, pp. 43–44]
 
 @hunt:1991teaching, pp. 1:188–89
 @scheler:1866trois, pp. 167–169
 @wright:1857treatise, pp. 116–117
 
-
-
-
 @haskins:1927list? @haskins:1909list?
 
-
-SA
-
-DNV
-
-
-what about CP? CNP?
+ -->
 
 # Preserving Alexander's Writings
 
-Alexander may have had a literary executor of sorts in Walter de Melida (alternatively Melide or Melidie). Walter is mentioned in the Cirencester cartulary as one of three advisors to the abbot Richard
+Alexander may have had a literary executor of sorts in Walter de Melida (alternatively Melide or Melidie).<!-- find out BL spelling? -->  Walter is mentioned in the Cirencester cartulary as 
 
 
-@richardson:1941select, p. clxxx–clxxxi; translated in @rothwell:1996english, p. 863
+only place name given in full:
 
-It is probably the same Walter who was paid for taking a message from the king to Alexander [@richardson:1941select, p. clxxix–clxxxi; cited in @hunt:1984schools, p. 13].
+- Walter de Melide, canon of Cirencester, no. 327 (1:295–296): June 1200–July 1205, an assistant to Alan the cellarer, who is one of three advisors to the abbot Richard, along with Alexander Neckam and Egelin the prior (≠ Walter of Gloucester)
 
+> fratrem uero Walterum de Melide constituit socium Alani celarii jta tamen quod predictus Alanus precipuam et plenam habeat amministracionem tam jnfra cepta curie quam extra super omnibus que ad officium celarii pertinent [1:295]
 
-Canterbury, Cathedral Library, MS Lit. B.13, was owned by Roger Noreys, a monk at Christ Church, Canterbury, who gave several<!-- or sixty? --> books to its library, including a copy of Alexander's *De naturis rerum* [@james:1903ancient, p. 102; @greatrex:1997biographical, p. 244 identifies him with the controversial abbot of Evesham, but this is unlikely; cf. @sayers:2004norreis]. It originally lacked the end of Alexander's sermon 39. Roger seems to have asked about this on a trip to Cirencester, and may also have desired to form a complete collection of Alexander's sermons. <!-- find out BL spelling? --> a canon at Cirencester, to 'R. capellano archiepiscopi' supplies the requested end of the sermon, and asking in return for a list of the available sermons by Alexander, as quickly as possible:
-
-> Dilecto sibi in cristo et amico karissimo R. capellano arch*iepiscopi*. suus W. de Melida. Salutem et se ipsum. Mitto uobis finem sermonis illius qui sic incipit. *Tu exurgens misereberis syon.* [Ps. 101:14] Rogo etiam uos quatinus notetis in quadam cedula omnium sermonum principia quos habetis penes uos et mittatis michi per primum nuntium quem inuenire poteritis. Inueni enim postquam recessistis a me sicut uoluntas dei fuit quosdam sermones magistri Alex' [*erasure*] ubi continentur alii eius sermones quos penes uos non habetis. et quia memoriter non retineo omnes quos penes uos habetis omnium principia michi mittite. ut sic sermones illos quos non habetis scribere faciam. Valete. [Canterbury, Cathedral Library, MS Lit. B.13, fol. 67r: cited by @ker:1969medieval, p. 2:274]
-
-> W. de Melida, to his beloved in Christ and friend, the most dear R., chaplain to the archbishop, greetings and himself. I am sending you the end of the sermon beginning, *Thou shalt arise, and have mercy upon Sion.* [Ps. 102:13] I also ask you to mark on some sheet the beginning of all the sermons that you have in your possession and send them to me by the first message you can find. For I found after you left me, as if it happened by the will of God, some sermons of master Alexander where other of his sermons are contained which you do not have in your possession, and because I do not accurately remember all those which you already have, send me the beginnings of them all, that I may thus have written those sermons which you do not have. Farewell.
+- no 465 (2:413–414): W. clerk of abbot AN
+- ? no. 582 (2:502): magistro W. capellano (2 Feb. 1203, Milborne Port)
 
 
+It is probably the same Walter who was paid for taking a message from the king to Alexander [@richardson:1941select, p. clxxix–clxxxi; cited in @hunt:1984schools, p. 13; translated in @rothwell:1996english, p. 863].
 
-. 
 
-In a book 
+The most vivid evidence for Walter's work, however, comes in the form of two letters. One appears in Canterbury, Cathedral Library, MS Lit. B.13, which includes a number of sermons written by Alexander; it was owned by Roger Noreys, a monk at Christ Church, Canterbury. He who gave several<!-- or sixty? ask Willoughby in the fall --> books to its library, including a copy of Alexander's *De naturis rerum* [@james:1903ancient, p. 102; @greatrex:1997biographical, p. 244 identifies him with the controversial abbot of Evesham, but this is unlikely; cf. @sayers:2004norreis]. It originally lacked the end of Alexander's sermon 39 [for a listing of Alexander's sermons, see @hunt:1984schools, pp. 000–000]. Roger seems to have asked about this on a trip to Cirencester. Walter supplies the requested end of the sermon, asking in return for a list of the available sermons by Alexander, as quickly as possible:
+
+> Dilecto sibi in cristo et amico karissimo R. capellano arch*iepiscopi*. suus W. de Melida. Salutem et se ipsum. Mitto uobis finem sermonis illius qui sic incipit. *Tu exurgens misereberis syon.* [Ps. 101:14] Rogo etiam uos quatinus notetis in quadam cedula omnium sermonum principia quos habetis penes uos et mittatis michi per primum nuntium quem inuenire poteritis. Inueni enim postquam recessistis a me sicut uoluntas dei fuit quosdam sermones magistri Alex' [*erasure*] ubi continentur alii eius sermones quos penes uos non habetis. et quia memoriter non retineo omnes quos penes uos habetis omnium principia michi mittite. ut sic sermones illos quos non habetis scribere faciam. Valete. [Canterbury, Cathedral Library, MS Lit. B.13, fol. 67r: cited by @ker:1969medieval, p. 2:274]<!-- check in MS -->
+
+> W. de Melida, to his beloved in Christ and friend, the most dear R., chaplain to the archbishop, greetings and himself. I am sending you the end of the sermon beginning, *Thou shalt arise, and have mercy upon Sion.* [Ps. 102:13] I also ask you to mark on some sheet the beginning of all the sermons that you have in your possession and send them to me by the first message<!-- better trans? 'embassy'? --> you can find. For I found after you left me, as if it happened by the will of God, some sermons of master Alexander where other of his sermons are contained which you do not have in your possession, and because I do not accurately remember all those which you already have, send me the beginnings of them all, that I may thus have written those sermons which you do not have. Farewell.
 
 <!-- What is in 
 *English manuscripts in the century after the Norman Conquest*, p. 48 and pl. 20b? something about punctuation  -->
 
-Roger Noreys of Canterbury, Cathedral Library, MS Lit. B. 13. Greatrex, 'Register' (p. 244) puts him down as the prior of Evesham, as does the Oxford Dictionary of National Biography article (s.v. Norreis, Roger). There is a letter in Lit. B. 13 from W. de Melida (repr. in Ker’s catalogue, p. 2:274), whom I assume is the same as a Walter de Melidie, the recipient of a letter from prior S[?] of Malmesbury in praise of Alexander Neckam (in London, BL, Royal MS 5 C.v, fol. 57v and Paris, BnF, MS Latin 11867, fol. 240v: an earlier part of the letter is cited in Meyer, 'Notice sur les Corrogationes Promethei d'Alexandre Neckam', p. 657n1). Both letters leave me with the impression that Alexander had already died when they were written, and I wonder whether Walter was acting as some kind of literary executor.
+Walter probably had a manuscript similar to Oxford, Bodleian Library, MS Wood empt. 13 (SC 8601), which is a collection of most, but not all, of Alexander's sermons. He is evidently quite eager to spread Alexander's writings.
 
+The second letter is from S., prior of Malmesbury, addressing Walter. He puts forward his theory for the meaning of the title *Corrogationes Promethei*, referring to Alexander in glowing terms: 'Non enim solummodo aurum recipit⸵ sed et auro tota uestitur' ('For he has not only accepted gold, but is entirely clothed in it') [Paris, BnF, MS Latin 11867, fol. 240vb and London, BL, Royal MS 5 C.v, fol. 57v: an earlier part of the letter is cited in @meyer:1896notice, p. 657n1]. The prior eludes further identification, though he is also noted in a document from 1246 [@jones:1891charters, p. 301; cited in @russell:1932alexander, p. 265n8]. It is interesting that several additions to the Alexander Neckam florilegium in Cambridge, University Library, Gg.6.42, potentially added by monks at Malmesbury, are drawn from *Corrogationes Promethei*. It is hard to guess what might have prompted this letter: the tone of S. indicates that he is confident that his addressee will share his love for Alexander Neckam. Had Walter forgotten what *Corrogationes Promethei* referred to? Did he think that the prior had access to more detailed knowledge?
 
-
-The letter from S., prior of Malmesbury, to Walter explains the meaning of the title *Corrogationes Promethei*, refers to Alexander in glowing terms: 'Non enim solummodo aurum recipit⸵ sed et auro tota uestitur' ('For he has not only accepted gold, but is entirely clothed in it') [Paris, BnF, MS Latin 11867, fol. 240vb and London, BL, Royal MS 5 C.v, fol. 57v: an earlier part of the letter is cited in @meyer:1896notice, p. 657n1]. The prior eludes further identification, though he is also noted in a document from 1246 [@jones:1891charters, p. 301; cited in @russell:1932alexander, p. 265n8]. There are many questions here: one wonders whether Walter considered himself Alexander's literary executor, and what this has to do with the odd phenomena observable in Alexander's manuscripts. Copies of *De naturis rerum*, in particular, have a biarrely consistent appearance to them, and most of them come from the same period, noted even by Thomas Wright. <!-- (Faith Wallis has mused that this might have been some sort of campaign for distributing the material.) -->
+More potential evidence for a literary executor conducting a concerted campaign to spread Alexander's works appears in the consistency and dating of surviving manuscripts. Copies of *De naturis rerum*, in particular, have a biarrely consistent appearance to them, and most of them come from the same period, noted even by Thomas Wright. <!-- (Faith Wallis has mused that this might have been some sort of campaign for distributing the material.) -->
 
 
 - page layout + Cirencester; DNR?
@@ -93,7 +64,7 @@ The letter from S., prior of Malmesbury, to Walter explains the meaning of the t
 
 - 
 
-
+Both letters leave me with the impression that Alexander had already died when they were written, and I wonder whether Walter was acting as some kind of literary executor.
 
 # Alexander's Autograph
 
