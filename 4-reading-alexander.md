@@ -4,7 +4,7 @@ subtitle: 'The Alexander Neckam Florilegium, *Sol meldunensis*'
 date: 31 May 2015
 author: Andrew Dunning
 abstract: |
-    *Sol meldunensis* (Cambridge, University Library, MS Gg.6.42) was originally produced as a florilegium collecting extracts mostly from Alexander Neckam, produced at Cirencester as a gift to the abbot of Malmesbury, with an invitation for correction. It is argued that the monks took this literally, adding more material to the manuscript and returning it to Cirencester, where a verse anthology of Alexander's works was added. The compiler is identified as Alexander's nephew Geoffrey Brito.
+    *Sol meldunensis* (Cambridge, University Library, MS Gg.6.42) was originally produced between 1246 and 1260 as a florilegium collecting extracts mostly from Alexander Neckam, produced at Cirencester as a gift to the abbot of Malmesbury, with an invitation for correction. It is argued that the monks took this literally, adding more material to the manuscript and returning it to Cirencester, where a verse anthology of Alexander's works was added. The compiler is identified as Alexander's nephew Geoffrey Brito.
 csl: chicago-fullnote-bibliography.csl
 ...
 
@@ -134,9 +134,9 @@ The final verse epistle of *Sol meldunensis* builds on the theme of judgement an
 
 Read literally, this might precisely explain the various layers of addition found in the manuscript, and why it apparently returned to Cirencester later on. The quotation of Alexander might also be a significant clue as to the author's identity. In its original context, it is from the end of a poem entrusting a nephew for education to a 'doctor Radulfe', possibly Ralph of Dunstable, who wrote a verse life of St Alban [@hunt:1984schools, pp. 12–13; @rigg:1992history, p. 124; @mcleod:1980alban, pp. 412–16]:
 
-> | Quem tibi transmitto doctor Radulfe nepotem⸵ 
-> |     Suscipe. deuota sedulitate doce. 
-> | Hunc fidei committo tue. uigilancia cure⸵ 
+> | Quem tibi transmitto doctor Radulfe nepotem⸵
+> |     Suscipe. deuota sedulitate doce.
+> | Hunc fidei committo tue. uigilancia cure⸵
 > |     Lucra feret. sterilis non erit iste labor.
 > | Versibus et rithmis. et adhuc dictamine. per te⸵
 > |     Floreat. et sit in hiis sollicitudo uigil.
@@ -201,7 +201,7 @@ According to the copy of the commentary in Oxford, Jesus College, MS 94, the nex
 While the base of the entire text in the first and last booklets is in the same hand, additions to the first booklet only in several hands as well as the annexed Geoffrey of Monmouth gathering plausibly suggest that the monks at Malmesbury took Geoffrey's invitation to correct and make additions quite literally. One can identify at least three major levels of production:
 
 1. *Cirencester*: Florilegium, opening section (gatherings 1–7); book 2 (gatherings 8–21) — sent to Malmesbury
-2. *Malmesbury*: Geoffrey of Monmouth (gathering 22); additions to prose florilegium; illustrations on fol. 5 — returned to Cirencester
+2. *Malmesbury*: Geoffrey of Monmouth (gathering 22); additions to prose florilegium; illustrations on fol. 5 — returned to Cirencester
 3. *Cirencester*: Verse anthology and integration of Malmesbury additions (gatherings 23–24)
 
 'Book one' is not identified as such in the manuscript, and could in theory have ended on fol. 68v or 69v, nearly at the end of gathering 7, which has fewer leaves than others in the manuscript. This means that the original recipient of *Sol meldunensis* could have been John Walsh, Geoffrey's predecessor who witnessed the charters concerning Geoffrey Brito, since the abbot Geoffrey is not mentioned until 71v. The remainder of the gathering has been filled out with the proem to book 2, ending with the second verse epistle, where the abbot Geoffrey is first named. It is unlikely that the manuscript would have been sent to Malmesbury without this closing poem. It is theoretically possible that the 'Incipit proemium in librum Secundum' rubric on fol. 70r is a later addition, but there is no visible evidence for this. This evidence seems to indicate only an expansion of scope after the creation of the opening book, not a gap in activity between the two books.
@@ -380,7 +380,7 @@ Below this appears to be the number 990. In the centre of the page has been adde
 > | Iste liber constat moritio
 > | Gyffardi Testante Iesu
 
-Maurice was probably local to Cirencester, since the name Gyffard occurs frequently in the abbey's cartulary. It seems to be his hand that adds some of the glosses to the *Prophetia Merlini*, and he also contributed a selection of prophecies on England on fol. 236v, the first of which, 'Cesaris inperium per tempora longa latebit', is grouped in other manuscripts with a set of prophecies originating in the twelfth century at the Augustinian priory of Bridlington, though its relationship to these is unclear [printed in @frońska:2014royal, p. 28; also noted in @coote:2000prophecy, pp. 148–149; @meyvaert:1966john discusses the problem of the authorship of the Bridlington poems; @ward:1883catalogue, p. 1:318 also note the existence of some of the material in London, BL, Harley 1008, fol. 81]:
+Maurice was probably local to Cirencester, since the name Gyffard or Giffard occurs frequently in the abbey's cartulary, and this was a prominent family in the area [@baddeley:1924history, pp. 7, 175, 190]. It seems to be his hand that adds some of the glosses to the *Prophetia Merlini*, and he also contributed a selection of prophecies on England on fol. 236v, the first of which, 'Cesaris inperium per tempora longa latebit', is grouped in other manuscripts with a set of prophecies originating in the twelfth century at the Augustinian priory of Bridlington, though its relationship to these is unclear [printed in @frońska:2014royal, p. 28; also noted in @coote:2000prophecy, pp. 148–149; @meyvaert:1966john discusses the problem of the authorship of the Bridlington poems; @ward:1883catalogue, p. 1:318 also note the existence of some of the material in London, BL, Harley 1008, fol. 81]:
 
 ![Additions by Maurice Gyffard on fol. 236v.](images/sol-meldunensis/mg-236v.jpg)
 
@@ -1109,7 +1109,7 @@ How was this book intended to be read? One assumes that it is part of the rise o
 
 ## II. Geoffrey of Monmouth, *Prophetia Merlini* (gathering 22, fols. 213–222)
 
-At first glance, the *Prophetia Merlini* would seem to have nothing to do with Alexander Neckam, but it makes more sense as it is titled in the manuscript, written in the same Cirencester hand that rubricates the rest of the manuscript: 'Epistula magistri Galfridus monumutensis directa Alexandro Lincolniensi episcopo' (fol. 213v, also written at the base of fol. 214r and partially trimmed away). As the original part of *Sol meldunensis* is presented as a Geoffrey addressing another Geoffrey about Alexander, it seems far too convenient that this section is presented as another Geoffrey addressing an Alexander, as if the abbot of Malmesbury were addressing Cirencester as a whole. There might also be an implied pun on the name of Geoffrey Brito, since Geoffrey of Monmouth's famous work was sometimes known as *De gestis Britonum*.
+At first glance, the *Prophetia Merlini* would seem to have nothing to do with Alexander Neckam, but it makes more sense as it is titled in the manuscript, written in the same Cirencester hand that rubricates the rest of the manuscript: 'Epistula magistri Galfridus monumutensis directa Alexandro Lincolniensi episcopo' (fol. 213v, also written at the base of fol. 214r and partially trimmed away). As the original part of *Sol meldunensis* is presented as a Geoffrey addressing another Geoffrey about Alexander, it seems far too convenient that this section is presented as another Geoffrey addressing an Alexander, as if the abbot of Malmesbury were addressing Cirencester as a whole. There might also be an implied pun on the name of Geoffrey Brito, since Geoffrey of Monmouth's famous work was sometimes known as *De gestis Britonum*. Alexander Neckam also knew this book, and cites the story of Gurmund connected to Cirencester [*Laus diuine sapientie* 10.341–42, 'Urbs uires experta tuas, Gurmunde, per annos / Septem, ni fallor, vix tibi deesse volet.', @alexander_neckam:1863naturis, p. 503; cited in @baddeley:1924history, p. 1<!-- et al.: search for text -->].
 
 The text is widely spaced to allow for glosses to be inserted between the lines. Alisha reader has taken advantage of this though not perhaps to the extent envisioned by the original scribe.
 
