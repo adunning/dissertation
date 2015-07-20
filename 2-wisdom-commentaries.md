@@ -1,17 +1,46 @@
 ---
-Title: *Speculum animi mei:* The Wisdom Commentaries
+Title: *Speculum animi mei:* Alexander's Writings at Cirencester
+locale: en-GB
 <!--Alexander's work at Cirencester? -->
 ---
 
-Alexander Neckam's most famous work, *De naturis rerum*, is most commonly described as an 'encyclopedia' [as in @talavera_esteso:1983historia; @fumagalli:1985due; @berlioz:1994recueils; @ribémont:1995natura; @schuler:2000fabrica; @voorbij:2000purpose; @ribémont:2002renaissance; @schuler:2002rives; @tilliette:2005rhétorique; @záhora:2014nature]. This view stems from its first editor's framing of the work, which he stated 'was intended to be a manual of the scientific knowledge of the time' [Wright, introduction to @neckam:1863naturis, p. xiv]. In reality, the published portion of the work is an introduction to a scriptural commentary. Wright's disdain for the project is clear by his explanation of the close to *DNR*, book 2: 'he announces his intention of treating further the subject of human vanities as introductory to his commentary on the book of Ecclesiasticus [*sic* for Ecclesiastes]' [@neckam:1863naturis, p. lxvii].
+Q: What is the purpose of Alexander's wisdom commentaries?
 
-Understanding *De naturis rerum* as an encyclopedia may help to provide context for some of the works that followed it to which the label has been retroactively applied, but it tells us relatively little about how Alexander conceived of his work. It has also set up false expectations for Alexander's work, meaning that modern audiences are often less than receptive. Rather, it should be understood as one of a series of meditative biblical commentaries he wrote while at Cirencester: along with *De naturis rerum*, the commentary on Ecclesiastes, there survive a commentary on the *Song of Songs*, also called *Laus beatissime uirginis* [@mcdonough:2004laus]; a *Tractatus super Parabolas Salomonis*, an incomplete commentary covering Proverbs 1:1–3:27; the *Tractatus super Mulierem fortem*, a threefold commentary on Proverbs 31:10–31; and a *Meditatio de Magdalena* [edited in @bestul:1999meditation]. Whenever Alexander himself refers to these books, he calls it a 'meditatio'. The purpose of this chapter is to explain how Alexander used this idea from the tradition of monastic biblical commentaries to meet the needs of his community, and to consider its relationship to himself, as when in the conclusion to his *Tractatus super Mulierem fortem* he calls the book 'speculum animi mei' (J, fol. 125ra).
+A: They are meditations.
+
+Alexander Neckam's most famous work, *De naturis rerum*, is most commonly described as an 'encyclopedia' [as in @talavera_esteso:1983historia; @fumagalli:1985due; @berlioz:1994recueils; @ribémont:1995natura; @schuler:2000fabrica; @voorbij:2000purpose; @ribémont:2002renaissance; @schuler:2002rives; @tilliette:2005rhétorique; @záhora:2014nature].<!-- @haye:1997lateinische ? --> This view stems from its first editor's framing of the work, which he stated 'was intended to be a manual of the scientific knowledge of the time' [Wright, introduction to @neckam:1863naturis, p. xiv]. In reality, the published portion of the work is an introduction to a scriptural commentary. Wright's willful ignorance of what follows runs so deep that he believes it was a commentary on 'Ecclesiasticus' rather than Ecclesiastes [@neckam:1863naturis, p. lxvii]. Understanding *De naturis rerum* as an encyclopedia may help to provide context for some of the works that followed it to which the label has been retroactively applied, but it tells us relatively little about how Alexander conceived of his work, but it has also set up false expectations for Alexander's work, meaning that modern audiences are often less than receptive.
+
+Instead, this work should be understood as one of a series of meditative biblical commentaries he wrote while at Cirencester: along with *De naturis rerum*, there survive a commentary on the *Song of Songs*, also called *Laus beatissime uirginis* [@mcdonough:2004laus]; the *Tractatus super Parabolas Salomonis*, an incomplete commentary covering Proverbs 1:1–3:27; the *Tractatus super Mulierem fortem*, a threefold commentary on Proverbs 31:10–31; and a *Meditatio de Magdalena* [edited in @bestul:1999meditation]. Whenever Alexander himself refers to one of these books, he calls it a 'meditatio'. The purpose of this chapter is to explain how Alexander used this idea from the tradition of monastic biblical commentaries to meet the needs of his community, and to consider its relationship to himself, as when in the conclusion to his *Tractatus super Mulierem fortem* he calls the book 'speculum animi mei' (J, fol. 125ra).
 
 <!--Do we need more engagement with the arguments cited above? -->
 
+> And now those things which pertain to reading have been explained as lucidly and briefly as we know how. But as for the remaining part of learning, namely meditation, I omit saying anything about it in the present work because so great a matter requires a special treatise, and it is more worthy to be altogether silent about a matter of this sort than to say anything about it imperfectly. For it is a thing truly subtle and at the same time delightful, one which both educates beginners and exercises the perfect, one which has not yet been treated in writing and which therefore deserves all the more to be followed up. [@hugh_of_st_victor:1961didascalicon, p. 151 (6.13)]
+
+# The Works
+
+## *Laus beatissime uirginis*: Commentary on the Song of Songs
+
+## *Solatium fidelis anime*
+
+## *De naturis rerum*: Commentary on Ecclesiastes
+
+DNR De cane (257): turning something that appears to be a nuisance to him into fun
+
+## *Tractatus super Parabolas Salomonis*
+
+The way in which he refers to this work in *Speculum speculationum* 3.81.1 (fol. 68va) is also telling: 'Memini autem me aliqua proposuisse super hoc in ingressu tractatus quem institui super parabolas, unde et paucis nos ad presens absoluemus.' He only claims to have begun the work.
+
+## *Meditatio de Magdalena*
+
+## *Tractatus super Mulierem fortem*
+
+Hunt places the writing of *Super Mulierem fortem* during Alexander's abbacy, on the basis that 'he assumes the tone of a superior giving instruction.' [@hunt:1984schools, p. 28] But he also believes that the heading to the *Speculum*, which refers to him as 'magister Alexander canonicus Cirencestrie' (R, fol. 1ra), indicates that this is an earlier work. If so, *Super Mulierem fortem* must be dated to before 1213, since the *Speculum* refers to it once, close to the beginning [1.2.10: R, fol. 5va, @thomson:1988alexander, p. 23].
+
+*Super Mulierem fortem* includes cross-references to Alexander's *Laus beatissime uirginis*^['Dulcissima est historialis intelligentie ueritas. quam expositione luculenta declarauimus in opere nostro⸵ quod in laudes gloriose dei genitricis feliciter consummauimus.' J, fol. 99vb.] as well as his *Meditatio de Magdalena*.^['Beata autem magdalena cuius laudibus iterato deseruire stilus noster gloriatur'. J, fol. 79ra.] There is
+
 # What is a *meditatio*?
 
-Hunt had very little to say about Alexander's meditatiions, calling them 'the overflow of his personal devotion' <!-- adjust q, taken from Bestul --> [@hunt:1984schools, pp. 106–107]. 
+Hunt had very little to say about Alexander's meditations. 'They are the overflow of his personal devotion.' [@hunt:1984schools, p. 106] ** = 'consolatory meditations'
 
 - Hunt's version: not a fan, 'the overflow of [Alexander's] personal devotion' <!-- adjust q, taken from Bestul --> [@hunt:1984schools, pp. 106–107]
 - there is a longer tradition of this
