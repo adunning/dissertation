@@ -155,3 +155,9 @@ One of the most remarkable features of the earlier books from Cirencester is the
 - what would A have thought when he arrived at Cirencester
 
 - which brings us to the next chapter, on what he feels the need to supply
+
+The fall fair for which Cirencester later earned renown was also initiated during Alexander's time [@ross:1964cartulary, <!-- page --> no. 43; @leland:itinerary, p. 1:129 (part II, fol. 24: cf. 3:101–102, part VI, fol. 65), refers to a Monday market; quoted in @willis:1718history, p. 1:61].
+
+'Love-days': Alexander defending Gloucester [@richardson:1941select, p. clxxix–clxxxi; cited in @hunt:1984schools, p. 13; translated in @rothwell:1996english, p. 863]
+
+

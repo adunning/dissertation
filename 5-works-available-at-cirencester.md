@@ -1,13 +1,20 @@
 ---
-Title: Works Available in Cirencester's Library
+title: Works Available in Cirencester's Library
 ...
 
-Cirencester has no surviving library catalogue, but some idea of the works available at the abbey can be gleaned from the listings in the *Registrum Anglie* [@mynors:1991registrum, pp. 288–89 (no. 104)] and by Leland [@webber:1998libraries, pp. 27–28], together with the survivors [@ker:1964medieval, pp. 51–52; @ker:1987medieval, p. 14], for which information on titles is mostly based on library catalogues [@planta:1802catalogue; @coxe:1852catalogus; @coxe:1973laudian; @warner:1921catalogue; @hunt:1895summary; @mynors:1993catalogue; @watson:1997descriptive; @thomson:2009descriptive], silently corrected where necessary.
+Cirencester has no surviving library catalogue, but an idea of the works available at the abbey can be gleaned from the listings in the *Registrum Anglie* [@mynors:1991registrum, pp. 288–89 (no. 104)] and by Leland [@webber:1998libraries, pp. 27–28], together with the survivors [@baddeley:1924history, pp. 168–170; @ker:1964medieval, pp. 51–52; @ker:1987medieval, p. 14], for which information on titles is based on library catalogues [@planta:1802catalogue; @coxe:1852catalogus; @coxe:1973laudian; @warner:1921catalogue; @hunt:1895summary; @mynors:1993catalogue; @watson:1997descriptive; @thomson:2009descriptive], silently corrected where necessary.
 
 The attribution of items marked † is considered spurious by modern scholars.
 
 <!-- Check format of Royal refs. -->
 <!-- Does R cite @knowles:1971medieval, pp. 139, 154 for a particular reason? -->
+
+<!--check:
+- @williams:1908gloucestershire, p. 94
+- Boston of Bury/Tanner
+- Leland, Collectanea
+- Longleat Cartulary
+- Cheltenham registers? -->
 
 # Aelred of Rievaulx
 : *De Iesu puero duodenni* (Leland)
@@ -24,7 +31,7 @@ The attribution of items marked † is considered spurious by modern scholars.
 : Gloss on the Psalms (two copies: Oxford, Bodleian Library, Bodley 284 (*SC* 2339); Oxford, Jesus College, 94; Leland)
 : *Laus beatissime uirginis*/Commentary on the Song of Songs (Leland)
 : Sermons on the Nativity of the Blessed Virgin Mary (Oxford, Jesus College, 94)
-: *Speculum speculationum* (Leland; probably London, British Library, Royal 7 F.i)
+: *Speculum speculationum* (Leland; London, British Library, Royal 7 F.i)
 : *Tractatus super Mulierem fortem* (Oxford, Jesus College, 94)
 : *Tractatus super Prouerbii Salomonis* (Oxford, Jesus College, 94)
 
@@ -88,7 +95,7 @@ The attribution of items marked † is considered spurious by modern scholars.
 : Commentary on Ezra and Nehemiah (London, British Library, Royal 3 A.xii; *Registrum* 7.21; Leland)
 : Commentary on Revelation (Oxford, Jesus College, 68; *Registrum* 7.14)
 : *In libros Regum quaestiones XXX* (Oxford, Jesus College, 53; *Registrum* 7.18)
-: Commentary on Mark (Oxford, Jesus College, 67) <!-- Oxford, Merton College, 180 might also be from Cirencester. Check photographs. -->
+: Commentary on Mark (Oxford, Jesus College, 67) <!-- Oxford, Merton College, 180 also from Cirencester? Check photographs. -->
 : Commentary on Samuel, 'Liber … exposicionis allegorice super Samuelem' (Oxford, Jesus College, 53; *Registrum* 7.12)
 : Commentary on Tobit (*Registrum* 7.7)
 : *De tabernaculo* (Oxford, Jesus College, 52) <!-- Interesting that this isn't included in R. -->
@@ -102,7 +109,7 @@ The attribution of items marked † is considered spurious by modern scholars.
 
 # Caesarius of Arles
 : *Homiliae X ad monachos* (Hereford, Cathedral Library, P.iii.7, 'Omelia in ueteri testamento et nouo'; *Registrum* 20.2)
-<!-- Is this really what is in the H ms? Check ID list. -->
+<!-- Is this what is in the H ms? Check ID list. -->
 
 # Chrysostom
 : *De reparacione lapsi* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.7)
@@ -142,7 +149,7 @@ The attribution of items marked † is considered spurious by modern scholars.
 
 # Gilbert de la Porée
 : *Epistula Pauli cum glossa* (Hereford, Cathedral Library, O.ii.4)
-: Gloss on the Psalms (*Registrum* 56.3) 
+: Gloss on the Psalms (*Registrum* 56.3)
 
 # Gregory the Great
 : *Dialogi* (Hereford, Cathedral Library, O.i.10)
