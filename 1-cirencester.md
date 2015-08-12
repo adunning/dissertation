@@ -1,37 +1,45 @@
 ---
-Title: The Use and Creation of Books at Cirencester
+title: The Use and Creation of Books at Cirencester
 ---
+
+There is an essential unity between Alexander Neckam's many literary works and his career as a teacher, Augustinian canon, and abbot.
+
+The abbess Frithuswith or St Frideswide, the patron of the abbey in Oxford (now Christ Church) where Alexander came into maturity, was traditionally depicted as a learned figure. In the abbey seal dating to ca. 1190, she is depicted with a book, and, somewhat unusually, is holding it open in her left hand; in her right hand, she holds a flower [four versions reproduced in @wigram:1895_1896cartulary, p. 1:ii]. This connects her equally with the typical female personifications of the liberal arts and the church, as much as with ecclesiastical administration [@heslop:1988late, p. 273]. Frideswide is also shown as a precocious child in two twelfth-century lives [both passages are translated in @blair:1987saint, pp. 74-75]. In the version from ca. 1100–30, she learns the Psalter in six months [Life A §3, @blair:1987saint, p. 96: seven months in Oxford, Balliol College, 228]; an expanded version dated to ca. 1140–70 and attributed to Robert of Cricklade, Alexander's mentor as the prior of St Frideswide's, reduces this to five months and emphasizes the extent of the improvement this wrought on her character, reflecting the highest medieval ideals for learning [Life B §3, @blair:1987saint, p. 103; on the attribution to Robert, see @blair:1987saint, p. 80].
+
+
+What did it mean to have an abbot of an Augustinian abbey who also had an active literary career? Among the English Augustinians in the early thirteenth century, there are few examples:
 
 When Alexander Neckam became the abbot of St Mary’s abbey in Cirencester in 1213, a position he held until his death in 1217 [@knowles:2001heads, pp. 1:159–60, with corrections on 1:278], he became the head of an organization that was very much tied up with the cares of the world; a powerful figure who was also lord of the manor, by royal prerogative [on the early relationship between the abbots and the townspeople, see @rollison:2011commune, ch. 1; @fuller:1884cirencester]. He was the sixth to hold this position since the (re?)constitution of the abbey by Henry I in 1117 [on the abbey's early history, see @wilkinson:1998cirencester; @evans:1993cirencester]. With perhaps forty canons resident, Cirencester was one of the largest Augustinian foundations in England [@knowles:1948religious, p. 2:259].
 
 - summarize argument: Augustinians liked books, there are evident reasons why A would be attracted to them, and Cirencester was a good fit
 - the ethos of the order is an influence, and he is bringing stuff from scholasticism to Cirencester
- 
+
 # Augustinians and their books
+
 The Rule of St Augustine is maddeningly unspecific, and this is no less the case in its discussion of intellectual persuits. There are only two passages relating to books or reading in the *Ordo Monasterii* after an early discussion of the lessons for the offices:
 
 >| Operentur a mane usque ad sextam,
 >| et a sexta usque ad nonam uacent lectioni,
 >| et ad nonam reddant codice.
 
->| *Let them work from early morning till noon
+>| Let them work from early morning till noon
 >| and take leisure for reading from noon till three,
->| and at three o'clock return the books.*[*Ordo Monasterii* 3, translated by @lawless:1987augustine, 74–75]
+>| and at three o'clock return the books. [*Ordo Monasterii* 3, translated by @lawless:1987augustine, 74–75]
 
 ---
 
 >| Sedentes ad mensam taceant, audientes lectionem.
 
->| *When seated at table,
->| they are to be silent and listen to the reading.*[*Ordo Monasterii* 7, translated by @lawless:1987augustine, 76–77]
+>| When seated at table,
+>| they are to be silent and listen to the reading. [*Ordo Monasterii* 7, translated by @lawless:1987augustine, 76–77]
 
 The *Praeceptum* is a little more specific, but still has little to say:
 
 >| Et nolite cantare, nisi quod legitis esse cantandum;
 >| quod autem non it a scriptum est ut cantetur, non cantetur.
 
->| *Keep to the prescribed text when you sing;
->| avoid texts which are not suited for singing.*[*Praeceptum* 2.4, translated by @lawless:1987augustine, 84–85]
+>| Keep to the prescribed text when you sing;
+>| avoid texts which are not suited for singing. [*Praeceptum* 2.4, translated by @lawless:1987augustine, 84–85]
 
 ---
 
@@ -39,9 +47,9 @@ The *Praeceptum* is a little more specific, but still has little to say:
 >| quod uobis secundum consuetudinem legitur,
 >| sine tumultu et contentionibus audite.
 
->| *Listen to the customary reading
+>| Listen to the customary reading
 >| from the beginning to the end of the meal
->| without commotion or arguments.*[*Praeceptum* 3.2, translated by @lawless:1987augustine, 84–85]
+>| without commotion or arguments. [*Praeceptum* 3.2, translated by @lawless:1987augustine, 84–85]
 
 ---
 
@@ -51,10 +59,10 @@ The *Praeceptum* is a little more specific, but still has little to say:
 >| Codices certa hora singulis diebus petantur;
 >| extra horam qui petierit, non accipiat.
 
->| *Those responsible for food, clothing, or books
+>| Those responsible for food, clothing, or books
 >| are to serve their brothers without grumbling.
 >| Books are to be requested at a definite hour each day;
->| requests made at other times will be denied.*[*Praeceptum* 4.9–10, translated by @lawless:1987augustine, 96–97]
+>| requests made at other times will be denied. [*Praeceptum* 4.9–10, translated by @lawless:1987augustine, 96–97]
 
 Webber and Watson point out an attempt to determine precisely what this means in the *Colloquium magistri et discipuli in regulam beati Augustini de uita clericorum* (or *Bridlington Dialogue*), based on Richard of St Victor's *De questionibus regule sancti Augustini solutis* [@webber:1998libraries, p. xxi; from @lawson:1960bridlington, p. 162; Richard's text is edited in @colker:1962richard, p. 219]. It appears that the Augustinian canons themselves had little idea what to make of such strictures. Richard and the *Bridlington Dialogue* tend towards liberality in their interpretations.
 
@@ -67,14 +75,14 @@ But it also has this comment:
 >| ne per obliuionem aliquid neglegatis,
 >| semel in septimana uobis legatur.
 
->| *These precepts should be read to you once a week,
+>| These precepts should be read to you once a week,
 >| so that you will see yourselves
 >| in this little book as in a mirror
->| and not neglect anything through forgetfulness.*[*Praeceptum* 8.2, translated by @lawless:1987augustine, 102–3]
+>| and not neglect anything through forgetfulness. [*Praeceptum* 8.2, translated by @lawless:1987augustine, 102–3]
 
 This passage is probably what Alexander Neckam has in mind when he refers to his *Tractatus super Mulierem fortem* as *speculum animi mei*, as we will see later.
 
-Why were books important to such an order? 
+Why were books important to such an order?
 
 
 - who were the Augustinians?
@@ -99,7 +107,7 @@ Why were books important to such an order?
 
 Alexander, as a teacher, would have fit in very well with such a group
 
-cite these, from @mcdonough:2005cambridge, p. 809n109: 
+cite these, from @mcdonough:2005cambridge, p. 809n109:
 
 @mews:2001hugh, pp. 71-72
 @taylor:2002textual, pp. 60–61
@@ -108,7 +116,7 @@ cite these, from @mcdonough:2005cambridge, p. 809n109:
 # Surviving books from Cirencester
 - so why Cirencester?
 
-A market town where there was no end of work for them. 
+A market town where there was no end of work for them.
 
 
 
@@ -142,7 +150,7 @@ One of the most remarkable features of the earlier books from Cirencester is the
 
 - note his specific praise of M. in *LSD*
 
-- what do we know about St Friedeswide's, A's home?
+- what do we know about St Frideswide's, A's home?
 
 - Robert Cricklade: what did he write?
 
@@ -159,5 +167,3 @@ One of the most remarkable features of the earlier books from Cirencester is the
 The fall fair for which Cirencester later earned renown was also initiated during Alexander's time [@ross:1964cartulary, <!-- page --> no. 43; @leland:itinerary, p. 1:129 (part II, fol. 24: cf. 3:101–102, part VI, fol. 65), refers to a Monday market; quoted in @willis:1718history, p. 1:61].
 
 'Love-days': Alexander defending Gloucester [@richardson:1941select, p. clxxix–clxxxi; cited in @hunt:1984schools, p. 13; translated in @rothwell:1996english, p. 863]
-
-
