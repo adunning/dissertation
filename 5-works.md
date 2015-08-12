@@ -21,6 +21,7 @@ The following catalogue sorts Alexander's works according to chronology, taking 
 ### Manuscripts
 
 - Cambridge, Gonville and Caius College, 136/76
+- Cambridge, Gonville and Caius College, 385/605
 
 ### Records
 
@@ -64,7 +65,7 @@ The following catalogue sorts Alexander's works according to chronology, taking 
 
 ### Manuscripts
 
-
+- Cambridge, Trinity College, R.14.9 (884)
 
 ### Records
 
@@ -93,7 +94,7 @@ The following catalogue sorts Alexander's works according to chronology, taking 
 
 ### Manuscripts
 
-
+- Cambridge, University Library, Gg.6.42 (= G)
 
 ### Records
 
@@ -101,7 +102,7 @@ The following catalogue sorts Alexander's works according to chronology, taking 
 
 ### Editions
 
-@du_méril:1854avianus; @froehner:1862magistri; @hervieux:1883fabulistes [pp. 3:222–234 (introduction), 462–467]; @klein:1998alexander
+@du_méril:1854avianus; @froehner:1862magistri; @hervieux:1883fabulistes [pp. 3:222–234, 462–467]; @klein:1998alexander
 
 ### Literature
 
@@ -140,7 +141,7 @@ The following catalogue sorts Alexander's works according to chronology, taking 
 
 ## Commentary on the Athanasian Creed
 
-@stegmüller:1950repertorium, 1170
+@stegmüller:1950repertorium, no. 1170
 
 ### Identification
 
@@ -222,7 +223,7 @@ List in @hunt:1984schools [pp. 150–153].
 
 ## *Laus beatissime uirginis*: Commentary on the Song of Songs
 
-@stegmüller:1950repertorium, 000; @guglielmetti:2006tradizione, no. 000
+@stegmüller:1950repertorium, no. 000; @guglielmetti:2006tradizione, no. 000
 
 The commentary on the Song of Songs was once thought to have been a separate work: see @mcdonough:2004laus.
 
@@ -238,7 +239,7 @@ The commentary on the Song of Songs was once thought to have been a separate wor
 
 ### Manuscripts
 
-
+- University Library Ii.2.31
 
 ### Records
 
@@ -263,7 +264,7 @@ The commentary on the Song of Songs was once thought to have been a separate wor
 
 ## *Solatium fidelis anime*
 
-@stegmüller:1950repertorium, 8987
+@stegmüller:1950repertorium, no. 8987
 
 ### Identification
 
@@ -303,7 +304,11 @@ The commentary on the Song of Songs was once thought to have been a separate wor
 
 - [Cambridge, Corpus Christi College, 217](https://parker.stanford.edu/parker/actions/manuscript_description_long_display.do?ms_no=217)
 - [Cambridge, Corpus Christi College, 460](https://parker.stanford.edu/parker/actions/manuscript_description_long_display.do?ms_no=460)
-- Cambridge, Gonville and Caius College, 236/122
+- Cambridge, Gonville and Caius College, 236/122 [part 2 only] <!-- what is going on in the back? -->
+- Cambridge, Pembroke College, 103
+- Cambridge, Pembroke College, 112
+- Cambridge, Pembroke College, 275
+- Cambridge, University Library, Kk.5.10
 
 ### Records
 
@@ -351,7 +356,7 @@ The commentary on the Song of Songs was once thought to have been a separate wor
 
 ## *Corrogationes Promethei metrice*
 
-WIC 6045
+@walther:1969initia, no. 6045
 
 ### Identification
 
@@ -377,7 +382,7 @@ WIC 6045
 
 ## Gloss on the Psalms
 
-@stegmüller:1950repertorium, 1163
+@stegmüller:1950repertorium, no. 1163
 
 ### Identification
 
@@ -406,7 +411,7 @@ WIC 6045
 
 ## *De naturis rerum*: Commentary on Ecclesiastes
 
-@stegmüller:1950repertorium, 1172
+@stegmüller:1950repertorium, no. 1172
 
 ### Identification
 
@@ -420,7 +425,11 @@ WIC 6045
 
 ### Manuscripts
 
-
+- Cambridge, Trinity College, O.4.1 (1232)
+- Cambridge, Trinity College, O.7.9 (1337)
+- Cambridge, Trinity College, R.16.3 (951)
+- Cambridge, Trinity College, R.16.4 (952)
+- University Library, Kk.4.5
 
 ### Records
 
@@ -471,7 +480,7 @@ WIC 6045
 
 ### Manuscripts
 
-
+- Cambridge, Gonville and Caius College, 385/605
 
 ### Records
 
@@ -487,7 +496,7 @@ WIC 6045
 
 ## Commentary on Proverbs
 
-@stegmüller:1950repertorium, 1164
+@stegmüller:1950repertorium, no. 1164
 
 ### Identification
 
@@ -583,7 +592,8 @@ The work was never finished, as he only claims to have begun the work in *Specul
 
 ### Manuscripts
 
-
+- Cambridge, Gonville and Caius College, 372/621
+- Cambridge, Trinity College, R.3.1 (580)
 
 ### Records
 
@@ -728,7 +738,7 @@ A2.†3 ('prometicus Alexandri Nequam carmine prosa intermixta')	AUGUSTINIAN CAN
 
 ### Manuscripts
 
-
+- Cambridge, University Library, Gg.6.42 (= G)
 
 ### Records
 
@@ -769,6 +779,15 @@ A2.†3 ('prometicus Alexandri Nequam carmine prosa intermixta')	AUGUSTINIAN CAN
 @browne:1954british; @esposito:1915some; @hochgürtel:2008alexandri [cf. reviews in @gärtner:2009alexandri; @thomson:2011alexandri]; @kuijper:1966nonnullis; @trombi:2003inni; @walther:1965kleineren
 
 # Sermons
+
+See @hunt:1984schools [pp. 000–000] for a listing.
+
+### Manuscripts
+
+- Cambridge, Peterhouse, 255
+- Cambridge, University Library Ii.1.24
+
+<!-- NB Hunt gets some stuff wrong from Peterhouse. -->
 
 # Lost Works
 
@@ -830,11 +849,11 @@ Attributed to Alexander in @wright:1872alexandri.
 
 ## *Mythographus Tertius*
 
-### Literature
-
-@burnett:1981note
+Attributed to Alexander in Cambridge, Queen’s College, 10 (Horne 22). @burnett:1981note discusses the author's true identity.
 
 ## *Regule in theologiam*
+
+In Cambridge, University Library, Gg.1.5, fol. 113r, a sixteenth-century hand writes: 'Regulae Theologiae, Alexandro Nequam (ut uidetur) autore' [cf. @hardwick:18561867catalogue, p. 3:18].
 
 ## *Super Aue maris stella*
 
