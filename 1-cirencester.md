@@ -1,20 +1,12 @@
 ---
-title: The Use and Creation of Books at Cirencester
+title: "The unity of Alexander's career and his literary works"
 ---
 
-There is an essential unity between Alexander Neckam's many literary works and his career as a teacher, Augustinian canon, and abbot.
-
-The abbess Frithuswith or St Frideswide, the patron of the abbey in Oxford (now Christ Church) where Alexander came into maturity, was traditionally depicted as a learned figure. In the abbey seal from *c.* 1190 [as @blair:2004frithuswith; 'mid to late 1180s' according to @heslop:1988late, pp. 271–272], she holds a set of wax tablets<!--Goering suggests--> or an open book in her left hand, and a lily in her right [reproduced from four Oxford charters in @wigram:1895_1896cartulary, p. 1:ii; composite drawing from London, BL Seal Cast LXX.79 in @heslop:1988late, p. 272]. This connects her equally with the typical female personifications of the liberal arts and the church, as much as with ecclesiastical administration [@heslop:1988late, p. 271–272]. Frideswide is also shown as a precocious child in two twelfth-century lives [both passages are translated in @blair:1987saint, pp. 74-75]. In the version from *c.* 1100–30, she learns the Psalter in six months [Life A §3, @blair:1987saint, p. 96: seven months in Oxford, Balliol College, 228]; an expanded version dated to *c.* 1140–70 and attributed to Robert of Cricklade, Alexander's mentor as the prior of St Frideswide's, reduces this to five months and emphasizes the extent of the improvement this wrought on her character, reflecting the highest medieval ideals for learning [Life B §3, @blair:1987saint, p. 103; on the attribution to Robert, see @blair:1987saint, p. 80].
-
-
-What did it mean to have an abbot of an Augustinian abbey who also had an active literary career? Among the English Augustinians in the early thirteenth century, there are few examples:
-
-When Alexander Neckam became the abbot of St Mary’s abbey in Cirencester in 1213, a position he held until his death in 1217 [@knowles:2001heads, pp. 1:159–60, with corrections on 1:278], he became the head of an organization that was very much tied up with the cares of the world; a powerful figure who was also lord of the manor, by royal prerogative [on the early relationship between the abbots and the townspeople, see @rollison:2011commune, ch. 1; @fuller:1884cirencester]. He was the sixth to hold this position since the (re?)constitution of the abbey by Henry I in 1117 [on the abbey's early history, see @wilkinson:1998cirencester; @evans:1993cirencester]. With perhaps forty canons resident, Cirencester was one of the largest Augustinian foundations in England [@knowles:1948religious, p. 2:259].
-
-- summarize argument: Augustinians liked books, there are evident reasons why A would be attracted to them, and Cirencester was a good fit
-- the ethos of the order is an influence, and he is bringing stuff from scholasticism to Cirencester
+When Alexander Neckam became the abbot of St Mary’s abbey in Cirencester in 1213, a position he held until his death in 1217 [@knowles:2001heads, pp. 1:159–60, with corrections on 1:278], he became the head of an organization that was very much tied up with the cares of the world; a powerful figure who was also lord of the manor, by royal prerogative [on the early relationship between the abbots and the townspeople, see @rollison:2011commune, ch. 1; @fuller:1884cirencester]. He was the sixth to hold this position since the reconstitution of the abbey by Henry I in 1117 [on the abbey's early history, see @wilkinson:1998cirencester; @evans:1993cirencester]. With perhaps forty canons resident, Cirencester was one of the largest Augustinian foundations in England [@knowles:1948religious, p. 2:259]. Alexander was an important administrator, and there is an essential unity between Alexander Neckam's many literary works and his career as a teacher, Augustinian canon, and abbot.
 
 # Augustinians and their books
+
+What did it mean to have an abbot of an Augustinian abbey who also had an active literary career? Among the English Augustinians in the early thirteenth century, there are few examples:
 
 The Rule of St Augustine is maddeningly unspecific, and this is no less the case in its discussion of intellectual persuits. There are only two passages relating to books or reading in the *Ordo Monasterii* after an early discussion of the lessons for the offices:
 
@@ -113,7 +105,50 @@ cite these, from @mcdonough:2005cambridge, p. 809n109:
 @taylor:2002textual, pp. 60–61
 @clark:1897observances, p. 6
 
+# Alexander's education
+
+- so how does this mesh with what A. would have learned under William de M?
+
+- note his specific praise of M. in *LSD*
+
+
+
+# Alexander at Oxford and Robert of Cricklade's influence
+
+- what do we know about St Frideswide's, A's home?
+
+- Robert de: what did he write?
+
+- note his real dates, which are not what most people think (edition)
+
+> Studiosis et precipue claustralibus et scolasticis Rodbertus Crikeladensis prior Oxinefordie non superbe sapere, sed tramitem discipline humiliter percurrere. Plinii Secundi libros de Naturali Historia XXXVII in IX coartare uolumina conatus sum ad communem omnium ea legere uolentium utilitatem, hac usus breuitate, ut uobis satisfaciam et fastidiosis causam ocitandi tolla. placuit enim memorabiliora et utiliora conscibere, superfluis uero et nostro tempori non necessariis supersedere. quid enim prodest singularum urbium aut uiculorum siue etiam locorum nomina percurrere, cum non uiculorum siue etiam locorum nomina percurrere, cum non lceat inde tributa exigere? [@de:2002defloratio, pp. 2–3]
+
+- did R send A to Cirencester? if so, why?
+
+The abbess Frithuswith or St Frideswide, the patron of the abbey in Oxford (now Christ Church) where Alexander came into maturity, was traditionally depicted as a learned figure. In the abbey seal from *c.* 1190 [as @blair:2004frithuswith; 'mid to late 1180s' according to @heslop:1988late, pp. 271–272], she holds a set of wax tablets<!--Goering suggests--> or an open book in her left hand, and a fleur-de-lis in her right [reproduced from four Oxford charters in @wigram:1895_1896cartulary, p. 1:ii; composite drawing from London, BL Seal Cast LXX.79 in @heslop:1988late, p. 272]. This connects her equally with the typical female personifications of the liberal arts and the church, as much as with ecclesiastical administration [@heslop:1988late, p. 271–272]. Frideswide is also shown as a precocious child in two twelfth-century lives [both passages are translated in @blair:1987saint, pp. 74-75]. In 'Life A', from *c.* 1100–30, she learns the Psalter in six months [Life A §3: @blair:1987saint, p. 96: seven months in Oxford, Balliol College, 228; @blair:2004frithuswith, p. 32]; 'Life B', an expanded version dated to *c.* 1140–70 and attributed to Robert of de, Alexander's mentor as the prior of St Frideswide's, reduces this to five months and emphasizes the extent of the improvement this wrought on her character, reflecting the highest medieval ideals for learning [Life B §3: @blair:1987saint, p. 103; on the attribution to Robert, see @blair:1987saint, p. 80].
+
+# Alexander as a canon at Cirencester
+
+
+
+- what would A have thought when he arrived at Cirencester
+
+- which brings us to the next chapter, on what he feels the need to supply
+
+The fall fair for which Cirencester later earned renown was also initiated during Alexander's time [@ross:1964cartulary, <!-- page --> no. 43; @leland:itinerary, p. 1:129 (part II, fol. 24: cf. 3:101–102, part VI, fol. 65), refers to a Monday market; quoted in @willis:1718history, p. 1:61].
+
+'Love-days': Alexander defending Gloucester [@richardson:1941select, p. clxxix–clxxxi; cited in @hunt:1984schools, p. 13; translated in @rothwell:1996english, p. 863]
+
+
+
+
+- summarize argument: Augustinians liked books, there are evident reasons why A would be attracted to them, and Cirencester was a good fit
+- the ethos of the order is an influence, and he is bringing stuff from scholasticism to Cirencester
+
+
+
 # Surviving books from Cirencester
+
 - so why Cirencester?
 
 A market town where there was no end of work for them.
@@ -143,27 +178,3 @@ To judge from surviving volumes, Cirencester had a rich tradition of making book
 Alexander clearly benefited from the patristic reading available to him, but clearly wanted something more current and direct. During his time at Paris, Alexander was inspired by the work of authors such as his teacher William de Montibus to bring the latest in scholastic theology to bear on practical pastoral matters. When he came to Cirencester, he was probably shocked to find that he had no such tools to accomplish what he saw as his work there. Alexander’s writings, however, would have represented something quite new to the canons: works that they could use in everyday life.
 
 One of the most remarkable features of the earlier books from Cirencester is their very detailed colophons. @webber:1998libraries have suggested that these were included as a reminder to pray for the souls of those who made the books and their benefactors [pp. xxv, 26].
-
-
-# Alexander’s background
-- so how does this mesh with what A. would have learned under William de M?
-
-- note his specific praise of M. in *LSD*
-
-- what do we know about St Frideswide's, A's home?
-
-- Robert Cricklade: what did he write?
-
-- note his real dates, which are not what most people think (edition)
-
-> Studiosis et precipue claustralibus et scolasticis Rodbertus Crikeladensis prior Oxinefordie non superbe sapere, sed tramitem discipline humiliter percurrere. Plinii Secundi libros de Naturali Historia XXXVII in IX coartare uolumina conatus sum ad communem omnium ea legere uolentium utilitatem, hac usus breuitate, ut uobis satisfaciam et fastidiosis causam ocitandi tolla. placuit enim memorabiliora et utiliora conscibere, superfluis uero et nostro tempori non necessariis supersedere. quid enim prodest singularum urbium aut uiculorum siue etiam locorum nomina percurrere, cum non uiculorum siue etiam locorum nomina percurrere, cum non lceat inde tributa exigere? [@cricklade:2002defloratio, pp. 2–3]
-
-- did R send A to Cirencester? if so, why?
-
-- what would A have thought when he arrived at Cirencester
-
-- which brings us to the next chapter, on what he feels the need to supply
-
-The fall fair for which Cirencester later earned renown was also initiated during Alexander's time [@ross:1964cartulary, <!-- page --> no. 43; @leland:itinerary, p. 1:129 (part II, fol. 24: cf. 3:101–102, part VI, fol. 65), refers to a Monday market; quoted in @willis:1718history, p. 1:61].
-
-'Love-days': Alexander defending Gloucester [@richardson:1941select, p. clxxix–clxxxi; cited in @hunt:1984schools, p. 13; translated in @rothwell:1996english, p. 863]
