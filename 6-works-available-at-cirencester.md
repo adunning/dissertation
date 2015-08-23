@@ -275,6 +275,11 @@ The attribution of items marked † is considered spurious by modern scholars.
 # William of Auvergne
 : *De claustro anime* (Hereford, Cathedral Library, P.v.9)
 
+# William of Malmesbury
+: *Defloratio Gregorii* [Robert of Cricklade, *De connubio patriarche Iacob* indicates that he had copies of William of Malmesbury's books made for Cirencester: quoted in @hunt:1936english, pp. 31–32]
+: *De miraculis beatae uirginis Mariae*
+: *Commentary on Lamentations*
+
 # Anonymous
 : Cirencester Cartularies (Oxford, Bodleian Library, Dep. c. 392; Oxford, Bodleian Library, Dep. c. 393; Longleat House, Marquess of Bath MS 38b) [see @ross:1964cartulary]
 : *De septem uiciis requirendis in confessione* (Hereford, Cathedral Library, P.v.9)
