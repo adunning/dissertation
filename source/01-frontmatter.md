@@ -1,5 +1,5 @@
 ---
-title: "The Recording and Dissemination of Alexander Neckam's Writings at Oxford and Cirencester"
+title: "The Recording and Dissemination of Alexander Neckam’s Writings at Oxford and Cirencester"
 author: Andrew Dunning
 date: 2016
 locale: en-GB

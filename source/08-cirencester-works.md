@@ -1,6 +1,6 @@
-# Works Available in Cirencester's Library
+# Works Available in Cirencester's Library {.unnumbered}
 
-Cirencester has no surviving library catalogue, but an idea of the works available at the abbey can be gleaned from the listings in the *Registrum Anglie* [@mynors:1991registrum, pp. 288–89 (no. 104)] and by Leland [@webber:1998libraries, pp. 27–28], together with the survivors [@baddeley:1924history, pp. 168–170; @ker:1964medieval, pp. 51–52; @ker:1987medieval, p. 14], for which information on titles is based on library catalogues [@planta:1802catalogue; @coxe:1852catalogus; @coxe:1973laudian; @warner:1921catalogue; @hunt:1895summary; @mynors:1993catalogue; @watson:1997descriptive; @thomson:2009descriptive], silently corrected where necessary.
+Cirencester has no surviving library catalogue, but an idea of the works available at the abbey can be gleaned from the listings in the *Registrum Anglie* [@mynors:1991registrum, pp. 288–89 (no. 104)] and by Leland [@webber:1998libraries, pp. 27–28], together with the survivors [@baddeley:1924history, pp. 168–170; @ker:1964medieval, pp. 51–52; @ker:1987medieval, p. 14], for which information on titles is based on library catalogues [@planta:1802catalogue; @coxe:1852catalogus; @coxe:1973laudian; @warner:1921catalogue; @hunt:1895_1953summary; @mynors:1993catalogue; @watson:1997descriptive; @thomson:2009descriptive], silently corrected where necessary.
 
 The attribution of items marked † is considered spurious by modern scholars.
 
@@ -83,7 +83,7 @@ Augustine
 : *Sermo de ouibus* (*serm.* 47) (*Registrum* 1.316)
 : *Sermo de periurio* (*serm.* 180) (*Registrum* 1.247)
 : *Sermo de excidio urbis Romae* (*Registrum* 1.251)
-: *Sermones de uerbis Domini et apostoli* (*Registrum* 1.103) [see @coninck:2006tradition]
+: *Sermones de uerbis Domini et apostoli* (*Registrum* 1.103) [see @deconinck:2006tradition]
 : *Speculum Quis ignorat* (*Registrum* 1.121)
 : † *Tractatus de oboedientia* (*Registrum* 1.315, 'Sermo de obediencia')
 
@@ -262,7 +262,7 @@ Robert of Tumbalena
 : *Commentariorum in Cantica canticorum libri duo* (Oxford, Jesus College, 48) [as identified by @guglielmetti:2006tradizione, p. 161 (no. 648)]
 
 Thomas Becket
-: Letters (London, British Library, Cotton Claudius B.ii) [discussed in @gullick:1990twelfth; @mcdonough:2005cambridge, pp. 800–805]
+: Letters (London, British Library, Cotton Claudius B.ii) [discussed in @gullick:1990twelfthcentury; @mcdonough:2005cambridge, pp. 800–805]
 
 Virgil
 : *Aeneis* (Oxford, All Souls’ College, 82)
@@ -279,7 +279,7 @@ William of Malmesbury
 : *Commentary on Lamentations*
 
 Anonymous
-: Cirencester Cartularies (Oxford, Bodleian Library, Dep. c. 392; Oxford, Bodleian Library, Dep. c. 393; Longleat House, Marquess of Bath MS 38b) [see @ross:1964cartulary]
+: Cirencester Cartularies (Oxford, Bodleian Library, Dep. c. 392; Oxford, Bodleian Library, Dep. c. 393; Longleat House, Marquess of Bath MS 38b) [see @ross:1964_1977cartulary]
 : *De septem uiciis requirendis in confessione* (Hereford, Cathedral Library, P.v.9)
 : Early papal correspondence (London, British Library, Cotton Vespasian A.xv)
 : Excerpts from legal and patristic texts (Oxford, Jesus College, 26)

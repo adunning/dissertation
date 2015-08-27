@@ -1,6 +1,6 @@
-# Alexander's Works
+# Alexander's Works {.unnumbered}
 
-The following catalogue sorts Alexander's works according to chronology, taking into account earlier lists in @esposito:1915some; @hunt:1984schools [pp. 125–149]; @sharpe:1997handlist [s.v. Alexander Nequam OSA].
+The following catalogue sorts Alexander's works according to chronology, taking into account earlier lists in @esposito:1915unpublished; @hunt:1984schools [pp. 125–149]; @sharpe:1997handlist [s.v. Alexander Nequam OSA].
 
 ## Major Works
 
@@ -47,7 +47,7 @@ The following catalogue sorts Alexander's works according to chronology, taking 
 
 #### Literature
 
-@amt:2010women; @copeland:2010naming; @dinkova-bruun:2013medieval; @ellis:1889contribution; @gasparri:2007terminologie; @gullick:1996from; @gumbert:2011tacketed; @holmes:1952daily; @hunt:1979gloses; @hunt:1979vernacular; @lendinara:1993oratio; @shaw:2013telling; @vezin:2005reconstitution
+@amt:2010womens; @copeland:2010naming; @dinkovabruun:2013medieval; @ellis:1889contribution; @gasparri:2007terminologie; @gullick:1996scribe; @gumbert:2011tacketed; @holmes:1952daily; @hunt:1979gloses; @hunt:1979vernacular; @lendinara:1993oratio; @shaw:2013telling; @vezin:2005reconstitution
 
 ### Commentary on Martianus Capella, books 1–2
 
@@ -76,7 +76,7 @@ The following catalogue sorts Alexander's works according to chronology, taking 
 
 #### Literature
 
-@chance:1994medieval; @jeauneau:1964note; @odonnell:1969liberal
+@chance:1994_2000medieval; @jeauneau:1964note; @odonnell:1969liberal
 
 ### *Nouus Auianus*
 
@@ -100,7 +100,7 @@ The following catalogue sorts Alexander's works according to chronology, taking 
 
 #### Editions
 
-@du_méril:1854avianus; @froehner:1862magistri; @hervieux:1883fabulistes [pp. 3:222–234, 462–467]; @klein:1998alexander
+@duméril:1854novusa; @froehner:1862magistri; @hervieux:1883_1899fabulistes [pp. 3:222–234, 462–467]; @klein:1998alexander
 
 #### Literature
 
@@ -131,15 +131,15 @@ The following catalogue sorts Alexander's works according to chronology, taking 
 
 #### Editions
 
-@du_méril:1854aesopus; @garbugino:1987alexander; @hervieux:1883fabulistes [pp. 2:392–416]
+@duméril:1854novus; @garbugino:1987alexander; @hervieux:1883_1899fabulistes [pp. 2:392–416]
 
 #### Literature
 
-@bastin:1929recueil; @boivin:2006naissance; @boivin:2011fables; @friend:1970tale; @klein:1995überlieferungsprobleme; @klein:2000nouus; @manas_núñez:2005fábula; @owen:1982isopets; @schulze-busacker:1998romulus
+@bastin:1929recueil; @boivin:2006naissance; @boivin:2011fables; @friend:1970tale; @klein:1995überlieferungsprobleme; @klein:2000nouus; @manasnúñez:2005fábula; @owen:1982isopets; @schulzebusacker:1998romulus
 
 ### Commentary on the Athanasian Creed
 
-@stegmüller:1950repertorium, no. 1170
+@stegmüller:1950_1980repertorium, no. 1170
 
 #### Identification
 
@@ -221,7 +221,7 @@ List in @hunt:1984schools [pp. 150–153].
 
 ### *Laus beatissime uirginis*: Commentary on the Song of Songs
 
-@stegmüller:1950repertorium, no. 000; @guglielmetti:2006tradizione, no. 000
+@stegmüller:1950_1980repertorium, no. 000; @guglielmetti:2006tradizione, no. 000
 
 The commentary on the Song of Songs was once thought to have been a separate work: see @mcdonough:2004laus.
 
@@ -262,7 +262,7 @@ The commentary on the Song of Songs was once thought to have been a separate wor
 
 ### *Solatium fidelis anime*
 
-@stegmüller:1950repertorium, no. 8987
+@stegmüller:1950_1980repertorium, no. 8987
 
 #### Identification
 
@@ -380,7 +380,7 @@ The commentary on the Song of Songs was once thought to have been a separate wor
 
 ### Gloss on the Psalms
 
-@stegmüller:1950repertorium, no. 1163
+@stegmüller:1950_1980repertorium, no. 1163
 
 #### Identification
 
@@ -409,7 +409,7 @@ The commentary on the Song of Songs was once thought to have been a separate wor
 
 ### *De naturis rerum*: Commentary on Ecclesiastes
 
-@stegmüller:1950repertorium, no. 1172
+@stegmüller:1950_1980repertorium, no. 1172
 
 #### Identification
 
@@ -456,7 +456,7 @@ The commentary on the Song of Songs was once thought to have been a separate wor
 
 #### Literature
 
-@abramov:2003liber; @adams:1995medieval; @alessio:1994sentenze; @berlioz:1994recueils; @brown:2013vernacular; @f:1896mediaeval; @fumagalli:1985due; @gaselee:1935natural; @janson:1952apes; @kelly:1972metamorphoses; @larson:1913scientific; @lippmann:1935vier; @meyer:1897jours; @milliman:2012ludus; @ribémont:1995natura; @ribémont:2002renaissance; @schuler:2000fabrica; @schuler:2002rives; @talavera_esteso:1983historia; @talavera_esteso:1987texto; @tilliette:2005rhétorique; @voorbij:2000purpose; @wedge:1967alexander; @wirtjes:1986critical; @wolfe:1931vergil; @záhora:2007tropological; @záhora:2014nature
+@abramov:2003liber; @adams:1938medieval; @alessio:1994sentenze; @berlioz:1994recueils; @brown:2013vernacular; @f:1896mediaeval; @fumagalli:1985due; @gaselee:1935_1937natural; @janson:1952apes; @kelly:1972metamorphoses; @larson:1913scientific; @lippmann:1935vier; @meyer:1897jours; @milliman:2012ludus; @ribémont:1995natura; @ribémont:2002renaissance; @schuler:2000fabrica; @schuler:2002rives; @talaveraesteso:1983historia; @talaveraesteso:1987texto; @tilliette:2005rhétorique; @voorbij:2000purpose; @wedge:1967alexander; @wirtjes:1986critical; @wolfe:1931vergil; @záhora:2007tropological; @záhora:2014nature
 
 #### Refers to
 
@@ -494,7 +494,7 @@ The commentary on the Song of Songs was once thought to have been a separate wor
 
 ### Commentary on Proverbs
 
-@stegmüller:1950repertorium, no. 1164
+@stegmüller:1950_1980repertorium, no. 1164
 
 #### Identification
 
@@ -606,7 +606,7 @@ The work was never finished, as he only claims to have begun the work in *Specul
 
 #### Literature
 
-@covington:1925spenser; @engelbrecht:2008fulco; @gamboa_jiménez:1986estudio; @haye:1997lateinische; @rigg:1982beowulf
+@covington:1925spenser; @engelbrecht:2008fulco; @gamboajiménez:1986estudio; @haye:1997lateinische; @rigg:1982beowulf
 
 ### *Speculum Speculationum*
 
@@ -688,7 +688,7 @@ A2.†3 ('prometicus Alexandri Nequam carmine prosa intermixta')	AUGUSTINIAN CAN
 
 #### Edition
 
-@cropp:1991critical; excerpts in @esposito:1915some; @walther:1962moral
+@cropp:1991critical; excerpts in @esposito:1915unpublished; @walther:1962moralasketische
 
 #### Literature
 
@@ -744,7 +744,7 @@ A2.†3 ('prometicus Alexandri Nequam carmine prosa intermixta')	AUGUSTINIAN CAN
 
 #### Editions
 
-@hochgürtel:2008alexandri; excerpts in @esposito:1915some; @walther:1965kleineren
+@hochgürtel:2008alexandri; excerpts in @esposito:1915unpublished; @walther:1965kleineren
 
 #### Literature
 
@@ -774,7 +774,7 @@ A2.†3 ('prometicus Alexandri Nequam carmine prosa intermixta')	AUGUSTINIAN CAN
 
 #### Literature
 
-@browne:1954british; @esposito:1915some; @hochgürtel:2008alexandri [cf. reviews in @gärtner:2009alexandri; @thomson:2011alexandri]; @kuijper:1966nonnullis; @trombi:2003inni; @walther:1965kleineren
+@browne:1954british; @esposito:1915unpublished; @hochgürtel:2008alexandri [cf. reviews in @gärtner:2009alexandri; @thomson:2011alexandri]; @kuijper:1966nonnullis; @trombi:2003inni; @walther:1965kleineren
 
 ## Sermons
 
@@ -841,7 +841,7 @@ inc. 'Operis': not identified. Bale, Catalogus, 1. 273, extends the incipit, 'Op
 
 ### *De vita monachorum*
 
-Attributed to Alexander in @wright:1872alexandri.
+Attributed to Alexander in @wright:1872anglolatin [2:175-200].
 
 ### *Dictionarius metricus*/*Duodecim decades*
 
@@ -851,7 +851,7 @@ Attributed to Alexander in Cambridge, Queen’s College, 10 (Horne 22). @burnett
 
 ### *Regule in theologiam*
 
-In Cambridge, University Library, Gg.1.5, fol. 113r, a sixteenth-century hand writes: 'Regulae Theologiae, Alexandro Nequam (ut uidetur) autore' [cf. @hardwick:18561867catalogue, p. 3:18].
+In Cambridge, University Library, Gg.1.5, fol. 113r, a sixteenth-century hand writes: 'Regulae Theologiae, Alexandro Nequam (ut uidetur) autore' [cf. @hardwick:1856_1867catalogue, p. 3:18].
 
 ### *Super Aue maris stella*
 
@@ -880,7 +880,7 @@ In Cambridge, University Library, Gg.1.5, fol. 113r, a sixteenth-century hand wr
 
 #### Literature
 
-@binski:2011western; @bisanti:2002novus; @bisanti:2010novus; @braunholtz:1927streitgedichte; @cropp:1991critical; @ditommaso:2008pseudepigrapha; @du_méril:1854novus; @esposito:1915some; @ferruolo:1985origins; @froehner:1862magistri; @geoffrey_of_monmouth:2007history; @hervieux:1894alexandri; @hochgürtel:2008alexandri; @hunt:1991teaching; @klein:1998alexander; @mcdonough:2004laus; @mcdonough:2005cambridge; @öberg:1965serlon; @rigg:1977golias; @russell:1932alexander; @wilmart:1938une; @wollin:1998petrus
+@binski:2011western; @bisanti:2002novus; @bisanti:2010novus; @braunholtz:1927streitgedichte; @cropp:1991critical; @ditommaso:2008pseudepigrapha; @duméril:1854novus; @esposito:1915unpublished; @ferruolo:1985origins; @froehner:1862magistri; @reeve:2007geoffrey; @hervieux:1894alexandri; @hochgürtel:2008alexandri; @hunt:1991teaching; @klein:1998alexander; @mcdonough:2004laus; @mcdonough:2005cambridge; @öberg:1965serlon; @rigg:1977golias; @russell:1932alexander; @wilmart:1938suite; @wollin:1998petrus
 
 ### Paris Anthology
 
