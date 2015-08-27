@@ -1,8 +1,5 @@
 ---
-title: 'A Cloistered Exchange'
-subtitle: 'The Alexander Neckam Florilegium, *Sol meldunensis*'
-date: 31 May 2015
-author: Andrew Dunning
+title: 'Reading Alexander at Cirencester and Malmesbury through Geoffrey Brito's *Sol meldunensis*'
 abstract: |
     *Sol meldunensis* (Cambridge, University Library, MS Gg.6.42) was originally produced between 1246 and 1260 as a florilegium collecting extracts mostly from Alexander Neckam, produced at Cirencester as a gift to the abbot of Malmesbury, with an invitation for correction. It is argued that the monks took this literally, adding more material to the manuscript and returning it to Cirencester, where a verse anthology of Alexander's works was added. The compiler is identified as Alexander's nephew Geoffrey Brito.
 csl: chicago-fullnote-bibliography.csl
@@ -1163,28 +1160,28 @@ The work ends with a space until the end of the page (fifteen lines). Bisanti di
 Alexander's minor verses have already received ample treatment [in @esposito:1915some; @walther:1965kleineren; @kuijper:1966nonnullis; @alexander_neckam:2008suppletio]. The collection that closes the verse anthology is structured opens with a set of poems that are several lines long, each opening formally with a drop capital:
 
 - *Diuisio huius nominis roma.* (inc. 'En dabit absque mora⸵ celsus rome tibi mora.')
-- *De Vase aureo in quo continetur eucharistia.* (inc. 'Non manus artificis. non auri gloria. dignum⸵')
-- inc. 'Dulcessit crebro fructus radicis amare.'
-- *Entre dous uertes⸵ la terce meure.* (inc. 'Maturum medium cingit utrumque uiror.')
-- *Contra auarum.* (inc. 'Cur homo qui cinis es. per auaritiam sepelis es?')
+- *De Vase aureo in quo continetur eucharistia.* ('Non manus artificis. non auri gloria. dignum⸵')
+- 'Dulcessit crebro fructus radicis amare.'
+- *Entre dous uertes⸵ la terce meure.* ('Maturum medium cingit utrumque uiror.')
+- *Contra auarum.* ('Cur homo qui cinis es. per auaritiam sepelis es?')
 
 'Contra auarum' ends on fol. 236r with a few lines separated only by paraph marks:
 
 - *Diuisio huius nominis uires.* (inc. 'Redde michi uires. sum debilis. et sine ui res.')
-- *Diuisio huius uerbi laboraui.* (inc. 'Casu labor aui. uisu subito labo raui.')
-- inc. 'Multa deus de te dicunt per signa prophete.'
+- *Diuisio huius uerbi laboraui.* ('Casu labor aui. uisu subito labo raui.')
+- 'Multa deus de te dicunt per signa prophete.'
 
 A new section is then signalled with a drop capital, with the following poems:
 
 - *Uersus retrogredi.* (inc. 'Urbe licet mesta. faciunt turbe sibi festa.')
-- *De absconsa. Compendioso.* (inc. 'Lumine pretendor. ne ledat lumina splendor.')
+- *De absconsa. Compendioso.* ('Lumine pretendor. ne ledat lumina splendor.')
     - *Subcincte.* ('Sum. ne lux lumen ledat. nec cera uolumen.')
-- *De laterna.* (inc. 'Lucida laterne facies est grata lucerne.')
-- *Ieo tute uail cink mars de or.* (inc. 'Vi ualeo tota marcas dor. subtrahe iota.')
+- *De laterna.* ('Lucida laterne facies est grata lucerne.')
+- *Ieo tute uail cink mars de or.* ('Vi ualeo tota marcas dor. subtrahe iota.')
 - *Beau Gwerre chastete.* ('Forma decens oris⸵ expugnat castra pudoris.')
 - *Apres peyre. vin ou proueyre.* ('Post pira presbiterum quere uel adde merum')
-- inc. 'Gaudeo legatus niueum michi misit olorem.'
-- inc. 'O stupor. anguillas martyr mutauit in hillas.'
+- 'Gaudeo legatus niueum michi misit olorem.'
+- 'O stupor. anguillas martyr mutauit in hillas.'
 
 Höchgurthel doubts the authenticity of some of these poems [@alexander_neckam:2008suppletio, p. lxxvi], though as Margaret Gibson notes, it is difficult to separate much this from other contemporary material [@hunt:1984schools, pp. 145–146].
 
@@ -1205,5 +1202,3 @@ The book also carries on Alexander Neckam's sunny view towards religious orders 
 > Therefore, holy mother church *has looked well to the ways of her house* when the enthusiasm for prayer finds the special practices of the regular life, leading most directly to the house concerning which truth speaks: *In the house of my Father are many mansions.* In different churches, different customs are observed, and although they may seem to oppose themselves, yet they lead those who observe them directly to the heavenly palace. Consider the Cistercians, the Cluniacs, the Carthusians, and the most holy customs of the other orders: what will you find in them other than the delicious joy of holy love?
 
 What does monastic co-operation look like in practice? In the experiment that is *Sol meldunensis*, Geoffrey Brito and the community at Cirencester extend a gesture of friendship by inviting correction and augmentation to their work. The monks at Malmesbury responded enthusiastically, probably returning the book with a new illustration, marginal additions and correction, and a new gathering of Geoffrey of Monmouth, using a page layout that specifically invites further glossing. They could have found no better way to honour the memory of the unremittingly optimistic abbot.
-
-# Bibliography
