@@ -7,7 +7,8 @@ OUTPUTDIR=$(BASEDIR)/output
 TEMPLATEDIR=$(INPUTDIR)/templates
 STYLEDIR=$(BASEDIR)/style
 
-BIBFILE=$(INPUTDIR)/references.bib
+BIBFILE=/Users/Andrew/.pandoc/references.json
+# orig: BIBFILE=$(INPUTDIR)/references.json
 
 help:
 	@echo ' 																	  '
@@ -18,36 +19,54 @@ help:
 	@echo '   make pdf                         generate a PDF file  			  '
 	@echo '   make docx	                       generate a Docx file 			  '
 	@echo '   make tex	                       generate a Latex file 			  '
-	@echo '                                                                       '
-	@echo ' 																	  '
-	@echo ' 																	  '
-	@echo 'get local templates with: pandoc -D latex/html/etc	  				  '
-	@echo 'or generic ones from: https://github.com/jgm/pandoc-templates		  '
 
 pdf:
 	pandoc "$(INPUTDIR)"/*.md \
 	-o "$(OUTPUTDIR)/thesis.pdf" \
-	-H "$(STYLEDIR)/preamble.tex" \
 	--template="$(STYLEDIR)/thesis.tex" \
 	--bibliography="$(BIBFILE)" 2>pandoc.log \
-	# -V fontsize=12pt \
-	# -V papersize=a4paper \
-	-V documentclass:report \
-	-N \
+	--csl=chicago-fullnote-bibliography.csl \
+	-V fontsize=12pt \
+	-V papersize=letterpaper \
+	-V geometry:"top=2cm, bottom=1.5cm, left=1cm, right=1cm" \
+	-V documentclass=report \
+	-V citecolor=black \
+	-V toccolor=black \
+	-V urlcolor=black \
+	-V linkcolor=black \
+	-V lang=english \
+	-V lof \
+	-V lot \
+	--number-sections \
+	--chapters \
 	--latex-engine=xelatex
-	-sS
+	--table-of-contents \
+	--smart \
+	--standalone
 
 tex:
 	pandoc "$(INPUTDIR)"/*.md \
 	-o "$(OUTPUTDIR)/thesis.tex" \
-	-H "$(STYLEDIR)/preamble.tex" \
-	--bibliography="$(BIBFILE)" \
+	--template="$(STYLEDIR)/thesis.tex" \
+	--bibliography="$(BIBFILE)" 2>pandoc.log \
+	--csl=chicago-fullnote-bibliography.csl \
 	-V fontsize=12pt \
-	-V papersize=a4paper \
-	-V documentclass:report \
-	-N \
-	--csl="$(STYLEDIR)/ref_format.csl" \
+	-V papersize=letterpaper \
+	-V geometry:"top=2cm, bottom=1.5cm, left=1cm, right=1cm" \
+	-V documentclass=report \
+	-V citecolor=black \
+	-V toccolor=black \
+	-V urlcolor=black \
+	-V linkcolor=black \
+	-V lang=english \
+	-V lof \
+	-V lot \
+	--number-sections \
+	--chapters \
 	--latex-engine=xelatex
+	--table-of-contents \
+	--smart \
+	--standalone
 
 docx:
 	pandoc "$(INPUTDIR)"/*.md \
@@ -58,14 +77,19 @@ docx:
 
 html:
 	pandoc "$(INPUTDIR)"/*.md \
+	-t html5 \
 	-o "$(OUTPUTDIR)/thesis.html" \
-	--standalone \
 	--template="$(STYLEDIR)/template.html" \
-	--bibliography="$(BIBFILE)" \
-	--csl="$(STYLEDIR)/ref_format.csl" \
+	--bibliography="$(BIBFILE)" 2>pandoc.log \
+	--csl=chicago-fullnote-bibliography.csl \
 	--include-in-header="$(STYLEDIR)/style.css" \
 	--toc \
-	--number-sections
+	-V lof \
+	-V lot \
+	--number-sections \
+	--section-divs \
+	--smart \
+	--standalone
 	rm -rf "$(OUTPUTDIR)/source"
 	mkdir "$(OUTPUTDIR)/source"
 	cp -r "$(INPUTDIR)/figures" "$(OUTPUTDIR)/source/figures"
