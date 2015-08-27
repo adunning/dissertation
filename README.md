@@ -6,4 +6,4 @@ The works of Alexander Neckam (Nequam, Neckham, Necham) are typically approached
 
 # About
 
-Written using Pandoc-flavoured Markdown. Citations generated from my Zotero library using zotxt.
+Written using Pandoc-flavoured Markdown, using [Template for writing a PhD thesis in Markdown](https://github.com/tompollard/phd_thesis_markdown).
