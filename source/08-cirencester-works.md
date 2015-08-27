@@ -1,6 +1,4 @@
----
-title: Works Available in Cirencester's Library
-...
+# Works Available in Cirencester's Library
 
 Cirencester has no surviving library catalogue, but an idea of the works available at the abbey can be gleaned from the listings in the *Registrum Anglie* [@mynors:1991registrum, pp. 288–89 (no. 104)] and by Leland [@webber:1998libraries, pp. 27–28], together with the survivors [@baddeley:1924history, pp. 168–170; @ker:1964medieval, pp. 51–52; @ker:1987medieval, p. 14], for which information on titles is based on library catalogues [@planta:1802catalogue; @coxe:1852catalogus; @coxe:1973laudian; @warner:1921catalogue; @hunt:1895summary; @mynors:1993catalogue; @watson:1997descriptive; @thomson:2009descriptive], silently corrected where necessary.
 
@@ -16,15 +14,15 @@ The attribution of items marked † is considered spurious by modern scholars.
 - Longleat Cartulary
 - Cheltenham registers? -->
 
-# Aelred of Rievaulx
+Aelred of Rievaulx
 : *De Iesu puero duodenni* (Leland)
 : *De institutione inclusarum* (Hereford, Cathedral Library, P.i.17)
 <!-- Assuming here that these aren't the same? Check Webber. -->
 
-# Aldhelm
+Aldhelm
 : *De uirginitate* (Hereford, Cathedral Library, P.i.17)
 
-# Alexander Neckam
+Alexander Neckam
 : Commentary on the Athanasian Creed (Oxford, Bodleian Library, Bodley 284 (*SC* 2339), a later manuscript)
 : *De laudibus diuinae sapientiae* (Leland)
 : *De naturis rerum*/Commentary on Ecclesiastes (Oxford, Magdalene College, 139; identified with Cirencester by Michael Gullick in the forthcoming library catalogue by Ralph Hannah, confirmed independently)
@@ -35,19 +33,19 @@ The attribution of items marked † is considered spurious by modern scholars.
 : *Tractatus super Mulierem fortem* (Oxford, Jesus College, 94)
 : *Tractatus super Prouerbii Salomonis* (Oxford, Jesus College, 94)
 
-# Ambrose
+Ambrose
 : Commentary on Luke (*Registrum* 3.11)
 : † *Libellus de dignitate sacerdotali* (Oxford, Jesus College, 3; *Registrum* 3.1, 'De obseruancia episcoporum') <!-- Information on Jesus MS, fol. 128 from Registrum 3.1; check Coxe.  -->
 
-# Autpert Ambrose
+Autpert Ambrose
 : *De conflictu uitiorum et uirtutum* (Hereford, Cathedral Library, P.v.9; *Registrum* 28.4, attrib. Leo) <!-- *Who does MS attrib?* -->
 : *De uitiis et uirtutibus* (Hereford, Cathedral Library, O.i.3)
 
-# Anselm of Canterbury
+Anselm of Canterbury
 : *De moribus per similitudines* (Hereford, Cathedral Library, P.v.9)
 : Letters (Hereford, Cathedral Library, P.ii.15)
 
-# Augustine
+Augustine
 : *Ad inquisitiones Ianuarii* (*epp.* 54–55) (*Registrum* 1.47)
 : Collection of twenty-five sermons (Hereford, Cathedral Library, P.iii.7; this is possibly what *Registrum* 1.151 and 1.294, 'Omelie' and 'Sermones', refer to, but there are also separate entries for *serms.* 60 and 393, below, which are part of this collection) <!-- Can we do any better than that? -->
 : *Contra Faustum* (Hereford, Cathedral Library, P.v.4)
@@ -89,7 +87,7 @@ The attribution of items marked † is considered spurious by modern scholars.
 : *Speculum Quis ignorat* (*Registrum* 1.121)
 : † *Tractatus de oboedientia* (*Registrum* 1.315, 'Sermo de obediencia')
 
-# Bede
+Bede
 : Commentary on Acts (Oxford, Jesus College, 68, *Registrum* 7.5)
 : Commentary on the Catholic Epistles (Oxford, Jesus College, 70)
 : Commentary on Ezra and Nehemiah (London, British Library, Royal 3 A.xii; *Registrum* 7.21; Leland)
@@ -101,17 +99,17 @@ The attribution of items marked † is considered spurious by modern scholars.
 : *De tabernaculo* (Oxford, Jesus College, 52) <!-- Interesting that this isn't included in R. -->
 : *De templo Salomonis* (Oxford, Jesus College, 52; *Registrum* 7.19)
 
-# Bernard of Clairvaux
+Bernard of Clairvaux
 : *Sermones super Cantica canticorum* (Registrum 34.21)
 
-# Bernard of Cluny
+Bernard of Cluny
 : *De contemptu mundi* (Hereford, Cathedral Library, P.i.17)
 
-# Caesarius of Arles
+Caesarius of Arles
 : *Homiliae X ad monachos* (Hereford, Cathedral Library, P.iii.7, 'Omelia in ueteri testamento et nouo'; *Registrum* 20.2)
 <!-- Is this what is in the H ms? Check ID list. -->
 
-# Chrysostom
+Chrysostom
 : *De reparacione lapsi* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.7)
 : *De compunctione cordis* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.8)
 : Homilies on Psalm 50 (Hereford, Cathedral Library, O.v.14; *Registrum* 9.9)
@@ -128,46 +126,46 @@ The attribution of items marked † is considered spurious by modern scholars.
 
 <!-- Check Hereford, Cathedral Library, O.v.14; is this in Ker? How was it missed? -->
 
-# Cyprian
+Cyprian
 : *Epistulae* (*Registrum* 21.1)
 : *De opere et eleemosynis* (*Registrum* 21.17)
 
-# Faltonia Betitia Proba
+Faltonia Betitia Proba
 : *Cento Vergilianus de laudibus Christi*: 'Opusculum … ad testimonium et noui testamenti uersifice compositum' (recorded in Oxford, Bodleian Library, Barlow 48 (*SC* 6428), but now separated from the rest of the manuscript) <!-- Any chance of finding it? How many mss are there from s. xii? -->
 
-# Fulbert of Chartres
+Fulbert of Chartres
 : *Epistolae* (Hereford, Cathedral Library, P.ii.15)
 
-# Gerbert
+Gerbert
 : *Regulae abaci* (Hereford, Cathedral Library, O.i.6)
 
-# Gerlandus
+Gerlandus
 : *De abaco* (Hereford, Cathedral Library, O.i.6)
 
-# Geoffrey Babio du Louroux
+Geoffrey Babio du Louroux
 : Commentary on Matthew (Leland)
 
-# Gilbert de la Porée
+Gilbert de la Porée
 : *Epistula Pauli cum glossa* (Hereford, Cathedral Library, O.ii.4)
 : Gloss on the Psalms (*Registrum* 56.3)
 
-# Gregory the Great
+Gregory the Great
 : *Dialogi* (Hereford, Cathedral Library, O.i.10)
 : *Regula Pastoralis* (Hereford, Cathedral Library, O.i.3)
 
-# Gregory of Nazianzus
+Gregory of Nazianzus
 : *Orationes*, a collection including the *Apologeticus*, with a preface by Rufinus (Oxford, Jesus College, 3; *Registrum* 18.2, 18.13)
 
-# Hegesippus
+Hegesippus
 : † *De excidio Iudeorum* (Oxford, Jesus College, 63)
 
-# Hugh of Fleury
+Hugh of Fleury
 : *Historia ecclesiastica siue Chronicon* (*Registrum* 35.2, attrib. Ivo of Chartres, 'Cronica')
 
-# Hugh of Fouilloy
+Hugh of Fouilloy
 : *De claustro anime* (Hereford, Cathedral Library, P.v.9)
 
-# Hugh of St Victor
+Hugh of St Victor
 : *De arca Noe morali et mystica* (*Registrum* 97.4, ‘De archa Noe’)
 : *De beatae Mariae uirginitate* (*Registrum* 97.5, 'De incorrupta uirginitate matris Domini')
 : *De sacramentis christianae fidei* (Hereford, Cathedral Library, P.iv.9; *Registrum* 97.17)
@@ -177,14 +175,14 @@ The attribution of items marked † is considered spurious by modern scholars.
 : *Soliloquium de arra animae* (*Registrum* 97.9, 97.10)
 : † *Speculum ecclesie* (Oxford, Jesus College, 48)
 
-# Idalius of Barcelona
+Idalius of Barcelona
 : Letter to Julian (Hereford, Cathedral Library, O.i.6)
 
-# Isidore of Seville
+Isidore of Seville
 : *Epistula ad Massonem episcopum* (London, British Library, Royal 5 E.xviii)
 : *Sententiae* (London, British Library, Royal 5 E.xviii; *Registrum* 8.11, 8.12, noting separately Books 2, ‘De sapiencia', and Book 3, ‘De flagellis Dei’)
 
-# Ivo of Chartres
+Ivo of Chartres
 : *Decretum* (*Registrum* 35.6)
 : *De ecclesiasticis sacramentis* (*serm.* 1–5) (*Registrum* 35.1)
 : *Epistolae* (Hereford, Cathedral Library, P.ii.15; *Registrum* 35.3)
@@ -192,7 +190,7 @@ The attribution of items marked † is considered spurious by modern scholars.
 
 <!-- Not the same? -->
 
-# Jerome
+Jerome
 : *Apologia aduersus libros Rufini* (*Registrum* 6.16, 6.17, 'Ad Pammachium et Marcellum in defensione sui' and 'Ad Rufinum')
 : Commentary on Daniel (*Registrum* 6.73)
 : Commentary on Jeremiah (*Registrum* 6.71)
@@ -205,30 +203,30 @@ The attribution of items marked † is considered spurious by modern scholars.
 : *Dialogi contra Pelagianos* (*Registrum* 6.97, 'Dialogus Ieronimi contra Pelagianos')
 : *Liber quaestionum hebraicarum in Genesim* (*Registrum* 6.79, 'De hebraicis questionibus’)
 
-# Jacobus de Voragine
+Jacobus de Voragine
 : *Legenda sanctorum* (Hereford, Cathedral Library, O.v.13)
 
-# John Cassian
+John Cassian
 : *Collationes* 11–24 (Book 2) (Hereford, Cathedral Library, O.v.10)
 
-# John of Salisbury
+John of Salisbury
 : *Policraticus* (Oxford, Bodleian Library, Barlow 48 (*SC* 6428))
 : *Vita sancti Thomae Cantuariensis archiepiscopi* (London, British Library, Cotton Claudius B.ii)
 : Excerpts from John of Salisbury's letters concerning Thomas Becket (London, British Library, Cotton Claudius B.ii)
 
-# Julian of Toledo
+Julian of Toledo
 : *Prognosticon furturi saeculi* (Hereford, Cathedral Library, O.i.6)
 
-# Lanfranc
+Lanfranc
 : Letters (Hereford, Cathedral Library, P.ii.15)
 
-# Leidrad
+Leidrad
 : *De sacramento baptismi* (Oxford, Jesus College, 3, where there is not a specific attribution; attrib. Gregory of Nazianzus in *Registrum* 18.14)
 
-# Odo of Morimond
+Odo of Morimond
 : *Analytica ternarii*, from his *De numerorum significatione* (Leland)
 
-# Origen
+Origen
 : *Epithalamium super Cantica canticorum* (*Registrum* 10.5)
 : Homilies on Exodus (*Registrum* 10.19)
 : Homilies on Ezekiel (*Registrum* 10.23)
@@ -241,46 +239,46 @@ The attribution of items marked † is considered spurious by modern scholars.
 : † ‘Super epistolas Pauli’ (*Registrum* 10.32)
 : *Super uetus testamentum* (*Registrum* 10.3)
 
-# Orosius
+Orosius
 : *Contra paganos* (Oxford, Jesus College, 34 and Oxford, Jesus College, 62)
 
-# Palladius of Galatia
+Palladius of Galatia
 : *Historia Lausiaca* (Hereford, Cathedral Library, O.i.3)
 
-# Paterius
+Paterius
 : *Liber testimoniorum ueteris testamenti ex opusculis sancti Gregorii* (London, British Library, Royal 7 F.vi); with Bruno's supplement [as described in @guglielmetti:2006tradizione, p. 119 (no. 462)]
 
-# Iulianus Pomerius
+Iulianus Pomerius
 : *De uita contemplatiua* (*Registrum* 23.6, attrib. Prosper, *De uita actiua et contemplatiua*)
 
-# Peter Lombard
+Peter Lombard
 : Commentary on the Psalms (Oxford, Bodleian Library, Laud lat. 17) <!-- Check if possible; I am saying Lombard only from the catalogue excerpt, which is Lombard quoting Augustine. -->
 
-# Robert of Cricklade
+Robert of Cricklade
 : *De connubio Iacobi* (Hereford, Cathedral Library, P.iv.8; Leland)
 : *Homiliae in Ezechielem* (Hereford, Cathedral Library, O.iii.10; Leland)
 
-# Robert of Tumbalena
+Robert of Tumbalena
 : *Commentariorum in Cantica canticorum libri duo* (Oxford, Jesus College, 48) [as identified by @guglielmetti:2006tradizione, p. 161 (no. 648)]
 
-# Thomas Becket
+Thomas Becket
 : Letters (London, British Library, Cotton Claudius B.ii) [discussed in @gullick:1990twelfth; @mcdonough:2005cambridge, pp. 800–805]
 
-# Virgil
+Virgil
 : *Aeneis* (Oxford, All Souls’ College, 82)
 : *Ecloga* (Oxford, All Souls’ College, 82)
 : *Georgica* (Oxford, All Souls’ College, 82)
 : † Misc. verses (Oxford, All Souls’ College, 82) [@watson:1997descriptive, p. 173]
 
-# William of Auvergne
+William of Auvergne
 : *De claustro anime* (Hereford, Cathedral Library, P.v.9)
 
-# William of Malmesbury
+William of Malmesbury
 : *Defloratio Gregorii* [Robert of Cricklade, *De connubio patriarche Iacob* indicates that he had copies of William of Malmesbury's books made for Cirencester: quoted in @hunt:1936english, pp. 31–32]
 : *De miraculis beatae uirginis Mariae*
 : *Commentary on Lamentations*
 
-# Anonymous
+Anonymous
 : Cirencester Cartularies (Oxford, Bodleian Library, Dep. c. 392; Oxford, Bodleian Library, Dep. c. 393; Longleat House, Marquess of Bath MS 38b) [see @ross:1964cartulary]
 : *De septem uiciis requirendis in confessione* (Hereford, Cathedral Library, P.v.9)
 : Early papal correspondence (London, British Library, Cotton Vespasian A.xv)

@@ -1,8 +1,6 @@
----
-Title: Introduction
----
+# Introduction
 
-# Alexander Neckam’s Reception in Modern Scholarship
+## Alexander Neckam’s Reception in Modern Scholarship
 
 Alexander Neckam (1157–1217) does not fit neatly into any of the categories typically assigned to authors of the past – it would be both too much and too little to say that he was a theologian, philosopher, or poet. The only label that has stuck has been that of ‘polymath’. This is accurate enough insofar as it captures the range of his interests, but it has also set scholars up for disappointment who set out reading Alexander expecting a great innovator, perhaps a thirteenth-century Leonardo da Vinci, only to be faced with his slow-moving, classicizing prose. Yet his writings and contemporary documentation reveal a teacher, Augustinian canon, and abbot who was indefatigably optimistic, tolerant, and open-minded seeking to write books that would meet the needs of his audiences. It is this historical Alexander that I hope will shine through in this analysis of his biblical commentaries written at Cirencester abbey and the manuscripts preserving his works.
 
@@ -32,11 +30,11 @@ The second field that Hunt left almost entirely open is (perhaps oddly for a fut
 
 Scholarship on Alexander Neckam has now brought us to the point at which we probably know about as much as we ever will when it comes to the basic facts of his life and what he wrote. We do not, however, know the contents of all his works in detail, how they relate to other medieval writings, or how his contemporaries used them. As Beryl Smalley noted more than half a century ago in her letter to Hunt, almost nothing has been said about Neckam’s significance. As can be seen from this review of current scholarship, Hunt’s book *The Schools and the Cloisters* has had the effect of compartmentalizing Alexander and his writings: first into scholastic and monastic contexts, and secondly a string of activities, as indicated by the titles of Hunt’s chapters – as he sees him, Alexander was a grammarian, versifier and stylist, scientist, preacher, commentator, and theologian. This study is an attempt to reconsider Alexander primarily within his historical role as a canon and abbot in the Augustinian order, using the only artefacts we have from his life, namely the manuscripts that preserve his writings.
 
-# Scope of the Present Study
+## Scope of the Present Study
 
 If Alexander’s books seem dull to modern readers, it is probably because we are not his target audience. This study argues that the commentaries written by Alexander Neckam during his time at Cirencester, though they seem on the surface to were essentially written for the Augustinian community at Cirencester, and that as canon and later abbot he composed works that would fill a lack of practical books that served as tools for the order’s work in its community. The evidence for this is derived primarily from an analysis of the manuscripts containing Alexander’s works, a number of which appear to be derived directly from copies made at Cirencester.
 
-## The Use and Creation of Books at Cirencester
+### The Use and Creation of Books at Cirencester
 
 Everyone knows that Alexander was an Augustinian canon. But who were these people, and what did they do? This was an immensely practical group of people, and medieval Cirencester was a market town where there was no end of work for them. Alexander, as a teacher, would have fit in very well with such a group, and indeed can be seen as one of the most eminent of contemporary Augustinians, if one considers what was likely expected of the average canon. Books were among the most important resources of such a community.
 
@@ -44,7 +42,7 @@ To judge from surviving volumes, Cirencester had a rich tradition of making book
 
 Alexander benefited from the patristic reading available to him, as can be seen from his many citations of this material, but may have desired something more current and direct. During his time at Paris, Alexander was inspired by the work of authors such as his teacher William de Montibus to bring the latest in scholastic theology to bear on practical pastoral matters. When he came to Cirencester, he was probably shocked to find that he had no such tools to accomplish what he saw as his work there. Alexander’s writings, however, would have represented something quite new to the canons: works that they could use in everyday life.
 
-## *Speculum animi mei:* The Wisdom Commentaries
+### *Speculum animi mei:* The Wisdom Commentaries
 
 Alexander’s commentaries on the biblical wisdom books – Proverbs, Ecclesiastes, and Song of Songs – fit together very well stylistically, and can be seen as something of a series. They certainly represent both his most voluminous work, but have rarely been examined in any detail. What one finds on closer examination is a collection that responds to themes that were quite popular at the time, and indeed that Alexander’s fellow-canons probably demanded to hear about.
 
@@ -52,15 +50,15 @@ These works probably took their original form as oral addresses, later revised f
 
 To distinguish them from Alexander’s other commentaries, these have been categorized as ‘monastic’, and on a certain level this is an appropriate designation, in terms of following in a ruminative pattern akin to that of, for instance, Rupert of Deutz, or the more contemporary commentary on Lamentations by William of Malmesbury. The meditation on Mary Magdalene and *Solatium fidelis anime* are also included in this category. What is striking about Alexander’s commentaries is their personal nature. The *Tractatus super Mulierem fortem* appears to be a series of addresses given by Alexander as abbot to his fellow canons; but at the end of this work, he refers to it as *speculum animi mei* – the mirror of his soul. What is the meaning of this, and what function would this have served within his community?
 
-## The Audience of Alexander’s Scholastic Works
+### The Audience of Alexander’s Scholastic Works
 
 Alexander’s commentaries the Athanasian Creed and the Psalms, along with his *Corrogationes Promethei,* *Sacerdos ad altare,* and *Speculum speculationum* have been understood as works written for the schools. This chapter considers how many of the manuscripts for these works come from a monastic context, where their provenance can be identified. This stands in contrast to *De nominibus utensilium,* a work with a demonstrably early date. This chapter considers whether these works are stylistically different from Alexander’s ‘monastic’ works, and the extent to which they can also be considered as having been written primarily for the work of the Augustinian order.
 
-## Composing at Cirencester: Alexander’s Handwriting and Methods of Revision
+### Composing at Cirencester: Alexander’s Handwriting and Methods of Revision
 
 Alexander makes a number of interesting remarks about the production of books in his *De nominibus utensilium* and *Sacerdos ad altare.* This chapter considers whether these shed any light on Alexander’s writing process, particularly in the context of manuscripts that contain examples of Alexander’s own handwriting. This was first identified by R.W. Hunt in revisions to the commentary on the Psalms; his hypothesis is here verified and extended. The hand in Oxford, Jesus College 94 can be almost certainly be understood as belonging to Alexander because the corrections it makes are found (in a slightly different form) in London, British Library, Royal 2 C. XI. The hand is also identified as occurring in several other manuscripts, certainly in the case of a few other copies of Alexander’s works, and less so in annotations from several Cirencester manuscripts. The revisions made by this hand are compared to similar cases from this period.
 
-## Beyond Cirencester: Copying and Disseminating Alexander’s Books
+### Beyond Cirencester: Copying and Disseminating Alexander’s Books
 
 The canons at Cirencester evidently had a broad interest in the intellectual products of scholasticism. This chapter considers the broader audience for Alexander’s works in time and space; and how successive generations of scribes changed the texts in their own copies. In general, it appears that they kept features from their exemplar to a great extent, to the point that one can sometimes see echoes of the layout and decoration practices of Cirencester in their copies. Common owners of certain groups of manuscripts can be identified. Finally, we consider the florilegium of Alexander’s works, now Cambridge, University Library, Gg. 6.42, perhaps one of the most pertinent memorials to the abbot, and an attempt to make a new practical tool out of his works within a monastic context.
 

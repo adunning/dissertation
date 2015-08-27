@@ -1,8 +1,6 @@
----
-Title: *Speculum animi mei:* Alexander's Writings at Cirencester
-locale: en-GB
+# *Speculum animi mei:* Alexander's Writings at Cirencester
+
 <!--Alexander's work at Cirencester? -->
----
 
 Q: What is the purpose of Alexander's wisdom commentaries?
 
@@ -16,36 +14,36 @@ Instead, this work should be understood as one of a series of meditative biblica
 
 > And now those things which pertain to reading have been explained as lucidly and briefly as we know how. But as for the remaining part of learning, namely meditation, I omit saying anything about it in the present work because so great a matter requires a special treatise, and it is more worthy to be altogether silent about a matter of this sort than to say anything about it imperfectly. For it is a thing truly subtle and at the same time delightful, one which both educates beginners and exercises the perfect, one which has not yet been treated in writing and which therefore deserves all the more to be followed up. [@hugh_of_st_victor:1961didascalicon, p. 151 (6.13)]
 
-# The Works
+## The Works
 
-## *Laus beatissime uirginis*: Commentary on the Song of Songs
+### *Laus beatissime uirginis*: Commentary on the Song of Songs
 
-## *Solatium fidelis anime*
+### *Solatium fidelis anime*
 
-## *De naturis rerum*: Commentary on Ecclesiastes
+### *De naturis rerum*: Commentary on Ecclesiastes
 
 DNR De cane (257): turning something that appears to be a nuisance to him into fun
 
-## *Tractatus super Parabolas Salomonis*
+### *Tractatus super Parabolas Salomonis*
 
 The way in which he refers to this work in *Speculum speculationum* 3.81.1 (fol. 68va) is also telling: 'Memini autem me aliqua proposuisse super hoc in ingressu tractatus quem institui super parabolas, unde et paucis nos ad presens absoluemus.' He only claims to have begun the work.
 
-## *Meditatio de Magdalena*
+### *Meditatio de Magdalena*
 
-## *Tractatus super Mulierem fortem*
+### *Tractatus super Mulierem fortem*
 
 Hunt places the writing of *Super Mulierem fortem* during Alexander's abbacy, on the basis that 'he assumes the tone of a superior giving instruction.' [@hunt:1984schools, p. 28] But he also believes that the heading to the *Speculum*, which refers to him as 'magister Alexander canonicus Cirencestrie' (R, fol. 1ra), indicates that this is an earlier work. If so, *Super Mulierem fortem* must be dated to before 1213, since the *Speculum* refers to it once, close to the beginning [1.2.10: R, fol. 5va, @thomson:1988alexander, p. 23].
 
 *Super Mulierem fortem* includes cross-references to Alexander's *Laus beatissime uirginis*^['Dulcissima est historialis intelligentie ueritas. quam expositione luculenta declarauimus in opere nostro⸵ quod in laudes gloriose dei genitricis feliciter consummauimus.' J, fol. 99vb.] as well as his *Meditatio de Magdalena*.^['Beata autem magdalena cuius laudibus iterato deseruire stilus noster gloriatur'. J, fol. 79ra.] There is
 
-# What is a *meditatio*?
+## What is a *meditatio*?
 
 Hunt had very little to say about Alexander's meditations. 'They are the overflow of his personal devotion.' [@hunt:1984schools, p. 106] ** = 'consolatory meditations'
 
 - Hunt's version: not a fan, 'the overflow of [Alexander's] personal devotion' <!-- adjust q, taken from Bestul --> [@hunt:1984schools, pp. 106–107]
 - there is a longer tradition of this
 
-# Meditation and Exegesis
+## Meditation and Exegesis
 
 - compare to Will. Meld. Lamentations?
 
@@ -67,7 +65,7 @@ FLM fol. 232r: *De commentatione uini*, book 3.?????
 
 
 
-# Alexander's definition of 'meditatio'
+## Alexander's definition of 'meditatio'
 
 - bit like @leclercq:1982love [p. 16]:
 
@@ -75,7 +73,7 @@ FLM fol. 232r: *De commentatione uini*, book 3.?????
 
 - cites TLL; p. 73 on lectio vs. med.
 
-## In *CProv*
+### In *CProv*
 
 At the beginning of his commentary on Proverbs, Alexander holds meditation in high regard:
 
@@ -91,13 +89,13 @@ At the beginning of his commentary on Proverbs, Alexander holds meditation in hi
 - Corrogationes Promethei?
 - other Cirencester works?
 
-# 'Meditatio' and the work of an abbot
+## 'Meditatio' and the work of an abbot
 
 - cartulary?
 
 - other
 
-## Evidence of the *Corrogationes noui Promethei*
+### Evidence of the *Corrogationes noui Promethei*
 
 One of the most instructive texts on Alexander's philosophy of administration is the collection *Corrogationes noui Promethei* (or *Promothei*). The collection is framed as advice to abbots:
 
@@ -138,7 +136,7 @@ Unfortunately, no letters from Alexander survive that might show in practice how
 If Alexander calls his book 'speculum animi mei' (*SMF*, J, fol. 125r) or his theological treatise *Speculum speculationum*, what does it mean for an abbot to be a mirror to his flock?
 
 
-# 'Speculum animi mei': Alexander's Relationship to his books
+## 'Speculum animi mei': Alexander's Relationship to his books
 
 > | ¶ Et fortassis erit aliquis mea carmina rodens.
 > |   Nam quandoque solet serpere liuor humi.

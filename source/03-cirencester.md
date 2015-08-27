@@ -1,10 +1,8 @@
----
-title: "The unity of Alexander's career and his literary works"
----
+# The unity of Alexander's career and his literary works
 
 When Alexander Neckam became the abbot of St Mary’s abbey in Cirencester in 1213, a position he held until his death in 1217 [@knowles:2001heads, pp. 1:159–60, with corrections at 1:278], he became the head of an organization that was very much tied up with the cares of the world; a powerful figure who was also lord of the manor, by royal prerogative [on the early relationship between the abbots and the townspeople, see @rollison:2011commune, ch. 1; @fuller:1884cirencester]. He was the sixth to hold this position since the reconstitution of the abbey by Henry I in 1117 [on the abbey's early history, see @wilkinson:1998cirencester; @evans:1993cirencester]. With perhaps forty canons resident, Cirencester was one of the largest Augustinian foundations in England [@knowles:1948religious, p. 2:259]. Alexander was an important administrator, and there is an essential unity between Alexander Neckam's many literary works and his career as a teacher, Augustinian canon, and abbot.
 
-# Augustinians and their books
+## Augustinians and their books
 
 What did it mean to have an abbot of an Augustinian abbey who also had an active literary career? Among the English Augustinians in the early thirteenth century, there are few examples:
 
@@ -105,7 +103,7 @@ cite these, from @mcdonough:2005cambridge, p. 809n109:
 @taylor:2002textual, pp. 60–61
 @clark:1897observances, p. 6
 
-# Alexander's education
+## Alexander's education
 
 - so how does this mesh with what A. would have learned under William de M?
 
@@ -113,7 +111,7 @@ cite these, from @mcdonough:2005cambridge, p. 809n109:
 
 
 
-# Alexander at Oxford and Robert of Cricklade's influence
+## Alexander at Oxford and Robert of Cricklade's influence
 
 After his education at Paris, he began teaching at Dunstable by 1183 [@hunt:1984schools, p. 4], later moving to St Albans, and continuing his teaching at Oxford. Hunt assumed that Alexander came to Oxford to teach, and only became an Augustinian when he moved to Cirencester. He could likely have found better positions at other schools than Oxford in the late twelfth century, and it seems just as likely that he came there specifically to join the Augustinians.
 
@@ -191,7 +189,7 @@ Philip did much to promote the cult of the abbess Frithuswith or St Frideswide [
 
 
 
-# Alexander as a canon at Cirencester
+## Alexander as a canon at Cirencester
 
 Alexander came to Cirencester at a time when the abbey was undergoing serious reform, which reached even papal attention. The resulting turbulence is not the sort of environment into which one would want to place a new recruit; Alexander was likely sent to Cirencester to support the reform.
 
@@ -217,7 +215,7 @@ The fall fair for which Cirencester later earned renown was also initiated durin
 
 
 
-# Surviving books from Cirencester
+## Surviving books from Cirencester
 
 - so why Cirencester?
 
@@ -231,7 +229,7 @@ It is perhaps notable that there are very few glossed biblical texts among these
 
 It is perhaps notable that there are very few glossed biblical texts among these remnants. This was a major feature, for instance, of the library at Oseney Abbey, which is otherwise a similarly conservative collection to that of Cirencester (it owned a volume of Alexander Neckam, but this was an addition of the fifteenth century).
 
-# Scribes at Cirencester and their ‘house style’
+## Scribes at Cirencester and their ‘house style’
 
 
 
