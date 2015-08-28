@@ -10,7 +10,7 @@
 
 Cambridge, University Library, MS Gg.6.42 is a miscellany consisting almost entirely of the works of Alexander Neckam, called here *Sol meldunensis* from its incipit. Its careful construction shows the respect that Alexander Neckam gained among his peers, and hints at how they used his writings. It was written by a Cirencester canon and dedicated to the abbot of Malmesbury, both named Geoffrey. The opening 'florilegium', as past scholars have classified it, strings together passages from nearly all Alexander's prose works (including some that do not otherwise survive): it is key to analysing Alexander's work, and the manuscript has fruitfully been used as a repository for identifying his genuine writings [see @esposito:1915unpublished; @russell:1932alexander; @hunt:1984schools, pp. 125–153; @mcdonough:2004laus; @mcdonough:2005cambridge]. The excerpts are also woven together to form new 'sermons', as the compiler presents them, and the collection deserves study in its own right. While the bulk of the manuscript seems to have been created by a small group working at Cirencester, various additions to the manuscript complicates any notion of a linear pattern of production. Both the physical and intellectual details of the book most logically point to the augmented and annotated result being a product of a collaboration between the communities of Cirencester and Malmesbury.
 
-## Physical Description
+## Physical description
 
 It has been suggested in the past that the book could have originated at either Cirencester or Malmesbury [@binski:2011western, p. 106 (no. 113)]; indeed, it is likely that parts of the manuscript are from both abbeys. The florilegium that forms the bulk of the manuscript must have been compiled at Cirencester, as this is the only known location where all the works it uses were available [also noted by @mcdonough:2005cambridge, p. 792n41], and presumably both this and the closing verse anthology, written by the same scribe, was also written there. It certainly belonged to Cirencester in a later period; at the top of fol. 3r, one can make out, with the help of an ultraviolet light, the erased word 'Cyrencestris' (as well as an inscription in a humanist hand), in a form similar to an *ex libris* found in a manuscript of Alexander's commentary on the Psalms from the late thirteenth century (now Oxford, Bodleian Library, MS Bodley 284).
 
@@ -28,7 +28,7 @@ The book is collated a^2^, 1^10+1^ (3 added), 2–6^10^, 7^8+1^ (8 added), 8^10^
 
 An earlier cataloguer has pencilled an alternative collation on the back flyleaf: '2 flyleaves. 1^12^ (10 cancelled) 2–6^10^ 7^10^ (2 cancelled) 8–9^10^ 10^12^ (11 cancelled) 11–21^10^ | 22^10^ | 23^10^ 24^10^ (wants 5–10): 237 ff (out of 242; 238–42 lost; 70 *bis* an inserted slip; 92 misbound after 93)'. This was presumably Henry Bradshaw, to judge from the handwriting and gathering notation style, with the first folio of each gathering numbered in the bottom right-hand corner and an 'x' marked in the same place on the recto immediately following the centre of the gathering [concerning his work on the theory of collation, see @needham:1988bradshaw: thanks to Suzanne Paul of the CUL for confirmation on his practice]. His incorrect perception appears to have two causes. Each gathering is surrounded by a thin strip of parchment, which can be easily confused with a cancelled folio. (Though it may have been a Cambridge binding practice: it is also found, for example, in Cambridge, University Library, MS Kk.5.10.) The note on fols. 92 and 93 was intended as a solution to the problem that the catchphrase on fol. 91v does not match the first line of 92r. Bradshaw, probably recognizing it as a later standalone addition, is reacting to the Cambridge catalogue, which states that a leaf was missing between fols. 91 and 92 [@hardwick:1856_1867catalogue, p. 3:232]. A mark appears to direct the insertion of the leaf's text on 93v, but it does not seem necessary to postulate that the leaf should have been originally placed there; it is bound with gathering 9, not 10 as he thought (the stub from the other end of the leaf is found before fol. 82). The cataloguer modified the pencilled foliation for fols. 92 and 93, swapping them to reflect this theory (leaving the real fol. 92 labelled 93 and fol. 93 labelled 92). The manuscript was among those M.R. James examined in his work towards a revised version of the Cambridge University Library catalogue [@ditommaso:2008pseudepigrapha, pp. 148-149; in general, see @ringrose:2001legacy].
 
-### Page Layout
+### Page layout
 
 The pages measure around 210 × 140 mm, having been trimmed on all sides by several millimetres. Their layout follows a highly consistent pattern: fol. 4r is typical of the florilegium, with vertical rules occurring in pencil, from left to right, at 24, 95.5, 116, 119.5, 141.25, and 142 mm. Horizontal rules occur, from top to bottom, at 2, 16.5, 21.5, 136.5, 141, 180, 184, and 205.5, and 210 mm. The line spacing is typically 4.5 to 5 mm. The last of these rules may be for aligning the catchphrase, and is often omitted; its location varies somewhat (sometimes as high as 203 mm). The three rules below the textblock are sometimes omitted.
 
@@ -42,7 +42,7 @@ In the verse anthology, using fol. 223r as an example, vertical rules occur at 2
 
 ![Fol. 223r.](source/figures/sol-meldunensis/223r.jpg)
 
-## Origin and Address
+## Origin and address
 
 The compiler of *Sol meldunensis* names himself 'Galfridus':
 
@@ -182,7 +182,7 @@ no. 336
 
 > Nouerit vniuersitas vestra quod nos deuocionem et dilecionis perseueranciam amicorum venerabilis patris nostri bone memorie magistri Alexandri quondam abbatis et predecessoris nostri commendantes redditum qui per sollicitudinem ipsorum et diligentem procuracionem dilecti fratris et concanonici nostri domini G(alfridi) Britonis nepotis ipsius abbatis assignatus est percipiendus singulis annis in villa C. de quodam mesuagio propinquiore porte abbacie C. extrinsece quod fuit aliquando Ricardi Woderoue expedendum in duobus cereis ardendis singulis diebus ad missam b. Marie in ecclesia conuentuali C. a canonicis eiusdem ecclesie consuetudinarie celebrandum qui incipient ardere a principio canonis eiusdem misse vsque ad ipsius consummacionem gratanter recepimus et quod residuum dicti redditus si quod fuerit in die anniuersarii ipsius abbatis in vsus conuentus nostri singulis annis expendatur concessimus viz quantum a dicto mesuagio percipi poterit saluis nobis redditu xii*d*. et aliis consuetudinibus et seruiciis secundum consuetudinem manerii de C. Volumus tamen quod de hiis que in anniuersariis ceterorum abbatum defunctorum mos est exhiberi nichil subtrahatur sed vt idem redditus ad vsus dictos prmptior habeatur alicuius fratris fidelis de gremio nostri monasterii communi assensu ad hoc assignati custodie committatur. Et ne in usus alios dictus redditus humili deuocione ad hoc oblatus in posterum conuertatur formam istam presenti scripto et sigilli nostri appensione confirmauimus. [@ross:1964_1977cartulary, pp. 1:301–2 (no. 336)] -->
 
-## Stages of Production
+## Stages of production
 
 Hunt guessed that Gg.6.42 was 'one of the original fair copies' [@hunt:1984schools, p. 118]; more detailed analysis demonstrates that the volume *is* the original. The main text seems to have been copied directly from copies of Alexander's works, either with Geoffrey Brito dictating or copying directly, and editing as he worked. At one point, the scribe is copying out the following passage from Neckam's commentary on Proverbs:
 
@@ -224,7 +224,7 @@ The manuscript was then probably sent back to Cirencester, where a rubric was ad
 
 The patterns found in the scribal additions to the book support the understanding of *Sol meldunensis* as a layered composition, originating from more than one institution. Only one thirteenth-century hand can be found across the entire manuscript. Substantive additions have been made to the florilegium by several different readers who do not otherwise write in the book (later integrated by the original scribe), while a different group of readers gloss the *Prophetia Merlini*, and the few annotations in the verse anthology are likely from the same reader.
 
-### Florilegium/Anthology Scribe
+### Florilegium/anthology scribe
 
 The portions of the manuscript produced at Cirencester appear to be written by the same scribe. There are a few shifts to slightly narrower or wider variants of the hand, but these are brief, and do not show substantial differences in letterforms:
 
@@ -248,7 +248,7 @@ The rubricator does not necessarily seem to be the same person who drew the fram
 
 ![Modified border for a rubric on fol. 43r.](source/figures/sol-meldunensis/rubricator-43r.jpg)
 
-### Correctors Interacting with the Scribe
+### Correctors interacting with the scribe
 
 The scribe could theoretically be Geoffrey Brito himself, but this identification is complicated by the presence of at least two correctors who can be seen to interact with the scribe. If one of these can be identified with Geoffrey, it is probably the one that writes in a thin crayon and occasionally in ink, with a round two-compartment 'a':
 
@@ -280,7 +280,7 @@ The only other passage in the book in a similar hand is an annotation on the las
 
 ![Addition in the bottom margin of fol. 237v.](source/figures/sol-meldunensis/upright-237v.jpg)
 
-### Other Contemporary Correctors
+### Other contemporary correctors
 
 The original scribe frequently makes corrections to his own work in a style consistent with the original script; there also appears to be an reader of the florilegium with access to the exemplars who is unafraid to apply intelligent modifications directly to the text, but does so somewhat untidily:
 
@@ -298,7 +298,7 @@ It may be the same corrector who makes a number of interlinear modifications in 
 
 ![Adding missing words to a marginal note at the bottom of fol. 87r (note also the unusual script used in the rubric).](source/figures/sol-meldunensis/corr-contemp-87r.jpg)
 
-### Florilegium Annotators
+### Florilegium annotators
 
 Several hands make one-off additions to the florilegium:
 
@@ -344,7 +344,7 @@ This hand may be related to one distinguished by the use of paraph marks as nota
 
 ![Second 'nota' on fol. 124r.](source/figures/sol-meldunensis/cursive-paraph-124r-2.jpg)
 
-### Geoffrey of Monmouth Scribes
+### Geoffrey of Monmouth scribes
 
 There are two scribes responsible for the *Prophetia Merlini* gathering, with the shift occurring about halfway through the text:
 
@@ -362,7 +362,7 @@ The example above also is also an example of the original scribe adding glosses 
 
 ![Glosses on fol. 215r.](source/figures/sol-meldunensis/cursive-dkbrown-215r.jpg)
 
-### Later Readers
+### Later readers
 
 The use of the manuscript did not end in the thirteenth century. The only personal marks of ownership appear to come from a later date:
 
@@ -1118,7 +1118,7 @@ The manuscript is given the siglum ζ in Michael Reeve's edition of the text, on
 
 The final section of the manuscript is a collection of verses, all but the opening three sections by Alexander Neckam. Unlike the prose florilegium, there is no overarching system of organization, though it is still better ordered than the Paris anthology of Alexander's verses, and its text is usually better. In common with the first part of the manuscript is the page layout, the marginal titles, and the script.
 
-#### Poems on Wine (fols. 223r–232r)
+#### Poems on wine (fols. 223r–232r)
 
 This section of the anthology is the most cohesive witness to an exchange between Peter of Blois and Robert of Beaufeu on the merits of wine and beer. This is the only manuscript that preserves the response by Peter of Blois, and two serious errors have been made by not understanding the whole as an integral unit: the exchange between Peter and Robert has been segregated from the work by Alexander; and the verse epistle to Thomas, abbot of Gloucester has been considered as a separate poem rather than part of *De commendatione uini*. The group is structured under the following headings:
 

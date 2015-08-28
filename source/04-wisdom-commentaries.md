@@ -43,7 +43,7 @@ Hunt had very little to say about Alexander's meditations. 'They are the overflo
 - Hunt's version: not a fan, 'the overflow of [Alexander's] personal devotion' <!-- adjust q, taken from Bestul --> [@hunt:1984schools, pp. 106–107]
 - there is a longer tradition of this
 
-## Meditation and Exegesis
+## Meditation and exegesis
 
 - compare to Will. Meld. Lamentations?
 
@@ -136,7 +136,7 @@ Unfortunately, no letters from Alexander survive that might show in practice how
 If Alexander calls his book 'speculum animi mei' (*SMF*, J, fol. 125r) or his theological treatise *Speculum speculationum*, what does it mean for an abbot to be a mirror to his flock?
 
 
-## 'Speculum animi mei': Alexander's Relationship to his books
+## 'Speculum animi mei': Alexander's relationship to his books
 
 > | ¶ Et fortassis erit aliquis mea carmina rodens.
 > |   Nam quandoque solet serpere liuor humi.

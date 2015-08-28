@@ -118,13 +118,11 @@ Chrysostom
 : *De regressu Asiae* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.15)
 : *De proditione Iudae* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.16)
 : *De cruce dominica* (*Registrum* 9.18) <!-- Where is this coming from? -->
-: *De ascensione* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.19)
+: *De ascensione* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.19) <!-- Check Hereford, Cathedral Library, O.v.14; is this in Ker? How was it missed? -->
 : *De decollatione Ioannis Baptistae* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.20, 'De muliere mala')
 : *De laudibus Pauli* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.25)
 : *De confessione peccati* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.26)
 : 'Omelie' (*Registrum* 9.1)
-
-<!-- Check Hereford, Cathedral Library, O.v.14; is this in Ker? How was it missed? -->
 
 Cyprian
 : *Epistulae* (*Registrum* 21.1)
@@ -186,9 +184,7 @@ Ivo of Chartres
 : *Decretum* (*Registrum* 35.6)
 : *De ecclesiasticis sacramentis* (*serm.* 1–5) (*Registrum* 35.1)
 : *Epistolae* (Hereford, Cathedral Library, P.ii.15; *Registrum* 35.3)
-: *Panormia* (Oxford, Jesus College, 26)
-
-<!-- Not the same? -->
+: *Panormia* (Oxford, Jesus College, 26)<!-- Not the same? -->
 
 Jerome
 : *Apologia aduersus libros Rufini* (*Registrum* 6.16, 6.17, 'Ad Pammachium et Marcellum in defensione sui' and 'Ad Rufinum')
@@ -290,7 +286,7 @@ Anonymous
 : Monastic florilegium (Hereford, Cathedral Library, O.i.6)
 : Notes on the canons (Hereford, Cathedral Library, P.v.9)
 : *Rithmomachia Wirceburgensis* (Hereford, Cathedral Library, O.i.6)
-: 'Stavelot Commentary' on the Athanasian Creed (Oxford, Bodleian Library, Laud lat. 17) [see @häring:1972commentaries, p. 229; printed in @burn:1896athanasian, pp. 11–20, introduction xlviii–l])]
+: 'Stavelot Commentary' on the Athanasian Creed (Oxford, Bodleian Library, Laud lat. 17) [see @häring:1972commentaries, p. 229; printed in @burn:1896athanasian, pp. 11–20, xlviii–l]
 : *Tractatus de septem gradibus confessionis* (London, British Library, Royal 5 E.xviii)
 
 <!-- Double-check the entries from Hereford. -->
