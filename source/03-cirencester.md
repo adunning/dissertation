@@ -113,15 +113,9 @@ cite these, from @mcdonough:2005cambridge, p. 809n109:
 
 ## Alexander at Oxford and Robert of Cricklade's influence
 
-After his education at Paris, he began teaching at Dunstable by 1183 [@hunt:1984schools, p. 4], later moving to St Albans, and continuing his teaching at Oxford. Hunt assumed that Alexander came to Oxford to teach, and only became an Augustinian when he moved to Cirencester. He could likely have found better positions at other schools than Oxford in the late twelfth century, and it seems just as likely that he came there specifically to join the Augustinians.
+After his education at Paris, Alexander began teaching at Dunstable by 1183 [@hunt:1984schools, p. 4], later moving to St Albans, and continuing his teaching at Oxford. Hunt assumed that Alexander came to Oxford to teach, and only became an Augustinian when he moved to Cirencester. He could likely have found better positions at other schools than Oxford in the late twelfth century, and it seems just as likely that he came there specifically to join the Augustinians.
 
 The Augustinians were one of the most exciting orders in Oxford at this time, with more foundations near the schools than any other order, all of them recently established: the priory of St Frideswide's, re-established in 1122; Oseney Abbey, founded 1129 [@postles:1987patronus]; and St George's, absorbed by Oseney *c*. 1149 [@smith:1980lincoln, p. 130 (no. 208); @barron:2002augustinian]. William of Malmesbury writes that Guimund, its first Augustinian prior, transformed St Frideswide's from a small collection of clerics 'qui pro libito uiuerent' ('who were living as they pleased') into a house of regular canons [@winterbottom:2007william, 4.178.4]. While Ralph, the first prior of Oseney, had come from St Frideswide's [@knowles:2001_2008heads, p. 1:179; @postles:1985learning, p. 33], the Augustinians in Oxford did not always cooperate. The cartulary and annals of Oseney Abbey report a dispute with St Frideswide's over the investiture of the church of St Mary Magdalene in 1147–51, 1174–76, and 1200, requiring papal intervention on each occasion; the church had been part of St George's, and the canons of St Frideswide had grounds to question whether this remained the case after its absorption after Roger of Salisbury declared that he had given the church to St Frideswide's [@salter:1929_1936cartulary, pp. 2:214–234 (nos. 780–794); @luard:1864_1869annales, pp. 4:25–27, 4:37–38, 4:50; @cheney:1967letters, p. 45 (no. 276); @barron:2002augustinian, p. 238].<!--...--> The precise role of the Augustinians remains unclear, but after a long tradition of deprecatory scholarship, their role in the early Oxford schools is gradually becoming apparent [@postles:1985learning].
-
-
-
-> Nostro tempore paucissimis ibi clericis, qui pro libito uiuerent, residuis, datus locus ille a Rogerio Salesberiensi episcopo Guimundo excellentis litteratureae et non aspernandae religionis canonico. Qui non inoperose commisso insudans muneri multos ibi canonicos regulariter uicturos Deo exhibuit.
-
-> In our time, when there were very few clerics tehre, living as they pleased
 
 For Alexander Neckam, the opportunity to both take up vows while continuing his teaching must have been irresistible.
 
@@ -170,8 +164,9 @@ It is unlikely that Alexander knew Robert in person;
 
 > Studiosis et precipue claustralibus et scolasticis Rodbertus Crikeladensis prior Oxinefordie non superbe sapere, sed tramitem discipline humiliter percurrere. Plinii Secundi libros de Naturali Historia XXXVII in IX coartare uolumina conatus sum ad communem omnium ea legere uolentium utilitatem, hac usus breuitate, ut uobis satisfaciam et fastidiosis causam ocitandi tolla. placuit enim memorabiliora et utiliora conscibere, superfluis uero et nostro tempori non necessariis supersedere. quid enim prodest singularum urbium aut uiculorum siue etiam locorum nomina percurrere, cum non uiculorum siue etiam locorum nomina percurrere, cum non liceat inde tributa exigere? [@näf:2002roberti, pp. 2–3; also cited in @burrows:1890collectanea, p. 161]
 
+![Seal of St Frideswide's, *c*. 1190 (✠ SIGILLVM: ECCLESIE SANCTE FRIDESWIDE OXENEFORDIE:) from Merton College charter no. 582, Magdalen College charter no. 352, and Bodleian Library charter no. 592, reproduced from Wigram.](source/figures/1/frideswide-seal.jpg)
 
-Philip did much to promote the cult of the abbess Frithuswith or St Frideswide [his work is described in @yarrow:2006saints, pp. 177–188], who presented by the Augutinians as a learned figure. In the abbey seal from *c.* 1190 [as @blair:2004frithuswith; 'mid to late 1180s' according to @heslop:1988late, pp. 271–272], she holds a set of wax tablets<!--Goering suggests--> or an open book in her left hand, and a fleur-de-lis in her right [reproduced from four Oxford charters in @wigram:1895_1896cartulary, p. 1:ii; composite drawing from London, BL Seal Cast LXX.79 in @heslop:1988late, p. 272; @clark:1889_1899survey, p. 2:159 described this as a 'picture of a doctor with a kind of cope']. This connects her equally with the typical female personifications of the liberal arts and the church, as much as with ecclesiastical administration [@heslop:1988late, p. 271–272]. Frideswide is also shown as a precocious child in two twelfth-century lives [both passages are translated in @blair:1987saint, pp. 74-75]. In 'Life A', from *c.* 1100–30, she learns the Psalter in six months [Life A §3: @blair:1987saint, p. 96: seven months in Oxford, Balliol College, 228; @blair:2004frithuswith, p. 32]; 'Life B', an expanded version dated to *c.* 1140–70 and attributed to Robert of de, Alexander's mentor as the prior of St Frideswide's, reduces this to five months and emphasizes the extent of the improvement this wrought on her character, reflecting the highest medieval ideals for learning [Life B §3: @blair:1987saint, p. 103; on the attribution to Robert, see @blair:1987saint, p. 80]. Indeed, Robert explicitly elevates Frideswide beyond the usual capacities of a woman: 'Stupet Anglia, mirantur uniuersi, infirmum cernentes sexum in etate tenera robur excessisse uirile.' ('England was agog; all marvelled to see the frail sex at so young an age surpassing masculine strength.') [Life B §4: @blair:1987saint, p. 104 (translation from comparison with Life A, 75)].
+Philip did much to promote the cult of the abbess Frithuswith or St Frideswide [his work is described in @yarrow:2006saints, pp. 177–188], whom the Augutinians presented as a learned figure. In the priory seal from *c.* 1190 [as @blair:2004frithuswith; 'mid to late 1180s' according to @heslop:1988late, pp. 271–272], she holds a set of wax tablets<!--Goering suggests--> or an open book in her left hand, and a fleur-de-lis in her right [reproduced from four Oxford charters in @wigram:1895_1896cartulary, p. 1:ii; composite drawing from London, BL Seal Cast LXX.79 in @heslop:1988late, p. 272; @clark:1889_1899survey, p. 2:159 described this as a 'picture of a doctor with a kind of cope']. This connects her equally with the typical female personifications of the liberal arts and the church, as much as with ecclesiastical administration [@heslop:1988late, p. 271–272]. Frideswide is also shown as a precocious child in two twelfth-century lives [both passages are translated in @blair:1987saint, pp. 74-75]. In 'Life A', from *c.* 1100–30, she learns the Psalter in six months [Life A §3: @blair:1987saint, p. 96: seven months in Oxford, Balliol College, 228; @blair:2004frithuswith, p. 32]; 'Life B', an expanded version dated to *c.* 1140–70 and attributed to Robert of de, Alexander's mentor as the prior of St Frideswide's, reduces this to five months and emphasizes the extent of the improvement this wrought on her character, reflecting the highest medieval ideals for learning [Life B §3: @blair:1987saint, p. 103; on the attribution to Robert, see @blair:1987saint, p. 80]. Indeed, Robert explicitly elevates Frideswide beyond the usual capacities of a woman: 'Stupet Anglia, mirantur uniuersi, infirmum cernentes sexum in etate tenera robur excessisse uirile.' ('England was agog; all marvelled to see the frail sex at so young an age surpassing masculine strength.') [Life B §4: @blair:1987saint, p. 104 (translation from comparison with Life A, 75)].
 
 
 
@@ -214,9 +209,6 @@ The fall fair for which Cirencester later earned renown was also initiated durin
 - the ethos of the order is an influence, and he is bringing stuff from scholasticism to Cirencester
 
 
-
-## Surviving books from Cirencester
-
 - so why Cirencester?
 
 A market town where there was no end of work for them.
@@ -225,24 +217,298 @@ A market town where there was no end of work for them.
 
 It is perhaps notable that there are very few glossed biblical texts among these remnants. This was a major feature, for instance, of the library at Oseney Abbey, which is otherwise a similarly conservative collection to that of Cirencester (it owned a volume of Alexander Neckam, but this was an addition of the fifteenth century).
 
-- what did they have in C?
+- what books did they have in C?
 
-It is perhaps notable that there are very few glossed biblical texts among these remnants. This was a major feature, for instance, of the library at Oseney Abbey, which is otherwise a similarly conservative collection to that of Cirencester (it owned a volume of Alexander Neckam, but this was an addition of the fifteenth century).
+## Works Available in Cirencester's Library
 
-## Scribes at Cirencester and their ‘house style’
+Cirencester has no surviving library catalogue, but an idea of the works available at the abbey can be gleaned from the listings in the *Registrum Anglie* [@mynors:1991registrum, pp. 288–89 (no. 104)] and by Leland [@webber:1998libraries, pp. 27–28], together with the survivors [@baddeley:1924history, pp. 168–170; @ker:1964medieval, pp. 51–52; @ker:1987medieval, p. 14], for which information on titles is based on library catalogues [@planta:1802catalogue; @coxe:1852catalogus; @coxe:1973laudian; @warner:1921catalogue; @hunt:1895_1953summary; @mynors:1993catalogue; @watson:1997descriptive; @thomson:2009descriptive], silently corrected where necessary.
 
+The attribution of items marked † is considered spurious by modern scholars.
 
+<!-- Check format of Royal refs. -->
+<!-- Does R cite @knowles:1971medieval, pp. 139, 154 for a particular reason? -->
 
-TODO: does it even make sense to include this section here?
+<!--check:
+- @williams:1908gloucestershire, p. 94
+- Boston of Bury/Tanner
+- Leland, Collectanea
+- Longleat Cartulary
+- Cheltenham registers? -->
 
-- St Mary’s in Frankenal: A Cirencester connection? how does the analysis of this place work?
+Aelred of Rievaulx
+: *De Iesu puero duodenni* (Leland)
+: *De institutione inclusarum* (Hereford, Cathedral Library, P.i.17)
+<!-- Assuming here that these aren't the same? Check Webber. -->
 
-- St Bart's Smithfield? write BL lady Boyle lecture about this
+Aldhelm
+: *De uirginitate* (Hereford, Cathedral Library, P.i.17)
 
-- St Frideswide's? write Henry Mayer-Hartig as introduced by Fr O'Donavan
+Alexander Neckam
+: Commentary on the Athanasian Creed (Oxford, Bodleian Library, Bodley 284 (*SC* 2339), a later manuscript)
+: *De laudibus diuinae sapientiae* (Leland)
+: *De naturis rerum*/Commentary on Ecclesiastes (Oxford, Magdalene College, 139; identified with Cirencester by Michael Gullick in the forthcoming library catalogue by Ralph Hannah, confirmed independently)
+: Gloss on the Psalms (two copies: Oxford, Bodleian Library, Bodley 284 (*SC* 2339); Oxford, Jesus College, 94; Leland)
+: *Laus beatissime uirginis*/Commentary on the Song of Songs (Leland)
+: Sermons on the Nativity of the Blessed Virgin Mary (Oxford, Jesus College, 94)
+: *Speculum speculationum* (Leland; London, British Library, Royal 7 F.i)
+: *Tractatus super Mulierem fortem* (Oxford, Jesus College, 94)
+: *Tractatus super Prouerbii Salomonis* (Oxford, Jesus College, 94)
 
-To judge from surviving volumes, Cirencester had a rich tradition of making books, and seems to have developed something of a house style, with a peculiarly beautiful method of creating decorated initials. Almost all the books at Cirencester from before Alexander’s time, however, were copies of patristic works, as were common at Augustinian houses. One can also get some idea of the books Alexander had access to through citations in his writings, though it is not altogether clear whether he consulted them at Cirencester or elsewhere.
+Ambrose
+: Commentary on Luke (*Registrum* 3.11)
+: † *Libellus de dignitate sacerdotali* (Oxford, Jesus College, 3; *Registrum* 3.1, 'De obseruancia episcoporum') <!-- Information on Jesus MS, fol. 128 from Registrum 3.1; check Coxe.  -->
 
-Alexander clearly benefited from the patristic reading available to him, but clearly wanted something more current and direct. During his time at Paris, Alexander was inspired by the work of authors such as his teacher William de Montibus to bring the latest in scholastic theology to bear on practical pastoral matters. When he came to Cirencester, he was probably shocked to find that he had no such tools to accomplish what he saw as his work there. Alexander’s writings, however, would have represented something quite new to the canons: works that they could use in everyday life.
+Autpert Ambrose
+: *De conflictu uitiorum et uirtutum* (Hereford, Cathedral Library, P.v.9; *Registrum* 28.4, attrib. Leo) <!-- *Who does MS attrib?* -->
+: *De uitiis et uirtutibus* (Hereford, Cathedral Library, O.i.3)
 
-One of the most remarkable features of the earlier books from Cirencester is their very detailed colophons. @webber:1998libraries have suggested that these were included as a reminder to pray for the souls of those who made the books and their benefactors [pp. xxv, 26].
+Anselm of Canterbury
+: *De moribus per similitudines* (Hereford, Cathedral Library, P.v.9)
+: Letters (Hereford, Cathedral Library, P.ii.15)
+
+Augustine
+: *Ad inquisitiones Ianuarii* (*epp.* 54–55) (*Registrum* 1.47)
+: Collection of twenty-five sermons (Hereford, Cathedral Library, P.iii.7; this is possibly what *Registrum* 1.151 and 1.294, 'Omelie' and 'Sermones', refer to, but there are also separate entries for *serms.* 60 and 393, below, which are part of this collection) <!-- Can we do any better than that? -->
+: *Contra Faustum* (Hereford, Cathedral Library, P.v.4)
+: *Contra Maximinum haereticum* (*Registrum* 1.279)
+: † *Contra quinque hereses* (London, British Library, Royal 5 E.xviii)
+: *De adulterinis coniugiis* (Hereford, Cathedral Library, P.v.9)
+: *De baptismo contra Donatistas* (Hereford, Cathedral Library, P.ii.14)
+: *De baptismo paruulorum* (two copies: Hereford, Cathedral Library, P.ii.14; Hereford, Cathedral Library, P.v.9; *Registrum* 1.60)
+: *De bono coniugali* (Hereford, Cathedral Library, P.v.9; *Registrum* 1.49)
+: *De bono uiduitatis* (Hereford, Cathedral Library, P.v.9)
+: *De dono perseuerantiae* (Hereford, Cathedral Library, O.vi.10; *Registrum* 1.102)
+: *De fide et symbolo* (*Registrum* 1.17)
+: *De Genesi ad litteram* (Hereford, Cathedral Library, O.vi.10; *Registrum* 1.51)
+: *De Genesi contra Manicheos* (Hereford, Cathedral Library, P.iii.7)
+: *De gratia et libero arbitrio* (Hereford, Cathedral Library, P.v.9; *Registrum* 1.95)
+: *De gratia noui testamenti contra Honoratum* (*ep.* 140) (Hereford, Cathedral Library, P.v.9; *Registrum* 1.63)
+: *De pastoribus* (*serm.* 46) (Hereford, Cathedral Library, P.v.9; *Registrum* 1.155)
+: † *De poenitentibus* (*serm.* 393) (Hereford, Cathedral Library, P.iii.7; *Registrum* 1.137)
+: *De praedestinatione sanctorum* (Hereford, Cathedral Library, O.vi.10)
+: *De sancta uiginitate* (Hereford, Cathedral Library, P.v.9; *Registrum* 1.50)
+: *De sermone Domini in monte* (*Registrum* 1.19)
+: † *De spiritu et anima* (Hereford, Cathedral Library, P.v.9; *Registrum* 1.64)
+: *De spiritu et littera* (Hereford, Cathedral Library, P.v.9; *Registrum* 1.161)
+: *De trinitate* (Hereford, Cathedral Library, P.v.3)
+: *De uera religione* (Hereford, Cathedral Library, P.v.9)
+: *De unico baptismo* (Hereford, Cathedral Library, P.ii.14; *Registrum* 1.61)
+: *De utilitate credendi* (Hereford, Cathedral Library, P.v.9)
+: † *Dialogus quaestionum LXV* (*Registrum* 1.200)
+: *Enchiridion* (two copies: Hereford, Cathedral Library, P.i.12; Hereford, Cathedral Library, P.v.9)
+: *In Ioannis epistulam ad Parthos* (Hereford, Cathedral Library, P.i.12)
+: *Liber florigerus* (*Registrum* 1.295, 'Augustini florum') [see @wilmart:1932auteurs, p. 453] <!-- Check ref. -->
+: *Retractiones* (Hereford, Cathedral Library, P.v.9)
+: *Sermo ad iuuenes* (*serm.* 391) (*Registrum* 1.250)
+: *Sermo de lapsu mundi et auaritia* (*serm.* 60) (Hereford, Cathedral Library, P.iii.7; *Registrum* 1.191)
+: *Sermo de ouibus* (*serm.* 47) (*Registrum* 1.316)
+: *Sermo de periurio* (*serm.* 180) (*Registrum* 1.247)
+: *Sermo de excidio urbis Romae* (*Registrum* 1.251)
+: *Sermones de uerbis Domini et apostoli* (*Registrum* 1.103) [see @deconinck:2006tradition]
+: *Speculum Quis ignorat* (*Registrum* 1.121)
+: † *Tractatus de oboedientia* (*Registrum* 1.315, 'Sermo de obediencia')
+
+Bede
+: Commentary on Acts (Oxford, Jesus College, 68, *Registrum* 7.5)
+: Commentary on the Catholic Epistles (Oxford, Jesus College, 70)
+: Commentary on Ezra and Nehemiah (London, British Library, Royal 3 A.xii; *Registrum* 7.21; Leland)
+: Commentary on Revelation (Oxford, Jesus College, 68; *Registrum* 7.14)
+: *In libros Regum quaestiones XXX* (Oxford, Jesus College, 53; *Registrum* 7.18)
+: Commentary on Mark (Oxford, Jesus College, 67) <!-- Oxford, Merton College, 180 also from Cirencester? Check photographs. -->
+: Commentary on Samuel, 'Liber … exposicionis allegorice super Samuelem' (Oxford, Jesus College, 53; *Registrum* 7.12)
+: Commentary on Tobit (*Registrum* 7.7)
+: *De tabernaculo* (Oxford, Jesus College, 52) <!-- Interesting that this isn't included in R. -->
+: *De templo Salomonis* (Oxford, Jesus College, 52; *Registrum* 7.19)
+
+Bernard of Clairvaux
+: *Sermones super Cantica canticorum* (Registrum 34.21)
+
+Bernard of Cluny
+: *De contemptu mundi* (Hereford, Cathedral Library, P.i.17)
+
+Caesarius of Arles
+: *Homiliae X ad monachos* (Hereford, Cathedral Library, P.iii.7, 'Omelia in ueteri testamento et nouo'; *Registrum* 20.2)
+<!-- Is this what is in the H ms? Check ID list. -->
+
+Chrysostom
+: *De reparacione lapsi* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.7)
+: *De compunctione cordis* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.8)
+: Homilies on Psalm 50 (Hereford, Cathedral Library, O.v.14; *Registrum* 9.9)
+: De misericordia (Hereford, Cathedral Library, O.v.14; *Registrum* 9.12)
+: Sermo antequam iret in exsilium (Hereford, Cathedral Library, O.v.14; *Registrum* 9.14)
+: *De regressu Asiae* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.15)
+: *De proditione Iudae* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.16)
+: *De cruce dominica* (*Registrum* 9.18) <!-- Where is this coming from? -->
+: *De ascensione* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.19) <!-- Check Hereford, Cathedral Library, O.v.14; is this in Ker? How was it missed? -->
+: *De decollatione Ioannis Baptistae* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.20, 'De muliere mala')
+: *De laudibus Pauli* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.25)
+: *De confessione peccati* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.26)
+: 'Omelie' (*Registrum* 9.1)
+
+Cyprian
+: *Epistulae* (*Registrum* 21.1)
+: *De opere et eleemosynis* (*Registrum* 21.17)
+
+Faltonia Betitia Proba
+: *Cento Vergilianus de laudibus Christi*: 'Opusculum … ad testimonium et noui testamenti uersifice compositum' (recorded in Oxford, Bodleian Library, Barlow 48 (*SC* 6428), but now separated from the rest of the manuscript) <!-- Any chance of finding it? How many mss are there from s. xii? -->
+
+Fulbert of Chartres
+: *Epistolae* (Hereford, Cathedral Library, P.ii.15)
+
+Gerbert
+: *Regulae abaci* (Hereford, Cathedral Library, O.i.6)
+
+Gerlandus
+: *De abaco* (Hereford, Cathedral Library, O.i.6)
+
+Geoffrey Babio du Louroux
+: Commentary on Matthew (Leland)
+
+Gilbert de la Porée
+: *Epistula Pauli cum glossa* (Hereford, Cathedral Library, O.ii.4)
+: Gloss on the Psalms (*Registrum* 56.3)
+
+Gregory the Great
+: *Dialogi* (Hereford, Cathedral Library, O.i.10)
+: *Regula Pastoralis* (Hereford, Cathedral Library, O.i.3)
+
+Gregory of Nazianzus
+: *Orationes*, a collection including the *Apologeticus*, with a preface by Rufinus (Oxford, Jesus College, 3; *Registrum* 18.2, 18.13)
+
+Hegesippus
+: † *De excidio Iudeorum* (Oxford, Jesus College, 63)
+
+Hugh of Fleury
+: *Historia ecclesiastica siue Chronicon* (*Registrum* 35.2, attrib. Ivo of Chartres, 'Cronica')
+
+Hugh of Fouilloy
+: *De claustro anime* (Hereford, Cathedral Library, P.v.9)
+
+Hugh of St Victor
+: *De arca Noe morali et mystica* (*Registrum* 97.4, ‘De archa Noe’)
+: *De beatae Mariae uirginitate* (*Registrum* 97.5, 'De incorrupta uirginitate matris Domini')
+: *De sacramentis christianae fidei* (Hereford, Cathedral Library, P.iv.9; *Registrum* 97.17)
+: *De sapientia animae Christi* (*Registrum* 97.27, 'De anima Christi')
+: *Expositio in Regulam S. Augustini* (*Registrum* 97.23)
+: Homilies on Ecclesiastes (*Registrum* 97.12)
+: *Soliloquium de arra animae* (*Registrum* 97.9, 97.10)
+: † *Speculum ecclesie* (Oxford, Jesus College, 48)
+
+Idalius of Barcelona
+: Letter to Julian (Hereford, Cathedral Library, O.i.6)
+
+Isidore of Seville
+: *Epistula ad Massonem episcopum* (London, British Library, Royal 5 E.xviii)
+: *Sententiae* (London, British Library, Royal 5 E.xviii; *Registrum* 8.11, 8.12, noting separately Books 2, ‘De sapiencia', and Book 3, ‘De flagellis Dei’)
+
+Ivo of Chartres
+: *Decretum* (*Registrum* 35.6)
+: *De ecclesiasticis sacramentis* (*serm.* 1–5) (*Registrum* 35.1)
+: *Epistolae* (Hereford, Cathedral Library, P.ii.15; *Registrum* 35.3)
+: *Panormia* (Oxford, Jesus College, 26)<!-- Not the same? -->
+
+Jerome
+: *Apologia aduersus libros Rufini* (*Registrum* 6.16, 6.17, 'Ad Pammachium et Marcellum in defensione sui' and 'Ad Rufinum')
+: Commentary on Daniel (*Registrum* 6.73)
+: Commentary on Jeremiah (*Registrum* 6.71)
+: † Commentary on Mark (*Registrum* 6.77)
+: Commentary on Matthew: (*Registrum* 6.76)
+: *Commentum super alphabetum Hebraicum et Graecum* (*Registrum* 6.24)
+: *Contra Vigilantium ad Riparium et Desiderium presbyteros:* (*Registrum* 6.55, 'Contra Vigilancium de induracione cordis Pharaonis': *De induratione cordis pharaonis* is a work of Pelagius)
+: *De situ et nominibus locorum hebraicorum* (*Registrum* 6.28, 'Super libros Regnorum', and 6.37, 'De distanciis locorum secundum ordinem alphabeti Greci')
+: † *De natiuitate sanctae Mariae* (*Registrum* 6.21, 'De ortu et uita s. Marie')
+: *Dialogi contra Pelagianos* (*Registrum* 6.97, 'Dialogus Ieronimi contra Pelagianos')
+: *Liber quaestionum hebraicarum in Genesim* (*Registrum* 6.79, 'De hebraicis questionibus’)
+
+Jacobus de Voragine
+: *Legenda sanctorum* (Hereford, Cathedral Library, O.v.13)
+
+John Cassian
+: *Collationes* 11–24 (Book 2) (Hereford, Cathedral Library, O.v.10)
+
+John of Salisbury
+: *Policraticus* (Oxford, Bodleian Library, Barlow 48 (*SC* 6428))
+: *Vita sancti Thomae Cantuariensis archiepiscopi* (London, British Library, Cotton Claudius B.ii)
+: Excerpts from John of Salisbury's letters concerning Thomas Becket (London, British Library, Cotton Claudius B.ii)
+
+Julian of Toledo
+: *Prognosticon furturi saeculi* (Hereford, Cathedral Library, O.i.6)
+
+Lanfranc
+: Letters (Hereford, Cathedral Library, P.ii.15)
+
+Leidrad
+: *De sacramento baptismi* (Oxford, Jesus College, 3, where there is not a specific attribution; attrib. Gregory of Nazianzus in *Registrum* 18.14)
+
+Odo of Morimond
+: *Analytica ternarii*, from his *De numerorum significatione* (Leland)
+
+Origen
+: *Epithalamium super Cantica canticorum* (*Registrum* 10.5)
+: Homilies on Exodus (*Registrum* 10.19)
+: Homilies on Ezekiel (*Registrum* 10.23)
+: Homilies on Isaiah (*Registrum* 10.10)
+: Homilies on Jeremiah (*Registrum* 10.7)
+: Homilies on Joshua (*Registrum* 10.11)
+: Homilies on Judges (*Registrum* 10.21)
+: Homilies on Leviticus (*Registrum* 10.20)
+: Homily on 1 Samuel (*Registrum* 10.22)
+: † ‘Super epistolas Pauli’ (*Registrum* 10.32)
+: *Super uetus testamentum* (*Registrum* 10.3)
+
+Orosius
+: *Contra paganos* (Oxford, Jesus College, 34 and Oxford, Jesus College, 62)
+
+Palladius of Galatia
+: *Historia Lausiaca* (Hereford, Cathedral Library, O.i.3)
+
+Paterius
+: *Liber testimoniorum ueteris testamenti ex opusculis sancti Gregorii* (London, British Library, Royal 7 F.vi); with Bruno's supplement [as described in @guglielmetti:2006tradizione, p. 119 (no. 462)]
+
+Iulianus Pomerius
+: *De uita contemplatiua* (*Registrum* 23.6, attrib. Prosper, *De uita actiua et contemplatiua*)
+
+Peter Lombard
+: Commentary on the Psalms (Oxford, Bodleian Library, Laud lat. 17) <!-- Check if possible; I am saying Lombard only from the catalogue excerpt, which is Lombard quoting Augustine. -->
+
+Robert of Cricklade
+: *De connubio Iacobi* (Hereford, Cathedral Library, P.iv.8; Leland)
+: *Homiliae in Ezechielem* (Hereford, Cathedral Library, O.iii.10; Leland)
+
+Robert of Tumbalena
+: *Commentariorum in Cantica canticorum libri duo* (Oxford, Jesus College, 48) [as identified by @guglielmetti:2006tradizione, p. 161 (no. 648)]
+
+Thomas Becket
+: Letters (London, British Library, Cotton Claudius B.ii) [discussed in @gullick:1990twelfthcentury; @mcdonough:2005cambridge, pp. 800–805]
+
+Virgil
+: *Aeneis* (Oxford, All Souls’ College, 82)
+: *Ecloga* (Oxford, All Souls’ College, 82)
+: *Georgica* (Oxford, All Souls’ College, 82)
+: † Misc. verses (Oxford, All Souls’ College, 82) [@watson:1997descriptive, p. 173]
+
+William of Auvergne
+: *De claustro anime* (Hereford, Cathedral Library, P.v.9)
+
+William of Malmesbury
+: *Defloratio Gregorii* [Robert of Cricklade, *De connubio patriarche Iacob* indicates that he had copies of William of Malmesbury's books made for Cirencester: quoted in @hunt:1936english, pp. 31–32]
+: *De miraculis beatae uirginis Mariae*
+: *Commentary on Lamentations*
+
+Anonymous
+: Cirencester Cartularies (Oxford, Bodleian Library, Dep. c. 392; Oxford, Bodleian Library, Dep. c. 393; Longleat House, Marquess of Bath MS 38b) [see @ross:1964_1977cartulary]
+: *De septem uiciis requirendis in confessione* (Hereford, Cathedral Library, P.v.9)
+: Early papal correspondence (London, British Library, Cotton Vespasian A.xv)
+: Excerpts from legal and patristic texts (Oxford, Jesus College, 26)
+: Gloss on the epistles of Paul, *inc.* 'Sicut ad antiquum populum erudiendum', Stegmüller 10179 (Oxford, Jesus College, 48)
+: *Interrogatio* on biblical questions (Hereford, Cathedral Library, P.v.9)
+: Litany and Prayers for the Dead (Oxford, Bodleian Library, Laud lat. 17) [used in @ottosen:1993responsories]
+: Misc. letters and sermons (Hereford, Cathedral Library, O.i.6)
+: Monastic florilegium (Hereford, Cathedral Library, O.i.6)
+: Notes on the canons (Hereford, Cathedral Library, P.v.9)
+: *Rithmomachia Wirceburgensis* (Hereford, Cathedral Library, O.i.6)
+: 'Stavelot Commentary' on the Athanasian Creed (Oxford, Bodleian Library, Laud lat. 17) [see @häring:1972commentaries, p. 229; printed in @burn:1896athanasian, pp. 11–20, xlviii–l]
+: *Tractatus de septem gradibus confessionis* (London, British Library, Royal 5 E.xviii)
+
+<!-- Double-check the entries from Hereford. -->
+

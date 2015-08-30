@@ -155,4 +155,3 @@ If Alexander calls his book 'speculum animi mei' (*SMF*, J, fol. 125r) or his th
 > |   and my student, but I will be your teacher.
 > | Who disturbs me, 'better not touch', I shout:
 > |   while you are malevolently angry with me, spare yourself.
-
