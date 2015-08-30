@@ -44,6 +44,18 @@ $if(CJKmainfont)$
     \usepackage{xeCJK}
     \setCJKmainfont[$CJKoptions$]{$CJKmainfont$}
 $endif$
+
+% Fallback characters
+\usepackage{newunicodechar}
+\newfontfamily{\fallbackfont}{Brill}
+\DeclareTextFontCommand{\textfallback}{\fallbackfont}
+\newunicodechar{⟨}{\textfallback{⟨}}
+\newunicodechar{⟩}{\textfallback{⟩}}
+\newunicodechar{✠}{\textfallback{✠}}
+\newunicodechar{˷}{\textfallback{˷}}
+\newfontfamily{\fallbackfontA}{Antinoou}
+\DeclareTextFontCommand{\textfallbackA}{\fallbackfontA}
+\newunicodechar{⸵}{\textfallbackA{⸵}}
 \fi
 % use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -82,6 +94,7 @@ $if(lang)$
   \usepackage[shorthands=off,$lang$]{babel}
 \fi
 $endif$
+\usepackage{embrac}
 $if(natbib)$
 \usepackage{natbib}
 \bibliographystyle{$if(biblio-style)$$biblio-style$$else$plainnat$endif$}
@@ -128,9 +141,9 @@ $if(strikeout)$
 % avoid problems with \sout in headers with hyperref:
 \pdfstringdefDisableCommands{\renewcommand{\sout}{}}
 $endif$
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt plus 2pt minus 1pt}
-\setlength{\emergencystretch}{3em}  % prevent overfull lines
+% \setlength{\parindent}{0pt}
+% \setlength{\parskip}{6pt plus 2pt minus 1pt}
+% \setlength{\emergencystretch}{3em}  % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 $if(numbersections)$
@@ -143,12 +156,16 @@ $if(verbatim-in-note)$
 $endif$
 
 $if(title)$
-\title{$title$$if(subtitle)$\\\vspace{0.5em}{\large $subtitle$}$endif$}
+\title{$title$}
 $endif$
 $if(author)$
 \author{$for(author)$$author$$sep$ \and $endfor$}
 $endif$
 \date{$date$}
+\gradyear{$date$}
+\degree{$degree$}
+\department{$department$}
+
 $for(header-includes)$
 $header-includes$
 $endfor$
@@ -163,7 +180,24 @@ $endfor$
 \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
 \fi
 
+% Allow more than 18 floats
+\extrafloats{100}
+
+% Make each page fill up the entire page.
+\flushbottom
+
+% Move footnote marker into left margin
+\usepackage{scrextend}
+\deffootnote{0em}{1.6em}{\thefootnotemark\enskip}
+
+% Remove footnote rule
+\renewcommand*\footnoterule{}
+
+
+
 \begin{document}
+
+\begin{preliminary}
 $if(title)$
 \maketitle
 $endif$
@@ -177,6 +211,13 @@ $for(include-before)$
 $include-before$
 
 $endfor$
+
+$if(acknowledgements)$
+\begin{acknowledgements}
+$acknowledgements$
+\end{acknowledgements}
+$endif$
+
 $if(toc)$
 {
 \hypersetup{linkcolor=$if(toccolor)$$toccolor$$else$black$endif$}
@@ -190,6 +231,7 @@ $endif$
 $if(lof)$
 \listoffigures
 $endif$
+\end{preliminary}
 $body$
 
 $if(natbib)$

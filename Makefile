@@ -26,10 +26,8 @@ pdf:
 	--template="$(STYLEDIR)/thesis.tex" \
 	--bibliography="$(BIBFILE)" 2>pandoc.log \
 	--csl=chicago-fullnote-bibliography.csl \
+	-V documentclass=ut-thesis \
 	-V fontsize=12pt \
-	-V papersize=letterpaper \
-	-V geometry:"top=2cm, bottom=1.5cm, left=1cm, right=1cm" \
-	-V documentclass=report \
 	-V citecolor=black \
 	-V toccolor=black \
 	-V urlcolor=black \
@@ -39,7 +37,7 @@ pdf:
 	-V lot \
 	--number-sections \
 	--chapters \
-	--latex-engine=xelatex
+	--latex-engine=xelatex \
 	--table-of-contents \
 	--smart \
 	--standalone
@@ -50,10 +48,8 @@ tex:
 	--template="$(STYLEDIR)/thesis.tex" \
 	--bibliography="$(BIBFILE)" 2>pandoc.log \
 	--csl=chicago-fullnote-bibliography.csl \
+	-V documentclass=ut-thesis \
 	-V fontsize=12pt \
-	-V papersize=letterpaper \
-	-V geometry:"top=2cm, bottom=1.5cm, left=1cm, right=1cm" \
-	-V documentclass=report \
 	-V citecolor=black \
 	-V toccolor=black \
 	-V urlcolor=black \
@@ -63,7 +59,7 @@ tex:
 	-V lot \
 	--number-sections \
 	--chapters \
-	--latex-engine=xelatex
+	--latex-engine=xelatex \
 	--table-of-contents \
 	--smart \
 	--standalone
