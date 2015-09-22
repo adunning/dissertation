@@ -27,7 +27,6 @@ pdf:
 	--bibliography="$(BIBFILE)" 2>pandoc.log \
 	--csl=chicago-fullnote-bibliography.csl \
 	-V documentclass=ut-thesis \
-	-V fontsize=12pt \
 	-V citecolor=black \
 	-V toccolor=black \
 	-V urlcolor=black \

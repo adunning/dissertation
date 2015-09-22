@@ -55,7 +55,11 @@ $endif$
 \newunicodechar{˷}{\textfallback{˷}}
 \newfontfamily{\fallbackfontA}{Antinoou}
 \DeclareTextFontCommand{\textfallbackA}{\fallbackfontA}
-\newunicodechar{⸵}{\textfallbackA{⸵}}
+% \newunicodechar{⸵}{\textfallbackA{⸵}}
+\newfontfamily{\fallbackfontMUFI}{Junicode}
+\DeclareTextFontCommand{\textfallbackMUFI}{\fallbackfontMUFI}
+\newunicodechar{⸝}{\textfallbackMUFI{⸝}}
+\newunicodechar{⸵}{\textfallbackMUFI{}} % Punctus eleuatus from MUFI PUA
 \fi
 % use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -143,7 +147,7 @@ $if(strikeout)$
 $endif$
 % \setlength{\parindent}{0pt}
 % \setlength{\parskip}{6pt plus 2pt minus 1pt}
-% \setlength{\emergencystretch}{3em}  % prevent overfull lines
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 $if(numbersections)$
@@ -181,7 +185,7 @@ $endfor$
 \fi
 
 % Allow more than 18 floats
-\extrafloats{100}
+\extrafloats{25}
 
 % Make each page fill up the entire page.
 \flushbottom

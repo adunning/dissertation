@@ -508,7 +508,7 @@ The commentary on the Song of Songs was once thought to have been a separate wor
 
 #### Manuscript
 
-Oxford, Jesus College, MS 94, fols. 000
+Oxford, Jesus College, MS 94, fols 000
 
 #### Records
 
@@ -679,7 +679,7 @@ The manuscript does not explicitly indicate where the work ends. There are two p
 
 #### Manuscripts
 
-- Paris, BnF, lat. 11867 (= P, second half of the 13th century): two versions, one at fol. 216ra–va (lines 1–127 only, tit. 'Incipiunt metrice corrogaciones noui Promothei'), the other at fols. 231va–238ra (tit. 'Incipiunt metrice prorogaciones noui Promothei')
+- Paris, BnF, lat. 11867 (= P, second half of the 13th century): two versions, one at fol. 216ra–va (lines 1–127 only, tit. 'Incipiunt metrice corrogaciones noui Promothei'), the other at fols 231va–238ra (tit. 'Incipiunt metrice prorogaciones noui Promothei')
 - Excerpts in *Sol meldunensis* (Cambridge, University Library, Gg.6.42)
 
 #### Records
@@ -809,7 +809,7 @@ As noted by Hunt:
 
 See @quinn:1971ps; @mcdonough:2008alexander.
 
-<!-- Sharpe cites CTC 2:389–98. There is a copy, for example, in Winchester Cathedral, MS 15 (s. xv), fols. 79r–100r. -->
+<!-- Sharpe cites CTC 2:389–98. There is a copy, for example, in Winchester Cathedral, MS 15 (s. xv), fols 79r–100r. -->
 
 - BM1.411e	BENEDICTINES: Dover-St Martin's: John Whitfield's catalogue, 1389
 - BM1.417d	BENEDICTINES: Dover-St Martin's: John Whitfield's catalogue, 1389
