@@ -1,8 +1,10 @@
-\documentclass[$if(fontsize)$$fontsize$,$endif$$if(lang)$$lang$,$endif$$if(papersize)$$papersize$,$endif$$for(classoption)$$classoption$$sep$,$endfor$]{$documentclass$}
+% Requirements over BasicTeX 2015: collection-fontsrecommended, collection-genericrecommended, collection-luatex, newunicodechar
+
+\documentclass[$if(fontsize)$$fontsize$,$endif$$if(lang)$$babel-lang$,$endif$$if(papersize)$$papersize$,$endif$$for(classoption)$$classoption$$sep$,$endfor$]{$documentclass$}
 $if(fontfamily)$
-\usepackage{$fontfamily$}
+\usepackage[$fontfamilyoptions$]{$fontfamily$}
 $else$
-\usepackage{palatino}
+\usepackage[osf,sc]{mathpazo} % Palatino
 $endif$
 $if(linestretch)$
 \usepackage{setspace}
@@ -11,6 +13,7 @@ $endif$
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
 \usepackage{fixltx2e} % provides \textsubscript
+\frenchspacing % Prevents a stretchable space from being inserted after a period, which is nice sometimes, but can cause issues.
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
@@ -20,46 +23,27 @@ $endif$
 \else % if luatex or xelatex
   \ifxetex
     \usepackage{mathspec}
-    \usepackage{xltxtra,xunicode}
   \else
     \usepackage{fontspec}
   \fi
   \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
   \newcommand{\euro}{€}
 $if(mainfont)$
-    \setmainfont{$mainfont$}
-$else$
-    \setmainfont[Ligatures=TeX, Numbers={OldStyle,Proportional}]{Arno Pro} 
+    \setmainfont[$mainfontoptions$]{$mainfont$}
 $endif$
 $if(sansfont)$
-    \setsansfont{$sansfont$}
+    \setsansfont[$sansfontoptions$]{$sansfont$}
 $endif$
 $if(monofont)$
-    \setmonofont[Mapping=tex-ansi]{$monofont$}
+    \setmonofont[Mapping=tex-ansi$if(monofontoptions)$,$monofontoptions$$endif$]{$monofont$}
 $endif$
 $if(mathfont)$
-    \setmathfont(Digits,Latin,Greek){$mathfont$}
+    \setmathfont(Digits,Latin,Greek)[$mathfontoptions$]{$mathfont$}
 $endif$
 $if(CJKmainfont)$
     \usepackage{xeCJK}
     \setCJKmainfont[$CJKoptions$]{$CJKmainfont$}
 $endif$
-
-% Fallback characters
-\usepackage{newunicodechar}
-\newfontfamily{\fallbackfont}{Brill}
-\DeclareTextFontCommand{\textfallback}{\fallbackfont}
-\newunicodechar{⟨}{\textfallback{⟨}}
-\newunicodechar{⟩}{\textfallback{⟩}}
-\newunicodechar{✠}{\textfallback{✠}}
-\newunicodechar{˷}{\textfallback{˷}}
-\newfontfamily{\fallbackfontA}{Antinoou}
-\DeclareTextFontCommand{\textfallbackA}{\fallbackfontA}
-% \newunicodechar{⸵}{\textfallbackA{⸵}}
-\newfontfamily{\fallbackfontMUFI}{Junicode}
-\DeclareTextFontCommand{\textfallbackMUFI}{\fallbackfontMUFI}
-\newunicodechar{⸝}{\textfallbackMUFI{⸝}}
-\newunicodechar{⸵}{\textfallbackMUFI{}} % Punctus eleuatus from MUFI PUA
 \fi
 % use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -71,6 +55,8 @@ $endif$
 $if(geometry)$
 \usepackage[$for(geometry)$$geometry$$sep$,$endfor$]{geometry}
 $endif$
+\makeatletter
+\@ifpackageloaded{hyperref}{}{%
 \ifxetex
   \usepackage[setpagesize=false, % page size defined by xetex
               unicode=false, % unicode breaks when used with xetex
@@ -78,7 +64,13 @@ $endif$
 \else
   \usepackage[unicode=true]{hyperref}
 \fi
-\usepackage[usenames,dvipsnames]{color}
+}
+\@ifpackageloaded{color}{
+    \PassOptionsToPackage{usenames,dvipsnames}{color}
+}{%
+    \usepackage[usenames,dvipsnames]{color}
+}
+\makeatother
 \hypersetup{breaklinks=true,
             bookmarks=true,
             pdfauthor={$author-meta$},
@@ -92,13 +84,12 @@ $endif$
 $if(lang)$
 \ifxetex
   \usepackage{polyglossia}
-  \setmainlanguage{$mainlang$}
-  \setotherlanguages{$for(otherlang)$$otherlang$$sep$,$endfor$}
+  \setmainlanguage[$if(polyglossia-variant)$variant=$polyglossia-variant$$endif$]{$polyglossia-lang$}
+  \setotherlanguages{$for(polyglossia-otherlangs)$$polyglossia-otherlangs$$sep$,$endfor$}
 \else
-  \usepackage[shorthands=off,$lang$]{babel}
+  \usepackage[shorthands=off,$babel-lang$]{babel}
 \fi
 $endif$
-\usepackage{embrac}
 $if(natbib)$
 \usepackage{natbib}
 \bibliographystyle{$if(biblio-style)$$biblio-style$$else$plainnat$endif$}
@@ -147,7 +138,7 @@ $if(strikeout)$
 $endif$
 % \setlength{\parindent}{0pt}
 % \setlength{\parskip}{6pt plus 2pt minus 1pt}
-\setlength{\emergencystretch}{3em}  % prevent overfull lines
+% \setlength{\emergencystretch}{3em}  % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 $if(numbersections)$
@@ -158,9 +149,26 @@ $endif$
 $if(verbatim-in-note)$
 \VerbatimFootnotes % allows verbatim text in footnotes
 $endif$
+$if(dir)$
+\ifxetex
+  % load bidi as late as possible as it modifies e.g. graphicx
+  $if(latex-dir-rtl)$
+  \usepackage[RTLdocument]{bidi}
+  $else$
+  \usepackage{bidi}
+  $endif$
+\fi
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \TeXXeTstate=1
+  \newcommand{\RL}[1]{\beginR #1\endR}
+  \newcommand{\LR}[1]{\beginL #1\endL}
+  \newenvironment{RTL}{\beginR}{\endR}
+  \newenvironment{LTR}{\beginL}{\endL}
+\fi
+$endif$
 
 $if(title)$
-\title{$title$}
+\title{$title$$if(subtitle)$\\\vspace{0.5em}{\large $subtitle$}$endif$}
 $endif$
 $if(author)$
 \author{$for(author)$$author$$sep$ \and $endfor$}
@@ -174,6 +182,7 @@ $for(header-includes)$
 $header-includes$
 $endfor$
 
+$if(subpara)$
 % Redefines (sub)paragraphs to behave more like sections
 \ifx\paragraph\undefined\else
 \let\oldparagraph\paragraph
@@ -183,21 +192,33 @@ $endfor$
 \let\oldsubparagraph\subparagraph
 \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
 \fi
+$endif$
 
-% Allow more than 18 floats
-\extrafloats{25}
-
-% Make each page fill up the entire page.
-\flushbottom
+\flushbottom % Make each page fill up the entire page.
 
 % Move footnote marker into left margin
 \usepackage{scrextend}
 \deffootnote{0em}{1.6em}{\thefootnotemark\enskip}
 
-% Remove footnote rule
-\renewcommand*\footnoterule{}
+\renewcommand*\footnoterule{} % Remove footnote rule
 
-
+$if(substitute)$
+% Fallback characters
+\usepackage{newunicodechar}
+\newfontfamily{\fallbackfont}{Brill}
+\DeclareTextFontCommand{\textfallback}{\fallbackfont}
+\newunicodechar{⟨}{\textfallback{⟨}}
+\newunicodechar{⟩}{\textfallback{⟩}}
+\newunicodechar{✠}{\textfallback{✠}}
+\newunicodechar{˷}{\textfallback{˷}}
+\newfontfamily{\fallbackfontA}{Antinoou}
+\DeclareTextFontCommand{\textfallbackA}{\fallbackfontA}
+% \newunicodechar{⸵}{\textfallbackA{⸵}}
+\newfontfamily{\fallbackfontMUFI}{Junicode}
+\DeclareTextFontCommand{\textfallbackMUFI}{\fallbackfontMUFI}
+\newunicodechar{⸝}{\textfallbackMUFI{⸝}}
+\newunicodechar{⸵}{\textfallbackMUFI{}} % Punctus eleuatus from MUFI PUA
+$endif$
 
 \begin{document}
 
@@ -211,17 +232,16 @@ $abstract$
 \end{abstract}
 $endif$
 
-$for(include-before)$
-$include-before$
-
-$endfor$
-
 $if(acknowledgements)$
 \begin{acknowledgements}
 $acknowledgements$
 \end{acknowledgements}
 $endif$
 
+$for(include-before)$
+$include-before$
+
+$endfor$
 $if(toc)$
 {
 \hypersetup{linkcolor=$if(toccolor)$$toccolor$$else$black$endif$}
@@ -236,6 +256,7 @@ $if(lof)$
 \listoffigures
 $endif$
 \end{preliminary}
+
 $body$
 
 $if(natbib)$

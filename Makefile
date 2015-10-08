@@ -10,21 +10,22 @@ STYLEDIR=$(BASEDIR)/style
 BIBFILE=/Users/Andrew/.pandoc/references.json
 # orig: BIBFILE=$(INPUTDIR)/references.json
 
+all: pdf
+
 help:
 	@echo ' 																	  '
 	@echo 'Makefile for the Markdown thesis                                       '
 	@echo '                                                                       '
 	@echo 'Usage:                                                                 '
-	@echo '   make html                        generate a web version             '
 	@echo '   make pdf                         generate a PDF file  			  '
+	@echo '   make html                        generate a web version             '
 	@echo '   make docx	                       generate a Docx file 			  '
-	@echo '   make tex	                       generate a Latex file 			  '
 
 pdf:
 	pandoc "$(INPUTDIR)"/*.md \
 	-o "$(OUTPUTDIR)/thesis.pdf" \
 	--template="$(STYLEDIR)/thesis.tex" \
-	--bibliography="$(BIBFILE)" 2>pandoc.log \
+	--bibliography="$(BIBFILE)" \
 	--csl=chicago-fullnote-bibliography.csl \
 	-V documentclass=ut-thesis \
 	-V citecolor=black \
@@ -32,30 +33,12 @@ pdf:
 	-V urlcolor=black \
 	-V linkcolor=black \
 	-V lang=english \
+	-V substitute \
 	-V lof \
 	-V lot \
-	--number-sections \
-	--chapters \
-	--latex-engine=xelatex \
-	--table-of-contents \
-	--smart \
-	--standalone
-
-tex:
-	pandoc "$(INPUTDIR)"/*.md \
-	-o "$(OUTPUTDIR)/thesis.tex" \
-	--template="$(STYLEDIR)/thesis.tex" \
-	--bibliography="$(BIBFILE)" 2>pandoc.log \
-	--csl=chicago-fullnote-bibliography.csl \
-	-V documentclass=ut-thesis \
-	-V fontsize=12pt \
-	-V citecolor=black \
-	-V toccolor=black \
-	-V urlcolor=black \
-	-V linkcolor=black \
-	-V lang=english \
-	-V lof \
-	-V lot \
+	-V mainfont="Arno Pro" \
+	-V mainfontoptions=Numbers=OldStyle,Numbers=Proportional \
+	--default-image-extension=pdf \
 	--number-sections \
 	--chapters \
 	--latex-engine=xelatex \
@@ -81,6 +64,7 @@ html:
 	--toc \
 	-V lof \
 	-V lot \
+	--default-image-extension=svg \
 	--number-sections \
 	--section-divs \
 	--smart \
