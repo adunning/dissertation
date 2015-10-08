@@ -76,7 +76,7 @@ The following catalogue sorts Alexander's works according to chronology, taking 
 
 #### Literature
 
-@chance:1994_2000medieval; @jeauneau:1964note; @odonnell:1969liberal
+@chance:1994medieval; @jeauneau:1964note; @odonnell:1969liberal
 
 ### *Nouus Auianus*
 
@@ -100,7 +100,7 @@ The following catalogue sorts Alexander's works according to chronology, taking 
 
 #### Editions
 
-@duméril:1854novusa; @froehner:1862magistri; @hervieux:1883_1899fabulistes [pp. 3:222–234, 462–467]; @klein:1998alexander
+@duméril:1854novusa; @froehner:1862magistri; @hervieux:1883fabulistes [pp. 3:222–234, 462–467]; @klein:1998alexander
 
 #### Literature
 
@@ -131,7 +131,7 @@ The following catalogue sorts Alexander's works according to chronology, taking 
 
 #### Editions
 
-@duméril:1854novus; @garbugino:1987alexander; @hervieux:1883_1899fabulistes [pp. 2:392–416]
+@duméril:1854novus; @garbugino:1987alexander; @hervieux:1883fabulistes [pp. 2:392–416]
 
 #### Literature
 
@@ -139,7 +139,7 @@ The following catalogue sorts Alexander's works according to chronology, taking 
 
 ### Commentary on the Athanasian Creed
 
-@stegmüller:1950_1980repertorium, no. 1170
+@stegmüller:1950repertorium, no. 1170
 
 #### Identification
 
@@ -221,7 +221,7 @@ List in @hunt:1984schools [pp. 150–153].
 
 ### *Laus beatissime uirginis*: Commentary on the Song of Songs
 
-@stegmüller:1950_1980repertorium, no. 000; @guglielmetti:2006tradizione, no. 000
+@stegmüller:1950repertorium, no. 000; @guglielmetti:2006tradizione, no. 000
 
 The commentary on the Song of Songs was once thought to have been a separate work: see @mcdonough:2004laus.
 
@@ -262,7 +262,7 @@ The commentary on the Song of Songs was once thought to have been a separate wor
 
 ### *Solatium fidelis anime*
 
-@stegmüller:1950_1980repertorium, no. 8987
+@stegmüller:1950repertorium, no. 8987
 
 #### Identification
 
@@ -380,7 +380,7 @@ The commentary on the Song of Songs was once thought to have been a separate wor
 
 ### Gloss on the Psalms
 
-@stegmüller:1950_1980repertorium, no. 1163
+@stegmüller:1950repertorium, no. 1163
 
 #### Identification
 
@@ -409,7 +409,7 @@ The commentary on the Song of Songs was once thought to have been a separate wor
 
 ### *De naturis rerum*: Commentary on Ecclesiastes
 
-@stegmüller:1950_1980repertorium, no. 1172
+@stegmüller:1950repertorium, no. 1172
 
 #### Identification
 
@@ -456,7 +456,7 @@ The commentary on the Song of Songs was once thought to have been a separate wor
 
 #### Literature
 
-@abramov:2003liber; @adams:1938medieval; @alessio:1994sentenze; @berlioz:1994recueils; @brown:2013vernacular; @f:1896mediaeval; @fumagalli:1985due; @gaselee:1935_1937natural; @janson:1952apes; @kelly:1972metamorphoses; @larson:1913scientific; @lippmann:1935vier; @meyer:1897jours; @milliman:2012ludus; @ribémont:1995natura; @ribémont:2002renaissance; @schuler:2000fabrica; @schuler:2002rives; @talaveraesteso:1983historia; @talaveraesteso:1987texto; @tilliette:2005rhétorique; @voorbij:2000purpose; @wedge:1967alexander; @wirtjes:1986critical; @wolfe:1931vergil; @záhora:2007tropological; @záhora:2014nature
+@abramov:2003liber; @adams:1938medieval; @alessio:1994sentenze; @berlioz:1994recueils; @brown:2013vernacular; @f:1896mediaeval; @fumagalli:1985due; @gaselee:1935natural; @janson:1952apes; @kelly:1972metamorphoses; @larson:1913scientific; @lippmann:1935vier; @meyer:1897jours; @milliman:2012ludus; @ribémont:1995natura; @ribémont:2002renaissance; @schuler:2000fabrica; @schuler:2002rives; @talaveraesteso:1983historia; @talaveraesteso:1987texto; @tilliette:2005rhétorique; @voorbij:2000purpose; @wedge:1967alexander; @wirtjes:1986critical; @wolfe:1931vergil; @záhora:2007tropological; @záhora:2014nature
 
 #### Refers to
 
@@ -494,7 +494,7 @@ The commentary on the Song of Songs was once thought to have been a separate wor
 
 ### Commentary on Proverbs
 
-@stegmüller:1950_1980repertorium, no. 1164
+@stegmüller:1950repertorium, no. 1164
 
 #### Identification
 
@@ -851,7 +851,7 @@ Attributed to Alexander in Cambridge, Queen’s College, 10 (Horne 22). @burnett
 
 ### *Regule in theologiam*
 
-In Cambridge, University Library, Gg.1.5, fol. 113r, a sixteenth-century hand writes: 'Regulae Theologiae, Alexandro Nequam (ut uidetur) autore' [cf. @hardwick:1856_1867catalogue, p. 3:18].
+In Cambridge, University Library, Gg.1.5, fol. 113r, a sixteenth-century hand writes: 'Regulae Theologiae, Alexandro Nequam (ut uidetur) autore' [cf. @hardwick:1856catalogue, p. 3:18].
 
 ### *Super Aue maris stella*
 

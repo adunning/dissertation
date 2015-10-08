@@ -2,11 +2,9 @@
 
 <!--Alexander's work at Cirencester? -->
 
-Q: What is the purpose of Alexander's wisdom commentaries?
-
-A: They are meditations.
-
 Alexander Neckam's most famous work, *De naturis rerum*, is most commonly described as an 'encyclopedia' [as in @talaveraesteso:1983historia; @fumagalli:1985due; @berlioz:1994recueils; @ribémont:1995natura; @schuler:2000fabrica; @voorbij:2000purpose; @ribémont:2002renaissance; @schuler:2002rives; @tilliette:2005rhétorique; @záhora:2014nature].<!-- @haye:1997lateinische ? --> This view stems from its first editor's framing of the work, which he stated 'was intended to be a manual of the scientific knowledge of the time' [@wright:1863alexandri, p. xiv]. In reality, the published portion of the work is an introduction to a scriptural commentary. Wright's willful ignorance of what follows runs so deep that he believes it was a commentary on 'Ecclesiasticus' rather than Ecclesiastes [@wright:1863alexandri, p. lxvii]. Understanding *De naturis rerum* as an encyclopedia may help to provide context for some of the works that followed it to which the label has been retroactively applied, but it tells us relatively little about how Alexander conceived of his work, but it has also set up false expectations for Alexander's work, meaning that modern audiences are often less than receptive.
+
+The idea of presenting an analytic work as a meditation was hardly new: Anselm of Canterbury is also known for having done this [cf. @cottier:2001anima].
 
 Instead, this work should be understood as one of a series of meditative biblical commentaries he wrote while at Cirencester: along with *De naturis rerum*, there survive a commentary on the *Song of Songs*, also called *Laus beatissime uirginis* [@mcdonough:2004laus]; the *Tractatus super Parabolas Salomonis*, an incomplete commentary covering Proverbs 1:1–3:27; the *Tractatus super Mulierem fortem*, a threefold commentary on Proverbs 31:10–31; and a *Meditatio de Magdalena* [edited in @bestul:1999meditation]. Whenever Alexander himself refers to one of these books, he calls it a 'meditatio'. The purpose of this chapter is to explain how Alexander used this idea from the tradition of monastic biblical commentaries to meet the needs of his community, and to consider its relationship to himself, as when in the conclusion to his *Tractatus super Mulierem fortem* he calls the book 'speculum animi mei' (J, fol. 125ra).
 

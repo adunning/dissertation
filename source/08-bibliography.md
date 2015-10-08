@@ -1,5 +1,7 @@
 # Bibliography{.unnumbered}
 
+\markboth{Bibliography}{Bibliography}
+
 &nbsp;
 
 \raggedright
