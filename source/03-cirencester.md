@@ -219,6 +219,17 @@ It is perhaps notable that there are very few glossed biblical texts among these
 
 - what books did they have in C?
 
+- St Mary’s in Frankenal: A Cirencester connection? how does the analysis of this place work?
+
+- St Bart's Smithfield? write BL lady Boyle lecture about this
+
+To judge from surviving volumes, Cirencester had a rich tradition of making books, and seems to have developed something of a house style, with a peculiarly beautiful method of creating decorated initials. Almost all the books at Cirencester from before Alexander’s time, however, were copies of patristic works, as were common at Augustinian houses. One can also get some idea of the books Alexander had access to through citations in his writings, though it is not altogether clear whether he consulted them at Cirencester or elsewhere.
+
+Alexander benefited from the patristic reading available to him, but probably wanted something more current and direct. During his time at Paris, Alexander was inspired by the work of authors such as his teacher William de Montibus to bring the latest in scholastic theology to bear on practical pastoral matters. When he came to Cirencester, he was probably shocked to find that he had no such tools to accomplish what he saw as his work there. Alexander’s writings, however, would have represented something quite new to the canons: works that they could use in everyday life.
+
+One of the most remarkable features of the earlier books from Cirencester is their very detailed colophons. @webber:1998libraries have suggested that these were included as a reminder to pray for the souls of those who made the books and their benefactors [pp. xxv, 26].
+
+
 ## Works Available in Cirencester's Library
 
 Cirencester has no surviving library catalogue, but an idea of the works available at the abbey can be gleaned from the listings in the *Registrum Anglie* [@mynors:1991registrum, pp. 288–89 (no. 104)] and by Leland [@webber:1998libraries, pp. 27–28], together with the survivors [@baddeley:1924history, pp. 168–170; @ker:1964medieval, pp. 51–52; @ker:1987medieval, p. 14], for which information on titles is based on library catalogues [@planta:1802catalogue; @coxe:1852catalogus; @coxe:1973laudian; @warner:1921catalogue; @hunt:1895summary; @mynors:1993catalogue; @watson:1997descriptive; @thomson:2009descriptive], silently corrected where necessary.
