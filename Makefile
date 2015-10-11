@@ -41,7 +41,7 @@ pdf:
 	--default-image-extension=pdf \
 	--number-sections \
 	--chapters \
-	--latex-engine=xelatex \
+	--latex-engine=lualatex \
 	--table-of-contents \
 	--smart \
 	--standalone
