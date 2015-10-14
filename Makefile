@@ -32,7 +32,9 @@ pdf:
 	-V toccolor=black \
 	-V urlcolor=black \
 	-V linkcolor=black \
-	-V lang=english \
+	-V lang=en-GB \
+	-V indent \
+	-V subparagraph \
 	-V substitute \
 	-V lof \
 	-V lot \
@@ -64,6 +66,7 @@ html:
 	--toc \
 	-V lof \
 	-V lot \
+	-V link-citations=true \
 	--default-image-extension=svg \
 	--number-sections \
 	--section-divs \
