@@ -2,7 +2,7 @@ PY=python
 PANDOC=pandoc
 
 BASEDIR=$(CURDIR)
-INPUTDIR=$(BASEDIR)/source
+INPUTDIR=$(BASEDIR)
 OUTPUTDIR=$(BASEDIR)/output
 TEMPLATEDIR=$(INPUTDIR)/templates
 STYLEDIR=$(BASEDIR)/style
@@ -72,8 +72,8 @@ html:
 	--section-divs \
 	--smart \
 	--standalone
-	rm -rf "$(OUTPUTDIR)/source"
-	mkdir "$(OUTPUTDIR)/source"
-	cp -r "$(INPUTDIR)/figures" "$(OUTPUTDIR)/source/figures"
+	rm -rf "$(OUTPUTDIR)/figures"
+	mkdir "$(OUTPUTDIR)/figures"
+	cp -r "$(INPUTDIR)/figures" "$(OUTPUTDIR)/figures"
 
 .PHONY: help pdf docx html tex
