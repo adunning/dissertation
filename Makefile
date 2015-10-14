@@ -10,7 +10,7 @@ STYLEDIR=$(BASEDIR)/style
 BIBFILE=/Users/Andrew/.pandoc/references.json
 # orig: BIBFILE=$(INPUTDIR)/references.json
 
-all: pdf
+all: pdf html
 
 help:
 	@echo ' 																	  '
@@ -26,13 +26,11 @@ pdf:
 	-o "$(OUTPUTDIR)/thesis.pdf" \
 	--template="$(STYLEDIR)/thesis.tex" \
 	--bibliography="$(BIBFILE)" \
-	--csl=chicago-fullnote-bibliography.csl \
 	-V documentclass=ut-thesis \
 	-V citecolor=black \
 	-V toccolor=black \
 	-V urlcolor=black \
 	-V linkcolor=black \
-	-V lang=en-GB \
 	-V indent \
 	-V subparagraph \
 	-V substitute \
@@ -60,20 +58,17 @@ html:
 	-t html5 \
 	-o "$(OUTPUTDIR)/thesis.html" \
 	--template="$(STYLEDIR)/template.html" \
-	--bibliography="$(BIBFILE)" 2>pandoc.log \
-	--csl=chicago-fullnote-bibliography.csl \
-	--include-in-header="$(STYLEDIR)/style.css" \
-	--toc \
-	-V lof \
-	-V lot \
+	--bibliography="$(BIBFILE)" \
+	--css="$(STYLEDIR)/style.css" \
+	--table-of-contents \
 	-V link-citations=true \
 	--default-image-extension=svg \
 	--number-sections \
 	--section-divs \
 	--smart \
 	--standalone
-	rm -rf "$(OUTPUTDIR)/figures"
-	mkdir "$(OUTPUTDIR)/figures"
-	cp -r "$(INPUTDIR)/figures" "$(OUTPUTDIR)/figures"
+	rm -rf "$(OUTPUTDIR)/figures" "$(OUTPUTDIR)/style.css"
+	cp -r "$(INPUTDIR)/figures" "$(OUTPUTDIR)"
+	cp -r "$(STYLEDIR)/style.css" "$(OUTPUTDIR)"
 
 .PHONY: help pdf docx html tex

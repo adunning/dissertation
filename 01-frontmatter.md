@@ -4,7 +4,7 @@ author: Andrew Nelson Judd Dunning
 date: 2016
 lang: en-GB
 locale: en-GB
-babel-lang: british
+csl: chicago-fullnote-bibliography.csl
 department: Centre for Medieval Studies
 institution: University of Toronto
 degree: Doctor of Philosophy
