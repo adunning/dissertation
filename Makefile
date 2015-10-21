@@ -27,10 +27,7 @@ pdf:
 	--template="$(STYLEDIR)/thesis.tex" \
 	--bibliography="$(BIBFILE)" \
 	-V documentclass=ut-thesis \
-	-V citecolor=black \
-	-V toccolor=black \
-	-V urlcolor=black \
-	-V linkcolor=black \
+	-V hidelinks \
 	-V indent \
 	-V subparagraph \
 	-V substitute \
@@ -43,6 +40,7 @@ pdf:
 	--chapters \
 	--latex-engine=lualatex \
 	--table-of-contents \
+	--no-tex-ligatures \
 	--smart \
 	--standalone
 
