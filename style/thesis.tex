@@ -171,7 +171,7 @@ $endif$
 
 % Additions for thesis
 
-\frenchspacing % Prevents a stretchable space from being inserted after a period, which is nice, but can cause issues.
+% \frenchspacing % Prevents a stretchable space from being inserted after a period, which is nice, but can cause issues.
 
 \flushbottom % Make each page fill up the entire page.
 
@@ -184,6 +184,24 @@ $endif$
 % Remove bold from headings in report class
 \usepackage{sectsty}
 \allsectionsfont{\normalfont}
+
+% Fix problems with old-style figures in URLs with LuaTeX: see <https://github.com/lualatex/luaotfload/issues/204>
+\ifluatex
+  \makeatletter
+    \g@addto@macro\UrlSpecials{%
+      \do\0{\mbox{\UrlFont\char`\0}}%
+      \do\1{\mbox{\UrlFont\char`\1}}%
+      \do\2{\mbox{\UrlFont\char`\2}}%
+      \do\3{\mbox{\UrlFont\char`\3}}%
+      \do\4{\mbox{\UrlFont\char`\4}}%
+      \do\5{\mbox{\UrlFont\char`\5}}%
+      \do\6{\mbox{\UrlFont\char`\6}}%
+      \do\7{\mbox{\UrlFont\char`\7}}%
+      \do\8{\mbox{\UrlFont\char`\8}}%
+      \do\9{\mbox{\UrlFont\char`\9}}%
+    }
+  \makeatother
+\fi
 
 $if(substitute)$
 % Fallback characters

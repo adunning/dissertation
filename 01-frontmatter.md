@@ -3,7 +3,6 @@ title: "The Recording and Dissemination of Alexander Neckam’s Writings at Oxfo
 author: Andrew Nelson Judd Dunning
 date: 2016
 lang: en-GB
-locale: en-GB
 csl: chicago-fullnote-bibliography.csl
 department: Centre for Medieval Studies
 institution: University of Toronto
@@ -13,6 +12,3 @@ abstract: |
 acknowledgements: |
   [forthcoming]
 ---
-
-
-<!-- I argue that he became an Augustinian canon in Oxford rather than at Cirencester, and that his work can most usefully be studied within the context of the needs of these two communities and their relationship with their neighbours. -->

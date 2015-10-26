@@ -32,7 +32,6 @@ pdf:
 	-V subparagraph \
 	-V substitute \
 	-V lof \
-	-V lot \
 	-V mainfont="Arno Pro" \
 	-V mainfontoptions=Numbers=OldStyle,Numbers=Proportional \
 	--default-image-extension=pdf \
