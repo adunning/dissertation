@@ -72,11 +72,11 @@ But it also has this comment:
 
 This passage is probably what Alexander Neckam has in mind when he refers to his *Tractatus super Mulierem fortem* as *speculum animi mei*, as we will see later.
 
-Why were books important to such an order?
+- Barnwell 1296–96 @clark
 
 
 - who were the Augustinians?
-+ stuff about pastoral care: did this matter?
++ did pastoral care really matter to them?
 
 - why are books important?
 
