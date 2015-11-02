@@ -72,8 +72,7 @@ But it also has this comment:
 
 This passage is probably what Alexander Neckam has in mind when he refers to his *Tractatus super Mulierem fortem* as *speculum animi mei*, as we will see later.
 
-- Barnwell 1296–96 @clark
-
+- Barnwell 1296–96 <-- @clark:1909care -->
 
 - who were the Augustinians?
 + did pastoral care really matter to them?
@@ -182,7 +181,7 @@ Philip did much to promote the cult of the abbess Frithuswith or St Frideswide [
 - are there any other writers based at Oxford apart from A and R?
 - are there any other Augustinian writers in England at the time?
 
-
+- Gloss on the Psalms was likely published from Oxford, as the revisions indicate continuing classroom usage, and most copies of the commentary do not integrate these, meaning there needs to have been time for them to circulate: and Cirencester does not appear to have owned a full copy
 
 ## Alexander as a canon at Cirencester
 
@@ -229,8 +228,7 @@ Alexander benefited from the patristic reading available to him, but probably wa
 
 One of the most remarkable features of the earlier books from Cirencester is their very detailed colophons. @webber:1998libraries have suggested that these were included as a reminder to pray for the souls of those who made the books and their benefactors [pp. xxv, 26].
 
-
-## Works Available in Cirencester's Library
+## Appendix: Works Available in Cirencester's Library
 
 Cirencester has no surviving library catalogue, but an idea of the works available at the abbey can be gleaned from the listings in the *Registrum Anglie* [@mynors:1991registrum, pp. 288–89 (no. 104)] and by Leland [@webber:1998libraries, pp. 27–28], together with the survivors [@baddeley:1924history, pp. 168–170; @ker:1964medieval, pp. 51–52; @ker:1987medieval, p. 14], for which information on titles is based on library catalogues [@planta:1802catalogue; @coxe:1852catalogus; @coxe:1973laudian; @warner:1921catalogue; @hunt:1895summary; @mynors:1993catalogue; @watson:1997descriptive; @thomson:2009descriptive], silently corrected where necessary.
 
