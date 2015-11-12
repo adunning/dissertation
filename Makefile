@@ -27,7 +27,6 @@ pdf:
 	--template="$(STYLEDIR)/thesis.tex" \
 	--bibliography="$(BIBFILE)" \
 	-V documentclass=ut-thesis \
-	-V hidelinks \
 	-V indent \
 	-V subparagraph \
 	-V substitute \
