@@ -183,6 +183,13 @@ Philip did much to promote the cult of the abbess Frithuswith or St Frideswide [
 
 - Gloss on the Psalms was likely published from Oxford, as the revisions indicate continuing classroom usage, and most copies of the commentary do not integrate these, meaning there needs to have been time for them to circulate: and Cirencester does not appear to have owned a full copy
 
+
+> Cum die quadam magister Alexander, cognomento Nequam, uenisset in quendam conuentum nigrorum monachorum et quidam ex eis ob consuetudinem peterent, quatinus in capitulo uerbum dei proponeret, illeque promisisset, alii eum sequentes dixerunt: 'Bone magister, loquimini nobis breuiter.' Quibus respondit: 'Libenter.' Considerans quod minus libenter audirent, capitulum intrauit. Qui cum resedisset, in hec uerba domini erupit dicens: '*Qui ex deo est, uerba dei audit; propterea uos non auditis, quia ex deo non estis.* [John 8:47] Tu autem, domine, miserere nostri.' Et adiecit: 'Estne satis breuis sermo iste, fratres?' Moxque surgens exiuit, non modicum illis confusis. [quoted in @hilka:1933wundergeschichten, pp. 1:120-121; @schönbach:1902über, p. 77; cited in @hunt:1984schools, p. 15]
+
+<!-- Hunt: 'A wise man said in a joke, but seriously, that the Slavs are not whistlers, because they have no vines. He would have got nearer the reason if he had said it was because they do not drink wine.' [@thomson:1988alexander, 3.13: R, fol. 54vb; trans. @hunt:1984schools, pp. 15–16] -->
+
+> Magister Alexander Nequam abbas Cirencestrie a curia Romana reuersus requisitus est a quodam canonico suo quae non impetrasset sibi usum milie sicut quidam alii abbates in regno. Qui respondit. Utriusque testamenti pagenam frequenter respexi, nusquam tamen repperi quod usus milie abbati ualet nisi forsitan propter duo: in hieme uidelicet propter frigus, in estate propter muscas. (London, British Library, Arundel 227)
+
 ## Alexander as a canon at Cirencester
 
 Alexander came to Cirencester at a time when the abbey was undergoing serious reform, which reached even papal attention. The resulting turbulence is not the sort of environment into which one would want to place a new recruit; Alexander was likely sent to Cirencester to support the reform.

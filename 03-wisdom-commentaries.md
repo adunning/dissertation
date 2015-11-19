@@ -35,6 +35,101 @@ DNR De cane (257): turning something that appears to be a nuisance to him into f
 
 The way in which he refers to this work in *Speculum speculationum* 3.81.1 (fol. 68va) is also telling: 'Memini autem me aliqua proposuisse super hoc in ingressu tractatus quem institui super parabolas, unde et paucis nos ad presens absoluemus.' He only claims to have begun the work.
 
+temporal reference: written after death of Richard I (fol. 58ra)
+
+> Considerationi igitur reciproce qua quis sue conditionis statum attendit⸵ se debet liber parabolorum. considerationi uani
+tatum mundanarum⸵ obnoxius est ecclesiastes. contemplationi diuine⸵ obsequitur liber canticorum. Clamat idida
+quia inicium sapiencie⸵ timor domini. Concionatur ecclesiastes⸵
+dicens. Vanitas uanitatum. uanitas uanitatum⸵ et omnia uanitas.
+Suspirat ad pacis delicias⸵ salomon inquiens. Osculetur
+me osculo oris sui. Idida˷ idest dilectus eris a domino⸵ per hu
+militatem. que et sui contemptorem esse hominem docet. et timorem discretum adducit. Concionatoris nomen conferent tibi⸵
+prudentia et spes et temperantia. Prudentia nimirum
+naturas rerum transitoriarum inuentigans⸵ eas esse uanitatibus obnoxias comprehendit. Spes manu desiderii
+deum ipsum iam tenens⸵ omnia preter deum uanitati muliplici
+subiecta esse prefitetur. Temperanta modicum esse quod nature sat est,
+perpendens⸵ rerum amorem temporalium abiciendum esse nouit.
+Amor sanctus et deuotio⸵ osculo et amplexibus dilecti deliciantur.
+>
+> Triplici igitur considerationi⸵ tria trinomii salomonis opera
+sunt obnoxia. Ingredere itaque. eregedere⸵ supergredere. In
+gredere cordis thalamum. ingredere humum fossam⸵ et tui
+statum agnosce. Humus fossa⸵ est terra liberi arbitrii. que si a
+ratro discipline bene culta fuerit⸵ letas uirtutum segetes producet. Clausis ergo foribus animi˷ ne uage clamdestinis passibus accedant cogitationes˷ tranquillitatis interne perturbatrices⸵ se ipsum conueniat homo. conscientiam consulat⸵ utrum directo
+tramite per uias salutis˷ ad metam debitam tendat. Egredere
+postea cum abraham de terra tua˷ de terra scilicet liberi arbitrii. et de cognatione tua˷ sedatis iam motibus mentis. egredere inquam passibus considerationis⸵ ad uanitaties rerum et utilitates earundem perspiciendas. Quid nobis ad maiora natis. et
+uanitatibus mundi? Vtilitates rerum inspecte⸵ in admirationem tam potentie quam sapientie quam benignitatis diuine nos
+rapiant. Supergredere tandem mundialem machinam. et
+aciem mentis dirige ut potes in lumen immense glorie⸵ et de
+fecatis meditationibus indulge. et relegatis procul rerum imaginibus⸵ simplicitati intellectus puri preparet iter preuia deuotio. Audebit amor et dulciter et reuerenter intueri maiestatem illius qui nutu concutit orbem⸵ et desiderium suum
+intimare iudici potentissimo set et serenissimo. Porrigat
+humilitas manui benignitatis⸵ libellum confessionis. Nulle in hoc libello reperientur liture. neque enim lituras faciunt
+lacrime deuotionis. Littere digito amoris sancti scripte⸵ sunt
+mentis desideria, postulationes, obsecrationes, supplicationes,
+iubili, gemitus, suspira. In his esto uir, cuius conuersatio est
+in celis. sub cuius pedibus est luna⸵ dum calcas et despicis
+terrena. Stipentur principum latera, satellitum caterua.
+dum modo tui custos fidelis, dominus te muniat et cingat angelorum
+custodia. Custodiant dominum suum satellites⸵ dum modo te dominus
+omnium custodiat.
+
+
+> Vecors est
+qui non exactissima diligentia custodit cor suum. Omni custodia
+ut legetur inferius⸵ serua cor tuum. Nunquid cor suum bene seruat
+qui cor cordis seruare neggligit? Sit tibi cordi⸵ cor tuum. sit
+tibi cordi⸵ cor tui cordis. Sol soli iustitie compatiens⸵ passus est
+eclipsim. luna tamen distante a sole⸵ per sex signa. Ceteris
+igitur creaturis creatori compatientibus⸵ quid de te sentiam o homo
+tot et tantis ingrate beneficiis. qui cordi tuo˷ capiti tuo, saluti
+tue˷ uite tue compatienti non compateris? In his esto mecum pie
+lector. he sint nostre meditiationes. hec sint studia nostra. Sic sic
+mecum ascende in palmam. sic mecum lege fructus dulcissimos
+gutturi amantis.
+>
+> Triplici igitur mecum utere pie lector conside
+ratione. et sic in te ipsum tua flectatur meditatio˷ sic ad terrena
+extendatur⸵ ut in deum ascendat. Ingredere te ipsum prudens
+secretorum cordis explorator. et facilior tibi patebit ingressus in pa
+rabolas salomonis⸵ quas expondere nutu diuino decreuimus.
+
+
+
+> Hec in medium protulimus⸵ tropologie deserui
+entes. Si enim allegorie stilus obsequatur⸵ uidebitur intelligen
+ti liber canticorum primus esse in ordine trium operum salomonis.
+sicut ordo editionis librorum aristotilis⸵ contrarius est ordini ex
+positionis eorundem. Liber igitur canticorum⸵ ad misterium incar
+nationis. ecclesiastes⸵ ad tempus predicationis apostolice. liber parabo
+larum⸵ ad tempora geresum subortarum refertur. Hinc est quod in
+hoc opere quod premanibus habemus⸵ nomine meretricis˷ tipice de
+signatur hereticorum peruersa doctrina. Quoniam uero per gloriosam uir
+ginem cuncte hereses erant interimende⸵ transfert se
+in spiritu in hoc opere salomon quandoque ad misterium incar
+nationis. Principaliter uero tropologie indulgere proposui.
+ita ut allegorie loca quedam specialiter reseruentur. Nec me
+prolixitatis arguat temeraris arbiter. neque enim expositoris
+officium tantum, assumere libet⸵ set etiam consolatoriis meditationibus
+recreare claustralium animos, non nunquam iniustis uexatos molestiis.
+non nunquam propriis sautiatos iaculis. Apes celestia dona ministrant
+usibus hominum. se tamen aliquando prodolor mutuis perimuit acule
+is. Columbe inforaminibus raucos gemitus edentes quasi blanda
+dultium querelarum amoris susurria⸵ acerrimis quandoque in se insur
+gunt insultibus. tanquam innate simplicitatis immemores.
+Passeri tamen eam exagitanti⸵ cedit columba. tam nobilitatis quam
+simplicitatis reminiscens. Set quo faciem auertis pie lector. quod cor
+reptionibus utor˷ moleste ferens? Set quid? Apicula cum aculeo de
+stitui ceperit⸵ mellificare desinit.
+
+
+recognizing he is too prolix:
+
+> Audeant iuniores audeant operibus nouis
+insudare⸵ dum non nisi molestos et tetricos reperiant lectores. Experiar
+igitur siquid possum experiar. et lectoribus assistam comes indiuidua. Scri
+bentis diligentiam⸵ tediose prolixitati. subtilitatem⸵ ostentiationi
+curiose. breuitatem⸵ ascribi faciam negligentie.
+
 ### *Meditatio de Magdalena*
 
 ### *Tractatus super Mulierem fortem*
