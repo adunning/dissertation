@@ -183,19 +183,24 @@ $endif$
 
 % Additions for thesis
 
-% \frenchspacing % Prevents a stretchable space from being inserted after a period, which is nice, but can cause issues.
-
 \flushbottom % Make each page fill up the entire page.
+
+% Remove bold from headings
+\usepackage{sectsty}
+\allsectionsfont{\normalfont}
+
+% Use small caps for definition list
+\renewcommand*\descriptionlabel[1]{\hspace\labelsep \normalfont\scshape{\MakeLowercase{#1}}}
+
+% use all small caps for \textsc
+\let\lowertextsc\textsc
+\renewcommand{\textsc}[1]{\lowertextsc{\fontspec{Arno Pro}[Letters=UppercaseSmallCaps,Numbers=Proportional]{#1}}}
 
 % Move footnote marker into left margin
 \usepackage{scrextend}
 \deffootnote{0em}{1.6em}{\thefootnotemark\enskip}
 
 \renewcommand*\footnoterule{} % Remove footnote rule
-
-% Remove bold from headings in report class
-\usepackage{sectsty}
-\allsectionsfont{\normalfont}
 
 % Fix problems with old-style figures in URLs with LuaTeX: see <https://github.com/lualatex/luaotfload/issues/204>
 \ifluatex
@@ -274,7 +279,9 @@ $include-before$
 $endfor$
 $if(toc)$
 {
+$if(colorlinks)$
 \hypersetup{linkcolor=$if(toccolor)$$toccolor$$else$black$endif$}
+$endif$
 \setcounter{tocdepth}{$toc-depth$}
 \tableofcontents
 }
