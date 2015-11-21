@@ -131,7 +131,7 @@ Cyprian
 : *De opere et eleemosynis* (*Registrum* 21.17)
 
 Faltonia Betitia Proba
-: *Cento Vergilianus de laudibus Christi*: 'Opusculum … ad testimonium et noui testamenti uersifice compositum' (recorded in Oxford, Bodleian Library, Barlow 48 (*SC* 6428), but now separated from the rest of the manuscript) <!-- Any chance of finding it? How many mss are there from s. xii? -->
+: *Cento Vergilianus de laudibus Christi*: 'Opusculum … ad testimonium et noui testamenti uersifice compositum' (recorded in Oxford, Bodleian Library, Barlow 48 (*SC* 6428), but now separated from the rest of the manuscript)<!-- Any chance of finding it? How many mss are there from s. xii? -->
 
 Fulbert of Chartres
 : *Epistolae* (Hereford, Cathedral Library, P.ii.15)
@@ -287,7 +287,7 @@ Anonymous
 : Monastic florilegium (Hereford, Cathedral Library, O.i.6)
 : Notes on the canons (Hereford, Cathedral Library, P.v.9)
 : *Rithmomachia Wirceburgensis* (Hereford, Cathedral Library, O.i.6)
-: *Speculum ecclesie quod abbas sancti Victoris ex dictis sanctorum patrum compilauit* (Oxford, Jesus College, 48: with annotations by Alexander Neckam)
+: *Speculum ecclesie quod abbas sancti Victoris ex dictis sanctorum patrum compilauit* (Oxford, Jesus College, 48)
 : 'Stavelot Commentary' on the Athanasian Creed (Oxford, Bodleian Library, Laud lat. 17) [see @häring:1972commentaries, p. 229; printed in @burn:1896athanasian, pp. 11–20, xlviii–l]
 : *Tractatus de septem gradibus confessionis* (London, British Library, Royal 5 E.xviii)
 
