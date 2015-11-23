@@ -1,6 +1,13 @@
-# *Speculum animi mei:* Alexander's Writings at Cirencester
+# *Speculum animi mei:* Alexander's Meditations
 
-<!--Alexander's work at Cirencester? -->
+Alexander's biblical commentaries (less that on the Psalms) are normally viewed a) as essentially monastic, b) as devotional works. They should instead be considered as the cumulation of Alexander's scholastic training and experience in the Augustinian order, uniting all knowledge around a high lelvel of reading of the scriptures. They can also be thought of in the context of the movement in the late twelfth and thirteenth century to concentrate on pastoral care.
+
+## Alexander's commentaries on the Wisdom books
+
+Hunt had very little to say about Alexander's meditations. 'They are the overflow of his personal devotion.' [@hunt:1984schools, p. 106] ** = 'consolatory meditations'
+
+- Hunt's version: not a fan, 'the overflow of [Alexander's] personal devotion' <!-- adjust q, taken from Bestul --> [@hunt:1984schools, pp. 106–107]
+- there is a longer tradition of this
 
 Alexander’s commentaries on the biblical wisdom books – Proverbs, Ecclesiastes, and Song of Songs – fit together very well stylistically, and can be seen as something of a series. They certainly represent both his most voluminous work, but have rarely been examined in any detail. What one finds on closer examination is a collection that responds to themes that were quite popular at the time, and indeed that Alexander’s fellow-canons probably demanded to hear about.
 
@@ -13,15 +20,7 @@ Hunt distinguishes these as being of a ‘scholastic type’, probably deriving 
 
 Alexander Neckam's most famous work, *De naturis rerum*, is most commonly described as an 'encyclopedia' [as in @talaveraesteso:1983historia; @fumagalli:1985due; @berlioz:1994recueils; @ribémont:1995natura; @schuler:2000fabrica; @voorbij:2000purpose; @ribémont:2002renaissance; @schuler:2002rives; @tilliette:2005rhétorique; @záhora:2014nature].<!-- @haye:1997lateinische ? --> This view stems from its first editor's framing of the work, which he stated 'was intended to be a manual of the scientific knowledge of the time' [@wright:1863alexandri, p. xiv]. In reality, the published portion of the work is an introduction to a scriptural commentary. Wright's willful ignorance of what follows runs so deep that he believes it was a commentary on 'Ecclesiasticus' rather than Ecclesiastes [@wright:1863alexandri, p. lxvii]. Understanding *De naturis rerum* as an encyclopedia may help to provide context for some of the works that followed it to which the label has been retroactively applied, but it tells us relatively little about how Alexander conceived of his work, but it has also set up false expectations for Alexander's work, meaning that modern audiences are often less than receptive.
 
-The idea of presenting an analytic work as a meditation was hardly new: Anselm of Canterbury is also known for having done this [cf. @cottier:2001anima].
-
-Instead, this work should be understood as one of a series of meditative biblical commentaries he wrote while at Cirencester: along with *De naturis rerum*, there survive a commentary on the *Song of Songs*, also called *Laus beatissime uirginis* [@mcdonough:2004laus]; the *Tractatus super Parabolas Salomonis*, an incomplete commentary covering Proverbs 1:1–3:27; the *Tractatus super Mulierem fortem*, a threefold commentary on Proverbs 31:10–31; and a *Meditatio de Magdalena* [edited in @bestul:1999meditation]. Whenever Alexander himself refers to one of these books, he calls it a 'meditatio'. The purpose of this chapter is to explain how Alexander used this idea from the tradition of monastic biblical commentaries to meet the needs of his community, and to consider its relationship to himself, as when in the conclusion to his *Tractatus super Mulierem fortem* he calls the book 'speculum animi mei' (J, fol. 125ra).
-
-<!--Do we need more engagement with the arguments cited above? -->
-
-> And now those things which pertain to reading have been explained as lucidly and briefly as we know how. But as for the remaining part of learning, namely meditation, I omit saying anything about it in the present work because so great a matter requires a special treatise, and it is more worthy to be altogether silent about a matter of this sort than to say anything about it imperfectly. For it is a thing truly subtle and at the same time delightful, one which both educates beginners and exercises the perfect, one which has not yet been treated in writing and which therefore deserves all the more to be followed up. [@taylor:1961didascalicon, p. 151 (6.13)]
-
-## The Works
+## Alexander's meditations
 
 ### *Laus beatissime uirginis*: Commentary on the Song of Songs
 
@@ -33,7 +32,6 @@ DNR De cane (257): turning something that appears to be a nuisance to him into f
 
 ### *Tractatus super Parabolas Salomonis*
 
-The way in which he refers to this work in *Speculum speculationum* 3.81.1 (fol. 68va) is also telling: 'Memini autem me aliqua proposuisse super hoc in ingressu tractatus quem institui super parabolas, unde et paucis nos ad presens absoluemus.' He only claims to have begun the work.
 
 temporal reference: written after death of Richard I (fol. 58ra)
 
@@ -138,14 +136,25 @@ Hunt places the writing of *Super Mulierem fortem* during Alexander's abbacy, on
 
 *Super Mulierem fortem* includes cross-references to Alexander's *Laus beatissime uirginis*^['Dulcissima est historialis intelligentie ueritas. quam expositione luculenta declarauimus in opere nostro⸵ quod in laudes gloriose dei genitricis feliciter consummauimus.' J, fol. 99vb.] as well as his *Meditatio de Magdalena*.^['Beata autem magdalena cuius laudibus iterato deseruire stilus noster gloriatur'. J, fol. 79ra.] There is
 
-## What is a *meditatio*?
+## Alexander's meditations as a product of Cirencester
 
-Hunt had very little to say about Alexander's meditations. 'They are the overflow of his personal devotion.' [@hunt:1984schools, p. 106] ** = 'consolatory meditations'
+Meditations could have been drafted at Oxford, but Cirencester was probably needed to carry out his publication programme.
 
-- Hunt's version: not a fan, 'the overflow of [Alexander's] personal devotion' <!-- adjust q, taken from Bestul --> [@hunt:1984schools, pp. 106–107]
-- there is a longer tradition of this
 
-## Meditation and exegesis
+
+## Meditation and the Augustinians
+
+The idea of presenting an analytic work as a meditation was hardly new: Anselm of Canterbury is also known for having done this [cf. @cottier:2001anima].
+
+Instead, this work should be understood as one of a series of meditative biblical commentaries he wrote while at Cirencester: along with *De naturis rerum*, there survive a commentary on the *Song of Songs*, also called *Laus beatissime uirginis* [@mcdonough:2004laus]; the *Tractatus super Parabolas Salomonis*, an incomplete commentary covering Proverbs 1:1–3:27; the *Tractatus super Mulierem fortem*, a threefold commentary on Proverbs 31:10–31; and a *Meditatio de Magdalena* [edited in @bestul:1999meditation]. Whenever Alexander himself refers to one of these books, he calls it a 'meditatio'. The purpose of this chapter is to explain how Alexander used this idea from the tradition of monastic biblical commentaries to meet the needs of his community, and to consider its relationship to himself, as when in the conclusion to his *Tractatus super Mulierem fortem* he calls the book 'speculum animi mei' (J, fol. 125ra).
+
+<!--Do we need more engagement with the arguments cited above? -->
+
+> And now those things which pertain to reading have been explained as lucidly and briefly as we know how. But as for the remaining part of learning, namely meditation, I omit saying anything about it in the present work because so great a matter requires a special treatise, and it is more worthy to be altogether silent about a matter of this sort than to say anything about it imperfectly. For it is a thing truly subtle and at the same time delightful, one which both educates beginners and exercises the perfect, one which has not yet been treated in writing and which therefore deserves all the more to be followed up. [@taylor:1961didascalicon, p. 151 (6.13)]
+
+- Richard of St Victor?
+
+## Alexander on meditation
 
 - compare to Will. Meld. Lamentations?
 
@@ -167,15 +176,11 @@ FLM fol. 232r: *De commentatione uini*, book 3.?????
 
 
 
-## Alexander's definition of 'meditatio'
-
-- bit like @leclercq:1982love [p. 16]:
+bit like @leclercq:1982love [p. 16]:
 
 > In secular usage, *meditari* means, in a general way, to think, to reflect, as does *cogitare* or *considerare*; but, more than these, it often implies an affinity with the practical or even moral order. It implies thinking of a thing with the intent to do it; in other words, to prepare oneself for it, to prefigure it in the mind, to desire it, in a way, to do it in advance briefly, to practice it.
 
 - cites TLL; p. 73 on lectio vs. med.
-
-### In *CProv*
 
 At the beginning of his commentary on Proverbs, Alexander holds meditation in high regard:
 
@@ -183,21 +188,7 @@ At the beginning of his commentary on Proverbs, Alexander holds meditation in hi
 
 > Meditatio humana nunc in ipsum hominem reflectitur. nunc in ceteras transit creaturas⸵ nunc in auctorem rerum. dirigitur. Dum uero in hominem reciprocatur. aut circa ea que spectant ad nobilis creature dignitatem uersatur consideratio⸵ aut in iis que uergunt ad humane conditionis fragilitatem. Cum autem tanquam in specula residens ratio˷ rerum transitoriarum. cernit alterationes⸵ quandoque ipsarum uanitatem˷ non numquam earundem deprehendit utilitatem. Set dum in illud illud lumen immensum audet. immo gaudet mentis aciem figere deuotio˷ ad dilectum enim libenter recurrit amoris oculus⸵ nunc humanitatis assumpte humilitatem dulciter. nunc diuine maiestatis sublimitatem reuerenter intuetur. Ingrediens igitur ratio thalamum cordis et se intra se colligens⸵ dignitatem nature humane et fragilitatem considerat. transiens ad spectacula theatri mundialis⸵ rerum agnoscit uanitatem et utilitatem. erigens se supra se⸵ contemplatur humanitatem saluatoris et diuinitatem. Sic ingredienti archam cum Noe⸵ deferet columba diuine gratie⸝ ramum oliue pacis. sic egredienti in agrum mundi istius cum Ysaac gratia meditationis⸵ occurret sapientia per Rebeccam designata. sic rapto in celum cum Paulo⸵ reuelabuntur archana. que non licebit manifestari homini carnaliter sapienti.^[*CProv*, J 57ra]
 
-- DNR
-- CCant
-- SMF
-- MedMag
-
-- Corrogationes Promethei?
-- other Cirencester works?
-
-## 'Meditatio' and the work of an abbot
-
-- cartulary?
-
-- other
-
-### Evidence of the *Corrogationes noui Promethei*
+## *Meditatio* and the work of an abbot
 
 One of the most instructive texts on Alexander's philosophy of administration is the collection *Corrogationes noui Promethei* (or *Promothei*). The collection is framed as advice to abbots:
 
@@ -238,22 +229,8 @@ Unfortunately, no letters from Alexander survive that might show in practice how
 If Alexander calls his book 'speculum animi mei' (*SMF*, J, fol. 125r) or his theological treatise *Speculum speculationum*, what does it mean for an abbot to be a mirror to his flock?
 
 
-## 'Speculum animi mei': Alexander's relationship to his books
 
-> | ¶ Et fortassis erit aliquis mea carmina rodens.
-> |   Nam quandoque solet serpere liuor humi.
-> | Set scribens aliis scribo michi. Disco docendo.
-> |   Sic michi sic aliis utilis esse uolo.
-> | Proficiens prodesse uolo tibi candide lector.
-> |   Discipulusque mei set tibi doctor ero.
-> | Qui me commorit melius non tangere clamo.^[Horace, *Sermones* 2.1.45]
-> |   Dum michi succenses inuide parce tibi. [*Corrogationes noui Promethei* 331–38, Cambridge, University Library, Gg.6.42, fol. 70bis v (the MS quoted here) and Paris, BnF, lat. 11867, fol. 232vb: @cropp:1991critical, p. 177 (who does not note the paragraph division); linked to @mcdonough:1999alexander, pp. 130, 152, 160, 161; lines 333–34 cited in @hunt:1984schools, p. 59]
 
-> | And perhaps someone will be a gnawing my verses,
-> |   for sometimes spite is accustomed to crawl on the ground.
-> | But in writing for others I write for myself. I learn by teaching:
-> |   thus I wish to be useful both to myself and others.
-> | Improving, I wish to be useful to you, pure reader
-> |   and my student, but I will be your teacher.
-> | Who disturbs me, 'better not touch', I shout:
-> |   while you are malevolently angry with me, spare yourself.
+## Innovation through meditation?
+
+In retrospect, Alexander's work can be seen as one of the last successful attempts to unite all of human knowledge, using the biblical text as a framework. R.W. Southern wrote of the project of what he called 'scholastic humanism' as an attempt to provide a 'complete body of doctrine about both the natural and the supernatural worlds' that would be 'rationally unassailable and doctrinally coherent' – an attempt he called 'entirely misguided' [@southern:1995scholastic, p. 4<!-- check -->]. By the thirteenth century,
