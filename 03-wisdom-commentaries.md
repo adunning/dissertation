@@ -1,8 +1,10 @@
 # *Speculum animi mei:* Alexander's Meditations
 
-Alexander's biblical commentaries (less that on the Psalms) are normally viewed a) as essentially monastic, b) as devotional works. They should instead be considered as the cumulation of Alexander's scholastic training and experience in the Augustinian order, uniting all knowledge around a high lelvel of reading of the scriptures. They can also be thought of in the context of the movement in the late twelfth and thirteenth century to concentrate on pastoral care.
+Alexander's biblical commentaries (less that on the Psalter) are normally viewed a) as essentially monastic, b) as devotional works. They should instead be considered as the cumulation of Alexander's scholastic training and experience in the Augustinian order, uniting all knowledge around a high lelvel of reading of the scriptures. They can also be thought of in the context of the movement in the late twelfth and thirteenth century to concentrate on pastoral care.
 
 ## Alexander's commentaries on the Wisdom books
+
+> Contemplation is associated with spiritual insight (e.g., Solatium 14ra: “Dies septimus est sabbatissimus mentis, quo mens requiescit in operibus dei delectans, aut in contemplationem diuine maiestatis, per apotheosim rapta, delicias eterne dulcedinis prelibat”). Meditation, on the other hand, takes as its subject the present situation of man, and leads to his improvement before he engages in flights of contemplation (Solatium 19va: “Placet etiam dulcedini misericordie dei ut aues hoc est subtiles meditationes quibus contemp- nimus uaga ista bona et fluctuantia multiplicentur in nobis super terram liberi arbitrii ... Similiter meditationes honeste adornant rerum universitatem sicut omnia honesta opera creaturarum numerum adornant”). [@záhora:2011tropology, p. 119n27]
 
 Hunt had very little to say about Alexander's meditations. 'They are the overflow of his personal devotion.' [@hunt:1984schools, p. 106] ** = 'consolatory meditations'
 
@@ -15,6 +17,19 @@ These works probably took their original form as oral addresses, later revised f
 
 To distinguish them from Alexander’s other commentaries, these have been categorized as ‘monastic’, and on a certain level this is an appropriate designation, in terms of following in a ruminative pattern akin to that of, for instance, Rupert of Deutz, or the more contemporary commentary on Lamentations by William of Malmesbury. The meditation on Mary Magdalene and *Solatium fidelis anime* are also included in this category. What is striking about Alexander’s commentaries is their personal nature. The *Tractatus super Mulierem fortem* appears to be a series of addresses given by Alexander as abbot to his fellow canons; but at the end of this work, he refers to it as *speculum animi mei* – the mirror of his soul. What is the meaning of this, and what function would this have served within his community?
 
+Comment in Rule of St Augustine:
+
+>| Ut autem uos in hoc libello
+>| tamquam in speculo possitis inspicere,
+>| ne per obliuionem aliquid neglegatis,
+>| semel in septimana uobis legatur.
+
+>| These precepts should be read to you once a week,
+>| so that you will see yourselves
+>| in this little book as in a mirror
+>| and not neglect anything through forgetfulness. [*Praeceptum* 8.2, translated by @lawless:1987augustine, 102–3]
+
+This passage is probably what Alexander Neckam has in mind when he refers to his *Tractatus super Mulierem fortem* as *speculum animi mei*, as we will see later.
 
 Hunt distinguishes these as being of a ‘scholastic type’, probably deriving from Alexander’s teaching days at Oxford [@hunt:1984schools, p. 95].
 
@@ -135,6 +150,8 @@ curiose. breuitatem⸵ ascribi faciam negligentie.
 Hunt places the writing of *Super Mulierem fortem* during Alexander's abbacy, on the basis that 'he assumes the tone of a superior giving instruction.' [@hunt:1984schools, p. 28] But he also believes that the heading to the *Speculum*, which refers to him as 'magister Alexander canonicus Cirencestrie' (R, fol. 1ra), indicates that this is an earlier work. If so, *Super Mulierem fortem* must be dated to before 1213, since the *Speculum* refers to it once, close to the beginning [1.2.10: R, fol. 5va, @thomson:1988alexander, p. 23].
 
 *Super Mulierem fortem* includes cross-references to Alexander's *Laus beatissime uirginis*^['Dulcissima est historialis intelligentie ueritas. quam expositione luculenta declarauimus in opere nostro⸵ quod in laudes gloriose dei genitricis feliciter consummauimus.' J, fol. 99vb.] as well as his *Meditatio de Magdalena*.^['Beata autem magdalena cuius laudibus iterato deseruire stilus noster gloriatur'. J, fol. 79ra.] There is
+
+> Fortasse tuo … [Oxford, Jesus College 94, fol. 125ra: quoted in @hunt:1984schools, p. 17; translated in @thorndike:1923history, pp. 2:203–204]
 
 ## Alexander's meditations as a product of Cirencester
 

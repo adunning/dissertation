@@ -28,7 +28,7 @@ Alexander Neckam
 : Commentary on the Athanasian Creed (Oxford, Bodleian Library, Bodley 284 (*SC* 2339), a later manuscript)
 : *De laudibus diuinae sapientiae* (Leland)
 : *De naturis rerum*/Commentary on Ecclesiastes (Oxford, Magdalene College, 139; identified with Cirencester by Michael Gullick in the forthcoming library catalogue by Ralph Hannah, confirmed independently)
-: Gloss on the Psalms (two copies: Oxford, Bodleian Library, Bodley 284 (*SC* 2339); Oxford, Jesus College, 94; Leland)
+: Gloss on the Psalter (two copies: Oxford, Bodleian Library, Bodley 284 (*SC* 2339); Oxford, Jesus College, 94; Leland)
 : *Laus beatissime uirginis*/Commentary on the Song of Songs (Leland)
 : Sermons on the Nativity of the Blessed Virgin Mary (Oxford, Jesus College, 94)
 : *Speculum speculationum* (Leland; London, British Library, Royal 7 F.i)

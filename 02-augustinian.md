@@ -1,12 +1,12 @@
 # The Unity of Alexander's Career and His Literary Works
 
-One of the most difficult problems of the history of the twelfth and thirteenth centuries is understanding the relationship between the educational institutions associated with scholasticism and monastic establishments. It was commonplace until recently to assume that one could make a clean division between the two, encouraged in some cases by medieval writers themselves, such as Serlo of Wilton's famous poem 'Linquo coax ranis', condemning the conceit of scholastic philosophers [@öberg:1965serlon, no. 78]. It has never been disputed that monastics were keenly interested in recruiting from the schools, as vividly shown in the preaching of Bernard of Clairvaux [@ferruolo:1985origins, p. 47]. But even where religious communities existed in close proximity to the schools in the twelfth century, it is often assumed that they wanted nothing to do with one another. More recent scholarship is increasingly showing that monastics were keenly interested in both reading the latest work from the schools and contributing to it. These assumptions have governed the twentieth-century scholarship on Alexander Neckam, and have entirely shaped the understanding of what he wrote.
+One of the most difficult problems of the history of the twelfth and thirteenth centuries is understanding the relationship between the educational institutions associated with scholasticism and monastic establishments. It was commonplace until recently to assume that one could make a clean division between the two. This view is encouraged in some ways by medieval writers themselves, as in Serlo of Wilton's famous poem, 'Linquo coax ranis', condemning the conceit of scholastic philosophers [@öberg:1965serlon, no. 78]. It has never been disputed that monastics were keenly interested in recruiting from the schools, as vividly shown in the preaching of Bernard of Clairvaux [@ferruolo:1985origins, p. 47]. But even where religious communities existed in close proximity to the schools in the twelfth century, it is often assumed that they wanted nothing to do with one another. These assumptions have governed the twentieth-century scholarship on Alexander Neckam, and have shaped the interpretation of what he wrote.
 
-Closer examination of Alexander's career shows that, contrary to past assumptions, one cannot make a clean division between his scholastic and monastic work. It is usually thought that Alexander joined the Augustinians when he moved to Cirencester, but there is no hard evidence for this. The available documentation fits much better if it is instead assumed that he first became a regular canon at St Frideswide's in Oxford. This allows more of his writing to have taken place at Oxford, providing a less precise but more realistic chronology for his works. While it is usually assumed that the Augustinians had little influence in the development of the University of Oxford, the idea that one of its earliest known lecturers was also a canon prompts a reconsideration of this history.
+More recent scholarship is increasingly showing that monastics were keenly interested in both reading the latest work from the schools and contributing to it. Closer examination of Alexander's career shows that one cannot separate his scholastic and monastic work. It is usually thought that Alexander joined the Augustinians when he moved to Cirencester, but there is no hard evidence for this. The available documentation fits better if it is instead assumed that he first became a regular canon at St Frideswide's Abbey in Oxford. This allows more of his writing to have taken place before he moved to Cirencester, providing a less precise but more realistic chronology for his works. While it is often argued that the Augustinians had little influence in the development of the University of Oxford, the idea that one of its earliest known lecturers was also a canon prompts a reconsideration of this history.
 
 ## Dating Alexander's writings by genre
 
-There are only a handful of absolute chronological indicators in Alexander's writings, meaning that one use these in combination with the cross-references between the works to determine the period in which they were written. R.W. Hunt was the first critic to assess all of Alexander Neckam's works, and in his book *The Schools and the Cloister* he struck upon what seems to modern readers an obvious distinction between the works: many of his works are clearly designed for teaching purposes, whereas others exhibit a highly discursive style that is typically associated with monastic writers. He presents the following 'approximate chronological groups' for dating Alexander's works [@hunt:1984schools, pp. 125-126]:
+There are only a handful of absolute chronological indicators in Alexander's writings, meaning that one must use these in combination with cross-references between his works to determine the period in which they were written. R.W. Hunt was the first critic to assess all of Alexander Neckam's works, and in his book *The Schools and the Cloister* he struck upon what seems to modern readers an obvious distinction between the works: many of his works are clearly designed for teaching purposes, whereas others exhibit a highly discursive style that is typically associated with monastic writers. He presents the following 'approximate chronological groups' for dating Alexander's works [@hunt:1984schools, pp. 125-126]:
 
 i. Early Writings, *c.* 1177–*c.* 1190
 
@@ -59,87 +59,136 @@ v. Undated: *De commendatione uini*, hymns, minor verses, *Meditatio de Magdalen
 
 vi. Undated and lost: *De nuptiis Mercurii*, *Epistola ad discipulum*, *Passio sancti Albani*
 
-This scheme neatly sums up Hunt's argument concerning Alexander: that he began as a student in Paris, spent much of his career, from *c.* 1177 to *c.* 1197, as a teacher, and was finally able to retire to Cirencester to focus on writing for around sixteen years of his life, until his career as an author was largely consumed by administrative duties for the last four years of his life as an abbot.
+This scheme neatly sums up Hunt's argument concerning Alexander: that he began as a student in Paris, and spent much of his career (from *c.* 1177 to *c.* 1197) as a teacher. After a complete change in mindset from scholastic to monastic, he was finally able to retire to Cirencester to focus on writing for around sixteen years of his life, until his career as an author was largely consumed by administrative duties for the last four years of his life as an abbot.
 
-This scheme is tidy, and fit with the historiography of the 1930s, but is unrealistic once one considers the sheer bulk of the material being assigned to Cirencester. Worse, as will be shown below, the date of 1197 is based purely on the date for a letter of Peter of Blois congratulating Alexander taking up vows; Alexander may have arrived in Cirencester as late as 1203. For a writer who had supposedly only produced a handful of short works in the prime of his youth. Moreover, the Cirencester cartulary shows that he was heavily involved in the affairs of the abbey even before becoming its abbot. A span that might be as short as ten years is far too little time to produce works of such length and originality as Alexander's commentaries on Ecclesiastes and the Song of Songs, as well as *Speculum speculationum*, not to mention the vast amount of research that *Corrogationes Promethei* would have required.
+This scheme is tidy, but unrealistic once one considers the sheer bulk of the material being assigned to Cirencester, presenting a writer who had supposedly only produced a handful of short works in the prime of his youth but nonetheless became famous for these, and suddenly flourished after never having written a fully original long-form work. Further, the date of 1197 is based purely on a letter of Peter of Blois congratulating Alexander taking up vows; Alexander may have arrived in Cirencester as late as 1203. Moreover, the abbey cartulary shows that he was heavily involved in the affairs of the abbey even before becoming its abbot. A span that might be as short as ten years is far too little time to produce works of such length and originality as Alexander's commentaries on Ecclesiastes and the Song of Songs, as well as *Speculum speculationum*, not to mention the vast amount of research that *Corrogationes Promethei* would have required. The chronology appears to require that he must have started drafting these writing well in advance – but if his later work can indeed be distinguished by its monastic character, he must have become a canon well before 1197.
 
-The gradual publication of Alexander's works has also revealed several major errors in Hunt's chronology.
+Several more corrections can also be made to Hunt's list based on additional references of which he was unaware. None of Alexander's works up to his gloss on the Psalter are securely datable, and are presented as earlier writings due to their lack of cross-references to his other books, and their occasionally derivative character. Omitting Alexander's sermons and minor verses, which were presumably written throughout his life, his life and works can now tentatively be presented as follows:
 
-The key problem with Hunt's argument is the assumption that the work of the schools and the cloisters could mix only to a limited degree – that if Alexander was referring to himself as having joined an abbey, as he does in his gloss on the Psalter [@hunt:1984schools, p. 27] this must mean *a priori* that he had stopped teaching; and that a work such as *De naturis rerum* could only have been produced by a monastic.
+i. Teacher at Dunstable and St Albans, *c.* 1183–*c.* 1190 [@hunt:1984schools, pp. 3–4 presents the evidence for Alexander having arrived at Dunstable in 1183, based on Matthew Paris, and suggests that he was probably at Paris from *c.* 1175–82]
 
-## Alexander's education
+    *c.* 1183+
+    : *De utensilibus* [@hunt:1991teaching, p. 1:178 prints the standard *accessus* to the work, which specifies this title, also used in several manuscripts; its usual form, *De nominibus utensilium*, seems to have been popularized only because it appears in the manuscript used for the first edition, @wright:1857treatise, p. 1:96]
+    : *Nouus Esopus*
+    : *Nouus Auianus* [appears to include some borrowings from *Nouus Esopus*: @klein:1998alexander, p. 105]
 
-- so how does this mesh with what A. would have learned under William de M?
+ii. Teacher at Oxford (and canon at St Frideswide's?), *c.* 1190–*c.* 1195
 
-- note his specific praise of M. in *LSD*
+    *c.* 1190+
+    : *Commentum super Martianum*^[This work is closest in style to Alexander's commentaries on the Athanasian Creed and the Psalter, but may have been written at an earlier date.]
+    : *Expositio simboli Athanasii episcopi* [Manuscripts refer to the author as either 'Magister Alexander Nequam' or 'Magister Alexander de sancto Albano': @hunt:1984schools, pp. 129–130]
+    : *Questiones*^[The sole manuscript, Lambeth, Palace Library, 421, fol. 124va, refers to the author as 'Alexandrum de sancto Albano'.]
+
+    1193+
+    : *Glose super Psalterium* [earliest manuscripts have 'Magister Alexander Nequam' (reference to his abbacy in Jesus College 94 a later addition); refers to the Third Crusade: @hunt:1984schools, pp. 26-27]
+    : *Solatium fidelis anime*^[Appears to refer to the gloss on the Psalter at fol. 26va. This work is placed here because *Laus beatissime uirginis* seems to be the work in which Alexander is most concerned with reflecting on his experience at Oxford: nothing has yet been found that indicates when this work was published, but this may change with an edition.]
+
+iii. Canon of Cirencester, *c.* 1195–1213
+
+    pre-1205
+    : *Laus beatissime uirginis* (commentary on the Song of Songs) [refers to work at Oxford in the past tense: @mcdonough:2004laus shows that these are the same works; reference to *Solatium fidelis anime*, @hunt:1984schools, p. 25]
+    : *Corrogationes Promethei*
+    : *Corrogationes Promethei* versified
+    : *De naturis rerum* (commentary on Ecclesiastes) [@hunt:1984schools, p. 26 notes a story written before the fall of Rouen on 24 June 1204; but @wedge:1967alexander, pp. 99–100 suggests that the book might nonetheless have been completed at a later date; 1.2 refers to *Laus beatissime uirginis*, *Solatium fidelis anime*, and *Corrogationes Promethei*, @wright:1863alexandri, p. 16]
+    : *De commendatione uini* [the structure of *Sol meldunensis* as well as a letter from Peter of Blois found in @revell:1993later, no. 31, suggests that *De commendatione uini* was dedicated to Thomas Carbonel, abbot of Gloucester from 1179 until 1205: discussed in more detail below, chap. 5]
+
+    pre-1213
+    : *Meditatio de Magdalena*
+    : *Tractatus super Mulierem fortem*^[Refers to the *Meditatio de Magdalena* (Oxford, Jesus College 94, fol. 79ra) and *Laus beatissime uirginis* (fol. 99vb).]
+    : *Tractatus super parabolas Salomonis* (incomplete)^[Title refers to Alexander Neckam as canon.]
+    : *Speculum speculationum* (incomplete) [title refers to Alexander as a canon: refers to *Tractatus super Mulierem fortem* at 1.2.10, @thomson:1988alexander, p. 23; @thomson:1988alexander, p. ix gives 1201 as a *terminus post quem*, based on a quotation of a decretal of Innocent III]
+
+iv. Abbot of Cirencester, 1213–17
+
+    1213+
+    : *Corrogationes noui Promethei* [written from the perspective of an abbot: cf. @cropp:1991critical, pp. 43–52]
+    : *Laus sapientie diuine* [refers to the death of William de Montibus in 1213: @hunt:1984schools, p. 27; @rigg:1992history, p. 116 gives date of 1213–15; one manuscript refers to Alexander as a canon, but the text seems to have been finished after his journey to Rome: @wedge:1967alexander, pp. 19–22]
+    : *Sacerdos ad altare* [refers to *Laus sapientie diuine*: @mcdonough:2010alexandri, p. ix]
+
+    1216–17
+    : *Suppletio defectuum* [refers to the death of King John in October 1216: @mcdonough:1999alexander, p. xi]
+
+*Exhortatio ad religiosos* is not a work by Alexander Neckam, but Serlo of Wilton [@öberg:1965serlon, pp. 159–162].
+
+Genre continues to play a role in the reconstruction of this chronology. This is most evident in the the distinction between Alexander's work at Oxford and his earlier writings. *De utensilibus*, *Nouus Esopus*, and *Nouus Auianus* are all designed to teach Latin and poetic style; *Commentum super Martianum*, *Expositio simboli Athanasii episcopi*, and *Glose super Psalterium* appear to support lectures, while *Questiones* is typical of scholastic question-literature. The year of Alexander's move to Cirencester is completely unknown: 1195 is suggested based on a guess that it would have taken around a decade to complete *Laus beatissime uirginis*, the two versions of *Corrogationes Promethei*, *De naturis rerum*, and *De commendatione uini*. The first of these works is likely based on his lectures on the Song of Songs [*Laus beatissime uirginis* 6.24, cited in @hunt:1984schools, p. 8n39], and it is alternatively possible that he substantially drafted the work at Oxford.
+
+It is defensible to argue that Alexander's commentaries on the Wisdom books were the product of his later years, and this is borne out by documentary evidence. The key problem with Hunt's argument is the assumption that the work of the schools and the cloisters could mix only to a limited degree – that if Alexander was referring to himself as having joined an abbey, as he does in his gloss on the Psalter [@hunt:1984schools, p. 27] this must mean that he had stopped teaching. Even Alexander's *Commentum super Martianum* cannot be entirely ruled out as a product of Alexander's time as an Augustinian, since in his commentary on the Song of Songs he refers to the canons' interest in the work [@mcdonough:2006alexander, p. xvi]. The Augustinian order allowed Alexander to apply his scholastic training directly to present knowledge in new ways.
+
+## Alexander's role in Oxford
+
+<!-- what was the line: 'legebam in scola'? Was that GP, or CCant = Hunt p. 8n36? Check Wedge. McDonough Cappella or Suppletio also had a citation that was interesting on Oxford -->
+
+Alexander describes his teaching at Oxford as 'reading publicly in theology' ['puplice legerem in theologia', *Laus beatissime uirginis* 1.4 (Oxford, Magdalene College 149, fol. 5rb): quoted in @hunt:1984schools, p. 8n36]. It is only natural to think that anyone known to have moved to Oxford would have done so primarily for educational purposes. Yet around 1190, this was not necessarily true. At this time, it does not seem to have been the schools that would attract a cleric to Oxford, but its ecclesiastical courts [@southern:1984schools, pp. 16–26]. Reflecting later in life, it is Paris, St Albans, and Cirencester that he names as most intellectually stimulating [*Laus diuine sapientie* 0.0.000, @wright:1863alexandri, p. 000; cited in @wedge:1967alexander, p. 000]. He could likely have found better positions at other schools in the late twelfth century, and it seems just as likely that he went there specifically to investigate and eventually join the Augustinians. Having made a pact with one of his fellow students to become a religious, there would have been no reason to delay until he was over forty ['Militauimus pariter in castris philosophie et condixeramus nos simul ingressuros fore tabernaculum sapientie. Set ecce uitis generosa degenerauit in labruscam et philosophus qui aporismatibus arismetice diutius inuigilauerat fisci ratiociniis detinetur.' *Laus beatissime uirginis* 8.15 (Oxford, Magdalene College 149, fol. 179vb): quoted in @hunt:1984schools, p. 9n41<!--CHECK MS-->].
+
+Although the most straightforward reading of Alexander's work suggests that he was an Augustinian at Oxford, Hunt assumed that he did not become a canon until moving to Cirencester [@hunt:1984schools, pp. 9–12]. This reflects the historiography of the early twentieth century: most of the research on medieval Oxford from the early twentieth century discouraged any notion that religious communities had any interest in being involved in its schools. Herbert Salter conducted particularly extensive research on the Augustinians in Oxford [@salter:1936medieval; @salter:1929cartulary; @salter:1929medieval; @salter:1922chapters; @salter:1919geoffrey], and came to the conclusion that their influence was limited to that of landlords; if anything, he argued, they had a negative effect on the university. The evidence for his view comes mainly from fourteenth- and fifteenth-century sources: the is comparatively little documentation for the Augustinians in the twelfth century, and more recent research has suggested that the canons took a much more active role [@postles:1985learning; @postles:1987patronus; @postles:1993austin; @barron:2002augustinian].
+
+The suggestion that Alexander became a canon in 1197 is based solely on a letter of Peter of Blois, congratulating master Alexander of St Albans on having taken up monastic vows [@hunt:1984schools, pp. 11–12]. He commends Alexander on having given up the 'honorem magisterii' [@giles:1847petri, p. 2:22 (no. 137)]: as monastics did not cease to use the title 'magister', the recipient had apparently ceased to be the magister of a school, which might have been at either St Alban or Oxford. Peter of Blois began to circulate letter collections around 1184, but this epistle occurs in a second recension, traditionally dated *c.* 1197 [as @southern:1984schools, p. 25], but now thought to have been compiled between 1198 and 1205 [@cotts:2009clerical, pp. 281-284 summarizes the debate]. This only circumscribes the latest possible date of its composition, and Peter is known to have added earlier letters to his collections. Peter's phrase 'litteratura siquidem uestra, et famae commendabilioris celeberrimus odor' [@giles:1847petri, p. 2:22 (no. 137)] indicates that Alexander had already produced a substantial body of writing: it is his *De utensilibus*, *Nouus Esopus*, *Nouus Auianus*, and verses that Peter is most likely to have admired. It is also possible that Alexander had already gained a reputation for his work on the Wisdom books – 'manum tuam misisti ad fortia', Peter writes [@giles:1847petri, p. 2:22 (no. 137)], referring to the *mulierem fortem* in Prov. 31:19. This letter shows that Alexander became a canon in the midst of his teaching and writing career, but does not indicate where or when this occurred.
+<!-- check [@taliadoros:2011communities] -->
+
+The only other known evidence for the date of Alexander's conversion is found in papal letters. Pope Celestine III names 'magister Alexander de Sancto Albano' as a papal judge-delegate on 23 January 1195 [@holtzmann:1930papsturkunden, p. 1:619 (no. 320)]. Innocent III names him 'magister Alexander de Sancto Albano, canonicus Cirecesterie', on 8 May 1203 [@madox:1702formulare, pp. 25–26 (no. 45); @cheney:1967letters, p. 77 (no. 471); cf. @sayers:1971papal, p. 121; cited in @hunt:1984schools, p. 11]. Hunt argues that this indicates Alexander must have become a canon in the intervening period. This assumes too much consistency on the part of the papal administration; the Cirencester cartulary itself freely refers to 'magister Alexander' or 'Alexander abbas'. Indeed, if one notes that the letter of Celestine III concerns Llanthony Priory, an Augustinian foundation, it might equally be taken as evidence that Alexander was already involved in the order at this time.
+
+The problem of Alexander's role in Oxford is compounded by a lack of evidence for when he arrived there. The cartularies for the Augustinian abbeys in Oxford provide very slender documentation for this period; it is not even possible to determine the dates of its priors in the late twelfth century [@knowles:2001heads, pp. 1:180, 1:284]. Rigg points out that Alexander shares a story of a barnacle goose with Gerald of Wales' *Topographia hibernica*, and that he might thus have been present at Oxford by 1188 to hear Gerald's recitation of the work [@rigg:1992history, p. 177]. The earliest datable record for Alexander's time at Oxford is an Ascension Day sermon given between 1191 and 1193 [@salter:1936medieval, p. 37; @southern:1984schools, p. 22<!-- check S: any reason for 1193, or is it a typo?-->]. It was evidently customary on this occasion for the people of Oxford to make gifts to the church. The need was particularly urgent at this time, as St Frideswide's had burned in a fire of 1190 along with a large part of the town, as reported by the annals of Oseney Abbey [@luard:1864annales, p. 4:43], and later a papal letter was required to support the rebuilding campaign.<!-- ref: Southern? Wedge? --> Alexander exhorts the people of Oxford to restore the church:
+
+> Doleo uiri fratres quod *locus iste*^[Exod. 3.5] ecclesie sancte Frideswide. terribilis est modo et horribilis propter ruinam murorum. Quare non cogitatis o laici. quia ad litteram dictum est. *Domine dilexi decorem domus tue.*^[Ps. 25.8] Quare igitur non diligitis decorem domus domini? [Sermo in die ascencionis Christi (no. 98), Oxford, Bodleian Library, Wood empt. 13, fol. 93v: cited in @halsey:198812thcentury, 134; @salter:1936medieval, p. 37; @hunt:1984schools, p. 7]
+>
+> I grieve, brothers, that 'this place' of the church of St Frideswide is terrible now and horrible because of the ruin of its walls. Why do you not consider, you laymen, that it is literally said, 'Lord, I have loved the beauty of your house'? Why therefore do you not love the beauty of the house of the Lord?
+
+Here, Alexander first addresses the canons of St Frideswide as an equal, followed by the laity; this also occurs elsewhere in his sermons [@hunt:1984schools, pp. 89, 92–93]. He uses the phrase 'uiri fratres' constantly to address his audience in some of his sermons and especially his meditatative commentaries, usually assumed to refer to his fellow canons. He appears to have borrowed the phrase from the Acts of the Apostles (1:16, 2:29, 2:37, etc.); it occasionally appears elsewhere, as in the letters of Alcuin, but no other medieval author is so fond of it as a catchphrase. This strongly suggests that Alexander was himself a canon of St Frideswide's by this time.
+
+On another occasion, Alexander was once again obliged to berate the people of Oxford for their miserliness. This sermon provides insight into the town's self-perception as a learned centre, with Alexnder quoting both biblical and classical passages:
+
+> *Cum appropinquasset Ihesus Ierosolimam uidens ciuitatem fleuit super illam. dicens. si cognouisses et tu.*^[Luke 19:41–42]<!-- something above line --> Ciues Oxonie uiri dulcissime conuersacionis ad longe maiorem morum honestorum obseruanciam tenemini⸵ quam ceteri ciues regionis istius. Maximum enim temporis spacium euolutum est. ex quo iugiter habuistis uiros literatissimos qui uos diligenter informarent. et pane iocunde refeccionis spiritualiter sepius refic⟨er⟩ent. Fuistis tanquam aree ortorum irriguis aquarum ductibus sepius irrigate.^[Cf. Deut. 11:10] Non potestis pretendere excusacionem quam multi pretendere possunt. *Paruuli pecierunt panem et non erat qui frangeret eis.*^[Lam. 4:4] Fuerunt siquidem multi qui uobis panem sacre scripture fregerunt. Sicut ergo Ihesus in fractione panis agnitus est. ita et Cristiani in fractione panis agnosci possunt⸵ tempore ingruente neccessitatis. pauperes Cristi semper habetis uobiscum. Videte ut eis panem uestrum comminuatis. si deberetis transitum facere per siluam in qua latrarent uispiliones non nullam partem pecunie uestre conferretis uiro alicui qui merces uestras deferret ad locum munitum et tutum. Tunc ergo et uos eligite locum. regnum scilicet celorum. pauperibus tradite aliquam porcionem substancie uestre. certe fideles sunt tales depsitarii. Adeo ut hic locum habeat illud poeticum. 'quas dederis solas⸵ semper habebis opes.'^[Martial, *Epigrammata* 5.42.8] In decimacionibus uestris nimis neglig[lig]entes estis. Adeo ut in uobis locum habeat quod dominus in ewangelio Matthei. *Decimatis mentam et anetum. et ciminum.*^[Matt. 23:23] set maiora non uultis decimare. dicentes. *Sudore uultus nostri*^[Gen. 3:19] hec et hec adquisiuimus. nostra sunt ista. non debemus cogi decimare ista. set quero a uobis. quid detulistis in mundum? … [fol. 75v] Viri fratres nos sumus ciuitas super quam et propter quam fleuit dominus. nos monens ad simile et dicens. si cognouisses o Ierosolimam. et hoc est etiam tu fleres. sicut ego fleo. [Sermo in dominica xª post festum Trinitatis (no. 26), Oxford, Bodleian Library, Wood empt. 13, fol. 74r: cited in @hunt:1984schools, pp. 87–88]
+
+Once again, in the context of Alexander's other sermons, the phrase 'uiri fratres' can be understood as his method of catching the attention of different parts of his audience. If Alexander became a thorn in Oxford's side, perhaps this explains in part why he would have wanted to move to Cirencester.
+
+Alexander may not have become a canon in Oxford immediately. Two sermons also show him addressing monks in a highly complementary manner, and as an outsider. In the first of these (not necessarily earlier in chronology), he frames himself as a *scholaris*:
+
+> *Que est ista que ascendit de deserto deliciis affluens innixa super dilectum suum?*^[Song 8:5] Spicas licet legere post manus messorum Booz. et mel cum summitatte uirge Ionathe degustare. Summo tamen opere caudendum est ne bos uel asinus in puteum cadat. Claudendum est ergo os putei et obturandum. Bestia enim que montem tetigerit⸵ lapidabitur. Set quid? Inperfeccionem status mei. et statum inperfeccionis mee mecum reuoluens⸵ perturbor quociens uiris claustralibus quorum *conuersacio iam in celis est*^[Phil. 3:20] uerbum predicacionis propono. Viri enim religiosi operibus predicant. set nos scolares⸵ uerbo. Illorum predicacio realis est. set nostra uocalis. Illi obseruant illud poeticum. Res age tutus eris.^[Ovid, *Remedia Amoris* 144] Felissimus autem est qui fideliter uestigia illius sequitur de quo scriptum est. *Cepit Ihesus facere et docere.*^[Acts 1:1] Porro deest michi ciphus Ioseph argenteus. quo augurari consueuerat. [Sermo in assumptione beate Marie (no. 16), Oxford, Bodleian Library, Wood empt. 13, fol. 53r: quoted in part in @hunt:1984schools, p. 87]
+
+This sermon includes many of Alexander's favourite topics in praise of holy women, and its description of his consideration of the monastic life might almost suggest that it was given on the occasion of his conversion. The second sermon includes many of the same sentiments, but does not indicate Alexander's own state:
+
+> *Ego sum pastor bonus bonus pastor animam suam dat^[s. *MS*] pro ouibus suis.*^[John 10:11] *Inperfectum meum uiderunt oculi tui.*^[Ps. 138:16; tui *substituted for* m. *MS*] Statum ergo inperfectionis mee et inperfectionem status mei recolligens uiris religiosis quorum *conuersacio in celis est*^[Phil. 3:20] qui cum Iocob lapidem capitibus supposuerunt predicare reformido. Vere enim predicant illi quorum opera pro ipsis predicant. immo qui operibus predicant. Maius est enim predicare opere quam sermone. Verborum tamen predicatio non solet desides excitat set et diligentes. [Dominica .i. post octauam pasche sermo (no. 30), Oxford, Bodleian Library, Wood empt. 13, fol. 86r: cited in @hunt:1984schools, p. 87]
+
+While Hunt believed that most of Alexander's sermons dated to his time at Oxford [@hunt:1984schools, p. 84], there is no particular reason why this must be so, and the latter of these sermons might equally have been given during his time at St Albans or even Paris.
+
+While the matter cannot be absolutely resolved, the evidence suggests that Alexander became a canon earlier than Hunt's date of 1197, most likely at Oxford. Further, the first mention of him in the Cirencester cartulary *c*. 1200–1203 presents him as one of the primary advisors to the abbot, a position that unlikely to be given to a novice [@ross:1964cartulary, pp. 1:295–96 (no. 327); @cheney:1986canterburya, pp. 77–78 (no. 410) explains the dating]. Certainly, as his writings show, he had already begun to align himself with 'uiris claustralibus' while continuing to participate in the life of the schools.
+
+## The intellectual culture of St Frideswide's
+
+Oxford might have been one of the most exciting places in England to be an Augustinian in the late twelfth century, with the priory of St Frideswide's, re-established in 1122; Oseney Abbey, founded 1129 [@postles:1987patronus]; and St George's, absorbed by Oseney *c.* 1149 [@smith:1980lincoln, p. 130 (no. 208); @barron:2002augustinian], in additions to the foundations elsewhere in Oxfordshire at Bicester, Cold Norton, Dorchester, and Wroxton. William of Malmesbury writes that Guimund, its first Augustinian prior from 1122 to *c.* 1139 [@knowles:2001heads, p. 1:180], transformed St Frideswide's from a small collection of clerics 'qui pro libito uiuerent' ('who were living as they pleased') into a house of regular canons [@winterbottom:2007william, 4.178.4]. While Ralph, the first prior of Oseney, had come from St Frideswide's [@knowles:2001heads, p. 1:179; @postles:1985learning, p. 33], the Augustinians in Oxford did not always cooperate. The cartulary and annals of Oseney Abbey report a dispute with St Frideswide's over the investiture of the church of St Mary Magdalene in 1147–51, 1173–76, and 1200, requiring papal intervention on each occasion; the church had been part of St George's, and the canons of St Frideswide had grounds to question whether this remained the case following its absorption after Roger of Salisbury declared that he had given the church to St Frideswide's [@salter:1929cartulary, pp. 2:214–234 (nos. 780–794); @luard:1864annales, pp. 4:25–27, 4:37–38, 4:50; @cheney:1967letters, p. 45 (no. 276); @barron:2002augustinian, p. 238]. While their precise activities remain uncertain, they were deeply involved in the town's affairs.
+
+The obvious model for Alexander at Oxford is Robert of Cricklade. Robert became an Augustinian canon at Cirencester (13 km north-west of Cricklade), witnessing a charter between 1136 and 1139 as 'magistro Roberto de Krickel’' [@ross:1964cartulary, p. 2:337 (no. 372/423)]. Robert wrote his *De connubio patriarche Iacob* at Cirencester between 1135 and 1140, and his autograph<!-- correct? check cat--> copy (now Hereford, Cathedral Library, P.iv.8) remained in the abbey library. In the preface, addressed to Lawrence of Westminster, he looks back at a career that sounds similar to that of Alexander: 'Dum adhuc scolaris scolarum insisterem regimini, libellum quem composueram, sed estimo id memoria excidisse tua, tibi transmitti rogasti' ('While still a scholar, devoted to the guidance of the schools, you asked me to send you a little book that I had composed, though I suppose it had escaped your memory') [Oxford, Balliol College, MS 167, fol. 177r: quoted in @burrows:1890collectanea, p. 161<!--something may be wrong here, according to Balliol catalogue; check other MSS-->; translated in @leach:1911educational, pp. 102–103]. In the same work, he also praises William of Malmesbury's *Defloratio Gregorii*, *De miraculis beatae uirginis Mariae*, and *Commentary on Lamentations*: he liked these works so well that he had copies made for Cirencester [@hunt:1936english, pp. 31–32; @thomson:2003william, p. 74 dates this to March 1137, though the rationale for this is unclear; cf. @winterbottom:2011willelmi, p. x]. He held Cirencester in enough esteem that he gave his lands in Cricklade to the abbey, 'in qua habitum canonici suscepi', while he was prior of St Frideswide's [@ross:1964cartulary, p. 2:418 (no. 473/729)], a position he gained in 1138 or 1139 [@knowles:2001heads, pp. 1:180, 1:284].<!-- check reference to EEA: 1141? --> This was a period of transition for the Oxford Augustinians: Master Wigod also became prior of Oseney in 1138 [@knowles:2001heads, pp. 1:179]. The date of Robert's death is unknown. 'Vir erat antiquus', writes Gerald of Wales in *De principis instructione* [@warner:1891principis, pp. xi, 65]. His last certain occurrence is in 1174 [cited in @knowles:2001heads, p. 1:180; @emden:1957biographical, pp. 1:513–14]. He was presumably dead before 1180, as he is not present in the recounting of the translation of Frideswide on 12 February 1180 written by his successor, Philip, who describes himself as prior [Oxford, Bodleian Library, MS Digby 177, fol. 1v<!-- check -->: edited in @blair:1987saint, p. 118]. It is unlikely that Alexander knew Robert in person, but he probably read his books at St Frideswide's and later Cirencester, and Robert's high opinion for Cirencester must have helped to maintain a close alliance between the houses, probably influencing the decision to move Alexander there.
+
+Robert's approach to writing is remarkably similar to Alexander's, seeking to take old material and present it in new ways for a modern audience [for manuscripts of unpublished works, see @sharpe:1997handlist, pp. 532-533]. *De connubio patriarche Iacob* is an allegorical interpretation of the story of Jacob [described<!--?--> in @vanhouts:2006femmes, p. 000], which he later describes as dealing with the conflict of the virtues against the vices, alongside contemplation.^[*Speculum fidei*, Cambridge, Corpus Christi College, MS 380, fol. 132v.] His *Homiliae super Ezechielem* also focus on allegory (in which he disagrees with the interpretations of Richard of St Victor). *Speculum fidei* is dedicated to Robert de Beaumont, the second<!--?--> earl of Leicester, whom he addresses throughout the work, aiming to set out a summary of Christianity based on the evidence of the Old and New Testaments, with the interpretation of the church fathers.^[Prologue: Cambridge, Corpus Christi College, MS 380, fol. 2r.] It is best known for condemning Peter Lombard a 'hereticum' based on his Christology, in a passage that suggests Robert was educated at Paris [@hunt:1936english, pp. 32–33, with the text of fols 62r–63r at 37–38]. At Oxford, he wrote *Defloratio naturalis historie Plinii secundi*, seeking to rationalize Pliny's work in terms that might have inspired *De naturis rerum*:
+
+> Studiosis et precipue claustralibus et scolasticis Rodbertus Crikeladensis prior Oxinefordie non superbe sapere, sed tramitem discipline humiliter percurrere. Plinii secundi libros de naturali historia XXXVII in IX coartare uolumina conatus sum ad communem omnium ea legere uolentium utilitatem, hac usus breuitate, ut uobis satisfaciam et fastidiosis causam ocitandi tolla. placuit enim memorabiliora et utiliora conscibere, superfluis uero et nostro tempori non necessariis supersedere. quid enim prodest singularum urbium aut uiculorum siue etiam locorum nomina percurrere, cum non uiculorum siue etiam locorum nomina percurrere, cum non liceat inde tributa exigere? [@näf:2002roberti, pp. 2–3; also cited in @burrows:1890collectanea, p. 161]
+
+Robert also wrote hagiography: his *Vita et miracula Sancta Thomae Cantuariensis* is lost, but was the foundation for a rendition in Old Norse [@orme:1966reconstruction].
+
+Robert's life of abbess Frithuswith or St Frideswide seems to be particularly reflective of the abbey's approach. Frideswide is shown as a precocious child in two twelfth-century lives [both passages are translated in @blair:1987saint, pp. 74-75]. In 'Life A', from *c.* 1100–30, she learns the Psalter in six months [Life A §3: @blair:1987saint, p. 96: seven months in Oxford, Balliol College, 228; @blair:2004frithuswith, p. 32]; 'Life B', an expanded version dated to *c.* 1140–70 and attributed to Robert of Cricklade, reduces this to five months and emphasizes the extent of the improvement this wrought on her character, reflecting the highest medieval ideals for learning [Life B §3: @blair:1987saint, p. 103; on the attribution to Robert, see @blair:1987saint, p. 80]. Indeed, Robert explicitly elevates Frideswide beyond the capacities of any child: 'Stupet Anglia, mirantur uniuersi, infirmum cernentes sexum in etate tenera robur excessisse uirile' ('England was agog; all marvelled to see the frail sex at so young an age surpassing masculine strength') [Life B §4: @blair:1987saint, p. 104 (translation from comparison with Life A, 75)].
+
+Philip, Robert's sucessor, continued to promote the cult [his work is described in @yarrow:2006saints, pp. 177–188]. In the priory seal from *c.* 1190 [as @blair:2004frithuswith; 'mid to late 1180s' according to @heslop:1988late, pp. 271–272], she holds a set of wax tablets in her left hand, and a fleur-de-lis in her right [reproduced from four Oxford charters in @wigram:1895cartulary, p. 1:ii; composite drawing from London, BL Seal Cast LXX.79 in @heslop:1988late, p. 272; @clark:1889survey, p. 2:159 described this as a 'picture of a doctor with a kind of cope']. This connects her equally with the typical female personifications of the liberal arts and the church, as much as with ecclesiastical administration [@heslop:1988late, p. 271–272]. Combined with Alexander's love for his mother, Hoderna [@hunt:1984schools, pp. 1–2], this might have contribued to his enthusiasm for studying the women of the Bible.
+
+![Seal of St Frideswide's, *c*. 1190 (✠ SIGILLVM: ECCLESIE SANCTE FRIDESWIDE OXENEFORDIE:) from Merton College charter no. 582, Magdalen College charter no. 352, and Bodleian Library charter no. 592, reproduced from Wigram.](figures/frideswide-seal.png)
+
+For Alexander, who wished to take up religious vows but also had a deeply practical bent, visible in works such as *De utensilibus*, the Augustinians were an ideal match, allowing him to continue teaching while pursuing a purer existance:
+
+> Vita claustralium media est inter uitam scolarium et uitam triumphantium. Dormi igitur *inter medios cleros* (Ps. 67.14), hoc est in medio sortium. Est enim quedam sors gratie honestas uite scolarium, sors ultima est delitiosa iocunditas uite triumphantium, media tranquillitas claustralium. [*Laus beatissime uirginis* 2.16 (Oxford, Magdalen College, 149, fol. 79rb): cited by @hunt:1984schools, p. 9n43]<!--CHECK-->
+>
+> The life of the cloistered is in between the life of scholars and the life of the triumphant. I slept therefore 'in the midst of the lots', that is in the midst of fates. For one fate of grace is the honour of the life of scholars; the final fate is the delicious joy of the life of the triumphant; in the middle is the tranquillity of the cloistered.
+
+Robert of Cricklade was proud not to refer to himself as a monk: 'Non enim inuideo monachis scribentibus, sed congaudeo, licet non sim monachus, sed indignissimus canonicorum ecclesie sancte dei genitricis Marie' ('I am not jealous of writing monks, but I rejoice with them, although I am not a monk, but the most unworthy of the canons of the church of St Mary, the mother of God') [*De connubio Iacob* 2.22, quoted in @hunt:1936english, p. 31].
 
 
 
-## Alexander at St Frideswide's, Oxford
 
 
 
-Herbert Salter conducted extensive research on the Augustinians in Oxford [@salter:1936medieval; @salter:1929cartulary; @salter:1929medieval; @salter:1922chapters; @salter:1919geoffrey], and came to the conclusion that their influence was limited to that of landlords, and that if anything they had a negative effect on the university. The evidence for his view comes mainly from fourteenth- and fifteenth-century sources: the is comparatively little documentation for the Augustinians in the twelfth century, but what exists suggests that they might have had a significant role in supporting the early schools of Oxford.
-
-
-After his education at Paris, Alexander began teaching at Dunstable by 1183 [@hunt:1984schools, p. 4], later moving to St Albans, and continuing his teaching at Oxford. Hunt assumed that Alexander came to Oxford to teach, and only became an Augustinian when he moved to Cirencester. He could likely have found better positions at other schools than Oxford in the late twelfth century, and it seems just as likely that he came there specifically to join the Augustinians.
-
-He established a relationship with the Augustinian priory of St Frideswide's: the earliest datable record of his time at Oxford is an Ascension Day sermon given between 1191 and 1193 [@salter:1936medieval, p. 37; @southern:1984schools, p. 22<!-- check S: any reason for 1193, or is it a typo?-->], on which it was evidently customary for the people of Oxford to make gifts to the church. He exhorts the people to restore the church, after it burned in a fire of 1190 along with a large part of the town, as reported by the annals of Oseney Abbey [@luard:1864annales, p. 4:43]:
-
-> Doleo uiri fratres quod locus iste ecclesie sancte frideswide. terribilis est modo et horribilis propter ruinam murorum. Quare non cogitatis o laici.
-quia ad litteram dictum est. Domine dilexi decorem domus tue. Quare igitur non
-diligitis decorem domus domini? ['Sermo in die ascencionis Christi', Oxford, Bodleian Library, Wood empt. 13, fol. 93v): cited in @halsey:198812thcentury, 134; @salter:1936medieval, p. 37; @hunt:1984schools, p. 7]
-
-> I grieve, brothers, that 'this place' [Exod. 3.5] of the church of St Frideswide is terrible now and horrible because of the ruin of its walls. Why do you not consider, you laymen, that it is literally said, 'Lord, I have loved the beauty of your house' [Ps. 25.8]? Why therefore do you not love the beauty of the house of the Lord?
-
-Alexander uses the phrase 'uiri fratres' constantly when addressing his audience in sermons and his meditative commentaries, a phrase he appears to have borrowed up from the Acts of the Apostles (1.16, 2.29, 2.37, and elsewhere); it occasionally appears elsewhere, as in the letters of Alcuin, but no other medieval author is so fond of it as a catchphrase. The phrase suggests that Alexander himself was an Augustinian by this time.
-
-While the most straightforward reading of Alexander's work hints that he was an Augustinian at Oxford, Hunt argued that he did not become a canon until moving to Cirencester [@hunt:1984schools, pp. 9–12]. This is primarily founded on papal letters: one of Pope Celestine III dated 23 January 1195 names him 'master Alexander of St Albans'; while an epistle from Innocent III of 8 May 1203 names him 'master Alexander of St Albans, canon of Cirencester' [@cheney:1967letters, p. 77 (no. 471); cf. @sayers:1971papal, p. 121; cited in @hunt:1984schools, p. 11]. This assumes too much consistency on the part of the papal administration; and Hunt was writing before the publication of the Cirencester cartulary [@ross:1964cartulary], which rarely makes distinctions when referring to canons, and always refers to Alexander as 'magister Alexander' or 'Alexander abbas'.
-
-A letter of Peter of Blois to 'master Alexander of St Albans', congratulating him on having taken up monastic vows, is equally ambiguous in its dating of Alexander's joining of the Augustinians. He commends Alexander on having given up the 'honorem magisterii' [@giles:1847petri, p. 2:22 (no. 137)], confirming that Alexander had left a dedicated teaching career to become a canon. Hunt argues that the letter is a later composition, focusing on the reference to Cicero's *De amicitia* [@hunt:1984schools, p. 11], which recalls the late work by Peter with the same name. Peter of Blois began to circulate letter collections around 1184, but this letter occurs in a a later recension. Southern dates the letter to 1197 [as @southern:1984schools, p. 25], though the recension it is now thought to have been compiled between 1198 and 1205 [@cotts:2009clerical, pp. 281-284 summarizes the debate]. This only circumscribes the latest possible date of its composition. Peter's phrase 'litteratura siquidem uestra, et famae commendabilioris celeberrimus odor' [@giles:1847petri, p. 2:22 (no. 137)] only confirms that Alexander began to write early in his career.
-<!-- check [@taliadoros:2011communities; @wahlgren:1993letter] -->
-
-While the matter cannot be absolutely resolved, the evidence from Alexander himself is most convincing for an earlier date of joining the Augustinians. If he had indeeed resolved to join a religious order at an early age, it would be strange to wait until he was over forty years of age to act on this. One also wonders whether an inexperienced (if famous) canon would have been immediately appointed to act as one of the primary advisors to the abbot of Cirencester, as he is found *c*. 1200–5 [@ross:1964cartulary, pp. 1:295–96 (no. 327)]. If he was not already an Augustinian when he gave the Ascension Day sermon in the early 1190s, he had aligned himself closely with their approach.
-<!-- do Hoch? Cropp? have anything to say on the above? -->
-
-### The intellectual culture of St Frideswide's
-
-The Augustinians were one of the most exciting orders in Oxford at this time, with more foundations near the schools than any other order, all of them recently established: the priory of St Frideswide's, re-established in 1122; Oseney Abbey, founded 1129 [@postles:1987patronus]; and St George's, absorbed by Oseney *c*. 1149 [@smith:1980lincoln, p. 130 (no. 208); @barron:2002augustinian]. William of Malmesbury writes that Guimund, its first Augustinian prior, transformed St Frideswide's from a small collection of clerics 'qui pro libito uiuerent' ('who were living as they pleased') into a house of regular canons [@winterbottom:2007william, 4.178.4]. While Ralph, the first prior of Oseney, had come from St Frideswide's [@knowles:2001heads, p. 1:179; @postles:1985learning, p. 33], the Augustinians in Oxford did not always cooperate. The cartulary and annals of Oseney Abbey report a dispute with St Frideswide's over the investiture of the church of St Mary Magdalene in 1147–51, 1173–76, and 1200, requiring papal intervention on each occasion; the church had been part of St George's, and the canons of St Frideswide had grounds to question whether this remained the case after its absorption after Roger of Salisbury declared that he had given the church to St Frideswide's [@salter:1929cartulary, pp. 2:214–234 (nos. 780–794); @luard:1864annales, pp. 4:25–27, 4:37–38, 4:50; @cheney:1967letters, p. 45 (no. 276); @barron:2002augustinian, p. 238].<!--...--> The precise role of the Augustinians remains unclear, but after a long tradition of deprecatory scholarship, their role in the early Oxford schools is gradually becoming apparent [@postles:1985learning].
-
-For Alexander Neckam, the opportunity to both take up vows while continuing his teaching must have been irresistible.
-
-> Vita claustralium media est inter uitam scolarium et uitam triumphantium. Dormi igitur *inter medios cleros* (Ps. 67.14), hoc est in medio sortium. Est enim quedam sors gratie honestas uite scolarium, sors ultima est delitiosa iocunditas uite triumphantium, media tranquillitas claustralium. [*Commentary on the Song of Songs* 2.16 (M, fol. 79rb): cited by @hunt:1984schools, p. 9n43]<!--CHECK-->
-
-He had, indeed, long desired to take up monastic vows, as he tells in his commentary on the Song of Songs, and made a pact with a friend who did not follow him:
-
-> Militauimus pariter in castris philosophie et condixeramus nos simul ingressuros fore tabernaculum sapientie. Sed ecce uitis generosa degenerauit in labruscam et philosophus qui aporismatibus arismetice diutius inuigilauerat fisci ratiociniis detinetur. [*CCant.* 8.15 (Oxford, Magdalene College 149, fol. 179vb): quoted in @hunt:1984schools, p. 9n41]<!--CHECK-->
-
-There <!-- finish -->
 
 - quotations on A's time as a lecturer: [@southern:1984schools, p. 23]
   - who was his audience? J 32r
   - Balliol 39, 9r?
   - Balliol 40, 116v
-
-
-- what do we know about St Frideswide's, A's home?
-
-### The influence of Robert of Cricklade
-
-The obvious model for Alexander at Oxford is Robert of Cricklade. Robert became an Augustinian canon at Cirencester (13 km north-west of Cricklade), witnessing a charter between 1136 and 1139 as 'magistro Roberto de Krickel’' [@ross:1964cartulary, p. 2:337 (no. 372/423)], indicating that he had some formal education. At Cirencester around 1135–40, Robert wrote his *De connubio patriarche Iacob*, and his autograph<!-- correct? check cat--> copy (now Hereford, Cathedral Library, P.iv.8) remained in the abbey library. In the preface, he writes to Lawrence of Westminster, 'dum adhuc scolaris scolarum insisterem regimini' [Oxford, Balliol College, MS 167, fol. 177r: quoted in @burrows:1890collectanea, p. 161<!--something may be wrong here; check other MSS: see Balliol catalogue-->; translated in @leach:1911educational, pp. 102–103]: evidently, he started his career in the schools, in a similar way to Alexander. In the same work, he also praises William of Malmesbury's *Defloratio Gregorii*, *De miraculis beatae uirginis Mariae*, and *Commentary on Lamentations*, which he liked so well that he had copies made for Cirencester [@hunt:1936english, pp. 31–32; @thomson:2003william, p. 74 dates this to March 1137, though the rationale for this is unclear; cf. @winterbottom:2011willelmi, p. 000]. He held Cirencester in enough esteem that he gave his lands in Cricklade to the abbey, 'in qua habitum canonici suscepi', while he was prior of St Frideswide's [@ross:1964cartulary, p. 2:418 (no. 473/729)], a position he gained in 1138 or 1139 [@knowles:2001heads, pp. 1:180, 1:284].<!-- check reference to EEA: 1141? --> This was a time of transition for the Oxford Augustinians: Master Wigod also became prior of Oseney in 1138 [@knowles:2001heads, pp. 1:179]. 'Vir erat antiquus', writes Gerald of Wales in *De principis instructione* [@warner:1891principis, pp. xi, 65], but the date of his death is not known: his last certain occurrence is in 1174 [cited in @knowles:2001heads, p. 1:180; @emden:1957biographical, pp. 1:513–14]. He was presumably dead before 1180, as he is not present in the recounting of the translation of Frideswide on 12 February 1180 written by his successor, Philip, who describes himself as prior [Oxford, Bodleian Library, MS Digby 177, fol. 1v<!-- check -->: edited in @blair:1987saint, p. 118].
-
-It is unlikely that Alexander knew Robert in person;
-
-- Robert de: what did he write?
-
-- note his real dates, which are not what most people think (edition)
-
-> Studiosis et precipue claustralibus et scolasticis Rodbertus Crikeladensis prior Oxinefordie non superbe sapere, sed tramitem discipline humiliter percurrere. Plinii Secundi libros de Naturali Historia XXXVII in IX coartare uolumina conatus sum ad communem omnium ea legere uolentium utilitatem, hac usus breuitate, ut uobis satisfaciam et fastidiosis causam ocitandi tolla. placuit enim memorabiliora et utiliora conscibere, superfluis uero et nostro tempori non necessariis supersedere. quid enim prodest singularum urbium aut uiculorum siue etiam locorum nomina percurrere, cum non uiculorum siue etiam locorum nomina percurrere, cum non liceat inde tributa exigere? [@näf:2002roberti, pp. 2–3; also cited in @burrows:1890collectanea, p. 161]
-
-![Seal of St Frideswide's, *c*. 1190 (✠ SIGILLVM: ECCLESIE SANCTE FRIDESWIDE OXENEFORDIE:) from Merton College charter no. 582, Magdalen College charter no. 352, and Bodleian Library charter no. 592, reproduced from Wigram.](figures/frideswide-seal.png)
-
-Philip did much to promote the cult of the abbess Frithuswith or St Frideswide [his work is described in @yarrow:2006saints, pp. 177–188], whom the Augutinians presented as a learned figure. In the priory seal from *c.* 1190 [as @blair:2004frithuswith; 'mid to late 1180s' according to @heslop:1988late, pp. 271–272], she holds a set of wax tablets<!--Goering suggests--> or an open book in her left hand, and a fleur-de-lis in her right [reproduced from four Oxford charters in @wigram:1895cartulary, p. 1:ii; composite drawing from London, BL Seal Cast LXX.79 in @heslop:1988late, p. 272; @clark:1889survey, p. 2:159 described this as a 'picture of a doctor with a kind of cope']. This connects her equally with the typical female personifications of the liberal arts and the church, as much as with ecclesiastical administration [@heslop:1988late, p. 271–272]. Frideswide is also shown as a precocious child in two twelfth-century lives [both passages are translated in @blair:1987saint, pp. 74-75]. In 'Life A', from *c.* 1100–30, she learns the Psalter in six months [Life A §3: @blair:1987saint, p. 96: seven months in Oxford, Balliol College, 228; @blair:2004frithuswith, p. 32]; 'Life B', an expanded version dated to *c.* 1140–70 and attributed to Robert of de, Alexander's mentor as the prior of St Frideswide's, reduces this to five months and emphasizes the extent of the improvement this wrought on her character, reflecting the highest medieval ideals for learning [Life B §3: @blair:1987saint, p. 103; on the attribution to Robert, see @blair:1987saint, p. 80]. Indeed, Robert explicitly elevates Frideswide beyond the usual capacities of a woman: 'Stupet Anglia, mirantur uniuersi, infirmum cernentes sexum in etate tenera robur excessisse uirile.' ('England was agog; all marvelled to see the frail sex at so young an age surpassing masculine strength.') [Life B §4: @blair:1987saint, p. 104 (translation from comparison with Life A, 75)].
-
 
 
 - is it normal for an order composed of men with a bent for preaching and learning to have so much devotion to female saints? is it Neckam? the Augustinians in Oxford? or the Augustinians in general across Europe?
@@ -154,7 +203,7 @@ Philip did much to promote the cult of the abbess Frithuswith or St Frideswide [
 - are there any other writers based at Oxford apart from A and R?
 - are there any other Augustinian writers in England at the time?
 
-- Gloss on the Psalms was likely published from Oxford, as the revisions indicate continuing classroom usage, and most copies of the commentary do not integrate these, meaning there needs to have been time for them to circulate: and Cirencester does not appear to have owned a full copy
+- Gloss on the Psalter was likely published from Oxford, as the revisions indicate continuing classroom usage, and most copies of the commentary do not integrate these, meaning there needs to have been time for them to circulate: and Cirencester does not appear to have owned a full copy
 
 
 > Cum die quadam magister Alexander, cognomento Nequam, uenisset in quendam conuentum nigrorum monachorum et quidam ex eis ob consuetudinem peterent, quatinus in capitulo uerbum dei proponeret, illeque promisisset, alii eum sequentes dixerunt: 'Bone magister, loquimini nobis breuiter.' Quibus respondit: 'Libenter.' Considerans quod minus libenter audirent, capitulum intrauit. Qui cum resedisset, in hec uerba domini erupit dicens: '*Qui ex deo est, uerba dei audit; propterea uos non auditis, quia ex deo non estis.* [John 8:47] Tu autem, domine, miserere nostri.' Et adiecit: 'Estne satis breuis sermo iste, fratres?' Moxque surgens exiuit, non modicum illis confusis. [quoted in @hilka:1933wundergeschichten, pp. 1:120-121; @schönbach:1902über, p. 77; cited in @hunt:1984schools, p. 15]
@@ -163,7 +212,13 @@ Philip did much to promote the cult of the abbess Frithuswith or St Frideswide [
 
 > Magister Alexander Nequam abbas Cirencestrie a curia Romana reuersus requisitus est a quodam canonico suo quae non impetrasset sibi usum milie sicut quidam alii abbates in regno. Qui respondit. Utriusque testamenti pagenam frequenter respexi, nusquam tamen repperi quod usus milie abbati ualet nisi forsitan propter duo: in hieme uidelicet propter frigus, in estate propter muscas. (London, British Library, Arundel 227)
 
-## Alexander as a canon at Cirencester
+## Alexander at Cirencester
+
+When Alexander Neckam became the abbot of St Mary’s abbey in Cirencester in 1213, a position he held until his death in 1217 [@knowles:2001heads, pp. 1:159–60, with corrections at 1:278], he became the head of an organization that was very much tied up with the cares of the world; a powerful figure who was also lord of the manor, by royal prerogative [on the early relationship between the abbots and the townspeople, see @rollison:2011commune, chap. 1; @fuller:1884cirencester]. He was the sixth to hold this position since the reconstitution of the abbey by Henry I in 1117 [on the abbey's early history, see @wilkinson:1998cirencester; @evans:1993cirencester]. With perhaps forty canons resident, Cirencester was one of the largest Augustinian foundations in England [@knowles:1948religious, p. 2:259]. Alexander was an important administrator, and there is an essential unity between Alexander Neckam's many literary works and his career as a teacher, Augustinian canon, and abbot.
+
+
+- not a move to a backwater
+- experienced: cartulary
 
 Alexander came to Cirencester at a time when the abbey was undergoing serious reform, which reached even papal attention. The resulting turbulence is not the sort of environment into which one would want to place a new recruit; Alexander was likely sent to Cirencester to support the reform.
 
@@ -208,75 +263,35 @@ Alexander benefited from the patristic reading available to him, but probably wa
 
 One of the most remarkable features of the earlier books from Cirencester is their very detailed colophons. @webber:1998libraries have suggested that these were included as a reminder to pray for the souls of those who made the books and their benefactors [pp. xxv, 26].
 
+
+
+> | ¶ Et fortassis erit aliquis mea carmina rodens.
+> |   Nam quandoque solet serpere liuor humi.
+> | Set scribens aliis scribo michi. Disco docendo.
+> |   Sic michi sic aliis utilis esse uolo.
+> | Proficiens prodesse uolo tibi candide lector.
+> |   Discipulusque mei set tibi doctor ero.
+> | Qui me commorit melius non tangere clamo.^[Horace, *Sermones* 2.1.45]
+> |   Dum michi succenses inuide parce tibi. [*Corrogationes noui Promethei* 331–38, Cambridge, University Library, Gg.6.42, fol. 70bis v (the MS quoted here) and Paris, BnF, lat. 11867, fol. 232vb: @cropp:1991critical, p. 177 (who does not note the paragraph division); linked to @mcdonough:1999alexander, pp. 130, 152, 160, 161; lines 333–34 cited in @hunt:1984schools, p. 59]
+
+> | And perhaps someone will be gnawing my verses,
+> |   for sometimes spite is accustomed to crawl on the ground.
+> | But in writing for others I write for myself. I learn by teaching:
+> |   thus I wish to be useful both to myself and others.
+> | Improving, I wish to be useful to you, pure reader
+> |   and my student, but I will be your teacher.
+> | Who disturbs me, 'better not touch', I shout:
+> |   while you are malevolently angry with me, spare yourself.
+
 ## Augustinian ideals for literary work
 
 What did it mean to have an abbot of an Augustinian abbey who also had an active literary career? Among the English Augustinians in the early thirteenth century, there are few examples:
 
-The Rule of St Augustine is maddeningly unspecific, and this is no less the case in its discussion of intellectual persuits. There are only two passages relating to books or reading in the *Ordo Monasterii* after an early discussion of the lessons for the offices:
-
->| Operentur a mane usque ad sextam,
->| et a sexta usque ad nonam uacent lectioni,
->| et ad nonam reddant codice.
-
->| Let them work from early morning till noon
->| and take leisure for reading from noon till three,
->| and at three o'clock return the books. [*Ordo Monasterii* 3, translated by @lawless:1987augustine, 74–75]
-
----
-
->| Sedentes ad mensam taceant, audientes lectionem.
-
->| When seated at table,
->| they are to be silent and listen to the reading. [*Ordo Monasterii* 7, translated by @lawless:1987augustine, 76–77]
-
-The *Praeceptum* is a little more specific, but still has little to say:
-
->| Et nolite cantare, nisi quod legitis esse cantandum;
->| quod autem non it a scriptum est ut cantetur, non cantetur.
-
->| Keep to the prescribed text when you sing;
->| avoid texts which are not suited for singing. [*Praeceptum* 2.4, translated by @lawless:1987augustine, 84–85]
-
----
-
->| Cum acceditis ad mensam, donec inde surgatis,
->| quod uobis secundum consuetudinem legitur,
->| sine tumultu et contentionibus audite.
-
->| Listen to the customary reading
->| from the beginning to the end of the meal
->| without commotion or arguments. [*Praeceptum* 3.2, translated by @lawless:1987augustine, 84–85]
-
----
-
->| Siue autem qui cellario, siue qui uestibus,
->| siue qui codicibus praeponuntur,
->| sine murmure seruiant fratribus suis.
->| Codices certa hora singulis diebus petantur;
->| extra horam qui petierit, non accipiat.
-
->| Those responsible for food, clothing, or books
->| are to serve their brothers without grumbling.
->| Books are to be requested at a definite hour each day;
->| requests made at other times will be denied. [*Praeceptum* 4.9–10, translated by @lawless:1987augustine, 96–97]
-
-Webber and Watson point out an attempt to determine precisely what this means in the *Colloquium magistri et discipuli in regulam beati Augustini de uita clericorum* (or *Bridlington Dialogue*), based on Richard of St Victor's *De questionibus regule sancti Augustini solutis* [@webber:1998libraries, p. xxi; from @lawson:1960bridlington, p. 162; Richard's text is edited in @colker:1962richard, p. 219]. It appears that the Augustinian canons themselves had little idea what to make of such strictures. Richard and the *Bridlington Dialogue* tend towards liberality in their interpretations.
+The Rule of St Augustine is maddeningly unspecific, and this is no less the case in its discussion of intellectual persuits. The *Ordo Monasterii* only specifies that adherents should undertake three hours of reading each day at the same time, in addition to listening to readings at meals [*Ordo Monasterii* 3, 7, @lawless:1987augustine, 74–75, 76–77]; the *Praeceptum* only underlines these points [*Praeceptum* 2.4, 3.2, 4.9–10, @lawless:1987augustine, 84–85, 96–97]. Webber and Watson point out an attempt to determine precisely what this means in the *Colloquium magistri et discipuli in regulam beati Augustini de uita clericorum* (or *Bridlington Dialogue*), based on Richard of St Victor's *De questionibus regule sancti Augustini solutis* [@webber:1998libraries, p. xxi; from @lawson:1960bridlington, p. 162; Richard's text is edited in @colker:1962richard, p. 219]. It appears that the Augustinian canons themselves had little idea what to make of such strictures. Richard and the *Bridlington Dialogue* tend towards liberality in their interpretations.
 
 
 
-But it also has this comment:
 
->| Ut autem uos in hoc libello
->| tamquam in speculo possitis inspicere,
->| ne per obliuionem aliquid neglegatis,
->| semel in septimana uobis legatur.
-
->| These precepts should be read to you once a week,
->| so that you will see yourselves
->| in this little book as in a mirror
->| and not neglect anything through forgetfulness. [*Praeceptum* 8.2, translated by @lawless:1987augustine, 102–3]
-
-This passage is probably what Alexander Neckam has in mind when he refers to his *Tractatus super Mulierem fortem* as *speculum animi mei*, as we will see later.
 
 - Barnwell 1296–96 <-- @clark:1909care -->
 
@@ -308,6 +323,4 @@ cite these, from @mcdonough:2005cambridge, p. 809n109:
 @taylor:2002textual, pp. 60–61
 @clark:1897observances, p. 6
 
-## Meditation as a means of innovation in scholasticism
-
-When Alexander Neckam became the abbot of St Mary’s abbey in Cirencester in 1213, a position he held until his death in 1217 [@knowles:2001heads, pp. 1:159–60, with corrections at 1:278], he became the head of an organization that was very much tied up with the cares of the world; a powerful figure who was also lord of the manor, by royal prerogative [on the early relationship between the abbots and the townspeople, see @rollison:2011commune, chap. 1; @fuller:1884cirencester]. He was the sixth to hold this position since the reconstitution of the abbey by Henry I in 1117 [on the abbey's early history, see @wilkinson:1998cirencester; @evans:1993cirencester]. With perhaps forty canons resident, Cirencester was one of the largest Augustinian foundations in England [@knowles:1948religious, p. 2:259]. Alexander was an important administrator, and there is an essential unity between Alexander Neckam's many literary works and his career as a teacher, Augustinian canon, and abbot.
+## Alexander
