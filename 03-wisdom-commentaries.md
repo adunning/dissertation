@@ -2,6 +2,43 @@
 
 Alexander's biblical commentaries (less that on the Psalter) are normally viewed a) as essentially monastic, b) as devotional works. They should instead be considered as the cumulation of Alexander's scholastic training and experience in the Augustinian order, uniting all knowledge around a high lelvel of reading of the scriptures. They can also be thought of in the context of the movement in the late twelfth and thirteenth century to concentrate on pastoral care.
 
+<!--
+
+
+The Rule of St Augustine is maddeningly unspecific, and this is no less the case in its discussion of intellectual persuits. The *Ordo Monasterii* only specifies that adherents should undertake three hours of reading each day at the same time, in addition to listening to readings at meals [*Ordo Monasterii* 3, 7, @lawless:1987augustine, 74–75, 76–77]; the *Praeceptum* only underlines these points [*Praeceptum* 2.4, 3.2, 4.9–10, @lawless:1987augustine, 84–85, 96–97]. Webber and Watson point out an attempt to determine precisely what this means in the *Colloquium magistri et discipuli in regulam beati Augustini de uita clericorum* (or *Bridlington Dialogue*), based on Richard of St Victor's *De questionibus regule sancti Augustini solutis* [@webber:1998libraries, p. xxi; from @lawson:1960bridlington, p. 162; Richard's text is edited in @colker:1962richard, p. 219]. It appears that the Augustinian canons themselves had little idea what to make of such strictures. Richard and the *Bridlington Dialogue* tend towards liberality in their interpretations.
+
+- St Bart's Smithfield? write BL lady Boyle lecture about this
+
+- Barnwell 1296–96: @clark:1909care
+
+- who were the Augustinians?
++ did pastoral care really matter to them?
+
+- why are books important?
+
+- what does Watson/Webber say about books?
+- what did augustinians read?
+- does the 'pastoral care' thing matter?
+
+- what do rules say about daily life and about provision for books?
+
+- importance of teaching?
+
+
+- what were the expectations of a typical canon?
+
+- what intellectual attitudes to they show, esp. to scholasticism? (how does this compare to other orders? start with R.W.S.)
+
+- how does A compare?
+
+Alexander, as a teacher, would have fit in very well with such a group
+
+cite these, from @mcdonough:2005cambridge, p. 809n109:
+
+@mews:2001hugh, pp. 71-72
+@taylor:2002textual, pp. 60–61
+@clark:1897observances, p. 6 -->
+
 ## Alexander's commentaries on the Wisdom books
 
 > Contemplation is associated with spiritual insight (e.g., Solatium 14ra: “Dies septimus est sabbatissimus mentis, quo mens requiescit in operibus dei delectans, aut in contemplationem diuine maiestatis, per apotheosim rapta, delicias eterne dulcedinis prelibat”). Meditation, on the other hand, takes as its subject the present situation of man, and leads to his improvement before he engages in flights of contemplation (Solatium 19va: “Placet etiam dulcedini misericordie dei ut aues hoc est subtiles meditationes quibus contemp- nimus uaga ista bona et fluctuantia multiplicentur in nobis super terram liberi arbitrii ... Similiter meditationes honeste adornant rerum universitatem sicut omnia honesta opera creaturarum numerum adornant”). [@záhora:2011tropology, p. 119n27]
