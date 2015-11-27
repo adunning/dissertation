@@ -46,8 +46,10 @@ docx:
 	pandoc "$(INPUTDIR)"/*.md \
 	-o "$(OUTPUTDIR)/thesis.docx" \
 	--bibliography="$(BIBFILE)" \
-	--csl="$(STYLEDIR)/ref_format.csl" \
-	--toc
+	--table-of-contents \
+	--default-image-extension=png \
+	--smart \
+	--standalone
 
 html:
 	pandoc "$(INPUTDIR)"/*.md \
