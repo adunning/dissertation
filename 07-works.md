@@ -20,50 +20,50 @@ expl.
 
 - Berlin, Staatsbibl. Preussisch. Kulturbesitz, lat. fol. 607 (*olim* Phillipps 13835), fol. 1ra–9rc (s. xiv^1^), heavily glossed.
 
-- Besançon, Bibl. Mun., 534, fo. 35v (s. xiv^2^); glossed.
+- Besançon, Bibliothèque municipale, 534, fo. 35v (s. xiv^2^); glossed.
 
-- Bruges, Bibl. Publ., 536, fols. 80–9v (s. xiii/xiv); glossed.
+- Bruges, Bibl. Publ., 536, fols 80–9v (s. xiii/xiv); glossed.
 
 - Bruges, Bibl. Publ., 546, fol. 1r–v (s. xiii)
 
     expl.
     : … sali mixta/(Scheler, p. 61, line 14).
 
-- Cambrai, Bibl. Mun., 969 (867) (s. xiv)
+- Cambrai, Bibliothèque municipale, 969 (867) (s. xiv)
 
     rubric
     : Dictionarius magistri Iohannis de Gallandia
   
-    incipit gloss
+    inc. gloss
     : In principio huius uoluminis plura incurrunt inquirenda …
 
 - Cambridge, Gonville and Caius College, 136 (76), pp. 1–20 (s. xiii^2^); glossed.
 
 - Cambridge, Gonville and Caius College, 385 (605), pp. 341–4 (s. xiii); text much abbreviated.
 
-- Cambridge, Trinity College, O. 7. 9 (1337), fols. 122–35 (s. xiii)
+- Cambridge, Trinity College, O. 7. 9 (1337), fols 122–35 (s. xiii)
 
     rubric, in gloss
     : partes magistri Alexandri
   
-    incipit gloss
+    inc. gloss
     : Cognitioni uniuscuiusque causati …
 
 - Canterbury, Cathedral Library, Add. 129/1 (s. xiv^2^).
 
-- Copenhagen, Kongelige Bibliotek, Fabricius 92 (iv) 8º, fols. 25v–42 (a. 1308)
+- Copenhagen, Kongelige Bibliotek, Fabricius 92 (iv) 8º, fols 25v–42 (a. 1308)
 
     rubric
     : Dictionarius magistri Alexandri nequam
   
-    incipit gloss
+    inc. gloss
     : materia libri scriptoris sunt utensilia …
 
-- Dublin, Trinity College, 270 (D. 4. 9), fols. 26 and 157 (s. xiii); glossed; two copies of the text.
+- Dublin, Trinity College, 270 (D. 4. 9), fols 26 and 157 (s. xiii); glossed; two copies of the text.
 
 - Edinburgh, National Library of Scotland, Advoc. 18. 4. 13, fols iii–iv v (s. xiv); heavily glossed; outer bifolium of quire, containing beginning and end of text only.
 
-- Erfurt, Wissenschaftl. Bibl., Amplon. O. 12, fols. 12v–22v (s. xiii/xiv)
+- Erfurt, Wissenschaftl. Bibl., Amplon. O. 12, fols 12v–22v (s. xiii/xiv)
 
     rubric, in gloss
     : partes magistri Alexandri Nequam
@@ -71,7 +71,7 @@ expl.
     gloss
     : Materia huius libri sunt utensilia …
 
-- Kiel, Univeritätsbibl., KB 38, fols. 6–25v (s. xiv); heavily glossed
+- Kiel, Univeritätsbibl., KB 38, fols 6–25v (s. xiv); heavily glossed
 
     expl.
     : sic inutile a me sepe accepisti
@@ -82,12 +82,12 @@ expl.
     gloss
     : In principio huius libri ista sunt scienda et notanda …
 
-- Lincoln, Cathedral Library, 132 (C. 5. 8), fols. 37–51 (s. xiii)
+- Lincoln, Cathedral Library, 132 (C. 5. 8), fols 37–51 (s. xiii)
   
-    incipit gloss
+    inc. gloss
     : Nota quod hec diccio …
 
-- London, British Library, Add. 8092, fols. 1–5v (s. xiii^1^)
+- London, British Library, Add. 8092, fols 1–5v (s. xiii^1^)
 
     expl.
     : prosequutus sum (Scheler, p. 163, line 4)
@@ -95,28 +95,28 @@ expl.
     rubric, in gloss
     : Incipiunt epistole magistri Alexandri Nequam de utensilibus domorum
   
-    incipit gloss
+    inc. gloss
     : Materia huius libelli sunt utensilia …
 
-- London, British Library, Cotton Titus D XX, fols. 3–66v (s. xiv)
+- London, British Library, Cotton Titus D XX, fols 3–66v (s. xiv)
 
-    incipit gloss
+    inc. gloss
     : In principio huius libri sunt ista inquirenda, scilicet quid sit titulus, quis sit auctor, que materia … secundum magistrum Alexandrum …
 
 - London, British Library, Harley 683 (s. xiii)
 
-    a. fols. 12–19; glossed
-    b. fols. 36r–v, continuous commentary with lemmata on beginning of *De utensilibus*
-    *c.* fols. 38–54v
+    a. fols 12–19; glossed
+    b. fols 36r–v, continuous commentary with lemmata on beginning of *De utensilibus*
+    *c.* fols 38–54v
   
         gloss
         : In principio huius libri uidendum est quod auctor dicitur magister Alexander …
 
-- London, Wellcome Institute for the History of Medicine 801 A, fols. 104ra­–18rb (s. xiii^in^: Bury St Edmunds; *olim* Bury cathedral 4); glossed.
+- London, Wellcome Institute for the History of Medicine 801 A, fols 104ra­–18rb (s. xiii^in^: Bury St Edmunds; *olim* Bury cathedral 4); glossed.
 
-- Milan, Bibl. Ambros., I 246 inf., fols. 10–24 (s. xiv).
+- Milan, Bibl. Ambros., I 246 inf., fols 10–24 (s. xiv).
 
-- Oxford, Bodleian Library, Digby 37, fols. 121–33v (s. xiii); owned by Elias of Trykyngham: see Emden, *BRUO* 1905–6; Ker, *MLGB*, p. 292.
+- Oxford, Bodleian Library, Digby 37, fols 121–33v (s. xiii); owned by Elias of Trykyngham: see Emden, *BRUO* 1905–6; Ker, *MLGB*, p. 292.
   
     expl.
     : et depingendum/ (Scheler, p. 171, line 7)
@@ -135,7 +135,7 @@ expl.
     expl.
     : … et nunc superioretur/ (Scheler, p. 166, line 22).
 
-- Oxford, Bodleian Library, Laud misc. 497, fols. 300–3v (s. xiii^1^), fragment
+- Oxford, Bodleian Library, Laud misc. 497, fols 300–3v (s. xiii^1^), fragment
   
     inc.
     : /penula taxea … (Scheler, p. 63, lines 23–4)
@@ -148,20 +148,20 @@ expl.
 
 - Oxford, Bodleian Library, Rawl. G 96 (*SC* 15567), pp. 177a–96b (s. xiii)
 
-    incipit gloss
+    inc. gloss
     : Virorum (*recte* cum rerum) noticia …
 
-- Oxford, Bodleian Library, Rawl. G. 99 (*SC* 15462), fols. 138–49v (s. xiii)
+- Oxford, Bodleian Library, Rawl. G. 99 (*SC* 15462), fols 138–49v (s. xiii)
   
     rubric, in gloss
     : libellus magistri Alexandri Nequam de utensilibus
 
-- Oxford, St John's College, 178, fols. 402–11 (s. xiii)
+- Oxford, St John's College, 178, fols 402–11 (s. xiii)
     
     expl.
     : … scribi debet/ (Scheler, p. 169, line 20); a few glosses.
 
-- Paris, Bibliothèque nationale, lat. 7679, fols. 5v–25v (s. xv)
+- Paris, Bibliothèque nationale, lat. 7679, fols 5v–25v (s. xv)
 
     rubric
     : Incipit de utensilibus Alexandri
@@ -169,7 +169,7 @@ expl.
     gloss
     : Hec dictio *qui* quandoque est relatiuum …
 
-- Paris, Bibliothèque nationale, lat. 15171, fols. 176ra–95ra (s. xiii^3^)
+- [Paris, Bibliothèque nationale, lat. 15171](http://gallica.bnf.fr/ark:/12148/btv1b9066788k), fols 176ra–95ra (s. xiii^3^)
   
     expl.
     : … nomina uel uocabula/ (Scheler, p. 173, line 13)
@@ -177,18 +177,18 @@ expl.
     rubric, in gloss
     : (fol. 194va) Explicit libellus magistri Alexandri Nequam
   
-    incipit gloss
+    inc. gloss
     : Sicut dicit Tullius in principio siue prologo sue retorice, Eloquentia sine sapientia nocet…
 
-- Paris, Bibl. Ste-Geneviève, 1210, fols. 70–73v (s. xii^ex^) [imperf.]
+- Paris, Bibl. Ste-Geneviève, 1210, fols 70–73v (s. xii^ex^) [imperf.]
 
-- Sainte-Claude (Jura), Bibl. Mun., 6, pp. 123–46 (s. xiii)
+- Sainte-Claude (Jura), Bibliothèque municipale, 6, pp. 123–46 (s. xiii)
 
-- Vienna, Nationalbibl., 12535, fols. 1–8 (s. xiii); glossed
+- Vienna, Nationalbibl., 12535, fols 1–8 (s. xiii); glossed
 
-- [Wolfenbüttel, Herzog August Bibliothek, Cod. Guelf. 13.10 Aug. 4° (3035)](http://dbs.hab.de/mss/?list=ms&id=13-10-aug-4f), fols. 190–7 (s. xiii), fragment [@scheler:1866trois, pp. 63–74, 155–156]; see @rose:1907egidii [p. xvii]
+- [Wolfenbüttel, Herzog August Bibliothek, Cod. Guelf. 13.10 Aug. 4° (3035)](http://dbs.hab.de/mss/?list=ms&id=13-10-aug-4f), fols 190–7 (s. xiii), fragment [@scheler:1866trois, pp. 63–74, 155–156]; see @rose:1907egidii [p. xvii]
 
-- Worcester, Cathedral Library, Q. 50, fols. 5–18v (s. xiii^1^)
+- Worcester, Cathedral Library, Q. 50, fols 5–18v (s. xiii^1^)
 
     gloss
     : In principio huius libri hec inquirenda sunt, Quis auctor …
@@ -237,22 +237,31 @@ expl.
 
 #### Manuscripts
 
-- Basel, Universitätsbibl., F. IV. 50, fols. 174v–81 (s. xv^2^), nos. 1, 3, 4, 22, 24, 25, 29 (imperf.), 30–3, 36, 39, 42.
+- Basel, Universitätsbibl., F. IV. 50, fols 174v–81 (s. xv^2^), nos. 1, 3, 4, 22, 24, 25, 29 (imperf.), 30–3, 36, 39, 42.
 
-- Berlin, Deutsche Staatsbibl., Santen B. 4, fols. 38va–42va (1449: France), nos. 1–11, 13, 12, 15–17, 14, 18–30, Walther 583, 31–42.
+- Berlin, Deutsche Staatsbibl., Santen B. 4, fols 38va–42va (1449: France), nos. 1–11, 13, 12, 15–17, 14, 18–30, Walther 583, 31–42.
 
-- Edinburgh, National Library of Scotland, Advoc. 18. 4. 9, fols. 57vb–9vb (s. xiv), nos. 31, 32, 34, 38, 39, 41, 42, 19, (43), 8, 6, 1, 2, 9, 10, 13–16, 20–5. No. (43) is unpublished.<!-- Still? -->
+- Edinburgh, National Library of Scotland, Advoc. 18. 4. 9, fols 57vb–9vb (s. xiv), nos. 31, 32, 34, 38, 39, 41, 42, 19, (43), 8, 6, 1, 2, 9, 10, 13–16, 20–5. No. (43) is unpublished.<!-- Still? -->
 
     inc.
     : Arboris in patula mel reperit ursa cauema (fol. 58vb) – the fable of the bear and its cubs.
 
-- London, British Library, Cotton Vespasian B. XXIII, fols. 110v–18v (s. xiv), nos. 1–42.
+- London, British Library, Cotton Vespasian B. XXIII, fols 110v–18v (s. xiv), nos. 1–42.
 
-- Madrid, Biblioteca de Palacio, II. 468, fols. 11–24v (s. xiv), nos. 1–11, 13, 12, 14–42.
+- Madrid, Biblioteca de Palacio, II. 468, fols 11–24v (s. xiv), nos. 1–11, 13, 12, 14–42.
 
 - Paris, Bibliothèque nationale, lat. 2904, pp. 153–4 (s. xii^ex^), nos. 1–6 and title only of 7.
 
-- Paris, Bibliothèque nationale, lat. 8471, (a) fols. 1–15v (s. xiii^1^), nos. 1–42; (6) fols. 16–17v, summary.
+- Paris, Bibliothèque nationale, lat. 8471
+
+    a. fols 1–15v (s. xiii^1^), nos. 1–42
+    
+    b. summary, fols 16–17v
+
+French translation:<!--check @boivin:1996fables for more MSS; desc. at <http://archivesetmanuscrits.bnf.fr/ead.html?id=FRBNFEAD000078497> -->
+
+- [Paris, Bibliothèque nationale, Français 15213](http://gallica.bnf.fr/ark:/12148/btv1b90667289) (s. xiv^1^)
+- [Paris, Bibliothèque nationale, Français 24432](http://gallica.bnf.fr/ark:/12148/btv1b90075147) (s. xiv)
 
 #### Records
 
@@ -282,11 +291,11 @@ expl.
 
 #### Manuscripts
 
-- Cambridge, University Library, Gg. 6. 42, fols. 232v–4v (s. xiii^med^), nos. 1–6 (= G).
+- Cambridge, University Library, Gg.6.42, fols 232v–4v (s. xiii^med^), nos. 1–6 (= G).
 
 - Madrid, Biblioteca de Palacio, II. 468, fol. 24v–7 (s. xiv), nos 1–6
 
-- Paris, Bibliothèque nationale, lat. 11867, fols. 217va–18ra (s. xiii^2^), nos. 1–6 (= P).
+- [Paris, Bibliothèque nationale, lat. 11867](http://gallica.bnf.fr/ark:/12148/btv1b90667289), fols 217va–18ra (s. xiii^2^), nos. 1–6 (= P).
 
 Bale owned a manuscript [@bale:1902index, p. 26].
 
@@ -313,9 +322,9 @@ title
 
 #### Manuscripts
 
-- Cambridge, Trinity College, R. 14. 9 (884), fols. 38–63 (s. xiv)
+- Cambridge, Trinity College, R. 14. 9 (884), fols 38–63 (s. xiv)
 
-- Oxford, Bodleian Library, Digby 221, fols. 34vb–88ra (s. xiv)
+- Oxford, Bodleian Library, Digby 221, fols 34vb–88ra (s. xiv)
 
 #### Records
 
@@ -340,13 +349,13 @@ title
 
 @stegmüller:1950repertorium, no. 1170
 
-incipit prol.
+inc. prol.
 : Capud aquile uisum ab Ezechiele eminentius erat tribus ceteris capitibus suppositis …
 
 expl. prol.
 : … et eradicare intendit Athanasius in hoc simbolo dicens.
 
-incipit text
+inc. text
 : Hec est enim uictoria que uincit mundum …
 
 expl. text
@@ -354,24 +363,24 @@ expl. text
 
 #### Manuscripts
 
-- Cambrai, Bibl. Mun., 977 (875), fols. 172–84 (s. xiii^in^)
+- Cambrai, Bibliothèque municipale, 977 (875), fols 172–84 (s. xiii^in^)
 
     rubric
     : Tractatus magistri Alexandri Nequam super Quicumque uult.
 
-- London, British Library, Harley 3133, fols. 92–100 (s. xiii^1^)
+- London, British Library, Harley 3133, fols 92–100 (s. xiii^1^)
   
     rubric
     : Explicit fides catholica Anthanasii episcopi exposita a magistro Alexandro de sancto Albano.
 
-- Oxford, Bodleian Library, Auct. D. 2. 9 (*SC* 2330), fols. 184va–8rc (s. xiii)
+- Oxford, Bodleian Library, Auct. D. 2. 9 (*SC* 2330), fols 184va–8rc (s. xiii)
 
     rubric
     : Expositio fidei catholice a magistro Alexandro edita.
 
 - Oxford, Bodleian Library, Bodley 284 (*SC* 2339)
 
-    a. fols. 297–306 (s. xiii^1^: Cirencester)
+    a. fols 297–306 (s. xiii^1^: Cirencester)
 
         inc.
         : Caput aquile …
@@ -379,9 +388,9 @@ expl. text
         expl.
         : … sicut inquam hoc est ita etc./
 
-    b. fols. 306–307, another short exposition, anonymous
+    b. fols 306–307, another short exposition, anonymous
 
-- Oxford, Bodleian Library, Rawl. *c.* 67 (*SC* 15517), fols. 86–92 (s. xiii: ?Hereford)
+- Oxford, Bodleian Library, Rawl. *c.* 67 (*SC* 15517), fols 86–92 (s. xiii: ?Hereford)
 
     rubric
     : Expositio simboli Athanasii episcopi secundum Mag(istrum) Alex(andrum) Nequam; a variant recension.
@@ -416,7 +425,7 @@ title
 
 #### Manuscript
 
-London, Lambeth Palace Library, 421, fols. 124va–7ra (s. xiii^in^), twenty-eight short questions.
+London, Lambeth Palace Library, 421, fols 124va–7ra (s. xiii^in^), twenty-eight short questions.
 
 There are also quotations from a work with this title in *Sol meldunensis*, with what appears to be a greatly expanded version of the text.
 
@@ -434,13 +443,13 @@ There are also quotations from a work with this title in *Sol meldunensis*, with
 
 @stegmüller:1950repertorium, no. 1163
 
-incipit prol.
+inc. prol.
 : De ortu deliciarum paradysi …
 
 expl. prol.
 : … que per regnum Salomonis designata est.
 
-incipit text
+inc. text
 : 'Beatus uir' … Licet psalmus iste exponatur … 
 
 expl. text
@@ -466,7 +475,7 @@ expl. text
     rubric
     : Alexander Necham super psalmos (fol. iii: Leland's hand)
 
-- *corrected by author* Oxford, Jesus College, 94, fols. 1ra–56vb (s. xii^ex^: ?Oxford), lacks Pss. 37:2–90:16
+- *corrected by author* Oxford, Jesus College, 94, fols 1ra–56vb (s. xii^ex^: ?Oxford), lacks Pss. 37:2–90:16
 
     expl.
     : uiuifica me iuxta uerbum tuum [Ps. 118:107]
@@ -505,7 +514,7 @@ incl. prol.
 expl. prol.
 : … quem constituere debemus finem laborum nostorum. 
 
-incipit text
+inc. text
 : Deus totius origo boni quem non externe pepulerunt… 
 
 expl. text
@@ -513,7 +522,7 @@ expl. text
 
 #### Manuscript
 
-- Canterbury, Cathedral Library, Lit. B. 6, fols. 2ra–29vb (s. xiii^in^: St Augustine's, Canterbury)
+- Canterbury, Cathedral Library, Lit. B. 6, fols 2ra–29vb (s. xiii^in^: St Augustine's, Canterbury)
 
   title
   : tractatus Moralium super Genesim qui dicitur Solatium fidelis anime (fol. 1v).
@@ -536,13 +545,13 @@ The only other record of the *SFA* is a seventeenth-century annotation to *CCant
 
 The commentary on the Song of Songs was once thought to have been a separate work [@mcdonough:2004laus].
 
-incipit prol.
+inc. prol.
 : Humilitas uera gloriam excellencie et dignitatis feliciter …
 
 expl. prol.
 : … Conferat nobis omnibus subsidium dominus noster Iesus noster qui est benedictus in secula. Amen.
 
-incipit text
+inc. text
 : Ortus deliciarum paradisi celestis scripture amena iocunda …
 
 expl. text
@@ -550,19 +559,19 @@ expl. text
 
 #### Manuscripts
 
-- Cambridge, University Library, Ii. 2. 31, fols. 132ra–254va (s. xiv);
+- Cambridge, University Library, Ii. 2. 31, fols 132ra–254va (s. xiv);
 
     rubric
     : Prohemium Alex. Nequam super cantica.
 
-- London, British Library, Royal 4 D. XI, fols. 1ra–205vb (s. xiii^1^)
+- London, British Library, Royal 4 D. XI, fols 1ra–205vb (s. xiii^1^)
   
     rubric
     : Alex. Nequam super cantica (fol. 1: s. xv).
 
-- London, Lambeth Palace, 23, fols. 1ra–143vb (s. xiv/xv: Durham)
+- London, Lambeth Palace, 23, fols 1ra–143vb (s. xiv/xv: Durham)
 
-- Oxford, Bodleian Library, Bodley 356 (*SC* 2716), fols. 7ra–257vb (s. xiii: Bury St Edmunds)
+- Oxford, Bodleian Library, Bodley 356 (*SC* 2716), fols 7ra–257vb (s. xiii: Bury St Edmunds)
 
     inc.
     : /hominis deuotis … (1.4)
@@ -570,13 +579,13 @@ expl. text
     rubric
     : Alexander Nequam super (cantica) (on spine: s. xiii).
 
-- Oxford, Balliol College, 39, fols. 2–133 (books 1–3) (s. xiii: Buildwas, O. Cist.)
+- Oxford, Balliol College, 39, fols 2–133 (books 1–3) (s. xiii: Buildwas, O. Cist.)
 
-- Oxford, Balliol College, 40, fols. 1–118 (books 4.4–5) (s. xv, William Gray, bishop of Ely). Text lacks 4.1–3.
+- Oxford, Balliol College, 40, fols 1–118 (books 4.4–5) (s. xv, William Gray, bishop of Ely). Text lacks 4.1–3.
 
-- Oxford, Magdalen College, 149, fols. 1ra–194ra (s. xiii; s. xv, John Mower: Emden, *BRUO* 1326–7).
+- Oxford, Magdalen College, 149, fols 1ra–194ra (s. xiii; s. xv, John Mower: Emden, *BRUO* 1326–7).
 
-- Oxford, New College, 43, fols. 3–235v (s. xvi^in^: Archbishop Wareham).
+- Oxford, New College, 43, fols 3–235v (s. xvi^in^: Archbishop Wareham).
 
 #### Records
 
@@ -613,16 +622,16 @@ expl. text
 incl. prol.
 : Ferrum situ rubiginem ducit et uittis non putata in labruscam siluescit …
 
-expl prol
+expl. prol
 : … si non circa uilem patulumque morabimur orbem. 
 
-incipit I
+inc. I
 : Excellentissimo philosopho Platoni uisum est grammaticam non esse censendam nomine arris …
 
-expl I
+expl. I
 : … et senex dicitur delirus. Horatius in fine uersus deliret acumen [*Epp.* 1.12.20].
 
-incipit II
+inc. II
 : Post hec de singulis libris bibliothece aliquas dictiones proferre libet in medium …
 
 expl. II
@@ -630,12 +639,12 @@ expl. II
 
 #### Manuscripts
 
-- Bern, Burgerbibl., B 45, fols. 1–103v (s. xiv)
+- Bern, Burgerbibl., B 45, fols 1–103v (s. xiv)
 
     expl.
     : (beginning of John); fol. 104v, index.
 
-- Cambridge, University Library, Kk. 5. 10, fols. 32Sra–68vb (s. xiii: Durham, s. xv, from Thomas Swalwell; see Emden, *BRUO* 1828, Ker, *MLGB*, p. 258), Part II only
+- Cambridge, University Library, Kk. 5. 10, fols 32Sra–68vb (s. xiii: Durham, s. xv, from Thomas Swalwell; see Emden, *BRUO* 1828, Ker, *MLGB*, p. 258), Part II only
 
     expl.
     : … mandata eius/ [1 John 5:2]
@@ -643,27 +652,27 @@ expl. II
     rubric
     : Incipit summa magistri A. Nequam.
 
-- [Cambridge, Corpus Christi College, 217](https://parker.stanford.edu/parker/actions/manuscript_description_long_display.do?ms_no=217), fols. 318r–362v (s. xiii: Worcester).
+- [Cambridge, Corpus Christi College, 217](https://parker.stanford.edu/parker/actions/manuscript_description_long_display.do?ms_no=217), fols 318r–362v (s. xiii: Worcester).
 
 - [Cambridge, Corpus Christi College, 460](https://parker.stanford.edu/parker/actions/manuscript_description_long_display.do?ms_no=460) (s. xiii–xiv, ?East Anglia)
 
-    a. fols. 25r–37v
+    a. fols 25r–37v
 
         rubric (fol. 25r)
         : Incipit tractatus Alex. Nequam secundum promatheum
       
-        incipit (fol. 25r)
+        inc. (fol. 25r)
         : Quoniam gramatice partes sint ortographia prosodia sunanologia (?) uel sintesis …
       
         rubric (fol. 34r)
         : Hic incipiunt prologi biblie secundum promatheum
       
-        incipit (fol. 34r)
+        inc. (fol. 34r)
         : Antequam ad expositionem partium librorum bibliotece
 
-    b. alphabetical version: fols. 37v-68r
+    b. alphabetical version: fols 37v-68r
     
-        incipit (fol. 37v)
+        inc. (fol. 37v)
         : Post hec de singulis libris bibliotece
       
         rubric (fol. 68r)
@@ -671,7 +680,7 @@ expl. II
 
 - Cambridge, Gonville and Caius College, 236 (122), pp. 1a–309a (s. xiii^ex^: ? Ramsey or St Ives), Part II only (expanded).
 
-- Cambridge, Pembroke College, 103, fols. 85ra–125va (s. xiii^1^)
+- Cambridge, Pembroke College, 103, fols 85ra–125va (s. xiii^1^)
   
     rubric
     : Incipiunt Corrogaciones Promethei. Prologus magistri Alexandri Nequam.
@@ -688,57 +697,59 @@ expl. II
     inc.
     : /minis ut cum paricida.
 
-- Dublin, Trinity College, 257, fols. 1–85v (s. xiii^1^).
+- Dublin, Trinity College, 257, fols 1–85v (s. xiii^1^).
 
     (*For MSS 256–7 sec ML *c.* Colker*, A Descriptive Catalogue of the Medieval and Renaissance Manuscripts *of* the Library of Trinity College Dublin (*forthcoming).]*
 
-- Évreux, Bibliothèque municipale, MS L. 72
+- [Évreux, Bibliothèque municipale, MS L. 72](http://ccfr.bnf.fr/portailccfr/jsp/portal/index.jsp?record=eadcgm:EADC:D08140411&action=opac_direct_view&only_main=false&success=/jsp/portal/index.jsp&profile=anonymous) (s. xiii: Lyre)
 
     a. fol. 1v, letter explaining the title *Corrogationes Promethei* [printed by @omont:1887catalogue, p. 65; @meyer:1896notice, pp. 651–652; @guéry:1917histoire, pp. 393–394]
 
-    b. fols. 2–109 (s. xiii: Lyre)
+    b. fols 2–109
   
         rubric
         : Correctiones Promethei
+
+- Lincoln, Cathedral Library, 162 (B.2.4)<!-- get details from cat.-->
 
 - London, British Library, Egerton 2261, fol. 111rb–74va (s. xiii). Part II only.
 
     rubric
     : Expliciunt excerpta super singulos libros bibliothece edita a magistro Alexandro nequam dicto per contrarium (fol. 174va).
 
-- London, British Library, Harley 6, fols. 150ra–39rb (s. xiii: Chichester)
+- London, British Library, Harley 6, fols 150ra–39rb (s. xiii: Chichester)
 
     rubric
     : Corrogationes Promethei.
 
-- London, British Library, Harley 1687, fols. 128ra–39rb (s. xiii). Part I only.
+- London, British Library, Harley 1687, fols 128ra–39rb (s. xiii). Part I only.
 
 - London, British Library, Royal 2 D. VIII
   
-    a. fols. 16–145v (s. xiii^ex^)
+    a. fols 16–145v (s. xiii^ex^)
     
         expl.
         : … Set quid. Nonne/ (1 Thess. 4: 15)
   
-    b. fols. 1–11vb, text preceded (fols. 1–10) by an alphabetical list of words dealt with in Part II and (fols. 10va–11vb) by the capitula of I-II, headed 'Incipiunt capitula super Ysagogas Magistri Alexandri Nequam'.
+    b. fols 1–11vb, text preceded (fols 1–10) by an alphabetical list of words dealt with in Part II and (fols 10va–11vb) by the capitula of I-II, headed 'Incipiunt capitula super Ysagogas Magistri Alexandri Nequam'.
 
 - London, British Library, Royal 5 *c.* V
 
-    a. fols. 2ra–57rb (s. xiii-xiv: Sempringham)
+    a. fols 2ra–57rb (s. xiii-xiv: Sempringham)
      
         rubric
         : Corrogationes Premothei
      
-    b. fols. 57rb-vb, the letter from S., prior of Malmesbury, to Walter Melidie.
+    b. fols 57rb-vb, the letter from S., prior of Malmesbury, to Walter Melidie.
 
-- London, British Library, Royal 8 A. XXI, fols. 170–83v (s. xiii), Part II only; Exodus to Maccabees.
+- London, British Library, Royal 8 A. XXI, fols 170–83v (s. xiii), Part II only; Exodus to Maccabees.
 
-- London, British Library, Royal 15 B. IV, fols. 16–23vb (s. xiii). Part I only
+- London, British Library, Royal 15 B. IV, fols 16–23vb (s. xiii). Part I only
     
     expl.
     : … an ordaceus/.
 
-- London, Lambeth Palace 162, fols. 67–121v (s. xv). Part II only
+- London, Lambeth Palace 162, fols 67–121v (s. xv). Part II only
     
     expl.
     : … ad tactum fimbrie domini sanata est emorissa a profluuio/ [Mark 5: 25 ff.]
@@ -746,20 +757,20 @@ expl. II
     rubric
     : Ferrum super genesim.
 
-- Oxford, Bodleian Library, Auct. F. 5. 23 (*SC* 2674), fols. 7ra- 86rb (s. xiii^ex^: Coventry)
+- Oxford, Bodleian Library, Auct. F. 5. 23 (*SC* 2674), fols 7ra- 86rb (s. xiii^ex^: Coventry)
 
     rubric
     : Libellus iste dicitur ferrum quem exposuit magister Alexander Necham (fol. 85v: s. xiv)
     : Expliciunt exposiciones parcium biblie secundum magistrum Alexandrum Necham (fol. 86: s. xiv)
 
-- Oxford, Bodleian Library. Bodley 57 (*SC* 2004), fols. 20v, 81–3v, 53r–v (s. xiii-xiv: ?Leicester Can. Reg.), Part II only, excerpts (see P. Meyer, 'Notice du MS Bodley 57', *Romania* xxxv 1906, pp. 576–7; and *c.* Brown, 'Mulier est hominis confusio'. *Modern Language Notes*, xxxv [1920], 479–82, at 480: *re* fol. 20v).
+- Oxford, Bodleian Library. Bodley 57 (*SC* 2004), fols 20v, 81–3v, 53r–v (s. xiii-xiv: ?Leicester Can. Reg.), Part II only, excerpts (see P. Meyer, 'Notice du MS Bodley 57', *Romania* xxxv 1906, pp. 576–7; and *c.* Brown, 'Mulier est hominis confusio'. *Modern Language Notes*, xxxv [1920], 479–82, at 480: *re* fol. 20v).
 
-- Oxford, Bodleian Library, Bodley 550 (*SC* 2300), fols. 1ra–100rb (s. xiii^1^: Reading) (= B)
+- Oxford, Bodleian Library, Bodley 550 (*SC* 2300), fols 1ra–100rb (s. xiii^1^: Reading) (= B)
 
     rubric
     : Incipiunt corrogationes promethei (fol. 1ra).
 
-- Oxford, Bodleian Library. Bodley 760 (*SC* 2673), fols. 99ra–171va (s. xiii^ex^: Reading)
+- Oxford, Bodleian Library. Bodley 760 (*SC* 2673), fols 99ra–171va (s. xiii^ex^: Reading)
 
     rubric
     : Explicit liber magistri Alexander Nequam Abbatis (fol. 171vb).
@@ -786,24 +797,26 @@ expl. II
     rubric
     : Incipit ysagogicum magistri Alexandri Nequam (fol. 1).
 
-- Oxford, St John's College, 178, fols. 105–39 (s. xiii": Westminster), Part I only
+- Oxford, St John's College, 178, fols 105–39 (s. xiii": Westminster), Part I only
 
     rubric
     : Prologus magistri Alexandri Nequam.
 
-- Paris, Bibl. Ste-Genevieve, 1211, fols. 277–306 (s. xiii-xiv), Part II only; see @meyer:1896notice [pp. 676n1, 680n4]
+- Paris, Bibl. Ste-Genevieve, 1211, fols 277–306 (s. xiii-xiv), Part II only; see @meyer:1896notice [pp. 676n1, 680n4]
 
-- Troyes, Bibl. Mun., 1048, item 11 (s. xiii: Clairvaux; see @vernet:1979bibliothèque [p. 72], Part II only, Ecclus. Sap.
+- [Troyes, Bibliothèque municipale, 1048](http://ccfr.bnf.fr/portailccfr/jsp/portal/index.jsp?record=eadcgm:EADC:D02A13503&action=opac_direct_view&only_main=false&success=/jsp/portal/index.jsp&profile=anonymous), item 11 (s. xiii: Clairvaux; see @vernet:1979bibliothèque [p. 72], Part II only, Ecclus. Sap.
 
     rubric
     : Glosule magistri A N super Ecclesiasticum, Job, Parabolos, Ecclesiastem, Cantica Canticorum et Librum Sapiencie.
 
-- Turin, Bibl. Naz., D. V. 29, fols. 1ra–46 (s. xiii: English, later in Vercelli), Part II only, damaged
+- Turin, Bibl. Naz., D. V. 29, fols 1ra–46 (s. xiii: English, later in Vercelli), Part II only, damaged
 
     rubric
     : Hic incipiunt expositiones uerborum bibliothece secundum magistrum Alexandrum Nequam. Photograph of fol. 1 in *Facsimiles … l'Ecole dei Chartei*, nouveau fonds. 380: cf. *Notices des heliogravures de 1'Ecole des Chartes* (Nogent-le-Rotrou, 1894), no. 380.
 
-- Worcester, Cathedral Library, F. 1, fols. 168ra–2S4rb (s. xiii: Worcester).
+- Worcester, Cathedral Library, F. 1, fols 168ra–2S4rb (s. xiii: Worcester).
+
+Excerpts in *Sol meldunensis* and London, British Library, Add. 69999.
 
 #### Records
 
@@ -877,14 +890,14 @@ expl.
 
 #### Manuscripts
 
-- London, British Library, Royal 9 A. XIV, fols. 141–56 (s. xiii).
+- London, British Library, Royal 9 A. XIV, fols 141–56 (s. xiii).
 
-- Oxford, Bodleian Library, Digby 56, fols. 101–30 (s. xiii)
+- Oxford, Bodleian Library, Digby 56, fols 101–30 (s. xiii)
 
     rubric
     : Incipiunt expositiones bibliothece (fol. 101); see *Ker Essays*, p. 311.
 
-- Oxford, St John's College, 119, fols. 121–49v (s. xiii)
+- Oxford, St John's College, 119, fols 121–49v (s. xiii)
     
     expl.
     : … Dirigit ut cursus nauis nec promouet ipsam/ [Acts] —i.e., lacks final five lines.
@@ -907,13 +920,13 @@ expl.
 
 @stegmüller:1950repertorium, no. 1172
 
-incipit book 1
+inc. book 1
 : Forma decens admiratione dignis nature munifice dotata deliciis …
 
 expl. book 2
 : … ut uariatis calicibus uarientur et uina.
 
-incipit book 3
+inc. book 3
 : [= *in Eccles.*] Superfluo detinerer labore…
 
 expl. book 5
@@ -921,61 +934,61 @@ expl. book 5
 
 #### Manuscripts
 
-- Cambridge, University Library, Kk. 4. 5, fols. 146ra–239rb (s. xiv^2^: Norwich)
+- Cambridge, University Library, Kk. 4. 5, fols 146ra–239rb (s. xiv^2^: Norwich)
 
     rubric
     : Magister Alexander de naturis rerum.
 
-- Cambridge, Trinity College, R. 16. 3 (951), fols. 1ra–153rb (s. xiii^1/4^). The additional chapter 'De preuaricatione Salomonis et eius penitentia capitulum X' is here a page from another manuscript now slotted into fol. 88. The capitula of lib. i were 'Scripta et laborata per manus fratris Iohannis Tempill. Anno domini MºCCCCºXXXºIXº' (fol. ivc).
+- Cambridge, Trinity College, R. 16. 3 (951), fols 1ra–153rb (s. xiii^1/4^). The additional chapter 'De preuaricatione Salomonis et eius penitentia capitulum X' is here a page from another manuscript now slotted into fol. 88. The capitula of book 1 were 'Scripta et laborata per manus fratris Iohannis Tempill. Anno domini MºCCCCºXXXºIXº' (fol. ivc).
 
-- Cambridge, Trinity College, R. 16. 4 (952), fols. 1ra–237rb (s. xii^ex^: Osney s. xv)
+- Cambridge, Trinity College, R. 16. 4 (952), fols 1ra–237rb (s. xii^ex^: Osney s. xv)
 
     rubric
-    : Incipit opus magistri Alexandri de sancto Albano de naturis rerum; capitula of lib. i-v (fols. ira-iiivb); subject-headings in the margin throughout.
+    : Incipit opus magistri Alexandri de sancto Albano de naturis rerum; capitula of books 1–5 (fols ira-iiivb); subject-headings in the margin throughout.
 
-- Cambridge, Trinity College, O. 4.1 (1232), fols. 1ra–168rb (s. xiii: Barnwell)
+- Cambridge, Trinity College, O. 4.1 (1232), fols 1ra–168rb (s. xiii: Barnwell)
 
   title
   : Incipit opus magistri Alexandri de sancto Albano de naturis rerum.
 
 - Durham, Cathedral Library, Hunter 58
 
-  a. fols. 30–54 (s. xiv^med^), excerpts
+  a. fols 30–54 (s. xiv^med^), excerpts
   
-  b. fols. 1–3v alphabetical index by Oliver de Wakefeld
+  b. fols 1–3v alphabetical index by Oliver de Wakefeld
 
 - Durham, University Library, Routh I b 16, pastedown (s. xiv^in^: formerly at Magdalen College), *DNR* ii. 14–19 (= verso); see N. R. Ker, *Fragments of Medieval Manuscripts used as Pastedowns in Oxford Bindings* (Oxford Bibliographical Society, Oxford 1954), no. 279.
 
-- London, British Library, Cotton Tiberius A. XII, fols. 46ra–94vb (s. xiii: Eynsham), lib. iii-v only, badly burnt; see Watson, *Savile*, p. 24, no. 29.
+- London, British Library, Cotton Tiberius A. XII, fols 46ra–94vb (s. xiii: Eynsham), books 3-5 only, badly burnt; see Watson, *Savile*, p. 24, no. 29.
 
-- London, British Library, Harley 3737, fols. 2ra–255rb (s. xii/xiii: St Albans; cf. Thomson, *St Albans*, no. 24)
+- London, British Library, Harley 3737, fols 2ra–255rb (s. xii/xiii: St Albans; cf. Thomson, *St Albans*, no. 24)
 
     rubric
     : Incipit opus magistri Alexandri de sancto Albano de naturis rerum.
 
-- London, British Library, Royal 12 F. XIV, fols. 3ra–134rb (s. xiii)
+- London, British Library, Royal 12 F. XIV, fols 3ra–134rb (s. xiii)
 
     rubric
     : De naturis rerum. Incipit opus magistri Alexandri de sancto Albano. Text includes the additional chapter 'De preuaricatione et penitentia Salomonis' (fol. 134rb-vb), with a reference to it at iii. 10 (fol. 74rb).
 
-- London, British Library, Royal 12 G. XI, (a) fols. 4ra–208rb (s. xv); expl: … per ignem. Estet/(v. 12); (*b*) fols. 1–3, index.
+- London, British Library, Royal 12 G. XI, (a) fols 4ra–208rb (s. xv); expl: … per ignem. Estet/(v. 12); (*b*) fols 1–3, index.
 
-- Oxford, Corpus Christi College, 45, fols. 4ra–185vb (s. xiii^1^: Reading) (= C)
+- Oxford, Corpus Christi College, 45, fols 4ra–185vb (s. xiii^1^: Reading) (= C)
 
     rubric
     : Explicit tractatus magistri Alexandri Necham super ecclcsiasten de naturis rerum (fol. 185vb).
 
-- Oxford, Corpus Christi College, 245, fols. 1ra–94vb (s. xv: Syon, later to John Dee, whose cypher is on fol. 1) [@roberts:1990john, no. OM149]
+- Oxford, Corpus Christi College, 245, fols 1ra–94vb (s. xv: Syon, later to John Dee, whose cypher is on fol. 1) [@roberts:1990john, no. OM149]
 
     expl.
     : … potest gratiam/ [v. 5].
 
-- Oxford, Magdalen College, 139, fols. 1ra–135vb (s. xiii)
+- Oxford, Magdalen College, 139, fols 1ra–135vb (s. xiii)
 
   expl.
   : … latus cui preest/ [v. 2].
 
-- Oxford, St John's College, 51, fols. 1ra–170va (s. xiii: later belonged to Henry Savile; sec Watson, *Savile*, p. 18, no. 9).
+- Oxford, St John's College, 51, fols 1ra–170va (s. xiii: later belonged to Henry Savile; sec Watson, *Savile*, p. 18, no. 9).
 
 - Windsor, St George's Chapel, Jackson Collection 32 (s. xiii^1^), fragment; see J. Stratford, *Catalogue of the Jackson Collection, Windsor* (London, 1981), p. 99.
 
@@ -1036,34 +1049,34 @@ Excerpts in the *Florilegium.*
 
 ### *De commendatione uini*
 
-incipit lib. I
+inc. book 1
 : Cum corpus curas studeas subducere curas …
 
-expl. lib. I
+expl. book 1
 : … Hoc mihi solamen numquam desit precor. Amen.
 
-incipit lib. II
+inc. book 2
 : Rursus Bache tuas laudes describo libenter …
 
-expl. lib. II
+expl. book 2
 : … cordi lingua meo dissona semper erit.
 
-incipit lib. III
+inc. book 3
 : Nobilis est potus me iudice nobile uinum …
 
-expl. lib. III
+expl. book 3
 : … Ipse deus perpes gloria uera quies.
 
 #### Manuscripts
 
-- Cambridge, University Library, Gg. 6. 42, fols. 224v–32 (s. xiii^med^) (= G)
+- Cambridge, University Library, Gg.6.42, fols 224v–32 (s. xiii^med^) (= G)
   
   title
   : Versus magistri Alexandri Nequam de uino.
 
-- Madrid, Biblioteca de Palacio, II. 468 fols. 179v–88v (s. xiv)
+- Madrid, Biblioteca de Palacio, II. 468 fols 179v–88v (s. xiv)
 
-- Paris, Bibliothèque nationale, lat. 11867, fols. 214va–15vb. 216va–17rb (s. xiii^2^) (= P).
+- [Paris, Bibliothèque nationale, lat. 11867](http://gallica.bnf.fr/ark:/12148/btv1b90667289), fols 214va–15vb. 216va–17rb (s. xiii^2^) (= P).
 
 Excerpts in Oxford, Bodleian Library, Digby 157, fol. 101 (s. xv: ? Battle).
 
@@ -1091,12 +1104,12 @@ expl.
 
 #### Manuscript
 
-- Hereford, Cathedral Library, O. i. 2, fols. 131ra–42rb) (s. xiii^in^: Gloucester, 'Liber Thome de Bredone abbatis Gloucestrie' [1223–8])
+- Hereford, Cathedral Library, O. i. 2, fols 131ra–42rb) (s. xiii^in^: Gloucester, 'Liber Thome de Bredone abbatis Gloucestrie' [1223–8])
 
   title
   : Meditatio magistri Alexandri de Magdalena.
 
-Excerpts in the *Florilegium*, which refers to it as *Tractatus super admirabili conuersione beatissime Magdalenes*.
+Excerpts in *Sol meldunensis*, which refers to it as *Tractatus super admirabili conuersione beatissime Magdalenes*.
 
 #### Records
 
@@ -1117,11 +1130,11 @@ expl.
 
 #### Manuscripts
 
-- Oxford, Bodleian Library, Bodley 528 (*SC* 2221), fols. 1–53v (s. xiii: Reading). Inscription and list of contents now a flyleaf (fol. i) in Bodleian, Auct. D 4. 18 (*SC* 2094).
+- Oxford, Bodleian Library, Bodley 528 (*SC* 2221), fols 1–53v (s. xiii: Reading). Inscription and list of contents now a flyleaf (fol. i) in Bodleian, Auct. D 4. 18 (*SC* 2094).
 
-- Oxford, Jesus College, 94, fols. 79ra–125ra (s. xiii^in^: Cirencester) (=J).
+- Oxford, Jesus College, 94, fols 79ra–125ra (s. xiii^in^: Cirencester) (=J).
 
-Excerpts in the *Florilegium* and in Oxford, Bodleian Library, Hatton 102 (*SC* 4051), fols. 200v–201r.
+Excerpts in *Sol meldunensis* and in Oxford, Bodleian Library, Hatton 102 (*SC* 4051), fols 200v–201r.
 
 #### Records
 
@@ -1151,13 +1164,13 @@ Excerpts in the *Florilegium* and in Oxford, Bodleian Library, Hatton 102 (*SC* 
 
 @stegmüller:1950repertorium, no. 1164
 
-incipit prol.
+inc. prol.
 : Meditatio humana nunc in ipsum hominem reflectitur … 
 
 expl. prol.
 : … destitui ceperit, mellificare desinit.
 
-incipit text
+inc. text
 : Parabole Salomonis … Vereor ne dum liber parabolarum …
 
 expl. text
@@ -1165,7 +1178,7 @@ expl. text
 
 #### Manuscript
 
-- Oxford, Jesus College, 94, fols. 57ra–74rb (s. xiii^in^) (= J)
+- Oxford, Jesus College, 94, fols 57ra–74rb (s. xiii^in^) (= J)
 
   expl.
   : … prohibuistis/ [Prov. 3: 27]
@@ -1173,7 +1186,7 @@ expl. text
   title
   : Incipit tractatus magistri Alexandri abbatis cyrenc' super parabolas salomonis.
 
-Numerous excerpts in the *Florilegium* and a brief passage in MS Oxford, Bodleian Library, Hatton 102 (*SC* 4051), fol. 200v.
+Numerous excerpts in *Sol meldunensis* and a brief passage in MS Oxford, Bodleian Library, Hatton 102 (*SC* 4051), fol. 200v.
 
 #### Records
 
@@ -1189,13 +1202,13 @@ He only claims to have begun the work in *Speculum speculationum* 3.81.1 (R, fol
 
 ### *Speculum speculationum*
 
-incipit prol.
+inc. prol.
 : Paradisum uoluptatis subdiuidit…
 
 expl. prol.
 : … sub breui uerborum forma perstringantur.
 
-incipit text
+inc. text
 : Si duo essent prima rerum principia …
 
 expl. text
@@ -1203,12 +1216,12 @@ expl. text
 
 #### Manuscript
 
-- London, British Library, Royal 7 F. I, fols. 1ra–94ra (s. xiii^1^)
+- London, British Library, Royal 7 F. I, fols 1ra–94ra (s. xiii^1^)
 
     rubric
     : lncipit speculum speculationum magistri Alexandri canonici Cirecestrie (fol. 1ra).
 
-Excerpts in the *Florilegium:* fols. 70, 143v.
+Excerpts in the *Florilegium:* fols 70, 143v.
 
 #### Records
 
@@ -1264,12 +1277,12 @@ expl. (not explicit in MS; two possibilities)
     rubric
     : 'Incipiunt metrice corrogaciones noui Promothei' (fol. 216ra)
   
-  b. fols. 231va–8ra, lines 1–1622 (s. xiii^2^)
+  b. fols 231va–8ra, lines 1–1622 (s. xiii^2^)
   
     rubric
     : 'Incipiunt metrice prorogaciones noui Promothei' (fol. 231va)
 
-One excerpt in the *Florilegium* (fol. 70*bis*r–v) = lines 318–28. Further excerpts in prose: fols. 72v–3, 147v–8. Five further verse passages, not otherwise extant, are quoted by Holcot in his commentary on Proverbs: see Damon (below), who, however, equates *CNP* with *CPV.*
+One excerpt in *Sol meldunensis* (fol. 70*bis*r–v) = lines 318–28. Further excerpts in prose: fols 72v–3, 147v–8. Five further verse passages, not otherwise extant, are quoted by Holcot in his commentary on Proverbs: see Damon (below), who, however, equates *CNP* with *CPV.*
 
 #### Records
 
@@ -1293,7 +1306,7 @@ expl.
 
 #### Manuscripts
 
-- Cambridge, Gonville and Caius College, 372 (621), fols. 66–140v (s. xv)
+- Cambridge, Gonville and Caius College, 372 (621), fols 66–140v (s. xv)
 
     rubric
     : Incipit liber magistri Alexandri de laude diuine sapiende; text lacks 3.593–734 (fol. 92v)
@@ -1301,7 +1314,7 @@ expl.
     expl.
     : … origo fuit/ [10.322]
 
-- Cambridge, Trinity College, R. 3. 1 (580), fols. 1ra–30v (s. xv^in^)
+- Cambridge, Trinity College, R. 3. 1 (580), fols 1ra–30v (s. xv^in^)
 
     rubric
     : Incipit liber magistri Alexandri abbatis Cirencestrie qui inscribitur Laus sapiende diuine
@@ -1309,21 +1322,21 @@ expl.
     expl.
     : … placere uiro/ [10.286]
 
-- London, British Library, Royal 8 E. IX, fols. 1–88v (s. xv^in^; Merton priory); manuscript used by @wright:1863alexandri, which incorrectly divides the work into ten rather than seven parts: No. 3 should run from 3.1 to 3.964; no. 4 from 3.965 to the end of 4; no. 5 = 5; no. 6 = 6–8; no. 7 = 9–10. See summary in @rigg:1992history [p. 119].
+- London, British Library, Royal 8 E. IX, fols 1–88v (s. xv^in^; Merton priory); manuscript used by @wright:1863alexandri, which incorrectly divides the work into ten rather than seven parts: No. 3 should run from 3.1 to 3.964; no. 4 from 3.965 to the end of 4; no. 5 = 5; no. 6 = 6–8; no. 7 = 9–10. See summary in @rigg:1992history [p. 119].
 
 - Madrid, Biblioteca de Palacio, II, 468 fol. 30–179v; 189–203v (s. xiv).
 
-- Paris, Bibliothèque nationale, lat. 11866, fols. 40–87v (s. xvii)
+- [Paris, Bibliothèque nationale, lat. 11866](http://gallica.bnf.fr/ark:/12148/btv1b90678909), fols 40–87v (s. xvii)
 
     expl.
     : [2.868]
 
-- Paris, Bibliothèque nationale, lat. 11867, fols. 189vb–214va (s. xiii^2^) (= P)
+- [Paris, Bibliothèque nationale, lat. 11867](http://gallica.bnf.fr/ark:/12148/btv1b90667289), fols 189vb–214va (s. xiii^2^) (= P)
   
   title
   : Incipit liber magistri Alexandri canonici cyrencestrie qui inscribitur laus sapiencie diuine.
 
-Excerpts in the *Florilegium*: fols. 69r–71v.
+Excerpts in *Sol meldunensis* and the notebook of John Curteys, Winchester College/New College in Oxford, Bodleian Library, Bodley 487 (*SC* 2067).<!-- cite Berry? -->
 
 #### Records
 
@@ -1353,7 +1366,7 @@ inc.
 expl.
 : … clausus puscula muniatur.
 
-incipit gloss
+inc. gloss
 : Sacerdos ut dicit Priscianus est nomen compositum … 
 
 expl. gloss
@@ -1397,12 +1410,12 @@ expl.
 
 #### Manuscript
 
-- Paris, Bibliothèque nationale, lat. 11867, fol. 218va–31va (s. xiii^2^) (= P)
+- [Paris, Bibliothèque nationale, lat. 11867](http://gallica.bnf.fr/ark:/12148/btv1b90667289), fol. 218va–31va (s. xiii^2^) (= P)
   
-  title
-  : Incipit suplecio defectuum operis magistri Alexandri quod deseruit laudi sapiencie diuine.
+    title
+    : Incipit suplecio defectuum operis magistri Alexandri quod deseruit laudi sapiencie diuine.
 
-Excerpt in the *Florilegium* (fol. 70v = ii. 547–8); two quotations by Holcot: see Damon, op. cit. (p. 139 above), pp. 101–2.
+Excerpt in *Sol meldunensis* (fol. 70v = ii. 547–8); two quotations by Holcot: see Damon, op. cit. (p. 139 above), pp. 101–2.
 
 #### Dating
 
@@ -1418,47 +1431,49 @@ Refers to death of King John (October 1216).
 
 ##  Hymns and Minor Verses
 
-P is the sole manuscript of eleven (nos. 275–81, 284–7) of the thirteen hymns discussed in Chapter V; all thirteen are edited in *AH* xlviii, nos. 275–87.
+P is the sole manuscript of eleven (nos. 275–81, 284–7) of the thirteen hymns discussed in @hunt:1984schools [chap. 5]; all thirteen are edited in @dreves:1905hymnographi [pp. 1:262–273, nos. 275–87].
 
-The minor verses in P are to some extent corroborated and augmented in G, fols. 71v, 223–4: see p. 147 below. They are given here in the order of P, with additions from G at the end:
+The minor verses in P are to some extent corroborated and augmented in G, fols 71v, 223–4: see p. 147 below. They are given here in the order of P, with additions from G at the end:
 
 1.  Dulce Verolamium linquo recessurus (4 lines)
 
     P, fol. 215vb
 
-    Walther 4774; Esposito, p. 456
+    @walther:1969initia [no. 4774]; @esposito:1915unpublished [p. 456]
 
 1.  Delirat et desipit quippe iam senescit (18 lines)
 
     P, fol. 215vb
 
-    Walther 4239; Esposito, p. 456; Walther, 'Neckam', p. 116.
+    @walther:1969initia [no. 4239]; @esposito:1915unpublished [p. 456]; @walther:1965kleineren [p. 116].
 
 1.  Langueo sed pereo (7 lines)
 
     P, fol. 216ra
 
-    Walther 10104; Esposito, p. 456; Walther,'Neckam', pp. 116–17
+    @walther:1969initia [no. 10104]; @esposito:1915unpublished [p. 456]; @walther:1965kleineren [pp. 116–17]
 
 1.  Inopes diuitias (6 lines)
 
     P, fol. 216ra
 
-    Walther 9363; Esposito, p. 456; Walther, 'Neckam', p. 117
+    @walther:1969initia [no. 9363]; @esposito:1915unpublished [p. 456]; @walther:1965kleineren [p. 117]
 
 1.  Qualiter Anglorum possem describere gentem (20 lines)
 
     P, fol. 216ra
 
-    Walther 15120; Esposito, p. 456; see above, pp. 62–3
+    @walther:1969initia [no. 15120]; @esposito:1915unpublished [p. 456]; @hunt:1984schools [pp. 62–63]
 
 1.  *De laterna*
 
-    Lucida lateme facies est grata lucerne (2 lines)
+    Lucida laterne facies est grata lucerne (2 lines)
 
     P, fol. 217rb; G, fol. 236
 
-    Walther, *Sprichwörter*, 13985b; Walther, 'Neckam', p. 122 6a. Sic 'rego' dat reges, dat 'duco' duces, lege' leges (1 line)
+    @walther:1963proverbia [no. 13985b]; @walther:1965kleineren [p. 122]
+    
+    6a. Sic 'rego' dat reges, dat 'duco' duces, lege' leges (1 line)
 
     P, fol. 217rb
 
@@ -1468,13 +1483,13 @@ The minor verses in P are to some extent corroborated and augmented in G, fols. 
 
     P, fol. 217rb; G, fol. 235r-v
 
-    Walther 12092; Walther, 'Neckam', p. 122
+    @walther:1969initia [no. 12092]; @walther:1965kleineren [p. 122]
 
 1.  Gaudeo legatus niueum mihi misit olorem (2 lines)
 
     P, fol. 217rb; G, fol. 236
 
-    Walther, 'Neckam', p. 122
+    @walther:1965kleineren [p. 122]
 
 1.  *Diuisio huius nominis <span style="font-variant:small-caps;">laboravi</span>*
 
@@ -1482,7 +1497,7 @@ The minor verses in P are to some extent corroborated and augmented in G, fols. 
 
     P, fol. 217rb; G, fol. 236
 
-    Walther, *Sprichworter*, 2475; Walther, 'Neckam', p. 122
+    @walther:1963proverbia [no. 2475]; @walther:1965kleineren [p. 122]
 
 1.  Diuisio huius nominis <span style="font-variant:small-caps;">rome</span>
 
@@ -1490,25 +1505,25 @@ The minor verses in P are to some extent corroborated and augmented in G, fols. 
 
     P, fol. 217rb–va; G, fol. 235
 
-    Walther 5373; Walther, 'Neckam', pp. 122–3
+    @walther:1969initia [no. 5373]; @esposito:1915unpublished [pp. 122–3]
 
 1.  Est mihi crede mithos filum sed fabula mithos (4 lines)
 
     P, fol. 217va
 
-    Walther, 5749
+    @walther:1969initia [no. 5749]
 
 1.  Vincere quos lenis ne quid exortacio uincit [= *NA* i-vi]
 
-    P, fols. 217va–18ra
+    P, fols 217va–18ra
 
-    Walther 20349
+    @walther:1969initia [no. 20349]
 
 1.  Dulccssit crebro fructus radicis amare (10 lines)
 
     P, fol. 218ra; G, fol. 235v; MS Madrid, Biblioteca de Palacio, II. 468, fol. 27r-v (s. xiv).
 
-    Walther 4776; Walther, 'Neckam', p. 123
+    @walther:1969initia [no. 4776]; @walther:1965kleineren [p. 123]
 
 1.  *De prouerbio Anglie*
 
@@ -1516,81 +1531,81 @@ The minor verses in P are to some extent corroborated and augmented in G, fols. 
     
     P, fol. 218ra (Latin only); G, fol. 235v; also quoted in *in Eccles.* (C, fol. 100ra)
 
-    Walther, *Sprichworter*, 14492a
+    @walther:1963proverbia [no. 14492a]
 
 1.  Oppressere diu populos communis egestas (10 lines)
 
     P, fol. 218ra
 
-    Walther 13385; Walther, 'Neckam', p. 124
+    @walther:1969initia [no. 13385]; @walther:1965kleineren [p. 124]
 
 1.  Prata uirent flores fructus spondere uidentur (6 lines)
 
     P, fol. 218ra
 
-    Walther 14506; Walther, 'Neckam', p. 124
+    @walther:1969initia [no. 14506]; @walther:1965kleineren [p. 124]
 
 1.  Tempore tristicie communis nos decet esse (8 lines)
 
     P, fol. 218ra
 
-    Walther, *Sprichworter* 31251b; Walther, 'Neckam', p. 124
+    @walther:1963proverbia [no. 31251b]; @walther:1965kleineren [p. 124]
 
 1.  Vi ualeo tota marcas d'or, subtrahe iota (2 lines: Latin and French)
 
     P, fol. 218ra (Latin only); G, fol. 236
 
-    Walther, *Sprichworter*, 33283a; Walther, 'Neckam', p. 125
+    @walther:1963proverbia [no. 33283a]; @walther:1965kleineren [p. 125]
 
 1.  Forma decens oris expugnat castra pudoris (5 lines)
 
     P, fol. 218ra-rb; G, fol. 236
 
-    Walther, *Sprichworter*, 9743a; Walther, 'Neckam', p. 125
+    @walther:1963proverbia [no. 9743a]; @walther:1965kleineren [p. 125]
 
 1.  Iussus uix potui geminos componere uersus (8 lines)
 
     P, fol. 218rb
 
-    Walther, 9995; Walther, 'Neckam', p. 125
+    @walther:1969initia [no. 9995]; @walther:1965kleineren [p. 125]
 
 1.  Mente uir annis es puer istud censeo mirum (8 lines, playing on 'Robertus')
 
     P, fol. 218rb
 
-    Walther, *Sprichworter*, 14766a; Walther, 'Neckam', p. 125, cf. p. 56 above.
+    @walther:1963proverbia [no. 14766a]; @walther:1965kleineren [p. 125]; @hunt:1984schools [p. 56]
 
 1.  Non color immo colo, non colo sed in mala color (2 lines)
 
     P, fol. 218rb
 
-    Walther, *Sprichworter*, 17388a
+    @walther:1963proverbia [no. 17388a]
 
 1.  *Diuisio huius nominis <span style="font-variant:small-caps;">vires</span>*
 
     Redde mihi uires, sum debilis et sine ui res (2 lines)
 
-    P, fol. 218rb (omitting title); G, fol. 236; also found in MS Cambridge, Trinity College, O. 2. 45.
+    P, fol. 218rb (omitting title); G, fol. 236; also found in MS Cambridge, Trinity College, O.2.45.
 
-    Walther, *Sprichworter*, 26430a; Walther, 'Neckam', p. 126
+    @walther:1963proverbia [no. 26430a]; @walther:1965kleineren [p. 126]
 
 1.  Tanti aliis liceas quanti tu te ipse liceris (2 lines)
 
     P, fol. 218rb
 
-    Walther, *Sprichworter*, 31045a; Walther, 'Neckam', p. 126
+    @walther:1963proverbia [no. 31045a]; @walther:1965kleineren [p. 126]
 
 1.  Hospita sit sospes, non hospes ut hospita sospes (3 lines)
 
     P, fol. 218rb
 
-    Walther 8470; Walther, 'Neckam', p. 126
+    @walther:1969initia [no. 8470]; @walther:1965kleineren [p. 126]
 
 1.  Si soli detur presentis prima diei (18 lines)
 
     P, fol. 218rb
 
-    Walther, 'Neckam', p. 126
+    @walther:1965kleineren [p. 126]
 
 1.  Quare prima hora quarte diei cesserit Mercurio cum *pocius* se soli ut uidetur concessisse debuisset
 
@@ -1598,7 +1613,7 @@ The minor verses in P are to some extent corroborated and augmented in G, fols. 
 
     P, fol. 218rb–va
 
-    Walther, 'Neckam', pp. 126–7
+    @esposito:1915unpublished [pp. 126–7]
 
 1.  Salue festa dies toto uenerabilis euo (3 lines)
 
@@ -1610,91 +1625,93 @@ The minor verses in P are to some extent corroborated and augmented in G, fols. 
 
     P, fol. 218va
 
-    Walther, *Sprichwörter*, 22376; Walther, 'Neckam', p. 127
+    @walther:1963proverbia [no. 22376]; @walther:1965kleineren [p. 127]
 
-1.  ADAM
+1.  <span style="font-variant:small-caps;">adam</span>
 
     Nominis esto tui memor ut stet prima secundam (2 lines) P, fol. 218va
 
-    Walther, 'Neckam', p. 127
+    @walther:1965kleineren [p. 127]
 
-1.  AMA
+1.  <span style="font-variant:small-caps;">ama</span>
 
     Arent assiduo tenuata labella labore (2 lines)
 
     P, fol. 218va
 
-    Walther, *Sprichwörter*, 1320a; Walther, 'Neckam', p. 127
+    @walther:1963proverbia [no. 1320a]; @walther:1965kleineren [p. 127]
 
-1.  .Aspectu leni ueniens pectus michi leni (2 lines)
+1.  Aspectu leni ueniens pectus michi leni (2 lines)
 
     P, fol. 218va
 
-    Walther, *Sprichwörter*, 1542a; Walther, 'Neckam', p. 127
+    @walther:1963proverbia [no. 1542a]; @walther:1965kleineren [p. 127]
 
 1.  Tu michi leso les. uulnus geminitur soles (2 lines)
 
     P, fol. 218va
 
-    Walther, *Sprichwörter*, 31663a; Walther, 'Neckam', p. 128
+    @walther:1963proverbia [no. 31663a]; @walther:1965kleineren [p. 128]
 
 1.  Que dicis de me dic si bona si mala de me (2 lines)
 
     P, fol. 218va
 
-    Walther, *Sprichwörter*, 22973b; Walther, 'Neckam', p. 128
+    @walther:1963proverbia [no. 22973b]; @walther:1965kleineren [p. 128]
 
 1.  Infaustus locus est, locus est infaustus abito (2 lines)
 
     P, fol. 218va
 
-    Walther, *Sprichwörter*, 12296a; Walther, 'Neckam', p. 128.
+    @walther:1963proverbia [no. 12296a]; @walther:1965kleineren [p. 128].
 
 1.  Post pira presbiterum quare uel addere merum (1 line)
 
     P, fol. 218va; G, fol. 236
 
-    Walther, *Sprichwörter*, 22042; Walther, 'Neckam', p. 128
+    @walther:1963proverbia [no. 22042]; @walther:1965kleineren [p. 128]
 
 1.  Ha! quid a quid ama, dic quid quid amare (2 lines)
 
     P, fol. 218va
 
-    Walther, 'Neckam', p. 128
+    @walther:1965kleineren [p. 128]
 
 1.  Vsus mundo sed abusus ne dum ludo sim delusus (6 lines) P, fol. 218va
 
-    Walther, 'Neckam', p. 128
+    @walther:1965kleineren [p. 128]
 
 1.  Pauper Alexander cum paupere sit Iuliano (1 line)
 
     P, fol. 218va
 
-    Walther, *Sprichwörter*, 20892a; Walther, 'Neckam', p. 128 37a. Non morum redimit cumulata scientia damnum (1 line) P, fol. 218va
+    @walther:1963proverbia [no. 20892a]; @walther:1965kleineren [p. 128]
+    
+    37a. Non morum redimit cumulata scientia damnum (1 line) P, fol. 218va
 
-    Walther, 'Neckam', p. 128
+    @walther:1965kleineren [p. 128]
 
 1.  Quicquid contraxit camis peculanda sordis (2 lines)
 
     P, fol. 238ra
 
-    Walther, *Sprichwörter*, 25269c
+    @walther:1963proverbia, 25269c
 
 1.  Nunc ueterem sectam nunc mentis pone senectam (2 lines) P, fol. 238ra
 
-    Walther, *Sprichwörter*, 19373c
+    @walther:1963proverbia, 19373c
 
 1.  Compositus gressus sermo grauis actus honestus (2 lines)
 
     P, fol. 238ra
 
-    Walther, *Sprichwörter*, 3022b
+    @walther:1963proverbia, 3022b
 
 1.  Pasce gulam parce gula que gula uult nimis arce (2 lines)
 
     P, fol. 238ra
 
-    Sprichwörter, *20799a*
+    @walther:1963proverbia [no. 20799a]
 
 1.  Cum breue quid tibi quis dederit non concedantem (30 lines)
 
@@ -1708,13 +1725,13 @@ The minor verses in P are to some extent corroborated and augmented in G, fols. 
 
     P, fol. 238va
 
-    Walther, *Sprichwörter*, 36432
+    @walther:1963proverbia, 36432
 
 1.  Vnica maturat geminum matura uirorem (1 line)
 
     P, fol. 238va [= no. 49, Une 6]
 
-    Walther, *Sprichwörter*, 32196c
+    @walther:1963proverbia, 32196c
 
 1.  Non liquet ad liquidum liquido quod cera liquesdt (2 lines)
 
@@ -1736,19 +1753,19 @@ The minor verses in P are to some extent corroborated and augmented in G, fols. 
 
     Gratior est inter iuuenes matura senectus (7 lines)
 
-    G, fol. 235v; cf. no. 45 above Walther, *Sprichwörter*, 10438b
+    G, fol. 235v; cf. no. 45 above @walther:1963proverbia, 10438b
 
 1.  Contra auarum
 
     Cur homo qui cinis es per auaritiam sepelis es? (4 lines)
 
-    G, fols. 235v–6 Walther 3925
+    G, fols 235v–6 Walther 3925
 
 1.  Multa deus de te dicunt per signa prophete (3 lines)
 
     G, fol. 236
 
-    Walther, *Sprichwörter*, 15378a
+    @walther:1963proverbia, 15378a
 
 1.  Versus retrogradi
 
@@ -1756,15 +1773,15 @@ The minor verses in P are to some extent corroborated and augmented in G, fols. 
 
     G, fol. 236 (MS retrogredi)
 
-    Walther, *Sprichwörter*, 32251a
+    @walther:1963proverbia, 32251a
 
-1.  De ABSCONSA compendiose
+1.  De <span style="font-variant:small-caps;">absconsa</span> compendiose
 
     Lumine pretendor ne ledat lumina splendor (2 Unes)
 
     G, fol. 236 (MS compendioso)
 
-    Walther, *Sprichwörter*, 14098a 53a. Subcincte
+    @walther:1963proverbia, 14098a 53a. Subcincte
 
     Sum ne lux lumen ledat nec cera uolumen (1 line)
 
@@ -1774,7 +1791,7 @@ The minor verses in P are to some extent corroborated and augmented in G, fols. 
 
     G. fol. 236
 
-    Walther, *Sprichwörter*, 19585b
+    @walther:1963proverbia, 19585b
 
 #### Literature
 
@@ -1839,23 +1856,23 @@ a)
 
 89–94
 
-Oxford, Bodleian Library, Wood empt. 13 (*SC* 8601), fols. 1–144v (s. xiii^1^). RWH doubted the authenticity of nos. 43–55. Nos. 43–4 are also found in MS Oxford, University College, 15, fols. 4v–8v, where no. 43 is entitled 'Sermo magistri Iohannis leodii' (fol. 4v).
+Oxford, Bodleian Library, Wood empt. 13 (*SC* 8601), fols 1–144v (s. xiii^1^). RWH doubted the authenticity of nos. 43–55. Nos. 43–4 are also found in MS Oxford, University College, 15, fols 4v–8v, where no. 43 is entitled 'Sermo magistri Iohannis leodii' (fol. 4v).
 
-Ibid., fols. 145r"v. The first three of a long series of sermon-notes, which form the next section in W (fols. 145–56v). RWH rightly rejected them. London, BL, Harley 325, fols. 1–6, 34–7v, 174–9v, 203–8 (s. xiii^1^). No. 57 = no. 21 (W, fols. 59v–64); no. 58 (fol. 34r-v) is new. MS Harley 325 also contains nos. 7, 15, 24, 27, 36, 60, (99).
+Ibid., fols 145r"v. The first three of a long series of sermon-notes, which form the next section in W (fols 145–56v). RWH rightly rejected them. London, BL, Harley 325, fols 1–6, 34–7v, 174–9v, 203–8 (s. xiii^1^). No. 57 = no. 21 (W, fols 59v–64); no. 58 (fol. 34r-v) is new. MS Harley 325 also contains nos. 7, 15, 24, 27, 36, 60, (99).
 
-Oxford, Jesus College, 94, fols. 74va–7vb (s. xiii^in^); Despite the formal attribution to 'Alexander, abbot of Cirencester' (p. 22 above) RWH rejected nos 59–69: see pp. 22–3 above.
+Oxford, Jesus College, 94, fols 74va–7vb (s. xiii^in^); Despite the formal attribution to 'Alexander, abbot of Cirencester' (p. 22 above) RWH rejected nos 59–69: see pp. 22–3 above.
 
-Cambridge, University Library, li. 1. 24, fols. 123ra–7va, 140rb–2vb. RWH rejected all these: see p. 22 above. The manuscript also contains no. 28: fols. 141–2vb.
+Cambridge, University Library, li. 1. 24, fols 123ra–7va, 140rb–2vb. RWH rejected all these: see p. 22 above. The manuscript also contains no. 28: fols 141–2vb.
 
 Peter Comestor, nos. 153 and 97 (Schneyer).
 
 These repeat nos. 61–7.
 
-Durham, Cathedral Library, B IV 30, fols. 1–12 (s. xiv^2^): six sermons on [*Super Aue maris stella*], spurious.
+Durham, Cathedral Library, B IV 30, fols 1–12 (s. xiv^2^): six sermons on [*Super Aue maris stella*], spurious.
 
-Ibid., fols. 12–20: two sermons on the Crucifixion. To be rejected.
+Ibid., fols 12–20: two sermons on the Crucifixion. To be rejected.
 
-Worcester, Cathedral Library, Q. 6, fols. 94–101
+Worcester, Cathedral Library, Q. 6, fols 94–101
 
 \* c.1200: Holme Culuan (O. Cist.). See further R. W. Hunt,'A manuscript containing extracts from the *Distinctiones Monasticae', Medium Arvum*, xliv (1975), 238–41.
 
@@ -1876,19 +1893,19 @@ Worcester, Cathedral Library, Q. 6, fols. 94–101
 
 (s. xiii^ex^): see A. G. Little and F. Pelster, *Oxford Theology and Theologians *c.* A.D. 1281–1302* (*OHS *XCVI, Oxford, 1934), pp. 151 ff. To be rejected. RWH noted eight further manuscripts, which brought further sermons to light, here numbered in brackets (96)-(104):
 
-Cambridge, Corpus Christi College, 217, fols. 119–47v (s. xiii: Worcester). Contains nos. 1–2, 4–18, 21–2, 26–7, 29, 32–3, 35–6, 41–2, (96). Two further sermons are rejected: *Cum immundus spiritus* (fols. 134v–5) and *Veni sancte spiritus* (fol. 120).
+Cambridge, Corpus Christi College, 217, fols 119–47v (s. xiii: Worcester). Contains nos. 1–2, 4–18, 21–2, 26–7, 29, 32–3, 35–6, 41–2, (96). Two further sermons are rejected: *Cum immundus spiritus* (fols 134v–5) and *Veni sancte spiritus* (fol. 120).
 
 Cambridge, Peterhouse, 255, fol. 30vb–1rb, 32rb–vb, 42ra–3va, 44va–6vb (s. xiii^1^). Contains nos. 2, 4, 8, 18, 37, (97). The manuscript also contains nos. 81–6.
 
-Hereford, Cathedral Library, O. i. 2, fols. 147v–9 (s. xiii: Gloucester). Contains no. (98) only. See also p. 146 above.
+Hereford, Cathedral Library, O. i. 2, fols 147v–9 (s. xiii: Gloucester). Contains no. (98) only. See also p. 146 above.
 
-London, Lambeth Palace, 481, fols. 88–91 (s. xiii). Contains nos. 31–3.
+London, Lambeth Palace, 481, fols 88–91 (s. xiii). Contains nos. 31–3.
 
-Oxford, Bodleian Library, Hatton 102 (*SC* 4051), fols. 135r–v, 201 r–v (s. xiii^2^: Hereford, Franciscans). Contains excerpts from nos. 8, (99)–(101). Oxford, Bodleian Library', Lyeil 8, fol. 119v\*\~vb (s. xiii: Fountains, O. Cist.). Contains no. 16.
+Oxford, Bodleian Library, Hatton 102 (*SC* 4051), fols 135r–v, 201 r–v (s. xiii^2^: Hereford, Franciscans). Contains excerpts from nos. 8, (99)–(101). Oxford, Bodleian Library', Lyeil 8, fol. 119v\*\~vb (s. xiii: Fountains, O. Cist.). Contains no. 16.
 
 W, fol. 41 (now missing). Contained no. (102), as may be inferred from Clement Canterbury's list of contents (fol. xvira).
 
-Oxford, Merton Coll., 180, fols. 159rb–62vb (s. xiii). Contains nos. 2, 11, 13, (10S)–(104). Canterbury, Cathedral Library, lit. B. 13, fols. 47ra–71rb (s. xiii: Christ Church, Canterbury). Contains nos. 1–3, 7, 18, 24, 27, 39, (103), (104) and a letter from Walter dc Melidie, canon of Cirencester, to R., the archbishop's chaplain, sending him the end of no. 2 (fol. 67a).
+Oxford, Merton Coll., 180, fols 159rb–62vb (s. xiii). Contains nos. 2, 11, 13, (10S)–(104). Canterbury, Cathedral Library, lit. B. 13, fols 47ra–71rb (s. xiii: Christ Church, Canterbury). Contains nos. 1–3, 7, 18, 24, 27, 39, (103), (104) and a letter from Walter dc Melidie, canon of Cirencester, to R., the archbishop's chaplain, sending him the end of no. 2 (fol. 67a).
 
 Thus RWH cast doubt on some items in Schneyer's list, and proposed nine new sermons. His additamenta to Schneyer are:
 
@@ -1902,7 +1919,7 @@ Cambridge, Corpus Christi College, 217, fol. 132r\~v
 
 Vtinam sciretis ct intclligeretis ., .
 
-Cambridge, Peterhouse, 255, fols. 147va–3ra
+Cambridge, Peterhouse, 255, fols 147va–3ra
 
 (96) Verno tempore solent reges (*1 Chron. 20: 1*)
 
@@ -1914,7 +1931,7 @@ Hereford, Cathedral Library, O. 1. 2, fob. 147va–9ra
 
 Gloriosa resurrectio capitis per spem …
 
-London, BL, Harley 325, fols. 34v–5v; Oxford, Bodleian Library, Hatton 102, fol. 201v
+London, BL, Harley 325, fols 34v–5v; Oxford, Bodleian Library, Hatton 102, fol. 201v
 
 (96) *Scio* quod redemptor meus uiuit (*Job 19: 25*)
 
@@ -1932,19 +1949,19 @@ Oxford, Bodleian Library, Hatton 102, fol. 201v
 
 [First part (fol. 41r–v) missing]
 
-W, fols. (41r–v), 42–4v
+W, fols (41r–v), 42–4v
 
 96. Dominus ipse ueniet et saluabit me (*Is. 35:4*)
 
 In natiuitate auctoris leticie nasci debet…
 
-Oxford, Merton College, 180, fols. 159rb–60ra; Canterbury, Cathedral Library, lit. B. 13, fols. 56rb–8va
+Oxford, Merton College, 180, fols 159rb–60ra; Canterbury, Cathedral Library, lit. B. 13, fols 56rb–8va
 
 96. Dixit Jesus Petro, sequere me (*John 21:19*)
 
 Dominus Iesus saluator noster sapientia patris …
 
-Oxford, Merton College, 180, fols. 159rb–60ra; Canterbury, Cathedral Library, lit. B. 13, fols. 58va–60vb
+Oxford, Merton College, 180, fols 159rb–60ra; Canterbury, Cathedral Library, lit. B. 13, fols 58va–60vb
 
 105. Gen. 16: 8
 106. Gen. 18: 3
@@ -1962,7 +1979,7 @@ Oxford, Merton College, 180, fols. 159rb–60ra; Canterbury, Cathedral Library, 
 118. Matt. 2:11
 119. Matt. 5: 3
 
-In addition, the *Florilegium* (G) includes extensive passages from Nequam's sermons. Some help to validate sermons already known; but no fewer than thirty-three are unique to G. As these are excerpts, having neither the incipit nor the explicit of the full sermon, they are listed here according to their scriptural text, by which they are introduced in G:
+In addition, *Sol meldunensis* (G) includes extensive passages from Nequam's sermons. Some help to validate sermons already known; but no fewer than thirty-three are unique to G. As these are excerpts, having neither the incipit nor the explicit of the full sermon, they are listed here according to their scriptural text, by which they are introduced in G:
 
 Agar ancilla Saray Domine si inueni gratiam inclinauit celos Spiritus intelligentie Numquid ad preceptum tuum Probasti cor meum Ad te domine leuaui animam Ascendit deus in iubilo Inpulsus cuersus sum Tanquam aurum in fornace Memento homo Ingredere petram Quare appenditis argentum Apertis thesauris suis Beati pauperes spiritu
 
@@ -1990,7 +2007,7 @@ Two lost sermons are noted in MS Oxford, Magdalen College, 168 (s. xiii):
 138. —                                           Quasi modo geniti infantes (in octauis pasche)
 139. Ps. 18: 6                                   In sole posuit tabernaculum suum (in natali domini).
 
-They are numbered 29 and 30 in the list of contents (fols. 50v–1v) to a collection of seventy-eight 'sermones modernorum magistrorum'.[^3] The text of sermons 1–19 and 31–8 follows: nos. 29–30 are among those missing. Masters named in the contents-list include Archbishop Stephen Langton, master John of Abbeville and master Nicholas of Toumai.
+They are numbered 29 and 30 in the list of contents (fols 50v–1v) to a collection of seventy-eight 'sermones modernorum magistrorum'.[^3] The text of sermons 1–19 and 31–8 follows: nos. 29–30 are among those missing. Masters named in the contents-list include Archbishop Stephen Langton, master John of Abbeville and master Nicholas of Toumai.
 
 The transmission of the sermons is in some manuscripts associated with the sermons of Peter Comestor, for whom see J. Longere, *Œuvres oratoires des maitres parisiens an XlF siecle* (Etudes Augustiniennes. Paris, 1975), i. 20, with references. Otherwise the text presents few real difficulties: W is the base manuscript, usefully corroborated by Cambridge, Corpus Christi College, 217. The sermons circulated freely for half a century—the Canterbury manuscript offers a glimpse of how they were collected—and then they ceased to command attention.
 
@@ -2036,7 +2053,7 @@ All that survives is one couplet in the *Distinctiones Monastice*: see p. 28 abo
 
 ### Paris Anthology
 
-[^1]: The diverse items all belong to the one volume, as the quiring shows: i–viii^12^ ix^8^ x–xvi^12^ xvii^14^ xviii^12^ xix^14^ xx^8^ xxi–xxii^4^. The devotional verses run into quire xvi, followed by the *Disciplina Clericalis;* the Nequam material runs from the middle of xvi to the end of xxi. The presence of S., prior of Malmesbury (fol. 240va–vb: see below), and the script of fols. 189vb–240rb suggest that the manuscript was written in England. Sec further Esposito, pp. 450 ff.
+[^1]: The diverse items all belong to the one volume, as the quiring shows: i–viii^12^ ix^8^ x–xvi^12^ xvii^14^ xviii^12^ xix^14^ xx^8^ xxi–xxii^4^. The devotional verses run into quire xvi, followed by the *Disciplina Clericalis;* the Nequam material runs from the middle of xvi to the end of xxi. The presence of S., prior of Malmesbury (fol. 240va–vb: see below), and the script of fols 189vb–240rb suggest that the manuscript was written in England. Sec further Esposito, pp. 450 ff.
 
 [^2]: The Nequam section measures: page 353 x 245 mm.; text 286 X 175 mm.; col. 286 X 70 mm.; 63 lines.
 
@@ -2066,7 +2083,7 @@ fols 243vb–4vb
 
 The Nequam section contains:[^2]
 
-fols. 189vb–214va
+fols 189vb–214va
 : *LSD*
 
 214va–5vb
@@ -2106,7 +2123,7 @@ fols. 189vb–214va
 
 240ra
 
-*DCV* fragment; verses 38–41 below three hymns: nos. 275–7 above 'Versus magistri Willelmi aurelianensis et magistri Alexandri Nequam': Walther 3561; 15382 (nos. 42–3 below)
+*DCV* fragment; verses 38–41 below three hymns: nos. 275–7 above 'Versus magistri Willelmi aurelianensis et magistri Alexandri Nequam': @walther:1969initia [no. 3561]; 15382 (nos. 42–3 below)
 
 verses: nos. 44–7 below; hymns 278–9, 284–7 above; four others not by Alexander mnemonic religious verses, glossed; *Disputatio cordis et oculi*
 
@@ -2164,9 +2181,9 @@ May be the same work as a *De uirtutibus* attributed to Alexander:
 
 A manuscript is recorded at Glastonbury in the fourteenth century [@carley:1981edition, p. 502].
 
-### *De vita monachorum*
+### *De uita monachorum*
 
-Attributed to Alexander in @wright:1872anglolatin [2:175–200].
+Occasionally attributed to Alexander, but truly by Anselm of Canterbury [@wright:1872anglolatin, pp. 2:175–200; @esp].
 
 ### *Dictionarius metricus*/*Duodecim decades*
 
@@ -2176,19 +2193,21 @@ inc.
 expl.
 : … Allux articulus calx tallus tibia poples.
 
-MS Metz, Bibl. Mun., 169 (s. xv: now destroyed) had the colophon 'Explicit Alexander Nequam'. For further manuscripts and a discussion of the authorship (probably John of Garland) see L. J. Paetow, '*Morale scolarium' of John of Garland* (Memoirs of the University of California IV. ii, Berkeley, 1927), pp. 132–3.
+'Explicit Alexander Nequam' found in Metz, Bibliothèque municipale, 169 (s. xv: burned in 1944); probably the work of John of Garland [@paetow:1927morale, pp. 132–133].
 
 ### *Exhortatio ad religiosos*
 
-= Serlo of Wilton, *Exhortacio bona ad religiosos*, incipit 'Tedia nulla chori tibi sint' [@öberg:1965serlon, pp. 159–162]
+= Serlo of Wilton, *Exhortacio bona ad religiosos*, inc. 'Tedia nulla chori tibi sint' [@öberg:1965serlon, pp. 159–162]
 
-Attributed to Alexander by @bale:1902index [p. 27], based on Madrid, Biblioteca de Palacio, II.468, fols 8r–9v.
+Attributed to Alexander by @bale:1902index [p. 27], based on his MS Madrid, Biblioteca de Palacio, II.468, fols 8r–9v [not challenged by @hunt:1984schools, pp. 54, 146].
 
 ### *Exorcismus siue Baptisterium*
 
-#### Records
+Attributed to Alexander by Leland, *c.* 1536–40, visting the Benedictines at Spalding [@sharpe:1996english, B96.2]: 'exorcismus siue baptisterium Alexandri Neccham. "Huic operi talis praeponitur titulus"'.
 
-- Benedictines, Spalding: Leland, *c.* 1536–40 [@sharpe:1996english, B96.2], 'exorcismus siue baptisterium Alexandri Neccham. "Huic operi talis praeponitur titulus"'
+### *Moralia super Euangelia*
+
+Attributed to Alexander in Oxford, Lincoln College, 79 [@esposito:1915unpublished, p. 465].<!-- check -->
 
 ### *Mythographus Tertius*
 
@@ -2200,21 +2219,25 @@ Attributed to Alexander in Cambridge, Queen's College, 10 (Horne 22). @burnett:1
 
 Attributed to Alexander by a sixteenth-century hand in Cambridge, University Library, Gg.1.5, fol. 113r: 'Regulae Theologiae, Alexandro Nequam (ut uidetur) autore' [cf. @hardwick:1856catalogue, p. 3:18].
 
+### *Repertorium uocabulorum*
+
+Attributed to Alexander in Dublin, Trinity College, C. 3. 19; Eton College, 4; and Oxford, Bodleian Library, Laud misc. 30.<!-- is it? check Thomson cat. Hereford, O.v.2, p. 32-->
+
 ### *Super Aue maris stella*
 
-incipit prol.
+inc. prol.
 : Petisti amice in Christo michi dilecte …
 
 expl. prol.
 : … et laudantibus iocunda.
 
-incipit text.
+inc. text.
 : 'Aue maris stella'. In hoc uersu continetur laus uirginis quadripartita …
 
 expl. text.
 : … et sic uidentes semper colletemur.
 
-Six sermons: see Schneyer, *Repertorium*, i. 276–7 (= sermons 81–6). The series is attributed to Nequam in MS Durham, Cathedral Library, B IV 30, fols. 1–12 (s. xiv^2^); title (fol. 1): 'Sermones VI siue tractatus Alexandri Necham super Aue maris stella'. None of the five other known manuscripts has this ascription; notably MS Cambridge, Peterhouse, 255 (s. xiii^1^), the only witness to the prologue, is anonymous, as is [Herzog August Bibliothek, Cod. Guelf. 410 Helmst. (445)](http://dbs.hab.de/mss/?list=ms&id=410-helmst). MS London, BL, Royal 8 A. X, fols. 36–53v (*c.* 1300), an expanded text, is attributed to Stephen Langton [@lacombe:1930incipits, p. 185].
+Six sermons: see @schneyer:1969repertorium [pp. 1:276–7 = sermons 81–86]. The series is attributed to Nequam in MS Durham, Cathedral Library, B IV 30, fols 1–12 (s. xiv^2^); title (fol. 1): 'Sermones VI siue tractatus Alexandri Necham super Aue maris stella'. None of the five other known manuscripts has this ascription; notably MS Cambridge, Peterhouse, 255 (s. xiii^1^), the only witness to the prologue, is anonymous, as is [Herzog August Bibliothek, Cod. Guelf. 410 Helmst. (445)](http://dbs.hab.de/mss/?list=ms&id=410-helmst). MS London, BL, Royal 8 A. X, fols 36–53v (*c.* 1300), an expanded text, is attributed to Stephen Langton [@lacombe:1930incipits, p. 185].
 
 ### *De desponsatione beatae Mariae*
 
