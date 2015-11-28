@@ -59,7 +59,7 @@ html:
 	--bibliography="$(BIBFILE)" \
 	--css="$(STYLEDIR)/style.css" \
 	--table-of-contents \
-	-V link-citations=true \
+	--metadata link-citations=true \
 	--default-image-extension=svg \
 	--number-sections \
 	--section-divs \
