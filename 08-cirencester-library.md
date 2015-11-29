@@ -1,4 +1,4 @@
-# Appendix B: Works Available in Cirencester's Library{.unnumbered}
+# Appendix B: Works Available in Cirencester's Library {.unnumbered}
 
 \markboth{Works Available in Cirencester's Library}{Works Available in Cirencester's Library}
 

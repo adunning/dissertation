@@ -1,4 +1,4 @@
-# Bibliography{.unnumbered}
+# Bibliography {.unnumbered}
 
 \markboth{Bibliography}{Bibliography}
 
