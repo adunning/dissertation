@@ -1,6 +1,39 @@
 # *Speculum animi mei:* Alexander's Meditations
 
-Alexander's biblical commentaries (less that on the Psalter) are normally viewed a) as essentially monastic, b) as devotional works. They should instead be considered as the cumulation of Alexander's scholastic training and experience in the Augustinian order, uniting all knowledge around a high lelvel of reading of the scriptures. They can also be thought of in the context of the movement in the late twelfth and thirteenth century to concentrate on pastoral care.
+The crowning works of Alexander's literary career are his commentaries on the Wisdom books: *De naturis rerum*, on Ecclesiastes; *Laus beatissime uirginis*, on the Song of songs; an unfinished work projected to treat the entirety of Proverbs; and the *Tractatus super Mulierem fortem*, considering the passage at the end of Proverbs. These are often understood as purely monastic products; having an encyclopedic intent; and 'the overflow of his personal devotion' [@hunt:1984schools, p. 106]. These descriptions are accurate as descriptions of how modern readers react to these works, but not of what Alexander was seeking to accomplish. When Alexander himself refers to these works, he calls them *meditationes*, seeking to draw his audience to a higher level of thought in the natural progression of reading presented by scholastic writers, but rarely put into practice. Understanding *Solatium fidelis anime*, and *Meditatio de Magdalena*. They are the cumulation of his experience in the schools and the Augustinian order.
+
+## Alexander's
+
+
+By combining the number of surviving manuscripts with medieval library catalogues and other booklists, one can get a sense of the relative popularity of Alexander's work. This data must be used with some caution, since the vast majority of records represent institutional holdings, and only a fraction of the catalogues that existed survived the dissolution of the monasteries. Further, far more catalogues from British institutions are available in an accessible format than from the continent, thanks to the Corpus of British Medieval Library Catalogues series. While records have been counted that are matched to a surviving manuscript, knowledge of the provenance of most medieval books is sparse, meaning that there will be some duplication between the surviving manuscripts and records. With these provisos in mind, it can be seen that Alexander's most popular works are also his most practical creations: *Corrogationes Promethei*, followed by *De utensilibus*. Several institutions even list multiple copies; the Benedictines of Christ Church, Canterbury may have owned as many as eight, according to the catalogue compiled by Prior Eastry before the end of 1331.
+
+| Work                              | Manuscripts | Records | Total |
+|-----------------------------------|-------------|---------|-------|
+| *Corrogationes Promethei*         |          34 |      50 |    84 |
+| *De utensilibus*                  |          33 |      19 |    52 |
+| *De naturis rerum*                |          15 |      30 |    45 |
+| *Laus beatissime uirginis*        |           8 |      13 |    21 |
+| *Expositio simboli*               |           5 |       7 |    12 |
+| *Nouus Esopus*                    |           7 |       4 |    11 |
+| *Laus sapientie diuine*           |           6 |       5 |    11 |
+| *Glose super Psalterium*          |           4 |       7 |    11 |
+| *Super Mulierem fortem*           |           2 |       5 |     7 |
+| *Corrogationes Promethei metrice* |           3 |       3 |     6 |
+| *Super Martianum*                 |           2 |       4 |     6 |
+| *Nouus Auianus*                   |           3 |       1 |     4 |
+| *Super Parabolas*                 |           1 |       3 |     4 |
+| *De commendatione uini*           |           3 |       0 |     3 |
+| *Meditatio de Magdalena*          |           1 |       2 |     3 |
+| *Questiones*                      |           1 |       2 |     3 |
+| *Corrogationes noui Promethei*    |           1 |       1 |     2 |
+| *Sacerdos ad altare*              |           1 |       0 |     1 |
+| *Solatium fidelis anime*          |           1 |       0 |     1 |
+| *Speculum speculationum*          |           1 |       0 |     1 |
+| *Suppletio defectuum*             |           1 |       0 |     1 |
+
+
+
+# The Augustinians and pastoral care
 
 <!--
 
