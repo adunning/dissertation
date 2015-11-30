@@ -305,7 +305,7 @@ A manuscript owned by @bale:1902index [p. 26].
 
 #### Literature
 
-@bisanti:2002novus; @bisanti:2010novus; @boatti:1998simbologia; @dicke:1987fabeln; @rigg:2008tortoise
+@bisanti:2002novus; @bisanti:2010novus; @boatti:1998simbologia; @dicke:1987fabeln; @giovini:1998chiedo; @hodapp:2003fables; @rigg:2008tortoise
 
 ### *Super Martianum*
 
@@ -326,7 +326,7 @@ title
 
 #### Records
 
-- @bale:1557scriptorum [p. 2.167]
+- @bale:1557scriptorum [p. 2:167]
 - Benedictines, Dover, St Martin's: John Whitfield's catalogue, 1389 [@stoneman:1996dover, BM1.316b]
 - Franciscans, Reading [@leland:1774rebus, 4:57]
 - New Friars, Oxford-Austin: Books noted by Thomas Gascoigne, *c.* 1430 [@humphreys:1990friars, F35.2]
@@ -2123,31 +2123,33 @@ letter of S., prior of Malmesbury to Walter Melidie, canon of Cirencester -->
 
 ## Spurious Attributions
 
+The following is an update of the list of @hunt:1936alexander [pp. 176–184 in his annotated copy, Oxford, Bodleian Library, Hunt 102; itself based on @esposito:1915unpublished, pp. 464–469].
+
 ### Commentary on *Ecloga Theoduli*
 
-See @quinn:1971ps; @mcdonough:2008alexander.
-
-<!-- Sharpe cites CTC 2:389–98. There is a copy, for example, in Winchester Cathedral, MS 15 (s. xv), fols 79r–100r. -->
+See @mcdonough:2008alexander; @quinn:1971ps.
 
 ### *Concordantiae bibliorum*
 
+inc.
+: Primus liber agit de his que per(tinent)
 
+Attributed to Alexander by Leland [@leland:1774rebus, p. 1:242]<!-- check: should be commentaria --> and @bale:1902index [p. 27]. The work has also been attributed to Robert Holcot [@stegmüller:1950repertorium, no. 7410].<!--look up *Antonianum* 6 (1931): 306 in PIMS. -->
 
 ### *Correctiones biblice*
 
 inc.
 : Pupplica collegi cupiens prodesse pusillis
 
-Attributed to Alexander in [Cambridge, Corpus Christi College, 460](https://parker.stanford.edu/parker/actions/manuscript_description_long_display.do?ms_no=460) (also includes a version of *Corrogationes Promethei*), fol. 1r, by a sixteenth-century hand. @leland:1774rebus [p. 4:53], visiting the Carmelites at London, records 'Alexander Necham super correctiones Bibliae'. Attributed to Robert Grosseteste in Canterbury, Cathedral Library, D.6.<!-- cat -->
+Attributed to Alexander in [Cambridge, Corpus Christi College, 460](https://parker.stanford.edu/parker/actions/manuscript_description_long_display.do?ms_no=460) (also includes a version of *Corrogationes Promethei*), fol. 1r, by a sixteenth-century hand. It cannot be his work, as he quoted e.g. at fols 9r and 11r.<!-- check --> @leland:1774rebus [p. 4:53], visiting the Carmelites at London, records 'Alexander Necham super correctiones Bibliae'. Attributed to Robert Grosseteste in Canterbury, Cathedral Library, D.6.<!-- cat; and check title: biblie? -->
 
 ### *Cur filius incarnatur*
 
 inc.
-: 'Operis'; Bale, *Catalogus*, 1. 273, extends the incipit, 'Operis immensi quoniam Deus'.
+: Operis … (Kirkestede)
+: Operis immensi quoniam Deus … [@bale:1557scriptorum, p. 1:273]
 
-#### Record
-
-- Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.15], 'Cur Deus homo, uel cur Filius incarnatus tract. 1': *Mariale* fol. 23r
+Attributed to Alexander in Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.15], 'Cur Deus homo, uel cur Filius incarnatus tract. 1': *Mariale* fol. 23r. Unidentified.
 
 ### *De desponsatione beatae Mariae*
 
@@ -2156,32 +2158,28 @@ inc.
 ### *De natiuitate beatae Mariae*
 
 inc.
-: 'Egredietur'; Bale, *Catalogus*, 1. 273, extends the incipit, 'Egredietur uirga de radice'.
+: Egredietur … (Kirkestede)
+: Egredietur uirga de radice … [@bale:1557scriptorum, p. 1:273]
 
-#### Records
-
-- Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.16]: *Mariale* fol. 189r
+Attributed to Alexander in Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.16]: *Mariale* fol. 189r. Unidentified (incipit is Isaiah 11:1).
 
 ### *De fide spe et caritate*
 
-This may be part of Hugh of St Victor's *Summa sententiarum*, sometimes known by this name [@mynors:1991registrum, p. 191].
-
-#### Records
+This may be part of Hugh of St Victor's *Summa sententiarum*, sometimes known by this name [@mynors:1991registrum, p. 191]. Attributed to Alexander in two sources:
 
 - Benedictines, Peterborough: Catalogue, late 14th cent. [@friisjensen:2001peterborough, BP21.†112a], 'tractatus A. N. de tribus uir⟨tut⟩ibus anime'
 - Benedictines, Reading: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.4] = Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.8]
 
 ### *De humilitatis gradibus*
 
+inc.
+: Augustinus: uera humilitas est nullis …
 
-
-### *De officio monachorum*
-
-
+Attributed to Alexander in @bale:1902index [p. 24]; the work is unknown. The quotation appears to be a modification of Prosper of Aquitane, *Liber sententiarum* 83: 'Vera fidelium humilitas est'.
 
 ### *De praeceptis decalogi*
 
-
+Listed 'ex registro librorum Glasconiensis monasterii' [@bale:1902index, p. 513].
 
 ### *De professione monachorum*
 
@@ -2189,7 +2187,7 @@ A manuscript is recorded at Glastonbury in the fourteenth century [@carley:1981e
 
 ### *De puritate Marie*
 
-Attributed to Alexander by @bale:1548illustrium [@bale:1557scriptorum].
+Attributed to Alexander by @bale:1557scriptorum [p. 1:272]. Possibly pseudo-Albertus Magnus's *De laudibus beate Mariae Virginis* 4.10 [@jammy:1651beati, p. 20:115].
 
 ### *De rebus creatis in specie*
 
@@ -2201,11 +2199,19 @@ Listed by Bale, from the Benedictines at Glastonbury *c.* 1550 [@sharpe:1996engl
 
 ### *De uita Christi*
 
+inc.
+: Desere nunc anima lectulum soporis …
 
+The author identifies himself as 'Alexander peccator', leading to a suggestion in the description for Cambridge, University Library, Ee.6.28 [@hardwick:1856catalogue, p. 2:269: 'Are not many of the other pieces ascribable to him?']. Called *Meditacio bona de vita Saluatoris* in [Cambridge, Corpus Christi College 537](http://parker.stanford.edu/parker/actions/manuscript_description_long_display.do?ms_no=537), fol. 32v; printed in @trench:1886sacred [pp. 136–137: no. 21].
 
 ### *De uita monachorum*/*De uita monastica*
 
-Occasionally attributed to Alexander, including in an edition by @wright:1872anglolatin [pp. 2:175–200].<!-- check -->
+inc.
+: Quid deceat monachum uel qualis debeat esse …
+
+Attributed to Alexander by @leland:1774rebus [p. 4:31], and printed under his name in an edition by @wright:1872anglolatin [pp. 2:175–200]. @walther:1969initia, no. 15778. The work's authorship is not known; it was often attributed to Anselm of Canterbury (as PL 158:687-706).
+
+This may be the same as the *De officio monachorum* noted in a Glastonbury catalogue [@bale:1902index, p. 513; @bale:1557scriptorum, p. 1:273].
 
 ### *Dictionarius metricus*/*Duodecim decades*
 
@@ -2241,33 +2247,36 @@ Attributed to Alexander by Leland, *c.* 1536–40, visting the Benedictines at S
 
 ### *Expositio de anima*
 
+inc.
+: Interrogasti me honoret te deus …
 
+@bale:1902index [p. 27, cf. 478]; a commentary on Aristotle's *De anima* by Alexander of Alexandria, according to  @glorieux:1971faculté [p. 81: no. 19b].
 
 ### *Festiuale*
 
-Unidentified.
-
-- Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.16], 'Liber qui dicitur Festiuale': *Mariale* fol. 2r
+Attributed to Alexander by Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.16], 'Liber qui dicitur Festiuale': *Mariale* fol. 2r. @leland:1774rebus [p. 1:243] associated this with Alexander of Ashby.<!-- Sharpe?-->
 
 ### *Historia britonum versificata*
 
+Ascribed to Alexander in Valenciennes, Bibliothèque municipale, 792 [@michel:1862gesta, p. viii; @crick:1991dissemination, p. 87; cf. @esposito:1915unpublished, p. 465].
 
+### *In metamorphosin Ouidii*
 
-### *In metamorphosin Ouiduu*
-
-
+@bale:1557scriptorum [p. 1:272]; @esposito:1915unpublished [p. 469] suggests that this was the commentary of Pierre Bersuire, sometimes pared with the *Mythographus tertius*.
 
 ### *Lectiones scripturarum*
 
-
+@bale:1557scriptorum [p. 1:272]
 
 ### *Moralia super Euangelia*/*Moralia euangeliorum*
 
-= Alexander of Bath
+inc.
+: Intentioni quator euangelistarum …
 
-Oxford, Lincoln College, 79 ascribes the work, 'Moralia Magistri Alexandri Necham'.
+Oxford, Lincoln College, 79 ascribes the work, 'Moralia Magistri Alexandri Necham'. A work by Alexander of Bath.
+<!--check Sharpe s.v. -->
 
-### *Mythographus Tertius*
+### *Mythographus tertius*
 
 inc.
 : Fuit uir in Egypto nomine Sirophanes …
@@ -2275,29 +2284,26 @@ inc.
 expl.
 : … proinde pingitur semihomo semiequus.
 
-Attributed to Alexander in several manuscripts:
+Attributed to Alexander in several manuscripts; see @esposito:1915unpublished [pp. 466–468]. Robert Holcot also quotes 'Alexander Nequam in scintillario poetarium' [@ryter:1586roberti, p. 540]. This may also be Bale's *De fabulis poetarum*. @burnett:1981note suggests that the author is Alberic of London.<!-- McDonough capella ed. suggests was due to confusion with that work -->
 
-- Cambridge, Queen's College, 10 (Horne 22)<!-- cat only? -->
-- Cambridge, Trinity College, R.14.29 (884), fol. 21r<!-- 38–63? -->: 'Incipiunt mithologie Alexandri Nequam et alio nomine Scintillarium appellatur.'
-- Oxford, Bodleian Library, Digby 221 (s. xiv), fols 1rb–34vb: originally attributed to Alexander with a title in the same form as Trinity College R.14.29, with the name later erased and replaced with 'Albericus'.
-- Worcester, Catrhedral Library, 154: 'Explicit mithologia Alexandri secundum allegoriam doctoris profundi; Explicit Albricius in poetario'<!-- check -->
+### *Regule theologice*
 
-Robert Holcot also quotes 'Alexander Nequam in scintillario poetarium' [@ryter:1586roberti, p. 540]. This may also be Bale's *De fabulis poetarum*.
+inc.
+: Omnis scientia suis nititur regulis
 
-@burnett:1981note suggests that the author is Alberic of London.<!-- McDonough capella ed. suggests was due to confusion with that work -->
+Also called *Regule in theologiam*, *Exposiciones rerum theologicarum*. Attributed to Alexander by a sixteenth-century hand in Cambridge, University Library, Gg.1.5, fol. 113r: 'Regulae Theologiae, Alexandro Nequam (ut uidetur) autore' [cf. @hardwick:1856catalogue, p. 3:18]. A work by Alan of Lille.
 
-### *Regule theologice*/*Regule in theologiam*
-
-= Alan of Lille, *Regule*
-
-Attributed to Alexander by a sixteenth-century hand in Cambridge, University Library, Gg.1.5, fol. 113r: 'Regulae Theologiae, Alexandro Nequam (ut uidetur) autore' [cf. @hardwick:1856catalogue, p. 3:18].
+<!--and in Registrum? -->
 
 ### *Repertorium uocabulorum*
 
-inc.
+inc. prol.
 : Licet nonnulli circa uocabula biblie …
 
-Attributed to Alexander in Dublin, Trinity College, C. 3. 19; Eton College, 4; Oxford, Bodleian Library, Laud misc. 30; @bale:1902index [p. 25].<!-- is it? check Thomson cat. Hereford, O.v.2, p. 32; Hunt diss.-->
+inc. text
+: Abba secundum Papiam …
+
+Attributed to Alexander by @bale:1902index [p. 25]. @hunt:1936alexander notes that the work is by a regular canon, but that it cannot be Alexander because it uses a later system of biblical references. List of manuscripts in @mynors:1993catalogue [pp. 32–33].
 
 ### *Sermons*
 
@@ -2321,5 +2327,16 @@ Six sermons: see @schneyer:1969repertorium [pp. 1:276–7 = sermons 81–86]. Th
 
 ### *Super Ezechielem*
 
+@bale:1557scriptorum [p. 1:272]
 
 ### *Super urtumque testamentum*
+
+inc.
+: In precedentibus premissa descriptione originis et distinctionis artium …
+
+Attributed to Alexander by @bale:1902index [p. 26], omitting 'in precedentibus'. Found under the name of Peter Comestor in Cambridge, University Library, Dd.1.16 [@hardwick:1856catalogue, p. 1:15]; transmitted with the *Scholastica historia* in [Wolfenbüttel, Herzog August Bibliothek, Cod. Guelf. 39.1 Aug. 2°](http://diglib.hab.de/?db=mss&list=ms&id=39-1-aug-2f&catalog=Heinemann&lang=en), where it is entitled 'Allegoriae super hystorias'.
+
+<!--Ympnarius glossatus secundum Alexandrum Nekham? Peterborough 218: Hunt suggests this was from a conjuncture of a glossed hymnary with DNV, as Harley 683, fols. 38r–54v and 55r–62v.
+
+
+Magnum dictrinale Alex' nequam: York Aug. friars 480 -->
