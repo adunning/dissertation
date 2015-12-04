@@ -47,38 +47,27 @@ In the verse anthology, using fol. 223r as an example, vertical rules occur at 2
 
 The compiler of *Sol meldunensis* names himself 'Galfridus':
 
-> | Sol meldunensis et cinthia lux monachorum.
-> | Suscipiat tua queso nouum dignatio carmen⸵
-> | Quod tibi Galfridi deuotio simplicis⸵ offert.
-> | Te correctorem sicio pastor pie˷ limam⸵
-> | Apponas operi. qui corrigis aspera claustri.
-> | Sis pius indultor culpe. iudexque benignus⸵
-> | Absoluas⸝ quod deliquit presumptio lingue. [Cambridge, UL, Gg.6.42, fol. 3r: all quotations from the manuscript use the scribal punctuation. @mcdonough:2005cambridge, p. 791 prints the first five lines and offers two literary parallels; also in @hunt:1936alexander, p. 160]
-
 > | O sun and moon of Malmesbury, light of the monks,
 > | May your honour accept, I ask, a new song
 > | Which the devotion of simple Geoffrey offers to you.
 > | I thirst for your correction, pious pastor:
 > | May you put a polish on this work, who corrects the roughness of the cloister.
 > | May you be a pious favourer of fault, and may you, a benignant judge,
-> | Absolve what the presumption of the tongue does wrong.
+> | Absolve what the presumption of the tongue does wrong.[^Galfridus]
+
+[^Galfridus]: Cambridge, UL, Gg.6.42, fol. 3r. @mcdonough:2005cambridge, p. 791 prints the first five lines and offers two literary parallels; also quoted in @hunt:1936alexander, 160:
+
+    > | Sol meldunensis et cinthia lux monachorum.
+    > | Suscipiat tua queso nouum dignatio carmen⸵
+    > | Quod tibi Galfridi deuotio simplicis⸵ offert.
+    > | Te correctorem sicio pastor pie˷ limam⸵
+    > | Apponas operi. qui corrigis aspera claustri.
+    > | Sis pius indultor culpe. iudexque benignus⸵
+    > | Absoluas⸝ quod deliquit presumptio lingue.
 
 The word 'simplicis' in the third verse implies that Geoffrey was a monk or regular canon; this is glossed 'Simplex uocatur claustralis. dicitur et simplex qui sine plica duplicitatis est.' ('The simple man is called cloistered; he is also called simple who is without the fold of deceit.') Mutual correction was one of the classic ideals of friendship [see @jaeger:2010friendship].
 
 A further verse epistle at the end of the proem to book two reveals that the recipient Geoffrey holds in such high regard is 'Gaufridus': this most logically points to Geoffrey, abbot of Malmesbury abbey from 1246–60 [@knowles:2001heads, p. 2:51; first identified by @hunt:1984schools, p. 118], providing an approximate date for the volume. The first eight lines of this poem are taken from the dedication of Reginald of Canterbury's *Vita Malachi*, lines 2–8, originally addressed to Lambert, abbot of the Benedictine abbey of St Bertin; Galfridus wisely omits lines 28–31, which describe the book's crossing of the sea, and skips to the last four lines [edited in @liebermann:1888raginald, pp. 531–532]:
-
-> | Pagina dulce putat cum te mea sponte [sepe *Reginald*] salutat⸵
-> | O Gavfride [Lamberte *Reginald*] pie pater. omnis papa sophie.
-> | Sit precor eius aue tibi gratum dulce suaue.
-> | Esse quidem gratum tibi wlt o uir probitatum⸵
-> | Quod te magnificat de te bona singula dicat.
-> | Grates esse. putes tibi nostras ergo salutes.
-> | Nunc bone Gavfride [Lamberte *Reginald*] laus cuius ubique sonatur.
-> | Tucior ut per te sit littera nostra precatur.
-> | Hic [Qui *Reginald*] si forte tibi liber inconcinna loquatur⸵
-> | Iudex parce sibi ne statim proiciatur.
-> | Sepe relegisse cartam iuuat et meminisse;
-> | Sepius adde manum. quod habebis [hebebit *Reginald*] erit puto planum. [Cambridge, UL, Gg.6.42, fol. 71v: the first eight lines are also printed in @mcdonough:2005cambridge, p. 791; @hunt:1936alexander, p. 160]
 
 > | My page thinks sweetly when it greets you voluntarily,
 > | O Geoffrey, pious father, father of all wisdom.
@@ -91,28 +80,28 @@ A further verse epistle at the end of the proem to book two reveals that the rec
 > | If perchance this book should speak clumsily to you,
 > | Judge it sparingly, that it may not be immediately abandoned.
 > | Often it is helpful to have reread a book and remember it;
-> | More often, add a hand: what you will have will be, I think, plain.
+> | More often, add a hand: what you will have will be, I think, plain.[^plain]
+
+[^plain]: Cambridge, UL, Gg.6.42, fol. 71v: the first eight lines are also printed in @mcdonough:2005cambridge, 791; @hunt:1936alexander, 160:
+
+    > | Pagina dulce putat cum te mea sponte [sepe *Reginald*] salutat⸵
+    > | O Gavfride [Lamberte *Reginald*] pie pater. omnis papa sophie.
+    > | Sit precor eius aue tibi gratum dulce suaue.
+    > | Esse quidem gratum tibi wlt o uir probitatum⸵
+    > | Quod te magnificat de te bona singula dicat.
+    > | Grates esse. putes tibi nostras ergo salutes.
+    > | Nunc bone Gavfride [Lamberte *Reginald*] laus cuius ubique sonatur.
+    > | Tucior ut per te sit littera nostra precatur.
+    > | Hic [Qui *Reginald*] si forte tibi liber inconcinna loquatur⸵
+    > | Iudex parce sibi ne statim proiciatur.
+    > | Sepe relegisse cartam iuuat et meminisse;
+    > | Sepius adde manum. quod habebis [hebebit *Reginald*] erit puto planum.
 
 There was good reason to be on good terms with Malmesbury, which is only twenty kilometres from Cirencester. Henry III appears to have travelled directly between the two locations during his visit in July 1241 [@publicrecordoffice:1901calendar, p. 3:255; cited in @luce:1979history, p. 36]. The abbot of Malmesbury witnesses several charters found in the Cirencester cartulary, and a mandate from Stephen Langton as archbishop of Canterbury likely issued between 1219 and 1228 makes the abbot responsible for ensuring that the bishop of Worcester did not encroach on the churches belonging to Cirencester abbey [@ross:1964cartulary, p. 2:367 (no. 406)].
 
 <!--Find out how old the road is between the two locales. -->
 
 The final verse epistle of *Sol meldunensis* builds on the theme of judgement and correction, once again borrowing from Reginald of Canterbury, here addressing Gilbert Crispin, abbot of Westminster from 1085 to 1117 [printed in @wright:1872anglolatin, pp. 2:259–60]. The first group of lines (according to the manuscript's own divisions) correspond to Reginald's lines 23–28 and 37–38; the last to his 39–40. Geoffrey also adds something else, via a quotation from Alexander Neckam: a desire to correspond. The two errors made by the scribe in this couplet suggest that he was quoting the original from memory, whereas the quotation of Reginald is flawless:
-
-> | ¶ Nunc pater et domne tu uideris hic liber omne⸵
-> |     Seu punctum tulerit^[Cf. Horace, *De arte poetica* 343–44: 'omne tulit punctum qui miscuit utile dulci, / lectorem delectando pariterque monendo.'] seu uiciosus erit.
-> | Stare uelis⸵ stabit. si non⸵ hunc flamma cremabit.
-> |     Laus sua sermo tuus interitusue suus.
-> | Si posui partes uelud is qui ne⟨s⟩ciit artes.
-> |     Hac miserere uice doctor apostolice.
-> | Laude tui plena dedit hec rudimenta camena.
-> |     Ob decus ingenue laudis ubique tue.
->
-> | ¶ Mutua discurrat^[discurrant *before correction*] inter nos pagina. nota⸵
-> |     Mens tua mensque mea^[mea … tua *before correction*] sit mediante nota.
->
-> | ¶ Gaudia presentis uite semperque manentis⸵
-> |     Et bona cuncta deus det tibi domne meus. [Cambridge, UL, Gg.6.42, fol. 212v: printed in @hunt:1936alexander, p. 161]
 
 > | ¶ Now, O father and lord, you will have seen
 > |     whether this book carries every point or is full of faults.
@@ -127,28 +116,31 @@ The final verse epistle of *Sol meldunensis* builds on the theme of judgement an
 > |     may your mind be known as well as mine with an intermediating note.
 >
 > | ¶ May God give you the joy of the present and continuing life,
-> |     and all good things, my lord.
+> |     and all good things, my lord.[^lord]
+
+[^lord]: Cambridge, UL, Gg.6.42, fol. 212v; also quoted in @hunt:1936alexander, 161:
+
+    > | ¶ Nunc pater et domne tu uideris hic liber omne⸵
+    > |     Seu punctum tulerit seu uiciosus erit.
+    > | Stare uelis⸵ stabit. si non⸵ hunc flamma cremabit.
+    > |     Laus sua sermo tuus interitusue suus.
+    > | Si posui partes uelud is qui ne⟨s⟩ciit artes.
+    > |     Hac miserere uice doctor apostolice.
+    > | Laude tui plena dedit hec rudimenta camena.
+    > |     Ob decus ingenue laudis ubique tue.
+    >
+    > | ¶ Mutua discurrat [discurrant *before correction*] inter nos pagina. nota⸵
+    > |     Mens tua mensque mea [mea … tua *before correction*] sit mediante nota.
+    >
+    > | ¶ Gaudia presentis uite semperque manentis⸵
+    > |     Et bona cuncta deus det tibi domne meus.
+
+    For the second line, cf. Horace, *De arte poetica* 343–44:
+
+    > | omne tulit punctum qui miscuit utile dulci,
+    > | lectorem delectando pariterque monendo.
 
 Read literally, this might precisely explain the various layers of addition found in the manuscript, and why it apparently returned to Cirencester later on. The quotation of Alexander might also be a significant clue as to the author's identity. In its original context, it is from the end of a poem entrusting a nephew for education to a 'doctor Radulfe', possibly Ralph of Dunstable, who wrote a verse life of St Alban [@hunt:1984schools, pp. 12–13; @rigg:1992history, p. 124; @mcleod:1980alban, pp. 412–16]:
-
-> | Quem tibi transmitto doctor Radulfe nepotem⸵
-> |     Suscipe. deuota sedulitate doce.
-> | Hunc fidei committo tue. uigilancia cure⸵
-> |     Lucra feret. sterilis non erit iste labor.
-> | Versibus et rithmis. et adhuc dictamine. per te⸵
-> |     Floreat. et sit in hiis sollicitudo uigil.
-> | Moribus informa. uirtutibus inbue. uerbis⸵
-> |     Exorna. refice dogmate. pinge metris.
-> | Sis pater et doctor pariter uidearis uterque⸵
-> |     Esse sibi. monitis doctor. amore⸵ pater.
-> | Te duce nil pueri capiat puer. et pueriles⸵
-> |     Motus⸵ edocte mentis habena regat.
-> | Te duce sub teneris annis. uirtute senescat.
-> |     Purus. et inde puer⸵ desinat esse puer.
-> | Artificem commendet opus. doctrina magistri⸵
-> |     Discipulo pateat testificante sua.
-> | Mutua discurrat inter nos pagina. nota⸵
-> |     Mens tua. mensque mea⸵ sit mediante nota. [Paris, BnF, Lat. 11867, fols 238rb–238va:<!-- @walther:1969initia, no. 15382 --> edited in @duméril:1854poésies, pp. 170–71n4; @hunt:1984schools, p. 13n58; @hochgürtel:2008alexandri, p. 226 (carmina metrica, 17.17–18); @gärtner:2009alexandri, pp. 198–199 notes a punctuation error in Hochgürtel]
 
 > | Accept, teacher Ralph, the nephew I send to you;
 > |     teach him with diligent care.
@@ -167,7 +159,28 @@ Read literally, this might precisely explain the various layers of addition foun
 > | May the work commend the artist; may the teaching of the master
 > |     be clear to the student by its own witness.
 > | Let a page go between us in turn;
-> |     may your mind be known as well as mine with an intermediating note.
+> |     may your mind be known as well as mine with an intermediating note.[^note]
+
+[^note]: Paris, BnF, lat. 11867, fols 238rb–238va. @walther:1969initia, no. 15382; quoted in @duméril:1854poésies, 170–71n4; @hunt:1984schools, 13n58; @hochgürtel:2008alexandri, 226 (carmina metrica, 17.17–18); @gärtner:2009alexandri, 198–199 notes a punctuation error in Hochgürtel:
+
+    > | Quem tibi transmitto doctor Radulfe nepotem⸵
+    > |     Suscipe. deuota sedulitate doce.
+    > | Hunc fidei committo tue. uigilancia cure⸵
+    > |     Lucra feret. sterilis non erit iste labor.
+    > | Versibus et rithmis. et adhuc dictamine. per te⸵
+    > |     Floreat. et sit in hiis sollicitudo uigil.
+    > | Moribus informa. uirtutibus inbue. uerbis⸵
+    > |     Exorna. refice dogmate. pinge metris.
+    > | Sis pater et doctor pariter uidearis uterque⸵
+    > |     Esse sibi. monitis doctor. amore⸵ pater.
+    > | Te duce nil pueri capiat puer. et pueriles⸵
+    > |     Motus⸵ edocte mentis habena regat.
+    > | Te duce sub teneris annis. uirtute senescat.
+    > |     Purus. et inde puer⸵ desinat esse puer.
+    > | Artificem commendet opus. doctrina magistri⸵
+    > |     Discipulo pateat testificante sua.
+    > | Mutua discurrat inter nos pagina. nota⸵
+    > |     Mens tua. mensque mea⸵ sit mediante nota.
 
 Hunt suggests that the nephew mentioned in this poem might have been the Peter addressed in the versified version of *Corrogationes Promethei*, though we know nothing about him [@hunt:1984schools, pp. 12–13]. This could just as plausibly be Peter of Blois, whose correspondence with Alexander is important for understanding the nature of his *De commendatione uini*. It is far more likely that the quotation of the couplet in *Sol meldunensis* is self-referential. Geoffrey describes himself as 'claustralis', and he must had had extensive access to Cirencester's library. There are only two figures named Geoffrey mentioned in the Cirencester cartulary who could have been active in 1246–60: one is master Geoffrey of Sanderwick, mentioned as owing rent to the house in 1240, who is presumably the same as Geoffrey of Morton, to whom the abbey farmed its chapels of Standerwick and Egford in 1208 [@ross:1964cartulary, pp. 2:524–25 (nos. 613, 614)]; he has no known institutional affiliation. The other candidate is Geoffrey Brito (recorded as Galfridus Britonus), who was not only a canon at Cirencester, but also Alexander Neckam's nephew.
 
@@ -188,7 +201,7 @@ no. 336
 Hunt guessed that Gg.6.42 was 'one of the original fair copies' [@hunt:1984schools, p. 118]; more detailed analysis demonstrates that the volume *is* the original. The main text seems to have been copied directly from copies of Alexander's works, either with Geoffrey Brito dictating or copying directly, and editing as he worked. At one point, the scribe is copying out the following passage from Neckam's commentary on Proverbs:
 
 > *Melius est sedere in angulo domatis quam in domo communi cum uxore litigiosa.* Set hec deo annuente exponetur … (fol. 173v)
-
+>
 > *It is better to live in a corner of the housetop than in a house shared with a quarrelsome wife.* [Prov. 21:9/25:24] But this, God willing, will be explained …
 
 According to the copy of the commentary in Oxford, Jesus College, MS 94, the next word should have been 'inferius' ('below'), but this is omitted. One can imagine Geoffrey reading along, only to suddenly realize that this will not be 'explained below' in his book, because he is planning to end the excerpt at the end of the next sentence. The scribe skips over 'inferius', partially erases 'set hec deo annuente exponetur' (and further underlines it in red to indicate that it is to be ignored), and moves on:
@@ -1189,8 +1202,10 @@ Alexander was well recognized in his own time as a writer: Alfred of Sareshel de
 
 The book also carries on Alexander Neckam's sunny view towards religious orders other than his own. In his *Tractatus super Mulierem fortem*, commenting on Prov. 31:27 and taking the strong woman as the church, he remarks:
 
-> *Considerauit* igitur sancta mater ecclesia *semitas domus sue.* dum speciales obseruantias uite regularis adinuenit studium deuotionis⸵ ducentes directissime ad domum illam de qua ait ueritas. *In domo patris mei⸵ multe mansiones sunt.* [John 14:2] In diuersis diuerse consuetudines obseruantur ecclesiis. que licet sibi aduersari uideantur⸵ tum directe ducunt ad celeste palatium obseruatores suos. Cisterciensium. cluniacensium. chartusiensium et ceterorum ordinum sanctissimas institutiones considera. quid in eis nisi deliciosam amoris sancti iocunditatem reperies?^[Oxford, Jesus College, MS 94, fol. 123va–b]
+> Therefore, holy mother church *has looked well to the ways of her house* when the enthusiasm for prayer finds the special practices of the regular life, leading most directly to the house concerning which truth speaks: *In the house of my Father are many mansions.* In different churches, different customs are observed, and although they may seem to oppose themselves, yet they lead those who observe them directly to the heavenly palace. Consider the Cistercians, the Cluniacs, the Carthusians, and the most holy customs of the other orders: what will you find in them other than the delicious joy of holy love?[^love]
 
-> Therefore, holy mother church *has looked well to the ways of her house* when the enthusiasm for prayer finds the special practices of the regular life, leading most directly to the house concerning which truth speaks: *In the house of my Father are many mansions.* In different churches, different customs are observed, and although they may seem to oppose themselves, yet they lead those who observe them directly to the heavenly palace. Consider the Cistercians, the Cluniacs, the Carthusians, and the most holy customs of the other orders: what will you find in them other than the delicious joy of holy love?
+[^love]: *Super Mulierem fortem*, commenting on Ecclesia, Prov. 31:27 (Oxford, Jesus College, 94, fol. 123va–b):
 
-What does monastic co-operation look like in practice? In the experiment that is *Sol meldunensis*, Geoffrey Brito and the community at Cirencester extend a gesture of friendship by inviting correction and augmentation to their work. The monks at Malmesbury responded enthusiastically, probably returning the book with a new illustration, marginal additions and correction, and a new gathering of Geoffrey of Monmouth, using a page layout that specifically invites further glossing. They could have found no better way to honour the memory of the unremittingly optimistic abbot.
+    > *Considerauit* igitur sancta mater ecclesia *semitas domus sue.* dum speciales obseruantias uite regularis adinuenit studium deuotionis⸵ ducentes directissime ad domum illam de qua ait ueritas. *In domo patris mei⸵ multe mansiones sunt.* [John 14:2] In diuersis diuerse consuetudines obseruantur ecclesiis. que licet sibi aduersari uideantur⸵ tum directe ducunt ad celeste palatium obseruatores suos. Cisterciensium. cluniacensium. chartusiensium et ceterorum ordinum sanctissimas institutiones considera. quid in eis nisi deliciosam amoris sancti iocunditatem reperies?
+
+What does monastic cooperation look like in practice? In the experiment that is *Sol meldunensis*, Geoffrey Brito and the community at Cirencester extend a gesture of friendship by inviting correction and augmentation to their work. The monks at Malmesbury responded enthusiastically, probably returning the book with a new illustration, marginal additions and correction, and a new gathering of Geoffrey of Monmouth, using a page layout that specifically invites further glossing. They could have found no better way to honour the memory of the unremittingly optimistic abbot.
