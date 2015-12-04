@@ -1,87 +1,55 @@
 # *Speculum animi mei:* Alexander's Meditations
 
-The crowning works of Alexander's literary career are his commentaries on the Wisdom books: *De naturis rerum*, on Ecclesiastes; *Laus beatissime uirginis*, on the Song of songs; an unfinished work projected to treat the entirety of Proverbs; and the *Tractatus super Mulierem fortem*, considering the passage at the end of Proverbs. These are often understood as purely monastic products; having an encyclopedic intent; and 'the overflow of his personal devotion' [@hunt:1984schools, p. 106]. These descriptions are accurate as descriptions of how modern readers react to these works, but not of what Alexander was seeking to accomplish. When Alexander himself refers to these works, he calls them *meditationes*, seeking to draw his audience to a higher level of thought in the natural progression of reading presented by scholastic writers, but rarely put into practice. Understanding *Solatium fidelis anime*, and *Meditatio de Magdalena*. They are the cumulation of his experience in the schools and the Augustinian order.
-
-## Alexander's
-
-
-By combining the number of surviving manuscripts with medieval library catalogues and other booklists, one can get a sense of the relative popularity of Alexander's work. This data must be used with some caution, since the vast majority of records represent institutional holdings, and only a fraction of the catalogues that existed survived the dissolution of the monasteries. Further, far more catalogues from British institutions are available in an accessible format than from the continent, thanks to the Corpus of British Medieval Library Catalogues series. While records have been counted that are matched to a surviving manuscript, knowledge of the provenance of most medieval books is sparse, meaning that there will be some duplication between the surviving manuscripts and records. With these provisos in mind, it can be seen that Alexander's most popular works are also his most practical creations: *Corrogationes Promethei*, followed by *De utensilibus*. Several institutions even list multiple copies; the Benedictines of Christ Church, Canterbury may have owned as many as eight, according to the catalogue compiled by Prior Eastry before the end of 1331.
-
-| Work                              | Manuscripts | Records | Total |
-|-----------------------------------|-------------|---------|-------|
-| *Corrogationes Promethei*         |          34 |      50 |    84 |
-| *De utensilibus*                  |          33 |      19 |    52 |
-| *De naturis rerum*                |          15 |      30 |    45 |
-| *Laus beatissime uirginis*        |           8 |      13 |    21 |
-| *Expositio simboli*               |           5 |       7 |    12 |
-| *Nouus Esopus*                    |           7 |       4 |    11 |
-| *Laus sapientie diuine*           |           6 |       5 |    11 |
-| *Glose super Psalterium*          |           4 |       7 |    11 |
-| *Super Mulierem fortem*           |           2 |       5 |     7 |
-| *Corrogationes Promethei metrice* |           3 |       3 |     6 |
-| *Super Martianum*                 |           2 |       4 |     6 |
-| *Nouus Auianus*                   |           3 |       1 |     4 |
-| *Super Parabolas*                 |           1 |       3 |     4 |
-| *De commendatione uini*           |           3 |       0 |     3 |
-| *Meditatio de Magdalena*          |           1 |       2 |     3 |
-| *Questiones*                      |           1 |       2 |     3 |
-| *Corrogationes noui Promethei*    |           1 |       1 |     2 |
-| *Sacerdos ad altare*              |           1 |       0 |     1 |
-| *Solatium fidelis anime*          |           1 |       0 |     1 |
-| *Speculum speculationum*          |           1 |       0 |     1 |
-| *Suppletio defectuum*             |           1 |       0 |     1 |
-
-
-
-# The Augustinians and pastoral care
-
-<!--
-
-
-The Rule of St Augustine is maddeningly unspecific, and this is no less the case in its discussion of intellectual persuits. The *Ordo Monasterii* only specifies that adherents should undertake three hours of reading each day at the same time, in addition to listening to readings at meals [*Ordo Monasterii* 3, 7, @lawless:1987augustine, 74–75, 76–77]; the *Praeceptum* only underlines these points [*Praeceptum* 2.4, 3.2, 4.9–10, @lawless:1987augustine, 84–85, 96–97]. Webber and Watson point out an attempt to determine precisely what this means in the *Colloquium magistri et discipuli in regulam beati Augustini de uita clericorum* (or *Bridlington Dialogue*), based on Richard of St Victor's *De questionibus regule sancti Augustini solutis* [@webber:1998libraries, p. xxi; from @lawson:1960bridlington, p. 162; Richard's text is edited in @colker:1962richard, p. 219]. It appears that the Augustinian canons themselves had little idea what to make of such strictures. Richard and the *Bridlington Dialogue* tend towards liberality in their interpretations.
-
-- St Bart's Smithfield? write BL lady Boyle lecture about this
-
-- Barnwell 1296–96: @clark:1909care
-
-- who were the Augustinians?
-+ did pastoral care really matter to them?
-
-- why are books important?
-
-- what does Watson/Webber say about books?
-- what did augustinians read?
-- does the 'pastoral care' thing matter?
-
-- what do rules say about daily life and about provision for books?
-
-- importance of teaching?
-
-
-- what were the expectations of a typical canon?
-
-- what intellectual attitudes to they show, esp. to scholasticism? (how does this compare to other orders? start with R.W.S.)
-
-- how does A compare?
-
-Alexander, as a teacher, would have fit in very well with such a group
-
-cite these, from @mcdonough:2005cambridge, p. 809n109:
-
-@mews:2001hugh, pp. 71-72
-@taylor:2002textual, pp. 60–61
-@clark:1897observances, p. 6 -->
+The crowning works of Alexander's literary career are his commentaries on the Wisdom books: *De naturis rerum*, on Ecclesiastes; *Laus beatissime uirginis*, on the Song of Songs; an unfinished book projected to treat the entirety of Proverbs; and the *Tractatus super Mulierem fortem*, considering the end of Proverbs. These are often assumed to be purely 'monastic' products, having little relation to his earlier writings. They deal with many topics beyond the obvious scope of the biblical texts, which has prompted some scholars to label them as encyclopedias, and others to deride them as 'the overflow of his personal devotion' [@hunt:1984schools, p. 106]. These are accurate descriptions of how modern readers react to these works, but they do not fit the context of the early thirteenth century. When Alexander himself refers to these works, he calls them *meditationes*, seeking to draw his audience to a higher level of thought in the natural progression of reading presented by Augustinian writers, but rarely put into practice. This classification also shows that his *Solatium fidelis anime* and *Meditatio de Magdalena* fit into the same category. Together, these works represent the cumulation of Alexander's experience in the schools and the Augustinian order.
 
 ## Alexander's commentaries on the Wisdom books
 
-> Contemplation is associated with spiritual insight (e.g., Solatium 14ra: “Dies septimus est sabbatissimus mentis, quo mens requiescit in operibus dei delectans, aut in contemplationem diuine maiestatis, per apotheosim rapta, delicias eterne dulcedinis prelibat”). Meditation, on the other hand, takes as its subject the present situation of man, and leads to his improvement before he engages in flights of contemplation (Solatium 19va: “Placet etiam dulcedini misericordie dei ut aues hoc est subtiles meditationes quibus contemp- nimus uaga ista bona et fluctuantia multiplicentur in nobis super terram liberi arbitrii ... Similiter meditationes honeste adornant rerum universitatem sicut omnia honesta opera creaturarum numerum adornant”). [@záhora:2011tropology, p. 119n27]
+The Wisdom books of Proverbs, Ecclesiastes, and the Song of Songs were traditionally understood in the Middle Ages as representing the three branches of knowledge – *practica*, *physica*, and *????*.<!-- src-->
 
-Hunt had very little to say about Alexander's meditations. 'They are the overflow of his personal devotion.' [@hunt:1984schools, p. 106] ** = 'consolatory meditations'
+- Alexander wrote on Wisdom books in order to represent all spheres of knowledge
 
-- Hunt's version: not a fan, 'the overflow of [Alexander's] personal devotion' <!-- adjust q, taken from Bestul --> [@hunt:1984schools, pp. 106–107]
-- there is a longer tradition of this
 
-Alexander’s commentaries on the biblical wisdom books – Proverbs, Ecclesiastes, and Song of Songs – fit together very well stylistically, and can be seen as something of a series. They certainly represent both his most voluminous work, but have rarely been examined in any detail. What one finds on closer examination is a collection that responds to themes that were quite popular at the time, and indeed that Alexander’s fellow-canons probably demanded to hear about.
+
+
+<!-- Is there a source for any of this? -->
+
+> The book of Proverbs owes itself to ebbing contemplation, by which someone turns towards the state of his condition; Ecclesiastes is answerable to the consideration of the worldly vanities; the book of Canticles indulges divine contemplation. Idida<!--?--> shouts that 'the beginning of wisdom is the fear of the Lord.' Ecclesiastes preaches, saying, 'Vanity of vanities, vanity of vanities, and all is vanity.' Solomon sighs for the delights of peace, saying, 'May he kiss me with the kiss of his mouth.' Idida, that is 'you will be beloved by the Lord through humility', which teaches a person to scorn himself and to take discreet<!--DM--> fear. Prudence and hope and temperance confer to you the name of a preacher. Prudence, truly investigating the natures of transitory things, understands them to be subject to vanities. Hope, now holding God himself with the hand of desire, declares that everything apart from God is subject to manifold vanity. Temperance pondering that what is adequate by nature is restrained,<!--?--> knows that the love of temporal things is to be driven out. Holy love and devotion delight to be loved with a kiss and embraces.
+>
+> In threefold contemplation, therefore, the three works of three-named Solomon are complying: to enter, to depart, to surpass. To enter the chamber of the heart, to enter the dug earth, and to know your situation. The dug earth is the land of free will, which, if it is tilled well by the discipline of a farmer, will produce glad crops of virtues. Therefore, a person should meet himself with the doors of the spirit closed, lest wandering thoughts come near secret tracks, disturbers of inner stilness; he should consult the conscience as to whether, with his way directed through the ways of salvation, he is aimed towards the appropriate goal. Afterwards, to go depart from your land with Abraham, that is from the land of free will, and from your family, now untroubled by the disturbances of the mind – to depart, I say, by the steps of contemplation, to perceiving the vanities of things and their advantages. What is [^J58va]
+
+[^J58va]: *Super parabolas* Prol.1.5–Prol.2.1 (Jesus College 94, fol. 58va–b):
+
+    > Considerationi igitur reciproce qua quis sue conditionis statum attendit⸵ se debet liber parabolorum. considerationi uani
+    tatum mundanarum⸵ obnoxius est ecclesiastes. contemplationi diuine⸵ obsequitur liber canticorum. Clamat idida
+    quia *inicium sapiencie⸵ timor domini.* Concionatur ecclesiastes⸵
+    dicens. *Vanitas uanitatum. uanitas uanitatum⸵ et omnia uanitas.*
+    Suspirat ad pacis delicias⸵ salomon inquiens. *Osculetur
+    me osculo oris sui.* Idida˷ idest dilectus eris a domino⸵ per humilitatem. que et sui contemptorem esse hominem docet. et timorem discretum adducit. Concionatoris nomen conferent tibi⸵
+    prudentia et spes et temperantia. Prudentia nimirum
+    naturas rerum transitoriarum inuentigans⸵ eas esse uanitatibus obnoxias comprehendit. Spes manu desiderii
+    deum ipsum iam tenens⸵ omnia preter deum uanitati multiplici
+    subiecta esse profitetur. Temperantia modicum esse quod nature sat est
+    perpendens⸵ rerum amorem temporalium abiciendum esse nouit.
+    Amor sanctus et deuotio⸵ osculo et amplexibus dilecti deliciantur.
+    >
+    > Triplici igitur considerationi⸵ tria trinomii salomonis opera
+    sunt obnoxia. Ingredere itaque. eregedere⸵ supergredere. Ingredere cordis thalamum. ingredere humum fossam⸵ et tui
+    statum agnosce. Humus fossa⸵ est terra liberi arbitrii. que si aratro discipline bene culta fuerit⸵ letas uirtutum segetes producet. Clausis ergo foribus animi˷ ne uage clamdestinis passibus accedant cogitationes˷ tranquillitatis interne perturbatrices⸵ se ipsum conueniat homo. conscientiam consulat⸵ utrum directo
+    tramite per uias salutis˷ ad metam debitam tendat. Egredere
+    postea cum Abraham de terra tua˷ de terra scilicet liberi arbitrii. et de cognatione tua˷ sedatis iam motibus mentis. egredere inquam passibus considerationis⸵ ad uanitaties rerum et utilitates earundem perspiciendas. Quid nobis ad maiora natis. et
+    uanitatibus mundi? Vtilitates rerum inspecte⸵ in admirationem tam potentie quam sapientie quam benignitatis diuine nos
+    rapiant. Supergredere tandem mundialem machinam. et
+    aciem mentis dirige ut potes in lumen immense glorie⸵ et defecatis meditationibus indulge. et relegatis procul rerum imaginibus⸵ simplicitati intellectus puri preparet iter preuia deuotio. Audebit amor et dulciter et reuerenter intueri ma[58vb]iestatem illius qui nutu concutit orbem⸵ et desiderium suum
+    intimare iudici potentissimo set et serenissimo. Porrigat
+    humilitas manui benignitatis⸵ libellum confessionis. Nulle in hoc libello reperientur liture. neque enim lituras faciunt
+    lacrime deuotionis. Littere digito amoris sancti scripte⸵ sunt
+    mentis desideria, postulationes, obsecrationes, supplicationes,
+    iubili, gemitus, suspira. In his esto uir, cuius conuersatio est
+    in celis. sub cuius pedibus est luna⸵ dum calcas et despicis
+    terrena. Stipentur principum latera, satellitum caterua.
+    dum modo tui custos fidelis, dominus te muniat et cingat angelorum
+    custodia. Custodiant dominum suum satellites⸵ dum modo te dominus
+    omnium custodiat.
 
 These works probably took their original form as oral addresses, later revised for formal recording in a manuscript. On this point, it is very helpful to compare the sermons on the Song of Songs by Bernard of Clairvaux, whose precise method delivery has long been a matter of contention; it is not altogether clear whether these in fact given as sermons in chapter, or whether they were a strictly literary exercise. Alexander’s works contribute to the question by adding an organizational scheme that is evidently designed to allow the book to be used as a reference tool.
 
@@ -119,42 +87,6 @@ DNR De cane (257): turning something that appears to be a nuisance to him into f
 
 
 temporal reference: written after death of Richard I (fol. 58ra)
-
-> Considerationi igitur reciproce qua quis sue conditionis statum attendit⸵ se debet liber parabolorum. considerationi uani
-tatum mundanarum⸵ obnoxius est ecclesiastes. contemplationi diuine⸵ obsequitur liber canticorum. Clamat idida
-quia inicium sapiencie⸵ timor domini. Concionatur ecclesiastes⸵
-dicens. Vanitas uanitatum. uanitas uanitatum⸵ et omnia uanitas.
-Suspirat ad pacis delicias⸵ salomon inquiens. Osculetur
-me osculo oris sui. Idida˷ idest dilectus eris a domino⸵ per hu
-militatem. que et sui contemptorem esse hominem docet. et timorem discretum adducit. Concionatoris nomen conferent tibi⸵
-prudentia et spes et temperantia. Prudentia nimirum
-naturas rerum transitoriarum inuentigans⸵ eas esse uanitatibus obnoxias comprehendit. Spes manu desiderii
-deum ipsum iam tenens⸵ omnia preter deum uanitati muliplici
-subiecta esse prefitetur. Temperanta modicum esse quod nature sat est,
-perpendens⸵ rerum amorem temporalium abiciendum esse nouit.
-Amor sanctus et deuotio⸵ osculo et amplexibus dilecti deliciantur.
->
-> Triplici igitur considerationi⸵ tria trinomii salomonis opera
-sunt obnoxia. Ingredere itaque. eregedere⸵ supergredere. In
-gredere cordis thalamum. ingredere humum fossam⸵ et tui
-statum agnosce. Humus fossa⸵ est terra liberi arbitrii. que si a
-ratro discipline bene culta fuerit⸵ letas uirtutum segetes producet. Clausis ergo foribus animi˷ ne uage clamdestinis passibus accedant cogitationes˷ tranquillitatis interne perturbatrices⸵ se ipsum conueniat homo. conscientiam consulat⸵ utrum directo
-tramite per uias salutis˷ ad metam debitam tendat. Egredere
-postea cum abraham de terra tua˷ de terra scilicet liberi arbitrii. et de cognatione tua˷ sedatis iam motibus mentis. egredere inquam passibus considerationis⸵ ad uanitaties rerum et utilitates earundem perspiciendas. Quid nobis ad maiora natis. et
-uanitatibus mundi? Vtilitates rerum inspecte⸵ in admirationem tam potentie quam sapientie quam benignitatis diuine nos
-rapiant. Supergredere tandem mundialem machinam. et
-aciem mentis dirige ut potes in lumen immense glorie⸵ et de
-fecatis meditationibus indulge. et relegatis procul rerum imaginibus⸵ simplicitati intellectus puri preparet iter preuia deuotio. Audebit amor et dulciter et reuerenter intueri maiestatem illius qui nutu concutit orbem⸵ et desiderium suum
-intimare iudici potentissimo set et serenissimo. Porrigat
-humilitas manui benignitatis⸵ libellum confessionis. Nulle in hoc libello reperientur liture. neque enim lituras faciunt
-lacrime deuotionis. Littere digito amoris sancti scripte⸵ sunt
-mentis desideria, postulationes, obsecrationes, supplicationes,
-iubili, gemitus, suspira. In his esto uir, cuius conuersatio est
-in celis. sub cuius pedibus est luna⸵ dum calcas et despicis
-terrena. Stipentur principum latera, satellitum caterua.
-dum modo tui custos fidelis, dominus te muniat et cingat angelorum
-custodia. Custodiant dominum suum satellites⸵ dum modo te dominus
-omnium custodiat.
 
 
 > Vecors est
@@ -231,6 +163,18 @@ Meditations could have been drafted at Oxford, but Cirencester was probably need
 
 ## Meditation and the Augustinians
 
+
+
+
+> Contemplation is associated with spiritual insight (e.g., Solatium 14ra: “Dies septimus est sabbatissimus mentis, quo mens requiescit in operibus dei delectans, aut in contemplationem diuine maiestatis, per apotheosim rapta, delicias eterne dulcedinis prelibat”). Meditation, on the other hand, takes as its subject the present situation of man, and leads to his improvement before he engages in flights of contemplation (Solatium 19va: “Placet etiam dulcedini misericordie dei ut aues hoc est subtiles meditationes quibus contemp- nimus uaga ista bona et fluctuantia multiplicentur in nobis super terram liberi arbitrii ... Similiter meditationes honeste adornant rerum universitatem sicut omnia honesta opera creaturarum numerum adornant”). [@záhora:2011tropology, p. 119n27]
+
+Hunt had very little to say about Alexander's meditations. 'They are the overflow of his personal devotion.' [@hunt:1984schools, p. 106] ** = 'consolatory meditations'
+
+- Hunt's version: not a fan, 'the overflow of [Alexander's] personal devotion' <!-- adjust q, taken from Bestul --> [@hunt:1984schools, pp. 106–107]
+- there is a longer tradition of this
+
+
+
 The idea of presenting an analytic work as a meditation was hardly new: Anselm of Canterbury is also known for having done this [cf. @cottier:2001anima].
 
 Instead, this work should be understood as one of a series of meditative biblical commentaries he wrote while at Cirencester: along with *De naturis rerum*, there survive a commentary on the *Song of Songs*, also called *Laus beatissime uirginis* [@mcdonough:2004laus]; the *Tractatus super Parabolas Salomonis*, an incomplete commentary covering Proverbs 1:1–3:27; the *Tractatus super Mulierem fortem*, a threefold commentary on Proverbs 31:10–31; and a *Meditatio de Magdalena* [edited in @bestul:1999meditation]. Whenever Alexander himself refers to one of these books, he calls it a 'meditatio'. The purpose of this chapter is to explain how Alexander used this idea from the tradition of monastic biblical commentaries to meet the needs of his community, and to consider its relationship to himself, as when in the conclusion to his *Tractatus super Mulierem fortem* he calls the book 'speculum animi mei' (J, fol. 125ra).
@@ -271,9 +215,11 @@ bit like @leclercq:1982love [p. 16]:
 
 At the beginning of his commentary on Proverbs, Alexander holds meditation in high regard:
 
-> Human meditation at one moment is turned back on man himself; at another it passes to the other created things; sometimes it is directed to the author of things. While indeed it is turned back to man, contemplation is either directed round those things that look to the dignity of a noble creature, or on those that sink to the fragility of the human condition. When, however, reason, just as if it were sitting in a watchtower, discerns the changes of transitory things, and at times their vanity, it often discovers their usefulness. But while it ventures on that immeasurable light itself, on the contrary devotion rejoices to transfix the sharpness of the mind, for the eye of love runs back gladly to the beloved: sometimes it sweetly sees the humility of taking up humanity, sometimes it reverently regards the height of divine majesty. Therefore reason, entering the inner chamber of the heart and concentrating its thoughts inwards, considers the dignity and fragility of human nature; crossing to the show of the worldly theatre, it recognizes the vanity and usefulness of things; raising itself above itself, it considers the humanity and divinity of the saviour. Thus the dove of divine grace carries the olive-branch of peace to one entering the ark with Noah; thus wisdom, symbolized through Rebecca, runs to meet one going out into the field of the world with Isaac by the grace of meditation; thus mysteries are revealed to one carried into heaven with Paul, which it will not be permitted to disclose to a wise man in the flesh.
+> Human meditation at one moment is turned back on man himself; at another it passes to the other created things; sometimes it is directed to the author of things. While indeed it is turned back to man, contemplation is either directed round those things that look to the dignity of a noble creature, or on those that sink to the fragility of the human condition. When, however, reason, just as if it were sitting in a watchtower, discerns the changes of transitory things, and at times their vanity, it often discovers their usefulness. But while it ventures on that immeasurable light itself, on the contrary devotion rejoices to transfix the sharpness of the mind, for the eye of love runs back gladly to the beloved: sometimes it sweetly sees the humility of taking up humanity, sometimes it reverently regards the height of divine majesty. Therefore reason, entering the inner chamber of the heart and concentrating its thoughts inwards, considers the dignity and fragility of human nature; crossing to the show of the worldly theatre, it recognizes the vanity and usefulness of things; raising itself above itself, it considers the humanity and divinity of the saviour. Thus the dove of divine grace carries the olive-branch of peace to one entering the ark with Noah; thus wisdom, symbolized through Rebecca, runs to meet one going out into the field of the world with Isaac by the grace of meditation; thus mysteries are revealed to one carried into heaven with Paul, which it will not be permitted to disclose to a wise man in the flesh.[^med]
 
-> Meditatio humana nunc in ipsum hominem reflectitur. nunc in ceteras transit creaturas⸵ nunc in auctorem rerum. dirigitur. Dum uero in hominem reciprocatur. aut circa ea que spectant ad nobilis creature dignitatem uersatur consideratio⸵ aut in iis que uergunt ad humane conditionis fragilitatem. Cum autem tanquam in specula residens ratio˷ rerum transitoriarum. cernit alterationes⸵ quandoque ipsarum uanitatem˷ non numquam earundem deprehendit utilitatem. Set dum in illud illud lumen immensum audet. immo gaudet mentis aciem figere deuotio˷ ad dilectum enim libenter recurrit amoris oculus⸵ nunc humanitatis assumpte humilitatem dulciter. nunc diuine maiestatis sublimitatem reuerenter intuetur. Ingrediens igitur ratio thalamum cordis et se intra se colligens⸵ dignitatem nature humane et fragilitatem considerat. transiens ad spectacula theatri mundialis⸵ rerum agnoscit uanitatem et utilitatem. erigens se supra se⸵ contemplatur humanitatem saluatoris et diuinitatem. Sic ingredienti archam cum Noe⸵ deferet columba diuine gratie⸝ ramum oliue pacis. sic egredienti in agrum mundi istius cum Ysaac gratia meditationis⸵ occurret sapientia per Rebeccam designata. sic rapto in celum cum Paulo⸵ reuelabuntur archana. que non licebit manifestari homini carnaliter sapienti.^[*CProv*, J 57ra]
+[^med]: *Super parabolas* Prol.1 (Jesus College 94, fol. 57ra):
+
+    > Meditatio humana nunc in ipsum hominem reflectitur. nunc in ceteras transit creaturas⸵ nunc in auctorem rerum. dirigitur. Dum uero in hominem reciprocatur. aut circa ea que spectant ad nobilis creature dignitatem uersatur consideratio⸵ aut in iis que uergunt ad humane conditionis fragilitatem. Cum autem tanquam in specula residens ratio˷ rerum transitoriarum. cernit alterationes⸵ quandoque ipsarum uanitatem˷ non numquam earundem deprehendit utilitatem. Set dum in illud illud lumen immensum audet. immo gaudet mentis aciem figere deuotio˷ ad dilectum enim libenter recurrit amoris oculus⸵ nunc humanitatis assumpte humilitatem dulciter. nunc diuine maiestatis sublimitatem reuerenter intuetur. Ingrediens igitur ratio thalamum cordis et se intra se colligens⸵ dignitatem nature humane et fragilitatem considerat. transiens ad spectacula theatri mundialis⸵ rerum agnoscit uanitatem et utilitatem. erigens se supra se⸵ contemplatur humanitatem saluatoris et diuinitatem. Sic ingredienti archam cum Noe⸵ deferet columba diuine gratie⸝ ramum oliue pacis. sic egredienti in agrum mundi istius cum Ysaac gratia meditationis⸵ occurret sapientia per Rebeccam designata. sic rapto in celum cum Paulo⸵ reuelabuntur archana. que non licebit manifestari homini carnaliter sapienti.
 
 ## *Meditatio* and the work of an abbot
 
@@ -291,15 +237,19 @@ There has been confusion about the meaning of the title *Corrogationes Promethei
 
 The first section of the poem presents an abbot who was benevolent but firm, providing instruction that would be both helpful and enjoyable:
 
-> | Instruat ergo suos, re, uerbo, doctor; ab oris
-> |     Eius procedant mellea uerba fauo.
-> | Vtilitas uerbis subsit, doctrina fidelis
-> |     Delectat, set plus utilitate iuuat.
-
 > | Therefore let the teacher teach by deed and word;
 > |     let honey-sweet words advance from the comb of his mouth.
 > | Let the usefulness of his words form a foundation, the teaching of the faithful
-> |     delight, but it pleases more by usefulness. [*CNP*, fol. 232ra: @cropp:1991critical, lines 109–112]
+> |     delight, but it pleases more by usefulness.[^use]
+
+[^use]: *Corrogationes noui Promethei* 109–112 (BnF lat. 11867, fol. 232ra), @cropp:1991critical, 167–68:
+
+    > | Instruat ergo suos, re, uerbo, doctor; ab oris
+    > |     Eius procedant mellea uerba fauo.
+    > | Vtilitas uerbis subsit, doctrina fidelis
+    > |     Delectat, set plus utilitate iuuat.
+
+
 
 Above all, he is to be both learned and virtuous:
 
@@ -314,6 +264,44 @@ Unfortunately, no letters from Alexander survive that might show in practice how
 <!--abbots not fond of learning: @harris:1982influences, p. 13n68; @hunt:1936english, p. 26; @leclercq:1982love, p. 241–242 (or 2nd ed?) -->
 
 If Alexander calls his book 'speculum animi mei' (*SMF*, J, fol. 125r) or his theological treatise *Speculum speculationum*, what does it mean for an abbot to be a mirror to his flock?
+
+## The uses of books among the Augustinians
+
+Alexander's meditations fit into the role
+
+The Rule of St Augustine is maddeningly unspecific, and this is no less the case in its discussion of intellectual pursuits. The *Ordo monasterii* only specifies that adherents should undertake three hours of reading each day at the same time, in addition to listening to readings at meals [*Ordo monasterii* 3, 7, @lawless:1987augustine, 74–75, 76–77]; the *Praeceptum* only underlines these points [*Praeceptum* 2.4, 3.2, 4.9–10, @lawless:1987augustine, 84–85, 96–97]. In the twelfth century, an attempt was made to determine precisely what this meant in the *Colloquium magistri et discipuli in regulam beati Augustini de uita clericorum* (or *Bridlington Dialogue*), based on Richard of St Victor's *De questionibus regule sancti Augustini solutis* [@webber:1998libraries, p. xxi; from @lawson:1960bridlington, p. 162; Richard's text is edited in @colker:1962richard, p. 219]. It appears that the Augustinian canons themselves had little idea what to make of such strictures. Richard and the *Bridlington Dialogue* tend towards liberality in their interpretations.
+
+- St Bart's Smithfield? write BL lady Boyle lecture about this
+
+- Barnwell 1296–96: @clark:1909care
+
+- who were the Augustinians?
++ did pastoral care really matter to them?
+
+- why are books important?
+
+- what does Watson/Webber say about books?
+- what did augustinians read?
+- does the 'pastoral care' thing matter?
+
+- what do rules say about daily life and about provision for books?
+
+- importance of teaching?
+
+
+- what were the expectations of a typical canon?
+
+- what intellectual attitudes to they show, esp. to scholasticism? (how does this compare to other orders? start with R.W.S.)
+
+- how does A compare?
+
+Alexander, as a teacher, would have fit in very well with such a group
+
+cite these, from @mcdonough:2005cambridge, p. 809n109:
+
+@mews:2001hugh, pp. 71-72
+@taylor:2002textual, pp. 60–61
+@clark:1897observances, p. 6 -->
 
 
 
