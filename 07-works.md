@@ -426,7 +426,7 @@ Quotations from a work with this title in *Sol meldunensis*, with an expanded te
 - Benedictines, Ramsey: Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.12]
 - Carthusians, Witham: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.12]
 
-### *Glose super Psalterium*
+### *Glose super psalterium*
 
 @stegmüller:1950repertorium, no. 1163
 
@@ -434,7 +434,8 @@ inc. prol.
 : De ortu deliciarum paradysi …
 
 expl. prol.
-: … que per regnum Salomonis designata est.
+: (*original*) … nulla discordia. nec postulatio. qualis sit in uia.
+: (*revised*) … que per regnum salomonis designata est.
 
 inc. text
 : 'Beatus uir' … Licet psalmus iste exponatur …
@@ -523,7 +524,7 @@ Excerpts in *Sol meldunensis*.
 
 - Benedictines, Canterbury, St Augustine's: Catalogue, 15th cent. [@barkerbenfield:2008augustines, BA1.\*17b], 'tractatus moralis super genesim', anon. = [Canterbury Lit. B. 6 (4)](http://mlgb3.bodleian.ox.ac.uk/mlgb/book/1443/)
 
-The only other record of the *Solatium* is a seventeenth-century annotation to *Laus beatissime uirginis* (London, BL, Royal 4 D. XI, fol. 32): 'Neckami liber inscriptus Solatium fidelis animae'. The 'Liber supplicationum' noted by @damon:1957note [p. 102] is *Suppletio defectuum* [@hunt:1984schools, p. 139].
+The only other record of the *Solatium* is a seventeenth-century annotation to *Laus beatissime uirginis* (London, British Library, Royal 4 D.XI, fol. 32r): 'Neckami liber inscriptus Solatium fidelis animae'. The 'Liber supplicationum' noted by @damon:1957note [p. 102] is *Suppletio defectuum* [@hunt:1984schools, p. 139].
 
 #### Literature
 
@@ -598,7 +599,7 @@ expl. text
 
 #### Literature
 
-@fulton:1996mimetic; @fulton:1998quae; @holdsworth:1996two; @loewe:1966hebrew; @mcdonough:2004laus
+@fulton:1996mimetic; @fulton:1998quae; @holdsworth:1996two; @loewe:1966hebrew; @mcdonough:2004laus; @riedlinger:1958makellosigkeit [pp. 320-333]
 
 ### *Corrogationes Promethei*
 
@@ -854,14 +855,14 @@ Excerpts in *Sol meldunensis* and London, British Library, Add. 69999.
 
 #### Literature
 
-@brown:1920mulier; @gärtner:2009fit; @glunz:1933history; @hunt:1991teaching; @meyer:1896notice; @wolff:1974alexandre
+@brown:1920mulier; @gärtner:2009fit; @glunz:1933history; @hunt:1991teaching [pp. 1:235–246]; @meyer:1896notice; @wolff:1974alexandre
 
 ### *Corrogationes Promethei metrice*
 
 @walther:1969initia, no. 6045
 
 inc.
-: Excipit a bissus et ab hoc generatur abissus …
+: Excipit .a. bissus et ab hoc generatur abissus …
 
 expl.
 : … Fluxus adest, exta languentibus exscoriantur.
@@ -2016,7 +2017,7 @@ All that survives is one couplet in the *Distinctiones Monastice* [@hunt:1984sch
 
 #### Literature
 
-@binski:2011western; @bisanti:2002novus; @bisanti:2010novus; @braunholtz:1927streitgedichte; @cropp:1991critical; @ditommaso:2008pseudepigrapha; @duméril:1854novus; @esposito:1915unpublished; @ferruolo:1985origins; @froehner:1862magistri; @reeve:2007geoffrey; @hervieux:1894alexandri; @hunt:1984schools [p. 147]; @hochgürtel:2008alexandri; @hunt:1991teaching; @klein:1998alexander; @mcdonough:2004laus; @mcdonough:2005cambridge; @öberg:1965serlon; @rigg:1977golias; @russell:1932alexander; @wilmart:1938suite; @wollin:1998petrus
+@binski:2011western; @bisanti:2002novus; @bisanti:2010novus; @braunholtz:1927streitgedichte; @cropp:1991critical; @ditommaso:2008pseudepigrapha; @duméril:1854novus; @esposito:1915unpublished; @ferruolo:1985origins; @froehner:1862magistri; @reeve:2007geoffrey; @hervieux:1883fabulistes [pp. 222–234, 462–267]; @hunt:1984schools [p. 147]; @hochgürtel:2008alexandri; @hunt:1991teaching; @klein:1998alexander; @mcdonough:2004laus; @mcdonough:2005cambridge; @öberg:1965serlon; @rigg:1977golias; @russell:1932alexander; @wilmart:1938suite; @wollin:1998petrus
 
 ### Madrid Anthology
 

@@ -25,10 +25,10 @@ Aldhelm
 : *De uirginitate* (Hereford, Cathedral Library, P.i.17)
 
 Alexander Neckam
-: Commentary on the Athanasian Creed (Oxford, Bodleian Library, Bodley 284 (*SC* 2339), a later manuscript)
-: *De laudibus diuinae sapientiae* (Leland)
+: Commentary on the Athanasian Creed (Oxford, Bodleian Library, Bodley 284 [*SC* 2339])
+: *Laus diuine sapientie* (Leland)
 : *De naturis rerum*/Commentary on Ecclesiastes (Oxford, Magdalene College, 139; identified with Cirencester by Michael Gullick in the forthcoming library catalogue by Ralph Hannah, confirmed independently)
-: Gloss on the Psalter (two copies: Oxford, Bodleian Library, Bodley 284 (*SC* 2339); Oxford, Jesus College, 94; Leland)
+: Gloss on the Psalter (two copies: Oxford, Bodleian Library, Bodley 284 [*SC* 2339]; Oxford, Jesus College, 94; Leland)
 : *Laus beatissime uirginis*/Commentary on the Song of Songs (Leland)
 : Sermons on the Nativity of the Blessed Virgin Mary (Oxford, Jesus College, 94)
 : *Speculum speculationum* (Leland; London, British Library, Royal 7 F.i)
@@ -119,8 +119,8 @@ Chrysostom
 : Sermo antequam iret in exsilium (Hereford, Cathedral Library, O.v.14; *Registrum* 9.14)
 : *De regressu Asiae* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.15)
 : *De proditione Iudae* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.16)
-: *De cruce dominica* (*Registrum* 9.18) <!-- Where is this coming from? -->
-: *De ascensione* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.19) <!-- Check Hereford, Cathedral Library, O.v.14; is this in Ker? How was it missed? -->
+: *De cruce dominica* (*Registrum* 9.18)<!-- Where is this coming from? -->
+: *De ascensione* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.19)<!-- Check Hereford, Cathedral Library, O.v.14; is this in Ker? How was it missed? -->
 : *De decollatione Ioannis Baptistae* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.20, 'De muliere mala')
 : *De laudibus Pauli* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.25)
 : *De confessione peccati* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.26)
@@ -131,7 +131,7 @@ Cyprian
 : *De opere et eleemosynis* (*Registrum* 21.17)
 
 Faltonia Betitia Proba
-: *Cento Vergilianus de laudibus Christi*: 'Opusculum … ad testimonium et noui testamenti uersifice compositum' (recorded in Oxford, Bodleian Library, Barlow 48 (*SC* 6428), but now separated from the rest of the manuscript)<!-- Any chance of finding it? How many mss are there from s. xii? -->
+: *Cento Vergilianus de laudibus Christi*: 'Opusculum … ad testimonium et noui testamenti uersifice compositum' (recorded in Oxford, Bodleian Library, Barlow 48 [*SC* 6428], but now separated from the rest of the manuscript)<!-- Any chance of finding it? How many mss are there from s. xii? -->
 
 Fulbert of Chartres
 : *Epistolae* (Hereford, Cathedral Library, P.ii.15)

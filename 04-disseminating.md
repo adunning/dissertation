@@ -28,7 +28,7 @@ Jesus College 94 once belonged to Cirencester, and consists of three separate bo
 
 ![Differing page sizes in Jesus College 94.](figures/oxford-jesus-college-94-21r.jpg)
 
-#### Gloss on the Psalter
+#### *Glose super psalterium*
 
 It is immediately apparent from the smaller size of this section (273 × 331 mm) in comparison to the rest of the manuscript that this has a different context from the other booklets. It is heavily worn, and represents the remnants of a much more extensive manuscript. Its text is incomplete due to lost gatherings, as can be seen from the manuscript's collation. Alexander's gloss on the Psalter is directly linked to his teaching work, representing his lectures on this text. Hunt notes a reference to the Third Crusade in the work, meaning that it must have been completed after 1193; he also notes that it must have been written after he joined the Augustinians [@hunt:1984schools, pp. 26-27]. He assumes this means that it must have been completed at Cirencester, probably influenced by the prominent *ex libris* mark.[^exlib] This is followed by a further rubric, 'Glose magistri Alexandri abbatis cyrenc' super psalterium.' Both of these are later additions to the manuscript: the *ex libris* is written in a fourteenth-century cursive, and the rubric was not intended as part of the original page design, written above the text block in a different shade of red from that used to highlight the letters of the first line. This can only be used to demonstrate that the book was owned by Cirencester in the thirteenth century. The style of the rest of the booklet is entirely unlike other manuscripts produced at Cirencester.
 
@@ -51,7 +51,7 @@ If the theory is correct that Alexander first wrote his gloss in his earlier day
 
 One could therefore construct the following narrative for this booklet: Alexander's copy of his gloss on the Psalter was first produced at Oxford after 1193, after which some copies were made from the manuscript. He revised the text as he continued to teach as a canon at St Frideswide's, and brought the copy (probably becoming somewhat bedraggled with use) with him to Cirencester. More copies were made at some point that included his changes in the text, with either himself or another cleric revising the text mildly to integrate the additions more thoroughly. After Alexander's death, the booklet was included in this manuscript to assemble his lesser or unfinished biblical commentaries, omitting booklets that had been lost or damaged; Bodley 284 might have been commissioned as a replacement.
 
-#### Commentary on Proverbs
+#### *Super parabolas*
 
 Alexander's commentary on Proverbs, entitled *Tractatus super Parabolas Salomonis*, forms most of the second booklet of Jesus College 94. This copy is unfinished, and it is unlikely that it ever reached a more advanced state. He only claims to have begun the work in *Speculum speculationum*: 'Memini autem me aliqua proposuisse super hoc in ingressu tractatus quem institui super parabolas.' [@thomson:2011alexandri, 3.81.1: London, British Library, Royal 7 F.1, fol. 68va] This did not stop copies from being made: one was owned by the Carmelite Hulne Priory [@humphreys:1990friars, F15.1], and another by the Dominicans at Lincoln [according to Leland's notes in London, BL, Royal App. 69, fol. 3r: cited in @hunt:1984schools, p. 137]. The only known excerpts from the work, found in *Sol meldunensis* [Oxford, Bodleian Library, Hatton 102 (*SC* 4051), fol. 200v, cited in @hunt:1984schools, p. 136, includes two passages that are cited from the commentary on Proverbs, but are from the *Tractatus super Mulierem fortem*].
 
@@ -154,7 +154,7 @@ By combining the number of surviving manuscripts with medieval library catalogue
 | *Expositio simboli*               |           5 |       7 |    12 |
 | *Nouus Esopus*                    |           7 |       4 |    11 |
 | *Laus sapientie diuine*           |           6 |       5 |    11 |
-| *Glose super Psalterium*          |           4 |       7 |    11 |
+| *Glose super psalterium*          |           4 |       7 |    11 |
 | *Super Mulierem fortem*           |           2 |       5 |     7 |
 | *Corrogationes Promethei metrice* |           3 |       3 |     6 |
 | *Super Martianum*                 |           2 |       4 |     6 |
