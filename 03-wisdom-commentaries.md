@@ -22,7 +22,7 @@ This is also the first of Alexander's commentaries that can be labelled as one o
 
 ### *Laus beatissime uirginis*: Commentary on the Song of Songs
 
-*Laus beatissime uirginis*, as Alexander refers to his commentary on the Song of Songs, picks up where he left off in *Solatium*. Its proem describes the virtues of humility and obedience, continuing through Genesis with Noah, Abraham, Moses, and other figures of the Old Testament. These are all portrayed as forerunners of the Virgin Mary, herself the ideal model for human emulation. The first chapters of Book 1 pick up not at the beginning of the Song of Songs, but once again with the beginning of Genesis. If Alexander can be taken at his word, the work was conceived from the outset as the first of a series of commentaries on the Wisdom books. He explains later in *Super parabolas* that the order of the books' interpretation differs from that of their appearance ('just as the order of the edition of the books of Aristotle'): the Song of Songs is logically the first book in terms of exposition, as it addresses the Incarnation; Ecclesiastes relates to the time of the preaching of the Apostles; and Proverbs to the time of the rise of heretics.[^order]
+*Laus beatissime uirginis*, as Alexander refers to his commentary on the Song of Songs, picks up where he left off in *Solatium*. Its proem describes the virtues of humility and obedience, continuing through Genesis with Noah, Abraham, Moses, and other figures of the Old Testament. These are all portrayed as forerunners of the Virgin Mary, herself the ideal model for human emulation. The first chapters of Book 1 pick up not at the beginning of the Song of Songs, but once again with the beginning of Genesis. If Alexander can be taken at his word, the work was conceived from the outset as the first of a series of commentaries on the Wisdom books. He explains later in *Super parabolas* that the order of the books' interpretation differs from that of their appearance ('just as the order of the edition of the books of Aristotle'): the Song of Songs is logically the first book in terms of exposition, as it addresses the 'mystery of the Incarnation'; Ecclesiastes relates to the 'time of apostolic preaching'; and Proverbs to the 'time of the rise of heretics'.[^order]
 
 [^order]: *Super parabolas* Proem.6, Oxford, Jesus College, 94, fol. 59rb:
 
@@ -34,11 +34,11 @@ It is also in *Laus beatissime uirginis* that Alexander develops what he later c
 
 > I have primarily aimed to devote myself to tropology, so that passages of allegory may be saved for a particular case. And let not a casual observer accuse me of long-windedness; for it is pleasing not to take the duty of an expositor, but to revive the souls of a cloister with consolatory meditations, sometimes shaken by wrongful troubles, and sometimes wounded by its own arrows.[^tropologie]
 
-It should be no surprise that readers who have approached Alexander's commentaries looking for an encyclopedia or a more advanced version of the *Glosa* have come away disappointed, but that does not meant that they were any less innovative in their own day. There is great potential for reading them in the wrong way if one is unaware of their explicit function as a tool for pastoral care.
-
 [^tropologie]: *Super parabolas* Proem.6, Oxford, Jesus College, 94, fol. 59rb–va, also quoted in @hunt:1984schools, 97:
 
     > Principaliter uero tropologie indulgere proposui. ita ut allegorie loca quedam specialiter reseruentur. Nec me prolixitatis arguat temerarius arbiter. neque enim expositoris officium tantum⸝ assumere libet⸵ set etiam consolatoriis meditationibus [59va] recreare claustralium animos⸝ non nunquam iniustis uexatos molestiis. non nunquam propriis sautiatos iaculis.
+
+It should be no surprise that readers who have approached Alexander's commentaries looking for an encyclopedia or a more advanced version of the *Glosa* have come away disappointed, but that does not meant that they were any less innovative. It has already been noted that Alexander took pains to work with speakers of Hebrew to improve his exegesis [@loewe:1958alexander; @hunt:1984schools, pp. 108–110]. There is great potential for reading them in the wrong way if one is unaware of their explicit function as a tool for pastoral care.
 
 <!-- check @riedlinger:1958makellosigkeit, 320-333 for edition of Neckam CCant 1.6; cited in @holdsworth:1996two, p. 156 -->
 
@@ -48,7 +48,7 @@ The next work of biblical scholarship Alexander completed after *Laus beatissime
 
 There has been confusion about the meaning of the title *Corrogationes Promethei* since Alexander's own time [the problem is examined in detail by @cropp:1991critical, pp. 52–71]. A letter survives with a thirteenth-century copy of the work glossing the title as 'collections of a wise or prudent man' ['Congregationes sapientis siue prudentis': Évreux, Bibliothèque municipale, L. 72, fol. 1v: printed by @omont:1887catalogue, p. 65; @meyer:1896notice, pp. 651–652; @guéry:1917histoire, pp. 393–394]. Meyer felt that the title implied a complaint, preferring to translate the title as 'Travaux d'un homme condamné à l'oisiveté' [@meyer:1896notice, p. 653]. In support of this view, he cites a preface by the younger Peter of Blois, a canon of Chartres, comparing himself to the suffering and banished Prometheus, 'a scolasticis semotus deliciis' [@reimarus:1837petri, p. 1]. Did Alexander think of himself as exiled to Cirencester, separated from the scholastic delights of Paris and Oxford? Probably not – and even if he did, he was far too optimistic to say it openly. Hunt notes that Prometheus is presented as a teacher when the work is mentioned in *De naturis rerum*; he glosses the title as 'collections of an instructor in the rudiments' [@hunt:1984schools, p. 36]. Wedge, in an attempt to reconcile the three views, amplifies it further: 'collections of a scholar who has only his leisure hours to devote to the study of the Scripture, being at other times weighed down by more worldly duties' [@wedge:1967alexander, p. 77].<!-- check quotation --> Cropp further points out a Servian interpretation of Prometheus as found in the Third Vatican Mythographer, in which he is presented as a self-sacrificing scholar and instructor [@cropp:1991critical, pp. 69–71]. Perhaps most convincing is the suggestion of the *Dictionary of Medieval Latin from British Sources* of a reference to *Rhetorica ad Herennium* 4.9 that compares Prometheus to a 'ridiculous master' [@latham:1975dictionary, s.v. 'corrogatio']. Alexander might have seen this in Priscian's quotation of the passage [Priscian, *Ars grammatica* 3.34, @hertz:1855prisciani, 2:108, lines 10–11]. This makes the title a self-deprecating and slightly humorous one.
 
-The relationship of *Corrogationes Promethei* to Alexander's other biblical work is somewhat difficult to determine. One can guess that parts of it were based on his lecture notes, as there are many similarities in approach with *Super psalterium*. At first glance, it would appear to offer a glimpse at Alexander's pure analytical side, but this impression is complicated by *Sol meldunensis* (Cambridge, University Library, Gg.6.42). This presents several excerpts from *Corrogationes Promethei* (and its citations tend to be accurate) that suggests that there were several sections of the work that sought to contribute some levity similar to the *exemplaria* of his sermons, notably a story of a deacon punished for celebrating a Mass (fols 92r–92v, an added leaf). There are also several passages from a prosimetrical version of *Corrogationes noui Promethei* that is not known to survive, but is mentioned in the library catalogue of the Augustinian canons at Barnwell [@webber:1998libraries, A2.†3].
+The relationship of *Corrogationes Promethei* to Alexander's other biblical work is somewhat difficult to determine. One can guess that parts of it were based on his lecture notes, as there are many similarities in approach with *Super psalterium*. At first glance, it would appear to offer a glimpse at Alexander's pure analytical side, but this impression is complicated by *Sol meldunensis* (Cambridge, University Library, Gg.6.42). This presents several excerpts from *Corrogationes Promethei* (and its citations tend to be accurate) that suggests that there were several sections of the work that sought to contribute some levity similar to the *exemplaria* of his sermons, notably a story of a deacon punished for celebrating a Mass (fols 92r–92v, an added leaf). There are also several passages from a prosimetrical version of *Corrogationes noui Promethei* that is not known to survive, but is mentioned in the library catalogue of the Augustinian canons at Barnwell [@webber:1998libraries, A2.†3]. In the context of the early thirteenth century, the most obvious link between *Corrogationes Promethei* and Alexander's other works remains that of preaching, which has been shown to have driven much of the demand for similar reference works [@rouse:1982statim].
 
 ### *De naturis rerum*: Commentary on Ecclesiastes
 
@@ -76,9 +76,7 @@ The progression of Alexander's meditations becomes increasingly muddy with his l
 
 This neatly encapsulates the Gospel passages typically associated with Mary Magdalene in the Middle Ages, using these as a literal interpretation of the Song of Songs: 'Let us listen to the historical words of the evangelist, faithfully expounding the text of Solomon.'^[*De Magdalena*, Hereford, Cathedral Library, O.i.2, fol. 140ra: 'Audiamus uerba euangelice historie⸵ textum salomonis fideliter exponentia.'] Mary Magdalene is also associated with several other biblical women such as Rebecca and Sara, all put forward as ideal models for anyone who wishes to 'manfully support a burden and perturbation day and night'[^uiriliter] through meditation and humility, and thereby able to reach the heights of contemplation.[^ignoras]
 
-[^uiriliter]: *De Magdalena*, Hereford, Cathedral Library, O.i.2, fol. 136rb:
-
-    > Milites egregii⸵ sunt milites christi. qui uiriliter sustinent pondus et estum dierum et noctium
+[^uiriliter]: *De Magdalena*, Hereford, Cathedral Library, O.i.2, fol. 136rb: 'Milites egregii⸵ sunt milites christi. qui uiriliter sustinent pondus et estum dierum et noctium.'
 
 [^ignoras]: *De Magdalena*, Hereford, Cathedral Library, O.i.2, fol. 136va:
 
@@ -86,17 +84,29 @@ This neatly encapsulates the Gospel passages typically associated with Mary Magd
 
 ### *Tractatus super Mulierem fortem*
 
-Just as *Laus beatissime uirginis* is an expansion of *Solatium fidelis anime*, Alexander's *Tractatus super Mulierem fortem* is even more directly an extension of his *Meditatio de Magdalena*. It runs through the entire 'strong woman' text of Proverbs 31:10–31 three times, dealing in turn with Mary Magdalene, the Virgin Mary, and the Church. The first book includes many borrowings from *De Magdalena*, though it was not conceived as a revision of this work, referring to it separately.^[Jesus College 94, fol. 79ra: 'Beata autem magdalena cuius laudibus iterato deseruire stilus noster gloriatur'.] As with *De Magdalena*, there is no specific evidence that the work was written after *De naturis rerum*. Hunt placed its writing during Alexander's abbacy on the basis that 'he assumes the tone of a superior giving instruction' [@hunt:1984schools, p. 28], but can be disproven through a cross-reference to it early in *Speculum speculationum*, which Hunt affirmed had been begun while Alexander was still a canon [*Speculum speculationum* 1.2.10, London, British Library, Royal 5 F.I, fol. 5va, @thomson:1988alexander, p. 23]. Its reference to *Laus uirginis* refers to it as having been finished, which might imply that this was recent.^[Jesus College 94, fol. 99vb: 'Dulcissima est historialis intelligentie ueritas. quam expositione luculenta declarauimus in opere nostro⸵ quod in laudes gloriose dei genitricis feliciter consummauimus.'] The evidence of a copy of the work with Alexander's autograph corrections, [Oxford, Jesus College, 94] (as discussed in more detail below) as well as the structure of the text suggest that second two books were a later addition.
+Just as *Laus beatissime uirginis* is an expansion of *Solatium fidelis anime*, Alexander's *Tractatus super Mulierem fortem* is even more directly an extension of his *Meditatio de Magdalena*. It runs through the entire 'strong woman' text of Proverbs 31:10–31 three times, dealing in turn with Mary Magdalene, the Virgin Mary, and the Church. The first book includes many borrowings from *De Magdalena*, though it was not conceived as a revision of this work, referring to it separately.^[Jesus College 94, fol. 79ra: 'Beata autem magdalena cuius laudibus iterato deseruire stilus noster gloriatur'.] As with *De Magdalena*, there is no specific evidence that the work was written after *De naturis rerum*. Hunt placed its writing during Alexander's abbacy on the basis that 'he assumes the tone of a superior giving instruction' [@hunt:1984schools, p. 28], but can be disproven through a cross-reference to it early in *Speculum speculationum*, which Hunt affirmed had been begun while Alexander was still a canon [*Speculum speculationum* 1.2.10, London, British Library, Royal 5 F.I, fol. 5va, @thomson:1988alexander, p. 23]. Its reference to *Laus uirginis* refers to it as having been finished, which might imply that this was recent.^[Jesus College 94, fol. 99vb: 'Dulcissima est historialis intelligentie ueritas. quam expositione luculenta declarauimus in opere nostro⸵ quod in laudes gloriose dei genitricis feliciter consummauimus.'] The evidence of a copy of the work with Alexander's autograph corrections, [Oxford, Jesus College, 94] (discussed in more detail below) and the structure of the text suggest that second two books were a later addition.
 
+*Super Mulierem* does not diverge from the path set by Alexander's other meditations: tropology remains the focus,[^ordeum] and meditation itself continues to be shown as the surest route to kindling love for the divine within oneself.[^supremo] The first two books read almost as a catalogue of women from the Old Testament, with the last book showing that the *Mulierem fortem* passage applies to all that is holy – the Church is strong in terms of the married, widows, virgins, confessors, martyrs, and those leaving both active and contemplative lives.[^lives] His enthusiasm and impartiality is almost overwhelming.
 
+[^ordeum]: *Super Mulierem*, Jesus College 94, fol. 84rb: 'Et dum ordeum simplicis doctrine qua apostoli suos auditores refecerunt˷ in mensura fidei reseruauit⸵ inuenit tres modios spiritualis intelligentie. tropologiam uidelicet cum allegoria et anagoge.'
+
+[^supremo]: *Super Mulierem*, Jesus College 94, fol. 122rb–va:
+
+    > Supremo ordini se conformare uidentur. quorum cor adeo diuino igne feruet et estuat amoris sancti incendio⸵ ut meditationes sint ignee. colloquia⸵ ignita. opera luceant exteriora. Concaluit inquit amans⸵ cor meum intra me. et in meditatione mea exardescet ignis. Dum cor ignitum se ipsum colligit et includit intra se clausis fenestris sensuum˷ excluso uago agmine molestarum cogitationum⸵ estuat amplius ignis quasi inclusus. Nec ait propheta˷ incaluit⸵ set concaluit. Ac si diceret. Totum insimul incaluit. et ex omni parte sui accensum est. Ignis ergo deuotionis⸵ illuminat et incendit meditationes. et eas sursum tendere tanquam subtiliatas et depuratas⸵ uirtus ignis efficit. Singulariter tamen dictum est meditatione. quia omnes meditationes amoris sancti⸵ in eundem finem tendunt. Adde. quia et si deuotio multiplicet meditationes. unica tamen meditatione usum se fuisse censet amor sanctus⸵ pre nimia delectatione. Quid quod meditationes continuat uirtus amoris. et ex ipsis una efficitur? Aut certe˷ cum dicitur in meditatione mea exardescet ignis. meditatio uocatur [122va] id⸵ in quod tendit finaliter amantis desiderium. Que est igitur meditatio anime amantis nisi dilectus?
+
+[^lives]: *Super Mulierem*, Jesus College 94, fol. 114vb:
+
+    > Preconiis gloriose dei genitricis⸵ laudes sacrosancte matris ecclesie decreuimus adicere. Vtraque uirgo. utraque⸵ mater. utraque⸵ uirgo mater. Vtraque⸵ mulier fortis. utraque⸵ dilecta. utraque⸵ ab eterno electa. Fortis est autem mater ecclesia in coniugatis. Fortis in uiduis. Fortis in uirginibus. Fortis in confessoribus. Fortis in martiribus. Fortis in actiuis. Fortis in contemplatiuis.
 
 ### *Tractatus super Parabolas Salomonis*
 
-In his commentary on Proverbs, Alexander is finally able to express his full program for meditation.
+Alexander's commentary on Proverbs is unfinished, covering only 1:1 through 3:27. He was presumably still working on it at his death, with the text gradually breaking down into quotations of Bede towards its end – possibly given its final form by his fellow canon Walter de Melida, as suggested below in the discussion of [Oxford, Jesus College, 94]. Nonetheless, at least two other communities acquired copies. He might have had a disadvantage in writing on Proverbs in comparison to *Laus uirginis* and *De naturis rerum*, since he had already lectured on the Song of Songs and Ecclesiastes [*Solatium* 22, fol. 26va, and *Laus uirginis* 6.24, cited in @hunt:1984schools, p. 8].
+
+As it stands, the book provides Alexander's fullest explanation of his program of meditation, closely linked to his articulation for the relationship betweeen Proverbs, Ecclesiastes, and the Song of Songs:
 
 > The book of Proverbs owes itself to ebbing consideration, by which someone turns towards the state of his condition; Ecclesiastes is answerable to the consideration of the worldly vanities; the book of Canticles indulges divine contemplation. Idida[^idida] shouts that 'the beginning of wisdom is the fear of the Lord.' Ecclesiastes preaches, saying, 'Vanity of vanities, vanity of vanities, and all is vanity.' Solomon sighs for the delights of peace, saying, 'Let him kiss me with the kiss of his mouth.' Idida, that is 'you will be beloved by the Lord through humility', which teaches a person to scorn himself and to take prudent fear. Prudence and hope and temperance confer to you the name of a preacher. Prudence, truly investigating the natures of transitory things, understands them to be subject to vanities. Hope, now holding God himself with the hand of desire, declares that everything apart from God is subject to manifold vanity. Temperance, pondering that what is adequate by nature is restrained,<!--?--> knows that the love of temporal things is to be driven out. Holy love and devotion delight to be loved with a kiss and embraces.
 >
-> In threefold contemplation, therefore, the three works of three-named Solomon are complying: to enter, to depart, to surpass. To enter the chamber of the heart, to enter the dug earth, and to know your situation. The dug earth is the land of free will, which, if it is tilled well by the discipline of a farmer, will produce glad crops of virtues. Therefore, a person should meet himself with the doors of the spirit closed, lest wandering thoughts come near secret tracks, disturbers of inner stilness; he should consult the conscience as to whether, with his path directed through the ways of salvation, he is aimed towards the appropriate goal. Afterwards, to depart from your land with Abraham, that is from the land of free will, and from your family, now untroubled by the disturbances of the mind – to depart, I say, by the steps of contemplation, to perceiving the vanities of things and their advantages. What are the vanities of the world to us, born to greater things?<!--?--> Considering the usefulness of things carries us so much away into the admiration of divine power as its wisdom and kindness. Finally, surpass the worldly machine, and direct the sharpness of the mind so that you may drink from the light of immeasurable glory, and indulge in purified meditations; and with the likenesses of things banished far off, devotion, leading the way, may prepare a journey in pure simplicity of understanding.[^J58va]
+> In threefold consideration, therefore, the three works of three-named Solomon are complying: to enter, to depart, to surpass. To enter the chamber of the heart, to enter the dug earth, and to know your situation. The dug earth is the land of free will, which, if it is tilled well by the discipline of a farmer, will produce glad crops of virtues. Therefore, a person should meet himself with the doors of the spirit closed, lest wandering thoughts come near secret tracks, disturbers of inner stilness; he should consult the conscience as to whether, with his path directed through the ways of salvation, he is aimed towards the appropriate goal. Afterwards, to depart from your land with Abraham, that is from the land of free will, and from your family, now untroubled by the disturbances of the mind – to depart, I say, by the steps of contemplation, to perceiving the vanities of things and their advantages. What are the vanities of the world to us, born to greater things?<!--?--> Considering the usefulness of things carries us so much away into the admiration of divine power as its wisdom and kindness. Finally, surpass the worldly machine, and direct the sharpness of the mind so that you may drink from the light of immeasurable glory, and indulge in purified meditations; and with the likenesses of things banished far off, devotion, leading the way, may prepare a journey in pure simplicity of understanding.[^J58va]
 
 [^J58va]: *Super parabolas* Proem.1.5–2.1 (Jesus College 94, fol. 58va):
 
@@ -114,7 +124,7 @@ In his commentary on Proverbs, Alexander is finally able to express his full pro
     Amor sanctus et deuotio⸵ osculo et amplexibus dilecti deliciantur.
     >
     > Triplici igitur considerationi⸵ tria trinomii salomonis opera
-    sunt obnoxia. Ingredere itaque. eregedere⸵ supergredere. Ingredere cordis thalamum. ingredere humum fossam⸵ et tui
+    sunt obnoxia. Ingredere itaque. egredere⸵ supergredere. Ingredere cordis thalamum. ingredere humum fossam⸵ et tui
     statum agnosce. Humus fossa⸵ est terra liberi arbitrii. que si aratro discipline bene culta fuerit⸵ letas uirtutum segetes producet. Clausis ergo foribus animi˷ ne uage clamdestinis passibus accedant cogitationes˷ tranquillitatis interne perturbatrices⸵ se ipsum conueniat homo. conscientiam consulat⸵ utrum directo
     tramite per uias salutis˷ ad metam debitam tendat. Egredere
     postea cum Abraham de terra tua˷ de terra scilicet liberi arbitrii. et de cognatione tua˷ sedatis iam motibus mentis. egredere inquam passibus considerationis⸵ ad uanitaties rerum et utilitates earundem perspiciendas. Quid nobis ad maiora natis. et
@@ -126,123 +136,57 @@ In his commentary on Proverbs, Alexander is finally able to express his full pro
 
     > Salomon tribus nominibus fuisse perhibetur. Primum uocabulum eius Salomon dicitur, id est pacificus, eo quod in regno eius pax fuerit. Secundum nomen Ididia, eo quod fuerit dilectus et amabilis Domino. Tertium uocabulum eius Coheleth, quod Graece appellatur Ecclesiastes, Latine Contionator, quod ad populum loqueretur.<!-- 2 Kings 12:25? -->
 
-
-
-
-
-
-recognizing he is too prolix:
-
-Younger men dare to sweat at new works, while readers may not learn unless they are tiresome and gloomy. I will try therefore, if I am able,[^iuniores]
+This scheme is a practical application of Origen's framing of the Wisdom books in his commentary on the Song of Songs, which Cirencester is known to have owned [@mynors:1991registrum, 10.5]. He refers Proverbs, Ecclesiastes, and the Song of Songs to three branches of knowledge: *ethicam*, *physicam*, *epopticen* or *moralem*, *naturalem*, *inspectiuam* – roughly translatable as moral, natural, and contemplative [Origen, trans. Rufinus, *Commentarium in Canticum canticorum*, Prol.: see @martens:2012origen, p. 79]. It is this opportunity to express his idea of the relationship between the books that seems to have most engaged Alexander's attention and creativity in writing the Proverbs commentary. He is most engaged at the beginning of the work with the falseness of earthly glory, reflecting on the inevitable fall of both classical emperors and modern monarchs. These thoughts would have much occupied him with the events surrounding the signing of the Magna Carta and the Fourth Lateran Council. He recognized that some readers found him too prolix,[^iuniores] and though he promises the 'consolatory meditations' of his earlier commentaries, they never appear. Alexander was exhausted by Rome, writing that he never wished to see the curia again [*Laus sapientie diuine* 0.0.0, @wright:1863alexandri, p. 448; translated in @wedge:1967alexander, p. 20–21]. It seems that both *Super parabolas* and *Speculum speculationum* were victims to his responsibilities as an abbot.
 
 [^iuniores]: *Super parabolas* 1.2, Jesus College 94, fol. 59va:
 
-    > Audeant iuniores audeant operibus nouis
-insudare⸵ dum non nisi molestos et tetricos reperiant lectores. Experiar
-igitur siquid possum experiar. et lectoribus assistam comes indiuidua. Scribentis diligentiam⸵ tediose prolixitati. subtilitatem⸵ ostentiationi
-curiose. breuitatem⸵ ascribi faciam negligentie.
-
-
-## Alexander's commentaries as meditations
-
-The Wisdom books of Proverbs, Ecclesiastes, and the Song of Songs were interpreted by Origen as referring to three branches of knowledge: *ethicam*, *physicam*, *epopticen* or *moralem*, *naturalem*, *inspectivam* – roughly translatable as mortal, natural, and contemplative [Origen, trans. Rufinus, *Commentarium in Canticum canticorum* prol.: see @martens:2012origen, p. 79]. Alexander would certainly have been aware of this, as Cirencester is known to have owned a copy of Origen's commentary on the Song of Songs [@mynors:1991registrum, 10.5].
-
-
-- Alexander wrote on Wisdom books in order to represent all spheres of knowledge
-
-
-These works probably took their original form as oral addresses, later revised for formal recording in a manuscript. On this point, it is very helpful to compare the sermons on the Song of Songs by Bernard of Clairvaux, whose precise method delivery has long been a matter of contention; it is not altogether clear whether these in fact given as sermons in chapter, or whether they were a strictly literary exercise. Alexander's works contribute to the question by adding an organizational scheme that is evidently designed to allow the book to be used as a reference tool.
-
-To distinguish them from Alexander's other commentaries, these have been categorized as 'monastic', and on a certain level this is an appropriate designation, in terms of following in a ruminative pattern akin to that of, for instance, Rupert of Deutz, or the more contemporary commentary on Lamentations by William of Malmesbury. The meditation on Mary Magdalene and *Solatium fidelis anime* are also included in this category. What is striking about Alexander's commentaries is their personal nature. The *Tractatus super Mulierem fortem* appears to be a series of addresses given by Alexander as abbot to his fellow canons; but at the end of this work, he refers to it as *speculum animi mei* – the mirror of his soul. What is the meaning of this, and what function would this have served within his community?
-
-<!-- Is there a source for any of this? -->
-
-
-^[*De naturis rerum* 3.Proem.2, Oxford, Magdalen College, fol. 72v: 'Homo etiam⸵ sui ipsius certissimum est speculum.']
-
+    > Audeant iuniores audeant operibus nouis insudare⸵ dum non nisi molestos et tetricos reperiant lectores. Experiar igitur siquid possum experiar. et lectoribus assistam comes indiuidua. Scribentis diligentiam⸵ tediose prolixitati. subtilitatem⸵ ostentiationi curiose. breuitatem⸵ ascribi faciam negligentie.
 
 ## Meditation and the Augustinians
 
+This survey of Alexander's biblical scholarship shows that, after the traditional approach of *Super psalterium*, he combined his preaching experience with scholastic knowledge to produce commentaries that would fill needs for specific areas not already adequately covered by modern writers. *Corrogationes Promethei* was probably a tool designed specifically for preachers, while his other works applied tropology to caring for cloistered communities.
 
-Alexander's meditations fit into the role
+This idea of meditation was inspired directly by Augustinian writers. The idea of *meditatio* leading to *contemplatio* is hinted at by Gregory the Great, whose homilies on Ezechiel Alexander would likely have known from lecturing on the book.^[Gregory the Great, *Homilies in Ezechiel* 2.1.17, @adriaen:1971sancti, 223, lines 554–60: 'Hinc est etiam quod helias, cum uocem domini se cum loquentis audiret, in speluncae suae ostio stetisse describitur et faciem uelasse, quia cum per contemplationis gratiam uox supernae intellegentiae sit in mente, totus homo iam intra speluncam non est, quia animum carnis cura non possidet, sed stat in ostio, quia mortalitatis angustias exire meditatur.'] Alexander cites the influence of Anselm of Canterbury, who portrays meditation as the awakening of the mind to its salvation, but does not clearly articulate this process. [Anselm of Canterbury, *Orationes siue meditationes*, meditatio 3, @schmitt:1938anselmi, p. 3:84, lines 3–7: 'Anima Christiana, anima de gravi morte resuscitata, anima de misera seruitute sanguine dei redempta et liberata: excita mentem tuam, memento resuscitationis tuae, recogita redemptionem et liberationem tuam. Retracta ubi et quae sit uirtus tuae saluationis, uersare in meditatione eius, delectare in contemplatione eius.'] Alexander also likely had access to Bernard of Clairvaux's *Sermons on the Song of Songs* at Cirencester [@mynors:1991registrum, 34.21], who mentions the idea of meditation, but mostly in reaction to Psalm 38:4, 'concaluit cor meum intra me et in meditatione mea exardescet ignis', and does not develop it further, though he once refers to 'our meditations' [Bernard of Clairvaux, *Sermones super Cantica Canticorum* 32.4, @leclercq:1957sermones, p. 1:228, 'Sunt enim quaedam uerba Verbi sponsi ad nos, nostrae meditationes de ipso et eius gloria, elegantia, potentia, maiestate.']. The idea appears earliest in a developed form in Hugh of St Victor, whose *De archa Noe* was in the Cirencester library [@mynors:1991registrum, 97.4]. Discussing the works of restoration, tropology appears as the key tool for understanding the ark in terms of moral virtues [Hugh of St Victor, *De archa Noe* 4.9, @sicard:2001hugonis, p. 113, lines 72–73 'Tropologia altitudinem arche metitur, quia in profectu uirtutum crecit dignitas meritorum.']. Exegesis allows the ark to be divided into three houses, representing the shadow, body, and spirit, to which further explanations are applied, cumulating in the works of people, the works of angels, and the works of God; faith, hope, and charity (morally); or right thinking, meditation, and contemplation [@sicard:2001hugonis, p. 115, lines 103–112: 'In prima ergo mansione collocamus opera hominum, in secunda mansione opera angelorum, in tertia mansione opera Dei. Vel moraliter: prima mansio est fides, secunda mansio est spes, tertia mansio est caritas. Vel secundum anagogem: prima mansio est cogitatio recta, secunda mansio est meditatio prouida, tertia mansio est contemplatio clara'; cf. *Libellus de formatione arche* 4, @sicard:2001hugonis, p. 141]. This ascent is agreed to be one of the most important features of Hugh's approach, and in particular one of the keys to his success in the creation of mental imagery [@rudolph:2014mystic, p. 352; @carruthers:1998craft, pp. 243–246]. Hugh's model for combining intellectual rigour with meditation was quickly accepted within the Augustinian order, as visible through examples such as the letters of Hugh Metel [@mews:2001hugh, p. 72], and it is precisely what Alexander puts into practice in his meditative commentaries.
 
-The Rule of St Augustine is maddeningly unspecific, and this is no less the case in its discussion of intellectual pursuits. The *Ordo monasterii* only specifies that adherents should undertake three hours of reading each day at the same time, in addition to listening to readings at meals [*Ordo monasterii* 3, 7, @lawless:1987augustine, 74–75, 76–77]; the *Praeceptum* only underlines these points [*Praeceptum* 2.4, 3.2, 4.9–10, @lawless:1987augustine, 84–85, 96–97]. In the twelfth century, an attempt was made to determine precisely what this meant in the *Colloquium magistri et discipuli in regulam beati Augustini de uita clericorum* (or *Bridlington Dialogue*), based on Richard of St Victor's *De questionibus regule sancti Augustini solutis* [@webber:1998libraries, p. xxi; from @lawson:1960bridlington, p. 162; Richard's text is edited in @colker:1962richard, p. 219]. It appears that the Augustinian canons themselves had little idea what to make of such strictures. Richard and the *Bridlington Dialogue* tend towards liberality in their interpretations.
+Alexander also emphasizes meditation as a unified method of achieving both moral and intellectual progress. 'It is fitting for us to indulge in meditations of this sort, by which the world must be crucified with its vices and desires. These meditations also produce new studies, by which the soul is happily restored.'[^meditationibus] An explanation for this can be found in Hugh's *Didascalicon*, though there is no direct evidence that Cirencester owned this work. His focus in this work is on understanding the process of reading, but he frequently refers to meditation as the next step in gaining knowledge and aptitude. 'The beginning of learning is in reading; its consummation in meditation; which, if anyone learns to love it more intimately and desires to be engaged more often in it, brings life to a very pleasant condition, and offers the greatest consolation in distress.' [Hugh of St Victor, *Didascalicon* 3.10: @buttimer:1939hugonis, p. 59, lines 20–23: 'Principium ergo doctrine est in lectione, consummatio in meditatione, quam si quis familiarius amare didicerit ei que sepius uacare uoluerit, iucundam ualde reddit uitam, et maximam in tribulatione prestat consolationem.'] It accomplishes this because it is not only a step towards learning, but also one of four steps towards the prefection of oneself: reading, meditation, prayer, and activity, all of which finally lead to contemplation of the divine. [@buttimer:1939hugonis, pp. 109, lines 13–17: 'Quattuor sunt in quibus nunc exercetur uita iustorum et, quasi per quosdam gradus ad futuram perfectionem subleuatur, uidelicet lectio siue doctrina, meditatio, oratio, et operatio. Quinta deinde sequitur, contemplatio, in qua, quasi quodam precedentium fructu, in hac uita etiam que sit boni operis merces futura pregustatur.'] One can see why this would be so attactive to someone seeking to advance the health of a religious community.
 
+[^meditationibus]: *Super Mulierem*, Jesus College 94, fol. 109rb: 'Huiuscemodi meditationibus indulgere nos decet˷ quibus mundus crucifigi debet cum uiciis et concupiscentiis. Pariunt et he meditationes⸵ studia nouella. quibus animus feliciter recreatur.'
 
-<!--
-- St Bart's Smithfield? write BL lady Boyle lecture about this
+Hugh provides the theories supporting this idea of an intellectual meditation, but is vague on the specifics of how they might be practised. Alexander's fullest articulation of the theory opens his *Super parabolas*:
 
-- Barnwell 1296–96: @clark:1909care
-
-- who were the Augustinians?
-+ did pastoral care really matter to them?
-
-- why are books important?
-
-- what does Watson/Webber say about books?
-- what did augustinians read?
-- does the 'pastoral care' thing matter?
-
-- what do rules say about daily life and about provision for books?
-
-- importance of teaching?
-
-
-- what were the expectations of a typical canon?
-
-- what intellectual attitudes to they show, esp. to scholasticism? (how does this compare to other orders? start with R.W.S.)
-
-- how does A compare?
-
-Alexander, as a teacher, would have fit in very well with such a group
-
-cite these, from @mcdonough:2005cambridge, p. 809n109:
-
-@mews:2001hugh, pp. 71-72
-@taylor:2002textual, pp. 60–61
-@clark:1897observances, p. 6 -->
-
-
-
-
-
-
-
-
-
-
-
-The idea of presenting an analytic work as a meditation was hardly new: Anselm of Canterbury is also known for having done this [cf. @cottier:2001anima].
-
-Instead, this work should be understood as one of a series of meditative biblical commentaries he wrote while at Cirencester: along with *De naturis rerum*, there survive a commentary on the *Song of Songs*, also called *Laus beatissime uirginis* [@mcdonough:2004laus]; the *Tractatus super Parabolas Salomonis*, an incomplete commentary covering Proverbs 1:1–3:27; the *Tractatus super Mulierem fortem*, a threefold commentary on Proverbs 31:10–31; and a *Meditatio de Magdalena* [edited in @bestul:1999meditation]. Whenever Alexander himself refers to one of these books, he calls it a 'meditatio'. The purpose of this chapter is to explain how Alexander used this idea from the tradition of monastic biblical commentaries to meet the needs of his community, and to consider its relationship to himself, as when in the conclusion to his *Tractatus super Mulierem fortem* he calls the book 'speculum animi mei' (J, fol. 125ra).
-
-<!--Do we need more engagement with the arguments cited above? -->
-
-> And now those things which pertain to reading have been explained as lucidly and briefly as we know how. But as for the remaining part of learning, namely meditation, I omit saying anything about it in the present work because so great a matter requires a special treatise, and it is more worthy to be altogether silent about a matter of this sort than to say anything about it imperfectly. For it is a thing truly subtle and at the same time delightful, one which both educates beginners and exercises the perfect, one which has not yet been treated in writing and which therefore deserves all the more to be followed up. [@taylor:1961didascalicon, p. 151 (6.13)]
-
-- Richard of St Victor?
-
-
-- compare to Will. Meld. Lamentations?
-
-
-bit like @leclercq:1982love [p. 16]:
-
-> In secular usage, *meditari* means, in a general way, to think, to reflect, as does *cogitare* or *considerare*; but, more than these, it often implies an affinity with the practical or even moral order. It implies thinking of a thing with the intent to do it; in other words, to prepare oneself for it, to prefigure it in the mind, to desire it, in a way, to do it in advance briefly, to practice it.
-
-- cites TLL; p. 73 on lectio vs. med.
-
-At the beginning of his commentary on Proverbs, Alexander holds meditation in high regard:
-
-> Human meditation at one moment is turned back on man himself; at another it passes to the other created things; sometimes it is directed to the author of things. While indeed it is turned back to man, contemplation is either directed round those things that look to the dignity of a noble creature, or on those that sink to the fragility of the human condition. When, however, reason, just as if it were sitting in a watchtower, discerns the changes of transitory things, and at times their vanity, it often discovers their usefulness. But while it ventures on that immeasurable light itself, on the contrary devotion rejoices to transfix the sharpness of the mind, for the eye of love runs back gladly to the beloved: sometimes it sweetly sees the humility of taking up humanity, sometimes it reverently regards the height of divine majesty. Therefore reason, entering the inner chamber of the heart and concentrating its thoughts inwards, considers the dignity and fragility of human nature; crossing to the show of the worldly theatre, it recognizes the vanity and usefulness of things; raising itself above itself, it considers the humanity and divinity of the saviour. Thus the dove of divine grace carries the olive-branch of peace to one entering the ark with Noah; thus wisdom, symbolized through Rebecca, runs to meet one going out into the field of the world with Isaac by the grace of meditation; thus mysteries are revealed to one carried into heaven with Paul, which it will not be permitted to disclose to a wise man in the flesh.[^med]
+> Human meditation at one moment is turned back on the very person; at another it passes to the other created things; sometimes it is directed to the author of things. While indeed it is turned back to a person, contemplation is either directed round those things that look to the dignity of a noble creature, or on those that sink to the fragility of the human condition. When, however, reason, just as if it were sitting in a watchtower, discerns the changes of transitory things, and at times their vanity, it often discovers their usefulness. But while it ventures on that immeasurable light itself, on the contrary devotion rejoices to transfix the sharpness of the mind, for the eye of love runs back gladly to the beloved: sometimes it sweetly sees the humility of taking up humanity, sometimes it reverently regards the height of divine majesty. Therefore reason, entering the inner chamber of the heart and concentrating its thoughts inwards, considers the dignity and fragility of human nature; crossing to the show of the worldly theatre, it recognizes the vanity and usefulness of things; raising itself above itself, it considers the humanity and divinity of the saviour. Thus the dove of divine grace carries the olive branch of peace to one entering the ark with Noah; thus wisdom, symbolized through Rebecca, runs to meet one going out into the field of the world with Isaac by the grace of meditation; thus mysteries are revealed to one carried into heaven with Paul, which it will not be permitted to disclose to a wise man in the flesh.[^med]
 
 [^med]: *Super parabolas* Proem.1 (Jesus College 94, fol. 57ra):
 
     > Meditatio humana nunc in ipsum hominem reflectitur. nunc in ceteras transit creaturas⸵ nunc in auctorem rerum. dirigitur. Dum uero in hominem reciprocatur. aut circa ea que spectant ad nobilis creature dignitatem uersatur consideratio⸵ aut in iis que uergunt ad humane conditionis fragilitatem. Cum autem tanquam in specula residens ratio˷ rerum transitoriarum. cernit alterationes⸵ quandoque ipsarum uanitatem˷ non numquam earundem deprehendit utilitatem. Set dum in illud illud lumen immensum audet. immo gaudet mentis aciem figere deuotio˷ ad dilectum enim libenter recurrit amoris oculus⸵ nunc humanitatis assumpte humilitatem dulciter. nunc diuine maiestatis sublimitatem reuerenter intuetur. Ingrediens igitur ratio thalamum cordis et se intra se colligens⸵ dignitatem nature humane et fragilitatem considerat. transiens ad spectacula theatri mundialis⸵ rerum agnoscit uanitatem et utilitatem. erigens se supra se⸵ contemplatur humanitatem saluatoris et diuinitatem. Sic ingredienti archam cum Noe⸵ deferet columba diuine gratie⸝ ramum oliue pacis. sic egredienti in agrum mundi istius cum Ysaac gratia meditationis⸵ occurret sapientia per Rebeccam designata. sic rapto in celum cum Paulo⸵ reuelabuntur archana. que non licebit manifestari homini carnaliter sapienti.
 
-## *Meditatio* as a *speculum*
+    For 'carnaliter sapienti', cf. Cassiodorus, *Expositio psalmorum* 131, @adriaen:1958magni, p. 000, line 63.
 
-Comment in Rule of St Augustine:
+Alexander was not the only Augustinian to attempt to fill this void: Richard of Saint Victor also elucidates the relationship between meditation and contemplation, though no evidence has yet been found that Alexander read his work [e.g. *Beniamin maior* 1.3, @grosfillier:2013contemplatione, pp. 94]. Writing around the same time as Alexander, Edmund of Abingdon also focused on practising the spirituality of the [his debt to Hugh of St Victor is explained in @forshaw:1972edmunds; @forshaw:1973edmund, pp. 20–21], who was not himself an Augustinian, but lived in one of its priories for a year and also died in one [@lawrence:2004edmund]. Most of all, this mindset reflects the Augustinians' deep committment to pastoral care.
+
+## Public and private mediation
+
+Though the Augustinian canons are notoriously difficult to define, historians have consistently noted their concern to *cura animarum* as one of their defining features [see esp. @chibnall:1967monks; @montaubin:2009chanoines; @wood:2009augustinians]. What remains somewhat ambiguous is the extent to which the canons personally served the parishes under the supervision of their abbeys. Most of what Alexander writes suggests that the scope and anticipated readership of his meditations was limited to cloistered communities, but he may have had wider goals. In particular, his focus in *Super Mulierem* on women and his extolling of the married state[^grauia] seems to be aimed equally at training canons to work with the external world and building up their own characters.
+
+[^grauia]: *Super Mulierem*, Jesus College 94, fol. 114vb:
+
+    > Grauia quidem sunt onera matrimonii. uarie coniugatoris sollicitudines⸵ molestiis acerbissimis resperse. Set quid? Qui feliciter bono continentie coniugalis utuntur⸵ sustinent onera pacienter. moderantur sollicitudines prudenter. Quid quod celibatus iohannis. abrahe coniugio non prefertur? Sunt et non nulli tam consummate uirtutis. ut uxorbus debitum commercii carnalis non soluant nisi exacti. Nonne item fortes sunt qui amplexibus legittimo thoro licite concessum non fruuntur nisi ob sobolem ad cultum unius dei precreandam? Quis abraham fortior reperietur. qui prolem indolis honeste multum dilectam set plurimum diligendam. immolare promptissimus fuit iussis obtemperando diuinis?
+
+Alexander's interest in pastoral care is visible not only in his meditations, but many other of his works. His philosophy of administration is summarized in *Corrogationes noui Promethei*:
+
+> | What befits the abbot who desires to be loved more
+> |     than to be feared? Let love rule from him, and after that fear.[^fear]
+
+[^fear]: *Corrogationes noui Promethei*, lines 1–2, Paris, Bibliothèque nationale, lat. 11867, fol. 231va: @cropp:1991critical, p. 163; as emended by @gärtner:2011auftakt:
+
+    > | Quid decet abbatem qui plus optabit amari
+    > |     Quam metui? regnet hinc amor, inde metus.
+
+It would be odd for Alexander to write this if he were not himself an abbot, but it is only the tone that dates the work to after 1213 [other arguments for a late composition are presented in @hunt:1984schools, pp. 60–61; @cropp:1991critical, pp. 47–52]. Unfortunately, no letters from Alexander survive that might show in detail how he carried this out, though Alan of Tewkesbury, who may have written to Alexander for christological advice, also applies exegesis to resolve everyday issues and determine how references in the Gospel might effect monastic life [@harris:1982influences, pp. 8–10]. Alexander's proposal to teach morals through tropology, and the framing of his 'consolatory mediations' as introduced in *Laus uirginis* as particularly effective in soothing a wounded soul, can be taken in a similar vein.
+
+The meditative commentaries appear to envisage both oral delivery or personal reading. Alexander's meditations often address the 'pie lector', but also addresses an audience as 'uiri fratres' and occasionally gives relative temporal references [e.g. *Laus uirginis* 4.12, cited in @hunt:1984schools, p. 104]. The problem is similar to Bernard of Clairvaux's *Sermons on the Song of Songs*: scholars have debated for decades whether their stylistic qualities belie the format of their delivery [@leclercq:1976were; @holdsworth:1998were]. The most recent assessment argues that they were true sermons, but edited for a reading audience. The same pattern also occurs in Alexander's sermons [@hunt:1984schools, pp. 23, 92], and there is no reason to believe that these were pure literary compositions. The exact context for which the meditations were intended is difficult to determine. The Rule of St Augustine is maddeningly unspecific, and this is no less the case in its discussion of intellectual pursuits. The *Ordo monasterii* only specifies that adherents should undertake three hours of reading each day at the same time, in addition to listening to readings at meals [*Ordo monasterii* 3, 7, @lawless:1987augustine, 74–75, 76–77]; the *Praeceptum* only underlines these points [*Praeceptum* 2.4, 3.2, 4.9–10, @lawless:1987augustine, 84–85, 96–97]. In the twelfth century, an attempt was made to determine precisely what this meant in the *Colloquium magistri et discipuli in regulam beati Augustini de uita clericorum* (or *Bridlington Dialogue*), based on Richard of St Victor's *De questionibus regule sancti Augustini solutis* [@webber:1998libraries, p. xxi; from @lawson:1960bridlington, p. 162; Richard's text is edited in @colker:1962richard, p. 219]. It appears that the Augustinian canons themselves had little idea what to make of the Rule. Richard and the *Bridlington Dialogue* tend towards liberality in their interpretations. Nonetheless, one can determine that there were specific daily periods for both reading and oral delivery of texts.
+
+This dual public-private approach to a book revolves around the term *speculum* ('mirror'). This may originate with the *Praeceptum* of St Augustine:
 
 >| These precepts should be read to you once a week,
 >| so that you will see yourselves
@@ -256,54 +200,7 @@ Comment in Rule of St Augustine:
     >| ne per obliuionem aliquid neglegatis,
     >| semel in septimana uobis legatur.
 
-This passage is probably what Alexander Neckam has in mind when he refers to his *Tractatus super Mulierem fortem* as *speculum animi mei*, as we will see later.
-
-One of the most instructive texts on Alexander's philosophy of administration is the collection *Corrogationes noui Promethei*. The collection is framed as advice to abbots:
-
-> | What befits the abbot who desires to be loved more
-> |     than to be feared? Let love rule from him, and after that fear.[^fear]
-
-[^fear]: *Corrogationes noui Promethei*, lines 1–2, Paris, Bibliothèque nationale, lat. 11867, fol. 231va: @cropp:1991critical, p. 163; as emended by @gärtner:2011auftakt:
-
-    > | Quid decet abbatem qui plus optabit amari
-    > |     Quam metui? regnet hinc amor, inde metus.
-
-The tone allows the work to be dated to after his election in 1213. It would be rather odd for Alexander to write this if he were not himself an abbot, for what follows gives the impression of being prescriptive rather than humble suggestions for improvement from an underling [other arguments for a late composition are presented in @hunt:1984schools, pp. 60–61; @cropp:1991critical, pp. 47–52].
-
-
-
-The first section of the poem presents an abbot who was benevolent but firm, providing instruction that would be both helpful and enjoyable:
-
-> | Therefore let the teacher teach by deed and word;
-> |     let honey-sweet words advance from the comb of his mouth.
-> | Let the usefulness of his words form a foundation, the teaching of the faithful
-> |     delight, but it pleases more by usefulness.[^use]
-
-[^use]: *Corrogationes noui Promethei* 109–112 (BnF lat. 11867, fol. 232ra), @cropp:1991critical, 167–68:
-
-    > | Instruat ergo suos, re, uerbo, doctor; ab oris
-    > |     Eius procedant mellea uerba fauo.
-    > | Vtilitas uerbis subsit, doctrina fidelis
-    > |     Delectat, set plus utilitate iuuat.
-
-
-
-Above all, he is to be both learned and virtuous:
-
-
-> | May the pastor be to his own mirror, book, skill, model of the honest;
-> |     Form, measure, guidance, rule, life.[^life]
-
-[^life]: *Corrogationes noui Promethei* 137–38, Paris, Bibliothèque nationale, lat. 11867, fol. 232ra, @cropp:1991critical, 169:
-
-    > | Sit pastor speculum, liber, ars, exemplar honesti;
-    > |     Forma, modus, regimen, regula, uita suis.
-
-Unfortunately, no letters from Alexander survive that might show in practice how he carried this out, but there are other examples from his time. Alan of Tewkesbury, for instance, applies exegesis to resolve everyday issues and determine how references in the Gospel might effect monastic life. He may have written to Alexander for christological advice [@harris:1982influences, pp. 8–10].
-
-<!--abbots not fond of learning: @harris:1982influences, p. 13n68; @hunt:1936english, p. 26; @leclercq:1982love, p. 241–242 (or 2nd ed?) -->
-
-If Alexander calls his book 'speculum animi mei' (*SMF*, J, fol. 125r) or his theological treatise *Speculum speculationum*, what does it mean for an abbot to be a mirror to his flock?
+This passage is probably what Alexander has in mind when he writes in *De naturis rerum* that 'a person is the most certain mirror of himself.'^[*De naturis rerum* 3.Proem.2, Oxford, Magdalen College, fol. 72v: 'Homo etiam⸵ sui ipsius certissimum est speculum.'] Most poignantly, he addresses his *Super Mulierem* as 'speculum animi mei' in the closing paragraph:
 
 > Perhaps, book, you will outlive your Alexander. For worms will eat me before grubs gnaw you away. My body is owed to worms; you will be abolished by grubs. You are the mirror of my soul; you are the conveyor of my meditations, the most certain judge of our intentions; you are the faithful messenger of the feelings of my mind, the sweet comfort of sorrow; you are the witness of a truthful conscience. To you, as though to a faithful depositary, I have commended the secrets of my heart. You faithfully return to me the things which I have trusted to your faith; in you I read myself. You will come into the hand of some another devout reader, who will think fit to pour out prayers for me. Then indeed, little book, you will be handed over to the Lord: then you will reward your Alexander with a most pleasing exchange. He will conquer – and I do not begrudge my labour for the prayer of a devout reader – who now puts you in his lap, now moves you to his breast, sometimes places you under his head as a sweet pillow, sometimes caresses you gently with happy hands;  for me he will earnestly entreat Jesus Christ, who with the Father and the Holy Spirit lives and reigns, God, through endless ages of ages. Amen.[^fortasse]
 
@@ -320,15 +217,20 @@ If Alexander calls his book 'speculum animi mei' (*SMF*, J, fol. 125r) or his th
     quandoque te letis manibus leniter contrectaturus⸵ pro me affectuose dominum exorabit ihesum christum⸵ qui cum patre et spiritu
     sancto uiuit et regnat deus per infinita seculorum secula⸵ Amen.
 
-## Alexander's promotion of female figures
+It can indeed be argued that *Super Mulierem* is Alexander's most personal book, but there was evidently nothing private about it. The passage might challenge notions of what physically constitutes a devotional book: Oxford, Jesus College 94 still has what appears to be its original medieval binding, with soft white leather over wooden boards, and might make a rather decent pillow by monastic standards, the *Super Mulierem* pages measuring 283 × 386 mm. The copy from Reading, now Oxford, Bodleian Library, Bodley 528 (*SC* 2221), measures 131 × 208 mm, far too small to facilitate slumber for a grown adult. The level of intimacy assumed of the reader might explain in part why more copies do not survive. Such a reading, however, is probably over-literal, given the strictures of the Barnwell observances that forbid canons from taking books into private chambers [*Obseruancie regulares* 14, @clark:1897observances, pp. 64–65]. His comments in *Corrogationes noui Promethei* on the role of an abbot shed furher light on his usage:
 
+> | May the pastor be to his own mirror, book, skill, model of the honest;
+> |     Form, measure, guidance, rule, life.[^life]
+
+[^life]: *Corrogationes noui Promethei* 137–38, Paris, Bibliothèque nationale, lat. 11867, fol. 232ra, @cropp:1991critical, 169:
+
+    > | Sit pastor speculum, liber, ars, exemplar honesti;
+    > |     Forma, modus, regimen, regula, uita suis.
+
+The key point is ultimately that the book acts as a proxy for Alexander himself.
 
 ## Innovation through meditation
 
+By shedding the baggage of modernity and examining Alexander's biblical commentaries using his own framing of the works – as meditations – the extent of the influence on his writing of the Augustinian canons becomes much clearer. His works become far more palatable to a contemporary reader as it becomes apparent that he was not merely rewriting Isidore and Pliny the Elder, but experimenting to see how Hugh of St Victor's idea for a sort of scholastic mysticism might be put into practice. It is true that, in retrospect, that Alexander's work can be seen as one of the last successful attempts to unite all of human knowledge, using the biblical text as a framework. R.W. Southern wrote of the project of what he called 'scholastic humanism' as an attempt to provide a 'complete body of doctrine about both the natural and the supernatural worlds' that would be 'rationally unassailable and doctrinally coherent' – an attempt he called 'entirely misguided' [@southern:1995scholastic, p. 4<!-- check -->]. Alexander fits into this model, but does something more: he does not only provide his readers and listeners with information about the world, but teaches them what to do with it.
 
-
-In retrospect, Alexander's work can be seen as one of the last successful attempts to unite all of human knowledge, using the biblical text as a framework. R.W. Southern wrote of the project of what he called 'scholastic humanism' as an attempt to provide a 'complete body of doctrine about both the natural and the supernatural worlds' that would be 'rationally unassailable and doctrinally coherent' – an attempt he called 'entirely misguided' [@southern:1995scholastic, p. 4<!-- check -->]. By the thirteenth century,
-
-
-
-The idea of purposely unhurried reading has surfaced again in recent times under banners such as the 'Slow Movement', with several studies suggesting positive psychological benefits [see e.g. @nell:1988psychology]. This question has gained new urgency in the context of reading through electronic devices.
+The idea of purposely unhurried reading has surfaced again in recent times under banners such as the 'Slow Movement', with several studies suggesting positive psychological benefits [see e.g. @nell:1988psychology]. This question has gained new urgency in the context of reading through electronic devices. Medieval writings are often far more applicable in today's society when understood in their proper historical context than when modern expectations are projected on them.

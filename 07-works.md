@@ -1,6 +1,7 @@
 # Appendix A: Alexander's Works {.unnumbered}
 
 \markboth{Alexander's Works}{Alexander's Works}
+\setcounter{section}{0}
 
 The following catalogue presents Alexander's works according to the approximate chronology presented in chapter 2, [The Unity of Alexander's Career and His Literary Works]. This is an update of @hunt:1984schools [pp. 125–149], itself built on earlier lists [@esposito:1915unpublished; @sharpe:1997handlist, s.v. 'Alexander Nequam OSA'].<!-- others -->
 
@@ -2015,13 +2016,15 @@ All that survives is one couplet in the *Distinctiones Monastice* [@hunt:1984sch
 
 - Cambridge, University Library, Gg.6.42 (= G: 1246–60, Cirencester)
 
+See discussion above, 000; contents listed in @hochgürtel:2008alexandri [pp. xxii–xxiv].
+
 #### Literature
 
 @binski:2011western; @bisanti:2002novus; @bisanti:2010novus; @braunholtz:1927streitgedichte; @cropp:1991critical; @ditommaso:2008pseudepigrapha; @duméril:1854novus; @esposito:1915unpublished; @ferruolo:1985origins; @froehner:1862magistri; @reeve:2007geoffrey; @hervieux:1883fabulistes [pp. 222–234, 462–267]; @hunt:1984schools [p. 147]; @hochgürtel:2008alexandri; @hunt:1991teaching; @klein:1998alexander; @mcdonough:2004laus; @mcdonough:2005cambridge; @öberg:1965serlon; @rigg:1977golias; @russell:1932alexander; @wilmart:1938suite; @wollin:1998petrus
 
 ### Madrid Anthology
 
-Contents listed in @hochgürtel:2008alexandri [pp. 000–000].
+Contents listed in @hochgürtel:2008alexandri [pp. xxvi–xxvii].
 
 #### Manuscript
 
@@ -2029,7 +2032,7 @@ Contents listed in @hochgürtel:2008alexandri [pp. 000–000].
 
 ### Paris Anthology
 
-Contents listed in @hochgürtel:2008alexandri [pp. 000–000].
+Contents listed in @hochgürtel:2008alexandri [pp. xxix–xl].
 
 #### Manuscript
 

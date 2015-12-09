@@ -1,6 +1,7 @@
 # Appendix B: Works Available in Cirencester's Library {.unnumbered}
 
 \markboth{Works Available in Cirencester's Library}{Works Available in Cirencester's Library}
+\setcounter{section}{0}
 
 Cirencester has no surviving library catalogue, but an idea of the works available at the abbey can be gleaned from the listings in the *Registrum Anglie* [@mynors:1991registrum, pp. 288–89 (no. 104)] and by Leland [@webber:1998libraries, pp. 27–28], together with the survivors [@baddeley:1924history, pp. 168–170; @ker:1964medieval, pp. 51–52; @ker:1987medieval, p. 14], for which information on titles is based on library catalogues [@planta:1802catalogue; @coxe:1852catalogus; @coxe:1973laudian; @warner:1921catalogue; @hunt:1895summary; @mynors:1993catalogue; @watson:1997descriptive; @thomson:2009descriptive], silently corrected where necessary.
 
