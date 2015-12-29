@@ -1,9 +1,61 @@
-# Appendix B: Works Available in Cirencester's Library {.unnumbered}
+# Appendix B: Cirencester's Library {.unnumbered}
 
-\markboth{Works Available in Cirencester's Library}{Works Available in Cirencester's Library}
-\setcounter{section}{0}
+\markboth{Cirencester's Library}{Cirencester's Library}
 
-Cirencester has no surviving library catalogue, but an idea of the works available at the abbey can be gleaned from the listings in the *Registrum Anglie* [@mynors:1991registrum, pp. 288–89 (no. 104)] and by Leland [@webber:1998libraries, pp. 27–28], together with the survivors [@baddeley:1924history, pp. 168–170; @ker:1964medieval, pp. 51–52; @ker:1987medieval, p. 14], for which information on titles is based on library catalogues [@planta:1802catalogue; @coxe:1852catalogus; @coxe:1973laudian; @warner:1921catalogue; @hunt:1895summary; @mynors:1993catalogue; @watson:1997descriptive; @thomson:2009descriptive], silently corrected where necessary.
+## Manuscripts from Cirencester {.unnumbered}
+
+Most of Cirencester's manuscripts have been identified through the specific colophons found in many books; the list below collects and augments earlier catalogues [@baddeley:1924history, pp. 168–170; @ker:1964medieval, pp. 51–52; @ker:1987medieval, p. 14]. The index to the Hereford Cathedral Library catalogue suggests that O.III.6 might also be from Cirencester, but no evidence is presented in the entry [@mynors:1993catalogue, p. 20].
+
+1. Cambridge, University Library, Gg.6.42 ('Cirencestrie' [erased] written at top of fol. 2r<!--check-->)
+1. Hereford, Cathedral Library, O.i.3 (fol. 2r, 'Liber Ecclesie Sancte Marie de Cyrencestr’’)
+1. Hereford, Cathedral Library, O.i.6 (fol. 89v, 'Hunc librum D. Iocelinus canonicus dedit deo et ecclesie beate Marie de Cyrecestre, D. Serlone ibidem tunc Abbate primo.')
+1. Hereford, Cathedral Library, O.i.10 (fol. 98v, 'Hunc librum D. Iocelinus canonicus dedit deo et ecclesie beate Marie de Cyrencestr', D. Serlone ibidem tunc Abbate primo.')
+1. Hereford, Cathedral Library, O.ii.4 (fol. i^v^, 'Liber magistri Aluredi', as Jesus College 26, All Souls College 82)
+1. Hereford, Cathedral Library, O.iii.10 (may also be from St Frideswide's, Oxford)<!--[@mynors:1993catalogue, p. 22], prol refers to 'Reinalde prior de Gresileia'; 'Ego autem Robertus Cricheladensis prior ecclesie sancte Frideswide Oxenefordie' written over erasure, fol. 1r: what does Cambridge, Pembroke College, 30 say?-->
+1. Hereford, Cathedral Library, O.v.10 (fol. iir, '[L]iber sancte Marie de Cirecestr' D. Andree abbatis secundi tempore / scriptus per manum D. Serlonis canonici / D. Gilleberto primo tunc Cantore.')
+1. Hereford, Cathedral Library, O.v.14 (fol. 146v, 'Liber sancte Marie de Cirecestr' D. Andree abbatis secundi tempore scriptus per manum D. Odonis canonici, D. Adam de la More tunc cantore.')
+1. Hereford, Cathedral Library, O.vi.10 (fol. ir, 'Liber sancte Marie de Cirecestr' abbatis / primi Serlonis tempore scriptus per manum D. / Ade postea abbatis inceptus D. Gilberto primo / tunc Cantore.')
+1. Hereford, Cathedral Library, P.i.12 (fol. ir, 'Liber sancte Marie de Cirecestr', abbatis primi Serlonis tem/pore scriptus per manus canonicorum Deodati et Fulconis postea prio/ris sub Gilberto primo tunc cantore.')
+1. Hereford, Cathedral Library, P.i.17 (fol. ir, 'Liber ecclesie beate Marie Cirencestr'.')
+1. Hereford, Cathedral Library, P.ii.14 (fol. ir, 'Liber sancte Marie de Cirecestr' D. / Andree abbatis secundi tempore per manum D. Sy/monis (Cornubiensis *over*) canonici scriptus D. Adam de la / Mora tunc cantore.')
+1. Hereford, Cathedral Library, P.ii.15 (fol. ir, 'Liber ecclesie sancte Marie de Cyrencestr'.')
+1. Hereford, Cathedral Library, P.iii.7 (fol. ir, '[L]iber sancte Marie de Cirecestre D. Andree Abbatis secundi eiusdem ecclesie tempore scriptus per manum D. Fulconis postea prioris, D. Alexandro de Weleu tunc cantore.')
+1. Hereford, Cathedral Library, P.iv.8 (fol. 1r, 'Liber ecclesie sancte Marie Cyrencestr'.')
+1. Hereford, Cathedral Library, P.iv.9 (fol. iir, 'Liber ecclesie Marie de Cyrencestr'.')
+1. Hereford, Cathedral Library, P.v.3 (fol. ir, 'Liber sancte Marie de Cirecestr' abbatis primi Serlonis tempore scriptus, per ma/nus canonicorum D. Ade postea abbatis et Fulconis postremo prioris sub Gilberto / tunc Cantore primo.')
+1. Hereford, Cathedral Library, P.v.4 (fol. ir, '[L]iber sancte Marie de Cirecestr' D. / Andree abbatis secundi tempore scriptus per ma/num D. Fulconis canonici postea prioris / D. Adam de la Mora tunc Cantore.')
+1. Hereford, Cathedral Library, P.v.9 (fol. ii^v^, 'Liver ecclesie Marie Cirencestrie'; 'Hunc librum habuimus de Magistro Nicholas de Preston' una cum v. marcis in / recompensacione cuiusdam debiti, et unam cuppam deauratam ponderis / sex marcarum que est in sacristaria.'<!--fol?-->)
+1. London, British Library, Cotton Claudius B.ii
+1. London, British Library, Cotton Vesp. A.xv (fol. 1v, 'Hunc librum Domnus Jocelinus Canonicus dedit deo et ecclesie beate marie de Cirecestr. Domne Serlone tunc ibidem Abbate primo.')
+1. London, British Library, Royal 3 A.xii (fol. 1r, '[L]iber sancte Marie de Cirecestria. D. Andree abbatis secundi tempore scriptus per manum D. Fulconis canonici postea prioris. D. Alexandro de Weleue tunc cantore.')
+1. London, British Library, Royal 5 E.xviii ('Cirencestrie' written at top of fols 5r, 14r, 40r, 50r, 72r, 92r, 102r)
+1. London, British Library, Royal 6 E.iv (once contained an inscription reading 'Liber est Marie de Cirecestre D. Andree abbatis secundi eiusdem loci tempore scriptus per manum Walteri canonici et diaconi, D. Adam de Lamora tunc cantore.') [@warner:1921catalogue, 1:200–201; cf. @gullick:1996scribe, pp. 4, 27]
+1. London, British Library, Royal 7 F.i
+1. London, British Library, Royal 7 F.vi
+1. Longleat House, Marquess of Bath, 38b (cartulary)
+1. Oxford, All Souls' College, 82 (fol. iiir, 'Liber ecclesie sancte Marie de [Cyrence]st[r]’’ [erased]; fol. iiiv, 'Liber Magistri Aluredi')
+1. Oxford, Bodleian Library, Barlow 48 (fol. ir,<!--check--> 'Liber ecclesie sancte Marie de Cyrencestria')
+1. Oxford, Bodleian Library, Bodley 284 ('Cirencestrie' written at top of fols iiir, 119r, 153r, 294r)
+1. Oxford, Bodleian Library, Dep. c. 392 (cartulary)
+1. Oxford, Bodleian Library, Dep. c. 393 (cartulary)
+1. Oxford, Bodleian Library, Laud lat. 17 (remains of *ex-libris* mark on fol. 222v)
+1. Oxford, Jesus College, 3 [binding described in @clarkson:1996hitherto]
+1. Oxford, Jesus College, 26 (flyleaf, 'Liber Magistri Aluredi')
+1. Oxford, Jesus College, 34 (fol. iiir, 'Liber Ecclesie Sancte Marie de Cyrencestr’’)
+1. Oxford, Jesus College, 48 (fol. 1r, 'Liber Galfredi quondam uicarii de Auebyri quem dedit Deo et Ecclesie Sancte Marie de Cyrencestr' anno dominice incarnationis mº ccº xxxº viij …')
+1. Oxford, Jesus College, 52 (fol. 1v, '[L]iber sancte Marie De Cirecestr' D. Andree abbatis secundi tempore scriptus per manus D. Alexandri postmodum cantoris et Radulfi cuiusdam scriptoris D. Adam de lamora tunc cantore.')
+1. Oxford, Jesus College, 53 (fol. 159v, 'Liber sancte Marie De Cirecestr'. D. Andree abbatis secundi tempore scriptus per manum D. Fulconis canonici postea prioris D. Alexandro de Welen tunc cantore.')
+1. Oxford, Jesus College, 62 (fol. 1r, 'Liber Ecclesie Sancte Marie de Cyrencestr’’)
+1. Oxford, Jesus College, 63 (fol. 3r, '[L]iber sancte Marie De Cirecestr' D. Andree abbatis secundi tempore scriptus per manum Radulphi scriptoris D. Adam de lamora tunc cantore.')
+1. Oxford, Jesus College, 67 (flyleaf, '[L]iber sancte Marie De Cirecestr' D. Andree abbatis secundi tempore scriptus per manum D' Odonis canonici D. Adam de lamora tunc Cantore.')
+1. Oxford, Jesus College, 68 (fol. 1v, '[L]iber sancte Marie De Cirecestr'. D. Andree Abbatis secundi tempore scriptus per manum D. Fulconis canonici postmodum prioris D. Alexandro de Weleue tunc Cantore.')
+1. Oxford, Jesus College, 70 (flyleaf, 'Liber sancte Marie De Cirecestr'. D. Andree Abbatis tempore scriptus per manum D'. Fulconis canonici postea prioris. D. Adam de lamora tunc Cantore.')
+1. Oxford, Jesus College, 94 (fol. 1r, 'Liber Sancte Marie Cyrencestre')
+1. Oxford, Magdalen College, 139 (identified with Cirencester by Michael Gullick in the forthcoming library catalogue by Ralph Hannah)
+
+## Works available at Cirencester {.unnumbered}
+
+Cirencester has no surviving library catalogue, but an idea of the works available at the abbey can be gleaned from the listings in the *Registrum Anglie* [@mynors:1991registrum, pp. 288–89 (no. 104)] and by Leland [@webber:1998libraries, pp. 27–28], together with the survivors, for which information on titles is based on library catalogues [@planta:1802catalogue; @coxe:1852catalogus; @coxe:1973laudian; @warner:1921catalogue; @hunt:1895summary; @mynors:1993catalogue; @watson:1997descriptive; @thomson:2009descriptive], silently corrected where necessary.
 
 The attribution of items marked † is considered spurious by modern scholars.
 
@@ -28,7 +80,7 @@ Aldhelm
 Alexander Neckam
 : Commentary on the Athanasian Creed (Oxford, Bodleian Library, Bodley 284 [*SC* 2339])
 : *Laus diuine sapientie* (Leland)
-: *De naturis rerum*/Commentary on Ecclesiastes (Oxford, Magdalene College, 139; identified with Cirencester by Michael Gullick in the forthcoming library catalogue by Ralph Hannah, confirmed independently)
+: *De naturis rerum*/Commentary on Ecclesiastes (Oxford, Magdalene College, 139)
 : Gloss on the Psalter (two copies: Oxford, Bodleian Library, Bodley 284 [*SC* 2339]; Oxford, Jesus College, 94; Leland)
 : *Laus beatissime uirginis*/Commentary on the Song of Songs (Leland)
 : Sermons on the Nativity of the Blessed Virgin Mary (Oxford, Jesus College, 94)
@@ -112,20 +164,23 @@ Caesarius of Arles
 : *Homiliae X ad monachos* (Hereford, Cathedral Library, P.iii.7, 'Omelia in ueteri testamento et nouo'; *Registrum* 20.2)
 <!-- Is this what is in the H ms? Check ID list. -->
 
-Chrysostom
-: *De reparacione lapsi* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.7)
+Chrysostom<!--for this section, confirm titles are not duplicated, and that everything from O.v.14 is listed-->
+: *De ascensione* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.19)
 : *De compunctione cordis* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.8)
-: Homilies on Psalm 50 (Hereford, Cathedral Library, O.v.14; *Registrum* 9.9)
-: De misericordia (Hereford, Cathedral Library, O.v.14; *Registrum* 9.12)
-: Sermo antequam iret in exsilium (Hereford, Cathedral Library, O.v.14; *Registrum* 9.14)
-: *De regressu Asiae* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.15)
-: *De proditione Iudae* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.16)
+: *De confessione et penitentia peccati* (Hereford, Cathedral Library, O.v.1; *Registrum* 9.26)
 : *De cruce dominica* (*Registrum* 9.18)<!-- Where is this coming from? -->
-: *De ascensione* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.19)<!-- Check Hereford, Cathedral Library, O.v.14; is this in Ker? How was it missed? -->
 : *De decollatione Ioannis Baptistae* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.20, 'De muliere mala')
+: *De elemosinis* (Hereford, Cathedral Library, O.v.14)
+: *De expulsione sua* (Hereford, Cathedral Library, O.v.14)
 : *De laudibus Pauli* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.25)
-: *De confessione peccati* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.26)
+: *De misericordia* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.12)
+: *De proditione Iudae* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.16)
+: *De psalmo quinquagesimo* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.9)
+: *De regressu Asiae* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.15)
+: *De reparatione lapsi* (Hereford, Cathedral Library, O.v.14; *Registrum* 9.7)
 : 'Omelie' (*Registrum* 9.1)
+: *Quod nemo laeditur nisi a seipso* (Hereford, Cathedral Library, O.v.14)
+: Sermo antequam iret in exsilium (Hereford, Cathedral Library, O.v.14; *Registrum* 9.14)
 
 Cyprian
 : *Epistulae* (*Registrum* 21.1)

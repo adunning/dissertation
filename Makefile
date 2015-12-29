@@ -12,6 +12,8 @@ BIBFILE=/Users/Andrew/.pandoc/references.json
 
 all: pdf html
 
+auth: docx docxa tex texa
+
 help:
 	@echo ' 																	  '
 	@echo 'Makefile for the Markdown thesis                                       '
@@ -26,6 +28,29 @@ pdf:
 	-o "$(OUTPUTDIR)/thesis.pdf" \
 	--template="$(STYLEDIR)/thesis.tex" \
 	--bibliography="$(BIBFILE)" \
+	--csl="chicago-fullnote-bibliography-no-ibid.csl" \
+	-V documentclass=ut-thesis \
+	-V indent \
+	-V subparagraph \
+	-V substitute \
+	-V lof \
+	-V mainfont="Arno Pro" \
+	-V mainfontoptions=Numbers=OldStyle,Numbers=Proportional \
+	--default-image-extension=pdf \
+	--number-sections \
+	--chapters \
+	--latex-engine=lualatex \
+	--table-of-contents \
+	--no-tex-ligatures \
+	--smart \
+	--standalone
+
+tex:
+	pandoc "$(INPUTDIR)"/*.md \
+	-o "$(OUTPUTDIR)/thesis.tex" \
+	--template="$(STYLEDIR)/thesis.tex" \
+	--bibliography="$(BIBFILE)" \
+	--csl="chicago-fullnote-bibliography-no-ibid.csl" \
 	-V documentclass=ut-thesis \
 	-V indent \
 	-V subparagraph \
@@ -46,6 +71,7 @@ docx:
 	pandoc "$(INPUTDIR)"/*.md \
 	-o "$(OUTPUTDIR)/thesis.docx" \
 	--bibliography="$(BIBFILE)" \
+	--csl="chicago-fullnote-bibliography-no-ibid.csl" \
 	--table-of-contents \
 	--default-image-extension=png \
 	--smart \
@@ -68,5 +94,35 @@ html:
 	rm -rf "$(OUTPUTDIR)/figures" "$(OUTPUTDIR)/style.css"
 	cp -r "$(INPUTDIR)/figures" "$(OUTPUTDIR)"
 	cp -r "$(STYLEDIR)/style.css" "$(OUTPUTDIR)"
+
+texa:
+	pandoc "$(INPUTDIR)"/*.md \
+	-o "$(OUTPUTDIR)/thesis-auth.tex" \
+	--template="$(STYLEDIR)/thesis.tex" \
+	--bibliography="$(BIBFILE)" \
+	-V documentclass=ut-thesis \
+	-V indent \
+	-V subparagraph \
+	-V substitute \
+	-V lof \
+	-V mainfont="Arno Pro" \
+	-V mainfontoptions=Numbers=OldStyle,Numbers=Proportional \
+	--default-image-extension=pdf \
+	--number-sections \
+	--chapters \
+	--latex-engine=lualatex \
+	--table-of-contents \
+	--no-tex-ligatures \
+	--smart \
+	--standalone
+
+docxa:
+	pandoc "$(INPUTDIR)"/*.md \
+	-o "$(OUTPUTDIR)/thesis-auth.docx" \
+	--bibliography="$(BIBFILE)" \
+	--table-of-contents \
+	--default-image-extension=png \
+	--smart \
+	--standalone
 
 .PHONY: help pdf docx html tex
