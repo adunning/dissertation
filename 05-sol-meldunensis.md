@@ -1,13 +1,5 @@
 # Reading Alexander at Cirencester and Malmesbury
 
-<!-- abstract:
-
-*Sol meldunensis* (Cambridge, University Library, Gg.6.42) was originally produced between 1246 and 1260 as a florilegium collecting extracts mostly from Alexander Neckam, produced at Cirencester as a gift to the abbot of Malmesbury, with an invitation for correction. It is argued that the monks took this literally, adding more material to the manuscript and returning it to Cirencester, where a verse anthology of Alexander's works was added. The compiler is identified as Alexander's nephew Geoffrey Brito. -->
-
-<!--alt titles:
-- Cloistered Exchange
-- Monastic Exchange -->
-
 Cambridge, University Library, Gg.6.42 is a miscellany consisting almost entirely of the works of Alexander Neckam, called here *Sol meldunensis* from its incipit. Its careful construction shows the respect that Alexander Neckam gained among his peers, and hints at how they used his writings. It was written by a Cirencester canon and dedicated to the abbot of Malmesbury, both named Geoffrey. The opening 'florilegium', as past scholars have classified it, strings together passages from nearly all Alexander's prose works (including some that do not otherwise survive): it is key to analysing Alexander's work, and the manuscript has fruitfully been used as a repository for identifying his genuine writings [see @esposito:1915unpublished; @russell:1932alexander; @hunt:1984schools, pp. 125–153; @mcdonough:2004laus; @mcdonough:2005cambridge]. The excerpts are also woven together to form new 'sermons', as the compiler presents them, and the collection deserves study in its own right. While the bulk of the manuscript seems to have been created by a small group working at Cirencester, various additions to the manuscript complicates any notion of a linear pattern of production. Both the physical and intellectual details of the book most logically point to the augmented and annotated result being a product of a collaboration between the communities of Cirencester and Malmesbury.
 
 ## Cambridge, University Library, Gg.6.42: Physical description
@@ -19,11 +11,11 @@ The manuscript is multi-layered, but can be understood as a unity: the title *So
 
 Using the example of London, British Library, Cotton MS Titus D.XX (containing Alexander Neckam's *De utensilibus*, among other things), Dinkova-Bruun has suggested that one should distinguish between a secondary miscellany, 'a codex containing various parts written at different times and by different scribes, which did not belong together originally but were bound within the same covers at a later stage, often at random', and a primary miscellany, 'a compilation created from the very beginning by a person or group of people with an overarching idea and purpose' [@dinkovabruun:2013medieval, p. 15]. In the case of the Cambridge manuscript, the florilegium and the closing verse anthology could be considered independently as primary miscellanies, but codicological evidence demonstrates that the entirety of *Sol meldunensis* was assembled by its creators and not by modern readers, much as its contents may seem incongruent at first glance.
 
-The first and third booklets were produced by the same scribes, while the Geoffrey of Monmouth gathering is imitative of what precedes it in terms of its decoration and page layout, but has an entirely different script, and has its lines widely spaced to allow for glossing: this is the postulated contribution of Malmesbury abbey. That this is not a gathering from another manuscript is demonstrated on fol. 213v, where a note has been added that appears to be from the Cirencester rubricator. The entire manuscript should be understood as a 'primary miscellany': the book as it stands is a medieval creation, and not one of the many volumes that were randomly assembled on the whim of an indiscreet modern reader.
+The first and third booklets were produced by the same scribes, while the Geoffrey of Monmouth gathering is imitative of what precedes it in terms of its decoration and page layout, but has an entirely different script, and has its lines widely spaced to allow for glossing. This is likely a contribution of Malmesbury abbey. That this is not a gathering from another manuscript is demonstrated on fol. 213v, where a note has been added that appears to be from the Cirencester rubricator. The entire manuscript should be understood as a 'primary miscellany': the book as it stands is a medieval creation, and not one of the many volumes that were randomly assembled on the whim of an indiscreet modern reader.
 
 ### Structure
 
-The book is collated a^2^, 1^10+1^ (3 added), 2–6^10^, 7^8+1^ (8 added), 8^10^, 9^10+1^ (11 added), 10–21^10^ || 22^10^ || 23^10^, 24^8–4^ (5–8 cancelled),<!-- still not sure about # of leaves in last gathering --> for a total of ii + 236 parchment folios (foliated 1–237, with an inserted slip in gathering 8 foliated 70*bis*). The contents of the irregular leaves confirm that they are additions rather than evidence of lost pages. The unusual number of folios in gathering 7 might suggest that it was originally planned as the end of the manuscript, corresponding to the end of the first book of the florilegium on fol. 68v or 69v (which, unlike book two, is not labelled as such); the proem to Book 2 has been copied into the rest of the gathering, on fols 70r–71v. Gathering 22 both begins and ends with blank leaves, and has a slightly heavier weight of parchment in comparison to the rest of the book. While the end of the last gathering has been cut away, these pages were likely blank: the verse anthology ends on fol. 236r, and fol. 236v was originally blank; both sides of fol. 237 have a hymn, which looks to have been written by the Cirencester scribes, but uses a slightly different style of decoration, with green rather than blue initials alternating with red.
+The book is collated a^2^, 1^10+1^ (3 added), 2–6^10^, 7^8+1^ (8 added), 8^10^, 9^10+1^ (11 added), 10–21^10^ || 22^10^ || 23^10^, 24^8+1–4^ (1 added, 6–8 cancelled), for a total of ii + 236 parchment folios (foliated 1–237, with an inserted slip in gathering 8 foliated 70*bis*). Most pages measure around 210 × 142 mm, having been trimmed on all sides by several millimetres; the binding is 160 × 218 × 62 mm. The additions in gatherings 1, 7, and 24 are irregularly shaped (fol. 5, 142 × 182.5 mm; fol. 70*bis*, 133 × 89 mm; fol. 233, 133 × 209 mm); gatherings 23 and 24 are slightly wider (144 × 209 mm). The unusual number of folios in gathering 7 might suggest that it was originally planned as the end of the manuscript, corresponding to the end of the first book of the florilegium on fol. 68v or 69v (which, unlike book two, is not labelled as such); the proem to Book 2 has been copied into the rest of the gathering, on fols 70r–71v. Gathering 22 both begins and ends with blank leaves, and has a slightly heavier weight of parchment in comparison to the rest of the book. The end of the last gathering has been cut away. The verse anthology ends on fol. 236r, and fol. 236v was originally blank; both sides of fol. 237 have a hymn, which looks to have been written at Cirencester, but uses a slightly different style of decoration, with green rather than blue initials alternating with red.
 
 ![Collation of Cambridge, University Library, Gg.6.42, showing booklets for florilegium, *Prophetia Merlini*, and verse anthology.](figures/sol-meldunensis/gg-6-42-collation-diagram)
 
@@ -31,7 +23,7 @@ An earlier cataloguer has pencilled an alternative collation on the back flyleaf
 
 ### Page layout
 
-The pages measure around 210 × 140 mm, having been trimmed on all sides by several millimetres. Their layout follows a highly consistent pattern: fol. 4r is typical of the florilegium, with vertical rules occurring in pencil, from left to right, at 24, 95.5, 116, 119.5, 141.25, and 142 mm. Horizontal rules occur, from top to bottom, at 2, 16.5, 21.5, 136.5, 141, 180, 184, and 205.5, and 210 mm. The line spacing is typically 4.5 to 5 mm. The last of these rules may be for aligning the catchphrase, and is often omitted; its location varies somewhat (sometimes as high as 203 mm). The three rules below the textblock are sometimes omitted.
+The page layout follows a highly consistent pattern: fol. 4r is typical of the florilegium, with vertical rules occurring in pencil, from left to right, at 24, 95.5, 116, 119.5, 141.25, and 142 mm. Horizontal rules occur, from top to bottom, at 2, 16.5, 21.5, 136.5, 141, 180, 184, and 205.5, and 210 mm. The line spacing is typically 4.5 to 5 mm. The last of these rules may be for aligning the catchphrase, and is often omitted; its location varies somewhat (sometimes as high as 203 mm). The three rules below the textblock are sometimes omitted.
 
 ![Cambridge, University Library, Gg.6.42, fol. 4r.](figures/sol-meldunensis/4r.jpg)
 
@@ -443,648 +435,702 @@ There are many more examples of the humanist's running heads. There is no obviou
 This is the original part of *Sol meldunensis*. It has been used in the past as a mere mine for information on the canon of Alexander Neckam's writings, but the nineteenth-century cataloguers were closer to the mark in calling it 'A Theological Treatise composed of extracts from the various works of Alexander Necham' [@hardwick:1856catalogue, p. 3:231]. Its outline runs as follows:
 
 <div lang="la">
--   1\. Epistula.
--   2\. [Book One]
-    -   2.1. Sermo in festiuitate reliquiarum. excerptus ex libris magistri alexandri abbatis cyrencestrie.
-        -   2.1.1. Ex sermone de sancto iohanne. qui sic incipit. Fuit homo.
-        -   2.1.2. Ex tractatu super Mulierem fortem.
-        -   2.1.3. Ex tractatu super parabolas.
-        -   2.1.4. Ex eodem tractatu.
-        -   2.1.5. Ex tractatu super cantica canticorum.
-        -   2.1.6. Super parabolas.
-        -   2.1.7. Ex tractatu super parabolas.
-        -   2.1.8. Ex tractatu super Mulierem fortem.
-        -   2.1.9. Super cantica.
-        -   2.1.10. Ex sermone qui sic incipit. omnia tempus habent.
-        -   2.1.11. Item. Super cantica.
-        -   2.1.12. Super Mulierem fortem.
-        -   2.1.13. Ex sermone qui sic incipit. Dulce est lumen.
-        -   2.1.14. Ex sermone qui sic incipit. Scio quod redemptor meus uiuit.
-        -   2.1.15. Super cantica. libro .vº. capitulo xiº.
-        -   2.1.16. Ex tractatu super Mulierem fortem.
-        -   2.1.17. Ex eodem tractatu.
-        -   2.1.18. Super ecclesiasten.
-        -   2.1.19. Super Mulierem fortem.
-        -   2.1.20. Ex sermone qui sic incipit. Scio quod redemptor meus uiuit.
-        -   2.1.21. Ex tractatu super cantica canticorum.
-        -   2.1.22. Ex tractatu super ecclesiasten.
-        -   2.1.23. Ex tractatu super cantica.
-        -   2.1.24. Ex libro edito in laudem gloriose uirginis.
-        -   2.1.25. Ex sermone qui sic incipit. Hec est dies.
-        -   2.1.26. Ex sermone qui sic incipit. Absterget deus.
-        -   2.1.27. Ex glosa super Quicumque uult.
-        -   2.1.28. Ex tractatu super cantica.
-        -   2.1.29. Ex sermone qui sic incipit. Nox precessit.
-        -   2.1.30. Ex tractatu super ecclesiasten.
-        -   2.1.31. Ex sermone qui sic incipit. Tanquam aurum in fornace.
-        -   2.1.32. Eo sermone qui sic incipit. Absterget deus.
-        -   2.1.33. Ex eodem sermone.
-        -   2.1.34. Ex Glosa super matheum.
-        -   2.1.35. Ex sermone qui sic incipit. Absterget deus.
-        -   2.1.36. Ex eodem sermone.
-        -   2.1.37. Ex eodem sermone.
-        -   2.1.38. Ex Glosa super psalmum xxxvii.
-        -   2.1.39. Ex tractatu super cantica.
-        -   2.1.40. Ex sermone de apostolis qui sic incipit. Hi sunt uiri misericordie.
-        -   2.1.41. Super ecclesiasten.
-        -   2.1.42. Ex tractatu super cantica canticorum.
-        -   2.1.43. Ex tractatu super Mulierem fortem.
-        -   2.1.44. Ex sermone de apostolis.
-        -   2.1.45. Ex tractatu super Mulierem fortem.
-        -   2.1.46. Ex sermone de apostolis.
-        -   2.1.47. Ex tractatu super cantica canticorum.
-        -   2.1.48. Super psalmum xxxvi.
-        -   2.1.49. Ex tractatu super ecclesiasten.
-        -   2.1.50. Ex questione scolastica.
-        -   2.1.51. Ex tractatu super ecclesiasten.
-        -   2.1.52. Ex sermone de sancto iohanne.
-        -   2.1.53. Ex tractatu super Mulierem fortem.
-        -   2.1.54. Ex sermone qui sic incipit. Cum esses iunior.
-    -   2.2. Descriptio misericordie et de eius commendatione.
-        -   2.2.1. Ex sermone de omnibus sanctis.
-        -   2.2.2. Super cantica.
-        -   2.2.3. Ex sermone de omnibus sanctis.
-        -   2.2.4. Ex sermone qui sic incipit. tu autem cum ieiunas.
-        -   2.2.5. Ex tractatu super cantica.
-        -   2.2.6. Ex sermone de omnibus sanctis.
-        -   2.2.7. Ex tractatu super cantica canticorum.
-    -   2.3. De speciebus misericordie.
-        -   2.3.1. Ex sermone de omnibus sanctis.
-        -   2.3.2. Super matheum.
-        -   2.3.3. Item super mattheum.
-        -   2.3.4. Ex sermone de omnibus sanctis.
-    -   2.4. De operibus misericordie.
-        -   2.4.1. Ex sermone qui sic incipit. Spiritus intelligentie.
-        -   2.4.2. Super cantica.
-        -   2.4.3. Ex libro edito in laudem gloriose uirginis.
-        -   2.4.4. Ex eodem libro.
-        -   2.4.5. Ex eodem libro.
-        -   2.4.6. Super cantica.
-        -   2.4.7. Ex libro edito in laudem gloriose uirginis.
-        -   2.4.8. Ex eodem libro.
-        -   2.4.9. Ex sermone qui sic incipit. Ingredere petram.
-        -   2.4.10. Ex libro edito in laudem gloriose uirginis.
-        -   2.4.11. Item ex eodem capitulo.
-        -   2.4.12. Ex eodem libro.
-        -   2.4.13. Super cantica. Vbi legitus⸵ Reuertere reuertere sulamitis.
-        -   2.4.14. Ex libro edito in laudem gloriose uirginis.
-        -   2.4.15. Ex sermone qui sic incipit. Inclinauit celos.
-        -   2.4.16. Ex sermone qui sic incipit. Dabo uobis cor carneum.
-        -   2.4.17. Ex sermone qui sic incipit. Que est ista que ascendit de deserto.
-        -   2.4.18. Ex sermone qui sic incipit. Ecce ego mitto angelum meum.
-        -   2.4.19. Ex sermone qui sic incipit. ponam tabernaculum meum.
-        -   2.4.20. Ex libro edito in laudem gloriose uirginis.
-        -   2.4.21. Ex incidenti exponitur mistice⸵ principium geneseos.
-        -   2.4.22. Ex sermone qui sic incipit. Dixit deus⸵ fiat lux.
-        -   2.4.23. Ex tractatu super cantica.
-        -   2.4.24. Ex sermone qui sic incipit. Dixit deus. fiat lux.
-        -   2.4.25. Ex sermone qui sic incipit. Inclinauit celos.
-        -   2.4.26. Ex libro edito in laude gloriosa uirginis.
-        -   2.4.27. Ex sermone qui sic incipit. transeamus usque belleem.
-        -   2.4.28. Ex tractatu super cantica.
-        -   2.4.29. Ex proemio super parabolas.
-        -   2.4.30. Ex sermone de incarnatione domini. qui sic incipit. ponam tabernaculum meum.
-        -   2.4.31. Ex eodem sermone.
-        -   2.4.32. Ex eodem sermone.
-        -   2.4.33. Ex sermone qui sic incipit. Dixit deus. fiat lux.
-        -   2.4.34. Ex eodem sermone.
-        -   2.4.35. Ex libro edito in laudem gloriose uirginis.
-        -   2.4.36. Ex sermone qui sic incipit. tu exsurgens misereberis syon.
-        -   2.4.37. Ex eodem sermone.
-        -   2.4.38. Ex sermone qui sic incipit. tu es qui uenturus es.
-        -   2.4.39. Ex eodem sermone.
-        -   2.4.40. Ex sermone qui sic incipit. Dixit deus. fiat lux.
-        -   2.4.41. Ex sermone qui sic incipit. tu es qui uenturus es.
-        -   2.4.42. Ex sermone qui sic incipit. Dixit deus. fiat lux.
-        -   2.4.43. Ex sermone qui sic incipit. Nox precessit.
-        -   2.4.44. Ex eodem sermone.
-        -   2.4.45. Ex sermone qui sic incipit. Nox precessit.
-        -   2.4.46. Ex libro edito in laudem gloriose uirginis.
-        -   2.4.47. Ex sermone qui sic incipit. Et tu turris gregis.
-        -   2.4.48. Ex sermone qui sic incipit. Tu es qui uenturus es.
-        -   2.4.49. Ex sermone qui sic incipit. Et tu turris gregis.
-        -   2.4.50. Ex sermone qui sic incipit. Tu es qui uenturus es.
-        -   2.4.51. Ex sermone qui sic incipit. Et tu turris gregis.
-        -   2.4.52. Ex eodem sermone.
-        -   2.4.53. Ex sermone qui sic incipit. Cum exaltatus fuero a terra.
-        -   2.4.54. Ex sermone qui sic incipit. Et tu turris gregis.
-        -   2.4.55. Ex sermone qui sic incipit. tu es qui uenturus es.
-    -   2.5. De misericordia gloriose uirginis.
-        -   2.5.1. Ex sermone qui sic incipit. Spiritus intelligentie.
-        -   2.5.2. Ex sermone qui sic incipit. transeamus usque belhleem.
-        -   2.5.3. Ex sermone qui sic incipit. Spiritus intelligentie.
-        -   2.5.4. Super cantica.
-        -   2.5.5. Super Mulierem fortem.
-        -   2.5.6. Super cantica.
-        -   2.5.7. Super Mulierem fortem.
-        -   2.5.8. Super cantica.
-        -   2.5.9. Ex tractatu super Mulierem fortem. Vbi legitur. De nocte surrexit. deditque predam domesticis suis.
-        -   2.5.10. Ex tractatu super cantica.
-        -   2.5.11. Ex tractatu super Mulierem fortem.
-        -   2.5.12. Super cantica.
-        -   2.5.13. Super Mulierem fortem.
-        -   2.5.14. Super Mulierem fortem.
-        -   2.5.15. Super cantica.
-        -   2.5.16. Item. Super cantica.
-        -   2.5.17. Super Mulierem fortem.
-        -   2.5.18. Ex eodem tractatu.
-        -   2.5.19. Ex libro edito in laudem gloriose uirginis.
-        -   2.5.20. Ex tractatu super cantica.
-        -   2.5.21. Ex eodem capitulo.
-        -   2.5.22. Ex eodem tractatu.
-        -   2.5.23. Super Mulierem fortem.
-        -   2.5.24. Ex libro edito in laudem gloriose uirginis.
-        -   2.5.25. Super Mulierem fortem.
-        -   2.5.26. Ex libro edito in laudem gloriose uirginis.
-        -   2.5.27. Super Mulierem fortem.
-        -   2.5.28. Ex eodem libro.
-        -   2.5.29. Super cantica.
-        -   2.5.30. Ex libro edito in laudem gloriose uirginis.
-        -   2.5.31. Ex tractatu super cantica.
-        -   2.5.32. Super Mulierem fortem.
-        -   2.5.33. Super Mulierem fortem.
-        -   2.5.34. Ex eodem tractatu.
-        -   2.5.35. Ex sermone qui sic incipit. Venit mater salomonis.
-        -   2.5.36. Super cantica.
-        -   2.5.37. Super cantica. De osculis dulcedinis et misericordie beate dei genitricis.
-        -   2.5.38. Super cantica.
-        -   2.5.39. Super cantica. libro secundo. capitulo .Viiiº.
-        -   2.5.40. Ex capitulo sequenti.
-        -   2.5.41. Super cantica.
-        -   2.5.42. Ex eodem libro.
-        -   2.5.43. Ex libro edito in laudem gloriose uirginis.
-        -   2.5.44. Ex eodem libro.
-        -   2.5.45. Super cantica.
-        -   2.5.46. Super cantica.
-        -   2.5.47. Super cantica.
-        -   2.5.48. Ex eodem tractatu.
-        -   2.5.49. Ex sermone qui sic incipit. Spiritus intelligentie.
-    -   2.6. De carcere pene.
-        -   2.6.1. Ex sermone qui sic incipit. Egressus petrus de carcere.
-        -   2.6.2. Ex eodem sermone.
-        -   2.6.3. Ex eodem sermone.
-        -   2.6.4. Ex sermone qui sici incipit. Misit herodes rex manus.
-        -   2.6.5. Ex tractatu super ecclesiasten.
-        -   2.6.6. Ex sermone qui sic incipit. Egressus petrus de carcere.
-        -   2.6.7. Ex tractu super cantica canticorum.
-        -   2.6.8. Super ecclesiasten.
-        -   2.6.9. Ex sermone qui sic incipit. Egressus petrus de carcere.
-        -   2.6.10. Ex eodem sermone.
-        -   2.6.11. Ex sermone qui sic incipit. Absterget deus.
-    -   2.7. Recursus ad initium sermonis.
-        -   2.7.1. Ex tractatu super ecclesiasten.
-        -   2.7.2. Super cantica.
-        -   2.7.3. Ex tractatu super Mulierem fortem.
-        -   2.7.4. Ex tractatu super cantica canticorum.
-        -   2.7.5. Ex tractatu super Mulierem fortem.
-        -   2.7.6. Ex sermone de apostolis. qui sic incipit. Hii sunt uiri misericordie.
-        -   2.7.7. Ex tractatu super cantica canticorum.
-        -   2.7.8. Ex Glosa super psalmum quintum.
-        -   2.7.9. Ex sermone de apostolis.
-    -   2.9. Ad libellum.
-        -   2.9.1. Ex libro qui intitulatur laus sapientie diuine. Ex Distinctione septima.
-        -   2.9.2. Ex libro qui intitulatur laus sapientie diuine. Distinctione quarta.
-        -   2.9.3. Ex Distinctione quarta.
-        -   2.9.4. Ridemus de curia.
--   3\. Incipit proemium in librum Secundum.
-    -   3.1. Ex libro qui intitulatur Speculum Speculationum. Ex distinctione quarta.
-    -   3.2. Ex libro qui intitulatur laus sapientie diuine. Distinctione quinta. contra inuidum.
-    -   3.3. Ex libro qui intitulatur corrogationes noui promethei.
-    -   3.4. Ex libro qui deseruit laude sapientie diuine. Distinctione secunda.
-    -   3.5. Ex eodem libro. Distinctione secunda.
-    -   3.6. Ex libro qui intitulatur laus sapientie diuine. Distinctione quinta.
-    -   3.7. Ex libro qui intitulatur laus sapientie diuine. Distinctione .iiiiª.
-    -   3.8. Ex eodem libro. Distinctione .iiª.
-    -   3.9. Ex eodem libro. Distinctione .iiiiª.
-    -   3.10. Epistola.
--   4\. ¶Incipit liber secundus. In quo agitur de misericordia⸵ et de suggillatione quorundam uitiorum.
-    -   4.1. De circumstantiis misericordie et de elemosinarum efficacia.
-        -   4.1.1. Ex sermone de omnibus sanctis. qui sic incipit. Beati pauperes spiritu.
-        -   4.1.2. Super cantica.
-        -   4.1.3. Ex libro qui intitulatur corrogationes noui promethei.
-        -   4.1.4. Ex tractatu super cantica canticorum.
-        -   4.1.5. Ex sermone de omnibus sanctis.
-        -   4.1.6. Ex sermone qui sic incipit. Erunt signa in sole et luna.
-        -   4.1.7. Ex sermone qui sic incipit. Erunt signa in sole et luna.
-        -   4.1.8. Item˷ Ex eodem sermone.
-        -   4.1.9. Item. Ex eodem sermone.
-        -   4.1.10. Ex libro de naturis rerum.
-        -   4.1.11. Ex sermone qui sic incipit. nox precessit.
-        -   4.1.12. Questio scolastica.
-        -   4.1.13. Ex sermone qui sic incipit. Hodierna die noster dominus.
-        -   4.1.14. Ex tractatu super cantica canticorum.
-        -   4.1.15. Ex glosa super epistulam secundam ad thessalonicentes.
-        -   4.1.16. Ex questione scolastica.
-        -   4.1.17. Super psalmum .xlviii.
-        -   4.1.18. Ex sermone de omnibus sanctis.
-        -   4.1.19. Ex sermone qui sic incipit. Nuptie facte sunt.
-        -   4.1.20. Ex sermone de omnibus sanctis.
-        -   4.1.21. Ex tractatu super parabolas ubi agitur de iudicio et iusticia⸵ et equitate. scilicet capitulo secundo.
-        -   4.1.22. Ex sermone de omnibus sanctis.
-        -   4.1.23. Ex sermone qui sic incipit. Tu es qui uenturus es.
-        -   4.1.24. Ex sermone qui sic incipit. Exeamus extra castra.
-        -   4.1.25. Ex sermone qui sic incipit. Inclinauit celos.
-        -   4.1.26. Ex sermone de omnibus sanctis qui sic incipit. Beati pauperes spiritu.
-        -   4.1.27. Ex sermone qui sic incipit. Exeamus extra castra.
-        -   4.1.28. Ex eodem sermone.
-        -   4.1.29. Ex sermone qui sic incipit. Dixit iesus petro.
-        -   4.1.30. Ex sermone qui sic incipit. Exeamus extra castra.
-        -   4.1.31. Ex libro qui intitulatur solacium fidelis anime.
-        -   4.1.32. Ex sermone qui sici incipit. Tu es qui uenturus es.
-        -   4.1.33. Ex tractatu super parabolas.
-        -   4.1.34. Ex sermone qui sic incipit. Nuptie facte sunt.
-        -   4.1.35. Ex sermone qui sic incipit. Et tu turris gregis.
-        -   4.1.36. Ex sermone qui sic incipit. Domine si inueni gratiam.
-        -   4.1.37. Ex sermone de omnibus sanctis.
-        -   4.1.38. Ex sermone qui sic incipit. Ad locum unde exeunt flumina.
-        -   4.1.39. Ex sermone de omnibus sanctis qui sic incipit. Beati pauperes spiritu.
-        -   4.1.40. Ex eodem sermone.
-        -   4.1.41. Ex sermone de apostolis petri et pauli.
-        -   4.1.42. Ex tractatu super cantica canticorum.
-        -   4.1.43. Ex sermone de apostolis.
-        -   4.1.44. Ex tractatu super cantica.
-        -   4.1.45. Ex sermone de apostolis.
-        -   4.1.46. Ex tractatu super ecclesiasten Vbi legitur. Non prohibui cor me quin omni voluptate frueretur⸵ et oblectaret se in hiis que preparaueram.
-        -   4.1.47. Ex libro de naturis rerum.
-        -   4.1.48. Ex libro de naturis rerum.
-        -   4.1.49. Ex tractatu super Mulierem fortem.
-        -   4.1.50. Ex tractatu super cantica canticorum.
-        -   4.1.51. Ex libro de naturis rerum.
-        -   4.1.52. Ex tractatu super ecclesiasten.
-    -   4.2. Narraciuncula.
-        -   4.2.1. Ex libro qui intitulatur de naturis rerum.
-        -   4.2.2. Ex tractatu super parabolas.
-        -   4.2.3. Super Mulierem fortem.
-        -   4.2.4. Ex sermone qui sic incipit. Exeamus extra castra.
-        -   4.2.5. Ex libro qui intitulatur corrogationes promothei.
-        -   4.2.6. Ex sermone. exeamus extra castra.
-        -   4.2.7. Ex tractatu super ecclesiasten.
-        -   4.2.8. Ex eodem tractatu.
-        -   4.2.9. Ex libro de naturis rerum.
-        -   4.2.10. Super ecclesiasten.
-        -   4.2.11. Ex sermone qui sic incipit. Ductus est iesus in deserto.
-        -   4.2.12. Ex sermone qui sic incipit. omnia tempus habent.
-        -   4.2.13. Ex sermone qui sic incipit. Agar ancilla saray.
-        -   4.2.14. Ex eodem sermone.
-        -   4.2.15. Ex tractatu super cantica.
-        -   4.2.16. Ex sermone qui sic incipit. Agar ancilla saray.
-        -   4.2.17. Ex libro qui intitulatur solacium fidelis anime.
-        -   4.2.18. Ex eodem libro.
-        -   4.2.19. Ex libro qui intitulatur solatium fidelis anime.
-        -   4.2.20. Ex libro de naturis rerum.
-        -   4.2.21. Ex libro qui intitulatur solatium fidelis anime.
-        -   4.2.22. Ex sermone de sancto paulo qui sic incipit. Nunquid ad preceptum tuum.
-        -   4.2.23. Ex eodem sermone.
-        -   4.2.24. Ex sermone qui sic incipit. Hii sunt uiri misericordie.
-        -   4.2.25. Ex libro qui intitulatur solatium fidelis anime.
-        -   4.2.26. Ex libro qui intitulatur corrogationes promothei.
-        -   4.2.27. Ex eodem tractatu.
-        -   4.2.28. Ex tractatu super cantica canticorum.
-        -   4.2.29. Ex sermone de spiritu sancto qui sic incipit. Spiritus intelligentie.
-        -   4.2.30. Super psalmum primum.
-        -   4.2.31. Ex sermone qui sic incipit. Operamini opus uestrum.
-        -   4.2.32. Ex sermone qui sic incipit. Cantate domino.
-        -   4.2.33. Ex tractatu super Mulierem fortem.
-        -   4.2.34. Ex libro qui intitulatur de naturis rerum.
-        -   4.2.35. Ex tractatu super cantica canticorum. Vbi legitur ego dilecto meo⸵ et ad me conuersio eius.
-        -   4.2.36. Super psalmum Vigesimum tercium qui sic incipit. Dominus regit me.
-        -   4.2.37. Ex tractatu de conuersione admirabili beatissime magdalenes.
-        -   4.2.38. Ex eodem tractatu.
-        -   4.2.39. Ex sermone de magdalena. qui sic incipit. Ad locum unde exeunt flumina.
-        -   4.2.40. Ex tractatu super admirabili conuersione beatissime magdalenes.
-        -   4.2.41. Ex sermone qui sic incipit. Ad locum unde exeunt flumina.
-        -   4.2.42. Ex eodem sermone.
-        -   4.2.43. Ex tractatu de conuersione ad mirabili beatissime magdalenes.
-        -   4.2.44. Ex tractatu super cantica.
-        -   4.2.45. Ex eodem tractatu.
-        -   4.2.46. Ex sermone qui sic incipit. Operamini opus.
-        -   4.2.47. Ex sermone qui sic incipit. Cantate domino.
-        -   4.2.48. Ex tractatu super ecclesiasten.
-        -   4.2.49. Ex sermone qui sic incipit cantate domino.
-        -   4.2.50. Ex sermone qui sic incipit. Operamini opus uestrum.
-        -   4.2.51. Ex tractatu super parabolas salomonis.
-        -   4.2.52. Ex tractatu super Mulierem fortem.
-        -   4.2.53. Ex tractatu super parabolas.
-        -   4.2.54. Ex eodem tractatu.
-        -   4.2.55. Ex eodem tractatu.
-        -   4.2.56. Ex tractatu super ecclesiasten.
-        -   4.2.57. Ex tractatu super ecclesiasten.
-        -   4.2.58. Ex tractatu super ecclesiasten.
-        -   4.2.59. Ex tractatu super Mulierem fortem.
-        -   4.2.60. Ex eodem tractatu.
-    -   4.3. [*untitled*]
-        -   4.3.1. [*untitled*]
-        -   4.3.2. Ex tractatu super Mulierem fortem.
-        -   4.3.3. Ex eodem tractatu.
-        -   4.3.4. Ex eodem tractatu.
-        -   4.3.5. Ex eodem tractatu.
-        -   4.3.6. Ex tractatu super cantica canticorum.
-        -   4.3.7. Ex libro de naturis rerum.
-        -   4.3.8. Super cantica.
-        -   4.3.9. Ex sermone qui sic incipit. Exeamus extra castra.
-        -   4.3.10. Ex sermone qui sic incipit. Cum exaltatus fuero a terra.
-        -   4.3.11. Ex sermone qui sic incipit. Siquis uult uenire post me.
-        -   4.3.12. Ex tractatu super ecclesiasten.
-        -   4.3.13. Ex sermone qui sic incipit. Siquis uult uenire post me.
-        -   4.3.14. Ex sermone qui sic incipit. Grata est serenitas.
-        -   4.3.15. Ex sermone qui sic incipit. Exeamus extra castra.
-        -   4.3.16. Ex tractatu super cantica canticorum.
-        -   4.3.17. Ex eodem capitulo.
-        -   4.3.18. Ex eodem tractatu.
-        -   4.3.19. Ex tractatu super cantica canticorum.
-        -   4.3.20. Ex sermone qui sic incipit. Operamini opus uestrum.
-    -   4.4. Narraciuncula. De petro qui uocabatur ocultus.
-        -   4.4.2. Ex tractatu super parabolas.
-        -   4.4.3. Ex sermone qui sic incipit. Tu autem cum ieiunas.
-        -   4.4.4. Ex libro qui intitulatur solatium fidelis anime.
-        -   4.4.5. Ex libro qui intitulatur solacium fidelis anime.
-        -   4.4.6. Ex sermone qui sic incipit. Exeamus extra castra.
-        -   4.4.7. Ex sermone qui sic incipit. Inclinauit celos.
-    -   4.5. De auaris.
-        -   4.5.1. Ex libro de naturis rerum.
-    -   4.6. De diuiciis.
-        -   4.6.1. Ex eodem libro.
-        -   4.6.2. Ex tractatu super ecclesiasten.
-        -   4.6.3. Ex tractatu super cantica.
-        -   4.6.4. Item ex eodem tractatu.
-        -   4.6.5. Ex libro qui intitulatur de naturis rerum.
-        -   4.6.6. Ex eodem tractatu.
-        -   4.6.7. Ex tractatu super ecclesiasten.
-        -   4.6.8. Ex libro qui intitulatur de naturis rerum.
-        -   4.6.9. Ex libro qui intitulatur de naturis rerum.
-        -   4.6.10. Ex sermone qui sic incipit. cantate domino.
-        -   4.6.11. Ex tractatu super cantica canticorum.
-        -   4.6.12. Ex sermone qui sic incipit. Apertis thesauris suis.
-        -   4.6.13. Ex tractatu super cantica. Vbi legitur. quia fereculum fecit sibi rex salomoni de lignis libani columnas eius fecit argenteas reclinatorium aureum.
-        -   4.6.14. Ex tractatu super ecclesiasten.
-        -   4.6.15. Ex eodem tractatu.
-        -   4.6.16. Ex tractatu super Mulierem fortem.
-        -   4.6.17. Ex tractatu super ecclesiasten.
-        -   4.6.18. Ex eodem tractatu.
-        -   4.6.19. Ex eodem capitulo.
-        -   4.6.20. Ex eodem capitulo.
-        -   4.6.21. Ex eodem capitulo.
-        -   4.6.22. Ex sermone qui sic incipit. Ponite corda uestra.
-        -   4.6.23. Ex eodem tractatu.
-        -   4.6.24. Ex libro qui intitulatur solacium fidelis anime.
-        -   4.6.25. Ex tractatu super cantica.
-        -   4.6.26. Ex sermone qui sic incipit. Cum uenerit plenitudo temporis.
-        -   4.6.27. Ex libro qui intitulatur solatium fidelis anime.
-        -   4.6.28. Ex tractatu super cantica canticorum.
-    -   4.7. Narraciuncula.
-        -   4.7.1. Ex libro qui intitulatur de naturis rerum.
-        -   4.7.2. Ex tractatu super cantica.
-        -   4.7.3. Ex tractatu super cantica canticorum. capitulo .xx.
-        -   4.7.4. Ex eodem tractatu. capitulo xix.
-        -   4.7.5. Ex eodem capitulo.
-        -   4.7.6. Ex tractatu super cantica. Vbi legitur. Qualis est dilectus tuus ex dilecto.
-        -   4.7.7. Ex tractatu super cantica.
-        -   4.7.8. Ex sermone qui sic incipit. Scio quod redemptor meus uiuit.
-        -   4.7.9. Ex tractatu super cantica.
-        -   4.7.10. Ex tractatu super Mulierem fortem.
-        -   4.7.11. Super cantica.
-        -   4.7.12. Ex libro qui intitulatur solacium fidelis anime.
-        -   4.7.13. Ex eodem libro.
-        -   4.7.14. Ex sermone qui sic incipit. Vbi est qui natus est.
-        -   4.7.15. Ex sermone qui sic incipit. Mane nobiscum domine.
-        -   4.7.16. Ex libro qui intitulatur solacium fidelis anime.
-    -   4.8. [*untitled*]
-        -   4.8.1. Ex tractatu super ecclesiasten.
-        -   4.8.2. Ex eodem capitulo.
-        -   4.8.3. Ex sermone qui sic incipit. Ductus est iesus. et cetera.
-        -   4.8.4. Ex tractatu super ecclesiasten.
-        -   4.8.5. Ex eodem tractatu.
-        -   4.8.6. Item ex eodem tractatu.
-        -   4.8.7. Ex eodem tractatu.
-        -   4.8.8. Ex eodem tractatu.
-        -   4.8.9. Ex eodem tractatu.
-        -   4.8.10. Ex libro de naturis rerum.
-        -   4.8.11. Ex sermone qui sic incipit. operamini opus uestrum.
-        -   4.8.12. Ex sermone qui sic incipit. Ecce ego omnia facio noua.
-        -   4.8.13. Ex eodem sermone.
-    -   4.9. De detractoribus.
-        -   4.9.1. Ex tractatu super ecclesiasten.
-        -   4.9.2. Ex libro de naturis rerum.
-    -   4.10. De adulatoribus et detractoribus.
-        -   4.10.1. Ex tractatu super ecclesiasten.
-    -   4.11. Quod uir sapiens ulcisci non debeat iniuriam sibi in detractionibus illatam incidenter.
-        -   4.11.1. Ex eodem tractatu.
-        -   4.11.2. [*untitled*]
-    -   4.12. Item. De adulatoribus.
-        -   4.12.1. Ex libro de naturis rerum.
-        -   4.12.2. Ex sermone qui sic incipit. Filii hominum.
-        -   4.12.3. Ex libro de naturis rerum.
-        -   4.12.4. Ex eodem libro.
-    -   4.13. Qualiter uulpis circumuenit coruum adulatione sua.
-        -   4.13.1. Ex eodem libro.
-    -   4.14. De adulatione.
-        -   4.14.1. Ex eodem libro.
-    -   4.15. De ambitione.
-        -   4.15.1. Ex libro de naturis rerum.
-    -   4.16. De ambitiosis.
-        -   4.16.1. Ex eodem libro.
-    -   4.17. De ypocritis.
-        -   4.17.1. Ex libro de naturis rerum.
-        -   4.17.2. Super ecclesiasten.
-        -   4.17.3. Ex libro de naturis rerum.
-    -   4.18. De ypocritis.
-        -   4.18.1. Super ecclesiasten.
-    -   4.19. De iis qui muneribus inhiant.
-        -   4.19.1. Ex libro de naturis.
-    -   4.20. Contra illos qui muneribus inhiant.
-        -   4.20.1. Ex eodem libro.
-        -   4.20.2. Ex libro qui intitulatur solacium fidelis anime.
-        -   4.20.3. Ex tractatu super cantica.
-        -   4.20.4. Ex libro qui intitulatur solatium fidelis anime.
-        -   4.20.5. Ex libro qui intitulatur solatium fidelis anime.
-        -   4.20.6. Ex libro de naturis rerum.
-        -   4.20.7. Ex sermone qui sic incipit. omnia tempus habent.
-        -   4.20.8. Es libro de naturis rerum.
-        -   4.20.9. Ex semone qui sic incipit. omnia tempus habent.
-        -   4.20.10. Ex libro qui intitulatur speculum speculationum. caput. lxxv. libri tercii.
-        -   4.20.11. Ex eodem libro caput. sequenti.
-        -   4.20.12. Ex libro qui intitulatur solacium fidelis anime.
-        -   4.20.13. Ex tractatu super ecclesiasten.
-        -   4.20.14. Ex libro de naturis rerum.
-        -   4.20.15. Ex sermone qui sic incipit. Obsecro uos tam quam aduenias.
-        -   4.20.16. Ex sermone qui sic incipit. filioli mei.
-        -   4.20.17. Ex sermone qui sic incipit. Obsecro vos.
-        -   4.20.18. Ex eodem sermone.
-        -   4.20.19. Ex libro de naturis rerum.
-        -   4.20.20. Ex libro qui intitulatur corrogationes noui promothei.
-        -   4.20.21. Ex libro de naturis rerum.
-        -   4.20.22. Ex sermone qui sic incipit. Ductus est iesus in desertum.
-        -   4.20.23. Ex tractatu super parabolas.
-        -   4.20.24. Ex proemio super parabolas.
-        -   4.20.25. Ex sermone qui sic incipit. Exeamus extra castra.
-        -   4.20.26. Ex sermone qui sic incipit. filioli me. manete nunc in christo.
-        -   4.20.27. Ex sermone qui sic incipit. Exeamus extra castra.
-        -   4.20.28. Ex sermone qui sic incipit. filioli manete nunc in christo.
-        -   4.20.29. Ex sermone qui sic incipit. Cum natus esset.
-        -   4.20.30. Ex sermone qui sic incipit. Cantate domino.
-        -   4.20.31. Ex sermone qui sic incipit. Cum natus esset.
-        -   4.20.32. Ex libro qui intitulatur solacium fidelis anime.
-        -   4.20.33. Ex libro edito in laudem gloriose uirginis.
-        -   4.20.34. Ex sermone qui sic incipit. Tu es pastor ouium.
-        -   4.20.35. Ex eodem sermone.
-        -   4.20.36. Ex eodem sermone.
-        -   4.20.37. Ex libro de naturis rerum.
-        -   4.20.38. Ex eodem libro.
-        -   4.20.39. Ex sermone qui sic incipit. probasti cor meum.
-        -   4.20.40. Ex sermone de omnibus sanctis.
-        -   4.20.41. Ex sermone qui sic incipit. Probasti cor meum.
-        -   4.20.42. Super ecclesiasten.
-        -   4.20.43. Ex sermone qui sic incipit. Tu es pastor ouium.
-        -   4.20.44. Ex sermone qui sic incipit. Funes ceciderunt.
-        -   4.20.45. Ex sermone qui sic incipit. Filii hominum.
-        -   4.20.46. Ex sermone qui sic incipit. Si obliti sumus.
-        -   4.20.47. Ex sermone qui sic incipit. Funes ceciderunt.
-        -   4.20.48. Ex sermone qui sic incipit. Dixit iesus petro.
-        -   4.20.49. Ex sermone qui sic incipit. inclinauit celos.
-        -   4.20.50. Ex sermone qui sic incipit. pascha nostrum.
-        -   4.20.51. Ex sermone qui sic incipit. Videte vigilate et orate.
-        -   4.20.52. Ex sermone qui sic incipit. Quare appenditis argentum.
-        -   4.20.53. Ex tractatu super ecclesiasten.
-        -   4.20.54. Ex edodem capitulo.
-        -   4.20.55. Eo eodem capitulo.
-        -   4.20.56. Ex sermone qui sic incipit. Ascendit deus in iubilo.
-        -   4.20.57. Ex sermone qui sic incipit. Quare appenditis argentum.
-        -   4.20.58. Super ecclesiasten.
-        -   4.20.59. Super matheum.
-        -   4.20.60. Super Mulierem fortem.
-        -   4.20.61. Ex sermone qui sic incipit. Nuptie facte sunt.
-        -   4.20.62. Ex sermone qui sic incipit. Dulce est lumen.
-        -   4.20.63. Ex sermone qui sic incipit. Letare ierusalem.
-        -   4.20.64. Ex sermone qui sic incipit. Ad te domine leuaui animam meam.
-        -   4.20.65. Ex eodem sermone.
-        -   4.20.66. Super ecclesiasten.
-        -   4.20.67. Super pslmum .xxiiii.
-        -   4.20.68. Super ecclesiasten.
-        -   4.20.69. Super psalmum .xxiii.
-        -   4.20.70. Ex libro intitulatur corrogationes promothei.
-        -   4.20.71. Super Mulierem fortem.
-        -   4.20.72. Ex sermone sanctorum petri et pauli qui sic incipit. Cum esses iunior.
-        -   4.20.73. Super Mulierem fortem.
-        -   4.20.74. Ex eodem tractatu.
-        -   4.20.75. Ex sermone qui sic incipit. Cum appropinquasset iesus.
-        -   4.20.76. Ex tractatu super cantica canticorum.
-        -   4.20.77. Ex sermone qui sic incipit. Delibuta est fortitudo portantis.
-        -   4.20.78. Ex tractatu super Mulierem fortem.
-        -   4.20.79. Ex sermone qui sic incipit. Operamini opus uestrum ante tempus.
-        -   4.20.80. Ex tractatu super cantica canticorum.
-        -   4.20.81. Ex tractatu super ecclesiasten.
-        -   4.20.82. Ex libro qui intitulatur solacium fidelis anime.
-        -   4.20.83. Ex libro de naturis rerum.
-        -   4.20.84. Super ecclesiasten.
-    -   4.21. De Inuidia aristotilis.
-        -   4.21.1. Ex libro de naturis rerum.
-        -   4.21.2. Super ecclesiasten.
-        -   4.21.3. De eodem.
-    -   4.22. De Inuidia macedonis.
-        -   4.22.1. Ex libro de naturis rerum.
-    -   4.23. De Inuidia et superbia luciferi.
-        -   4.23.1. Ex libro de naturis rerum.
-    -   4.24. [*untitled*]
-        -   4.24.1. Ex eodem capitulo.
-        -   4.24.2. Ex tractatu super Mulierem fortem.
-        -   4.24.3. Super cantica.
-        -   4.24.4. Super Mulierem fortem.
-        -   4.24.5. Ex sermone qui sic incipit. Agar ancilla saray.
-        -   4.24.6. Ex libro qui intitulatur solacium fidelis anime.
-        -   4.24.7. Ex sermone qui sic incipit. Agar ancilla.
-    -   4.25. De Inconstancia claustralium.
-        -   4.25.1. Ex libro de naturis rerum.
-        -   4.25.2. Narraciuncula.
-    -   4.26. De Vagis claustralium discursibus.
-        -   4.26.1. Ex libro de naturis rerum.
-        -   4.26.2. Super ecclesiasten.
-        -   4.26.3. Ex libro de naturis rerum.
-    -   4.27. Quod felix sit conditio claustralium.
-        -   4.27.1. Ex tractatu super Mulierem fortem.
-        -   4.27.2. Ex proemio super parabolas.
-        -   4.27.3. Ex sermone qui sic incipit. Dixit iesus petro.
-        -   4.27.4. Ex proemio super parabolas.
-    -   4.28. De perturbatoribus pacis fraterne.
-        -   4.28.1. Ex capitulo tercio libri primi de naturis rerum.
-    -   4.29. Item. De superbia et invidia.
-        -   4.29.1. Ex eodem capitulo.
-    -   4.30. De Inuidia.
-        -   4.30.1. Ex libro de naturis rerum.
-        -   4.30.2. Ex sermone qui sic incipit.
-        -   4.30.3. Ex libro de naturis rerum.
-        -   4.30.4. Ex libro de naturis rerum.
-        -   4.30.5. Ex proemio super parabolas.
-        -   4.30.6. Ex tractatu super parabolas.
-    -   4.31. De Niso et mustela.
-        -   4.31.1. Ex libro de naturis rerum.
-        -   4.31.2. Super ecclesiasten.
-        -   4.31.3. Super parabolas.
-    -   4.32. Item De Inuidia.
-        -   4.32.1. Ex libro de naturis rerum.
-    -   4.33. De Invidia et inani gloria.
-        -   4.33.1. Ex sermone qui sic incipit. Ponite corda uestra.
-    -   4.34. De Invidia que preuenit ex inani gloria.
-        -   4.34.1. Ex libro de naturis rerum.
-    -   4.35. De arrogantia.
-        -   4.35.1. Ex eodem libro.
-    -   4.36. Item. De Arrogantia.
-        -   4.36.1. Ex eodem libro.
-        -   4.36.2. Ex sermone qui sic incipit. Ductus est iesus.
-    -   4.37. De erecta ceruisem ysmael.
-        -   4.37.1. Ex libro de naturis rerum.
-    -   4.38. Ecclesiasticus.<!--really?--> De superbia.
-        -   4.38.1. Ex eodem libro.
-    -   4.39. Contra Inuidiam.
-        -   4.39.1. Ex sermone qui sic incipit. Ductus est iesus.
-    -   4.40. De Ira.
-        -   4.40.1. Ex libro de naturis rerum.
-    -   4.41. [*untitled*]
-        -   4.41.1. Ex tractatu super ecclesiasten.
-    -   4.42. Narratiuncula De stultiloquio.
-        -   4.42.1. Ex eodem tractatu.
-    -   4.43. De lubricitate lingue.
-        -   4.43.1. Ex tractatu super Mulierem fortem.
-        -   4.43.2. Super ecclesiasten.
-        -   4.43.3. Ex tractatu super ecclesiasten.
-        -   4.43.4. Ex eodem tractatu.
-        -   4.43.5. Super cantica canticorum.
-        -   4.43.6. Super Mulierem fortem.
-        -   4.43.7. Super Mulierem fortem.
-        -   4.43.8. Super Mulierem fortem.
-    -   4.44. Narraciuncula. De stultiloquio.
-        -   4.44.1. Ex libro de naturis rerum.
-        -   4.44.2. Ex libro de naturis rerum.
-        -   4.44.3. Ex libro de naturis rerum.
-    -   4.45. De Inuidia Iudeorum.
-        -   4.45.1. Ex libro de naturis rerum.
-        -   4.45.2. Super Mulierem fortem.
-        -   4.45.3. Super cantica.
-        -   4.45.4. Super cantica.
-        -   4.45.5. Ex tractatu super ecclesiasten.
-        -   4.45.6. Ex tractatu super cantica.
-        -   4.45.7. Ex eodem tractatu.
-        -   4.45.8. Item. Ex eodem tractatu.
-        -   4.45.9. Ex tractatu super cantica.
-        -   4.45.10. Ex eodem tractatu.
-        -   4.45.11. Ex eodem tractatu.
-        -   4.45.12. Ex tractatu super ecclesiasten.
-        -   4.45.13. Ex eodem tractatu.
-        -   4.45.14. Ex tractatu super cantica.
-        -   4.45.15. Ex glosa supper mattheum.
-        -   4.45.16. Ex sermone qui sic incipit. Memento homo.
-        -   4.45.17. Ex sermone qui sic incipit. Ponite corda uestra.
-        -   4.45.18. Ex sermone qui sic incipit. transeamus usque beleem.
-        -   4.45.19. Ex sermone qui sic incipit. Ponite corda vestra.
-        -   4.45.20. Ex tractatu super ecclesiasten.
-        -   4.45.21. Item. Ex eodem capitulo.
-        -   4.45.22. Item. ex eodem capitulo.
-        -   4.45.23. Ex eodem tractatu.
-        -   4.45.24. Ex eodem tractatu.
-        -   4.45.25. Ex eodem tractatu.
-        -   4.45.26. Ex libro de naturis rerum.
-        -   4.45.27. Ex sermone qui sic incipit. Misit herodes rex manus.
-        -   4.45.28. Ex sermone qui sic incipit. Abraham mortuus est.
-        -   4.45.29. Ex eodem sermone.
+-   [3r] 0\. Epistula.
+-   1\. [*Liber Primus*]
+    -   1.1. Sermo in festiuitate reliquiarum. excerptus ex libris magistri alexandri abbatis cyrencestrie.
+        -   1.1.1. Ex sermone de sancto iohanne. qui sic incipit. Fuit homo.
+        -   1.1.1. Ex tractatu super mulierem fortem.
+        -   1.1.3. Ex tractatu super parabolas.
+        -   [3v] 1.1.4. Ex eodem tractatu.
+        -   1.1.5. Ex tractatu super cantica canticorum.
+        -   1.1.6. Super parabolas.
+        -   [4r] 1.1.7. Ex tractatu super parabolas.
+        -   1.1.8. Ex tractatu super mulierem fortem.
+        -   1.1.9. Super cantica.
+        -   [4v] 1.1.10. Ex sermone qui sic incipit. omnia tempus habent.
+        -   1.1.11. Item. Super cantica.
+        -   1.1.11. Super mulierem fortem.
+        -   1.1.13. Ex sermone qui sic incipit. Dulce est lumen.
+        -   1.1.14. Ex sermone qui sic incipit. Scio quod redemptor meus uiuit.
+        -   [5r/5v: portraits]
+        -   [6r] 1.1.15. Super cantica. libro .vº. capitulo xiº.
+        -   1.1.16. Ex tractatu super mulierem fortem.
+        -   1.1.17. Ex eodem tractatu.
+        -   1.1.18. Super ecclesiasten.
+        -   1.1.19. Super mulierem fortem.
+        -   1.1.20. Ex sermone qui sic incipit. Scio quod redemptor meus uiuit.
+        -   [6v] 1.1.21. Ex tractatu super cantica canticorum.
+        -   [7r] 1.1.21. Ex tractatu super ecclesiasten.
+        -   1.1.23. Ex tractatu super cantica.
+        -   1.1.24. Ex libro edito in laudem gloriose uirginis.
+        -   [8r] 1.1.25. Ex sermone qui sic incipit. Hec est dies.
+        -   1.1.26. Ex sermone qui sic incipit. Absterget deus.
+        -   1.1.27. Ex glosa super Quicumque uult.
+        -   [8v] 1.1.28. Ex tractatu super cantica.
+        -   1.1.29. Ex sermone qui sic incipit. Nox precessit.
+        -   1.1.30. Ex tractatu super ecclesiasten.
+        -   1.1.31. Ex sermone qui sic incipit. Tanquam aurum in fornace.
+        -   [9v] 1.1.31. Ex sermone qui sic incipit. Absterget deus.
+        -   1.1.33. Ex eodem sermone.
+        -   1.1.34. Ex Glosa super matheum.
+        -   1.1.35. Ex sermone qui sic incipit. Absterget deus.
+        -   1.1.36. Ex eodem sermone.
+        -   1.1.37. Ex eodem sermone.
+        -   1.1.38. Ex Glosa super psalmum xxxvii.
+        -   [11r] 1.1.39. Ex tractatu super cantica.
+        -   1.1.40. Ex sermone de apostolis qui sic incipit. Hi sunt uiri misericordie.
+        -   [11v] 1.1.41. Super ecclesiasten.
+        -   1.1.41. Ex tractatu super cantica canticorum.
+        -   1.1.43. Ex tractatu super mulierem fortem.
+        -   [12r] 1.1.44. Ex sermone de apostolis.
+        -   1.1.45. Ex tractatu super cantica canticorum.
+        -   1.1.46. Super psalmum xxxvi.
+        -   1.1.47. Ex tractatu super ecclesiasten.
+        -   1.1.48. Ex questione scolastica.
+        -   [12v] 1.1.49. Ex tractatu super ecclesiasten.
+        -   1.1.50. Ex sermone de sancto iohanne.
+        -   1.1.51. Ex tractatu super mulierem fortem.
+        -   1.1.51. Ex sermone qui sic incipit. Cum esses iunior.
+    -   1.1. Descriptio misericordie et de eius commendatione.
+        -   1.1.1. Ex sermone de omnibus sanctis.
+        -   [13r] 1.1.1. Super cantica.
+        -   1.1.3. Ex sermone de omnibus sanctis.
+        -   1.1.4. Ex sermone qui sic incipit. Tu autem cum ieiunas.
+        -   1.1.5. Ex tractatu super cantica.
+        -   [13v] 1.1.6. Ex sermone de omnibus sanctis.
+        -   [14r] 1.1.7. Ex tractatu super cantica canticorum.
+    -   1.3. De speciebus misericordie.
+        -   1.3.1. Ex sermone de omnibus sanctis.
+        -   1.3.1. Super mattheum.
+        -   1.3.4. Ex sermone de omnibus sanctis.
+    -   [14v] 1.4. De operibus misericordie.
+        -   1.4.1. Ex sermone qui sic incipit. Spiritus intelligentie.
+        -   [16v] 1.4.1. Super cantica.
+        -   1.4.3. Ex libro edito in laudem gloriose uirginis.
+        -   [17r] 1.4.4. Ex eodem libro.
+        -   1.4.5. Ex eodem libro.
+        -   [17v] 1.4.6. Super cantica.
+        -   [18r] 1.4.7. Ex libro edito in laudem gloriose uirginis.
+        -   1.4.8. Ex eodem libro.
+        -   [19v] 1.4.9. Ex sermone qui sic incipit. Ingredere petram.
+        -   1.4.10. Ex libro edito in laudem gloriose uirginis.
+        -   [20r] 1.4.11. Item ex eodem capitulo.
+        -   [21r] 1.4.11. Item ex eodem libro.
+        -   1.4.13. Super cantica. Vbi legitus⸵ Reuertere reuertere sunamitis.
+        -   [22r] 1.4.14. Ex libro edito in laudem gloriose uirginis.
+        -   [22v] 1.4.15. Ex sermone qui sic incipit. Inclinauit celos.
+        -   1.4.16. Ex sermone qui sic incipit. Dabo uobis cor carneum.
+        -   1.4.17. Ex sermone qui sic incipit. Que est ista que ascendit de deserto.
+        -   1.4.18. Ex sermone qui sic incipit. Ecce ego mitto angelum meum.
+        -   1.4.19. Ex sermone qui sic incipit. ponam tabernaculum meum.
+        -   1.4.20. Ex libro edito in laudem gloriose uirginis.
+        -   [29v] 1.4.21. Ex sermone qui sic incipit. Dixit deus⸵ fiat lux.
+        -   [30r] 1.4.21. Ex tractatu super cantica.
+        -   1.4.23. Ex sermone qui sic incipit. Dixit deus. fiat lux.
+        -   1.4.24. Ex sermone qui sic incipit. Inclinauit celos.
+        -   [32r] 1.4.25. Ex libro edito in laude gloriosa uirginis.
+        -   [32v] 1.4.26. Ex sermone qui sic incipit. transeamus usque belleem.
+        -   1.4.27. Ex tractatu super cantica.
+        -   1.4.28. Ex proemio super parabolas.
+        -   [33r] 1.4.29. Ex sermone de incarnatione domini. qui sic incipit. ponam tabernaculum meum.
+        -   1.4.30. Ex eodem sermone.
+        -   [33v] 1.4.31. Ex eodem sermone.
+        -   [34r] 1.4.31. Ex sermone qui sic incipit. Dixit deus. fiat lux.
+        -   1.4.33. Ex eodem sermone.
+        -   1.4.34. Ex libro edito in laudem gloriose uirginis.
+        -   [34v] 1.4.35. Ex sermone qui sic incipit. Tu exsurgens misereberis syon.
+        -   [35v] 1.4.36. Ex eodem sermone.
+        -   [37r] 1.4.37. Ex sermone qui sic incipit. Tu es qui uenturus es.
+        -   [38v] 1.4.38. Ex eodem sermone.
+        -   1.4.39. Ex sermone qui sic incipit. Dixit deus. fiat lux.
+        -   1.4.40. Ex sermone qui sic incipit. Tu es qui uenturus es.
+        -   [39v] 1.4.41. Ex sermone qui sic incipit. Dixit deus. fiat lux.
+        -   [40r] 1.4.41. Ex sermone qui sic incipit. Nox precessit.
+        -   [40v] 1.4.43. Ex eodem sermone.
+        -   1.4.44. Ex sermone qui sic incipit. Nox precessit.
+        -   1.4.45. Ex libro edito in laudem gloriose uirginis.
+        -   [41r] 1.4.46. Ex sermone qui sic incipit. Et tu turris gregis.
+        -   1.4.47. Ex sermone qui sic incipit. Tu es qui uenturus es.
+        -   1.4.48. Ex sermone qui sic incipit. Et tu turris gregis.
+        -   1.4.49. Ex sermone qui sic incipit. Tu es qui uenturus es.
+        -   [42r] 1.4.50. Ex sermone qui sic incipit. Et tu turris gregis.
+        -   [42v] 1.4.51. Ex eodem sermone.
+        -   1.4.51. Ex sermone qui sic incipit. Cum exaltatus fuero a terra.
+        -   [43r] 1.4.53. Ex sermone qui sic incipit. Et tu turris gregis.
+        -   1.4.54. Ex sermone qui sic incipit. tu es qui uenturus es.
+    -   1.5. De misericordia gloriose uirginis.
+        -   1.5.1. Ex sermone qui sic incipit. Spiritus intelligentie.
+        -   [43v] 1.5.1. Ex sermone qui sic incipit. Transeamus usque belhleem.
+        -   1.5.3. Ex sermone qui sic incipit. Spiritus intelligentie.
+        -   1.5.4. Super cantica.
+        -   1.5.5. Super mulierem fortem.
+        -   1.5.6. Super cantica.
+        -   1.5.7. Super mulierem fortem.
+        -   1.5.8. Super cantica.
+        -   1.5.9. Ex tractatu super mulierem fortem. Vbi legitur. De nocte surrexit. deditque predam domesticis suis.
+        -   [44r] 1.5.10. Ex tractatu super cantica.
+        -   1.5.11. Ex tractatu super mulierem fortem.
+        -   [44v] 1.5.11. Super cantica.
+        -   [45v] 1.5.13. Super mulierem fortem.
+        -   [46r] 1.5.14. Super mulierem fortem.
+        -   1.5.15. Super cantica.
+        -   1.5.16. Item. Super cantica.
+        -   1.5.17. Super mulierem fortem.
+        -   1.5.18. Ex eodem tractatu.
+        -   [46v] 1.5.19. Ex libro edito in laudem gloriose uirginis.
+        -   [48r] 1.5.20. Ex tractatu super cantica.
+        -   1.5.21. Ex eodem capitulo.
+        -   1.5.21. Ex eodem tractatu.
+        -   [48v] 1.5.23. Super mulierem fortem.
+        -   1.5.24. Ex libro edito in laudem gloriose uirginis.
+        -   1.5.25. Super mulierem fortem.
+        -   [50v] 1.5.26. Ex libro edito in laudem gloriose uirginis.
+        -   1.5.27. Super mulierem fortem.
+        -   [51v] 1.5.28. Ex eodem libro.
+        -   [52r] 1.5.29. Super cantica.
+        -   1.5.30. Ex libro edito in laudem gloriose uirginis.
+        -   1.5.31. Ex tractatu super cantica.
+        -   1.5.31. Super mulierem fortem.
+        -   1.5.33. Super mulierem fortem.
+        -   [53r] 1.5.34. Ex eodem tractatu.
+        -   [54r] 1.5.35. Ex sermone qui sic incipit. Venit mater salomonis.
+        -   1.5.36. Super cantica.
+        -   [55v] 1.5.37. Super cantica.
+        -   [56v] 1.5.38. Super cantica.
+        -   1.5.39. Super cantica. libro secundo. capitulo .viiiº.
+        -   [57r] 1.5.40. Ex capitulo sequenti.
+        -   1.5.41. Super cantica.
+        -   1.5.41. Ex eodem libro.
+        -   1.5.43. Ex libro edito in laudem gloriose uirginis.
+        -   [57v] 1.5.44. Ex eodem libro.
+        -   1.5.45. Super cantica.
+        -   1.5.46. Super cantica.
+        -   1.5.47. Super cantica.
+        -   1.5.48. Ex eodem tractatu.
+        -   1.5.49. Ex sermone qui sic incipit. Spiritus intelligentie.
+    -   [60r] 1.6. De carcere pene.
+        -   1.6.1. Ex sermone qui sic incipit. Egressus petrus de carcere.
+        -   [60v] 1.6.1. Ex eodem sermone.
+        -   [61v] 1.6.3. Ex eodem sermone.
+        -   1.6.4. Ex sermone qui sic incipit. Misit herodes rex manus.
+        -   [62v] 1.6.5. Ex tractatu super ecclesiasten.
+        -   1.6.6. Ex sermone qui sic incipit. Egressus petrus de carcere.
+        -   [63v] 1.6.7. Ex tractatu super cantica canticorum.
+        -   [64v] 1.6.8. Super ecclesiasten.
+        -   [65r] 1.6.9. Ex sermone qui sic incipit. Egressus petrus de carcere.
+        -   1.6.10. Ex eodem sermone.
+        -   1.6.11. Ex sermone qui sic incipit. Absterget deus.
+    -   [65v] 1.7. Recursus ad initium sermonis.
+        -   1.7.1. Ex tractatu super ecclesiasten.
+        -   1.7.1. Super cantica.
+        -   1.7.3. Ex tractatu super mulierem fortem.
+        -   [66r] 1.7.4. Ex tractatu super cantica canticorum.
+        -   1.7.5. Ex tractatu super mulierem fortem.
+        -   1.7.6. Ex sermone de apostolis. qui sic incipit. Hii sunt uiri misericordie.
+        -   1.7.7. Ex tractatu super cantica canticorum.
+        -   1.7.8. Ex G⟨l⟩osa super psalmum quintum.
+        -   1.7.9. Ex sermone de apostolis.
+    -   1.8. [*untitled*]
+        -   [66v] 1.8.1. Ex libro qui intitulatur solacium fidelis anime.
+        -   [67v] 1.8.1. Ex tractatu super cantica.
+        -   1.8.3. Ex eodem tractatu.
+        -   [68r] 1.8.4. Ex tractatu super cantica.
+        -   [68v] 1.8.5. Ex tractatu super parabolas salomonis.
+        -   1.8.6. Ex tractatu super cantica.
+        -   1.8.7. Ex tractatu super parabolas salomonis.
+    -   [69r] 1.9. Ad libellum.
+        -   1.9.1. Ex libro qui intitulatur laus sapientie diuine. Ex Distinctione septima.
+        -   1.9.1. Ex libro qui intitulatur laus sapientie diuine. Distinctione quarta.
+        -   1.9.3. Ex Distinctione quarta.
+        -   1.9.4. Ridemus de curia.
+-   [70r] 2.0 Incipit proemium in librum Secundum.
+    -   2.0.1. Ex libro qui intitulatur Speculum Speculationum. Ex distinctione quarta.
+    -   2.0.2. Ex libro qui intitulatur laus sapientie diuine. Distinctione quinta.
+    -   [70*bis*r] 2.0.2. Ex libro qui intitulatur corrogationes noui promethei.
+    -   [70v] 2.0.4. Ex libro qui deseruit laude sapientie diuine. Distinctione secunda.
+    -   2.0.5. Ex eodem libro. Distinctione secunda.
+    -   [71r] 2.0.6. Ex libro qui intitulatur laus sapientie diuine. Distinctione quinta.
+    -   2.0.7. Ex libro qui intitulatur laus sapientie diuine. Distinctione .iiiiª.
+    -   2.0.8. Ex eodem libro. Distinctione .iiª.
+    -   2.0.9. Ex eodem libro. Distinctione .iiiiª.
+    -   2.0.10. Epistola.
+-   [72r] 2\. ¶Incipit liber secundus. In quo agitur de misericordia⸵ et de suggillatione quorundam uitiorum.
+    -   2.1. De circumstantiis misericordie et de elemosinarum efficacia.
+        -   2.1.1. Ex sermone de omnibus sanctis. qui sic incipit. Beati pauperes spiritu.
+        -   2.1.2. Quis.
+            -   [72v] 2.1.2.1 Super cantica.
+            -   2.1.2.2. Ex libro qui intitulatur corrogationes noui promethei.
+            -   [73r] 2.1.2.3. Ex tractatu super cantica canticorum.
+        -   2.1.3. Quid. De spirituali elemosine.<!-- fix numbering -->
+            -   2.1.3.1. Ex sermone de omnibus sanctis.
+            -   2.1.3.2. Ex sermone qui sic incipit. Erunt signa in sole et luna.
+            -   [73v] 2.1.3.3. Ex sermone qui sic incipit. Erunt signa in sole et luna.
+            -   [74r] 2.1.3.4. Item˷ Ex eodem sermone.
+            -   2.1.3.5. Item. Ex eodem sermone.
+            -   2.1.3.6. Ex libro de naturis rerum.
+            -   [74v] 2.1.3.7. Ex sermone qui sic incipit. Nox precessit.
+            -   2.1.3.8. Questio scolastica.
+            -   2.1.3.9. Ex sermone qui sic incipit. Hodierna die noster dominus.
+            -   [75r] 2.1.3.10. Ex tractatu super cantica canticorum.
+            -   2.1.3.11. Ex glosa super epistulam secundam ad thessalonicentes.
+            -   2.1.3.12. Ex questione scolastica.
+            -   2.1.3.13. Super psalmum .xlviii.
+        -   [76r] 2.1.4. De elemosina corporali.
+            -   2.1.4.1. Ex sermone de omnibus sanctis.
+        -   [76v] 2.1.5. Cur.
+        -   2.1.6. Quantum.
+        -   2.1.7. Cui.
+        -   [77r] 2.1.8. Quali.
+            -   2.1.8.1. Ex sermone qui sic incipit. Nuptie facte sunt.
+            -   [77v] 2.1.8.2. Ex sermone de omnibus sanctis.
+            -   [78r] 2.1.8.3. Ex tractatu super parabolas ubi agitur de iudicio et iusticia. et equitate scilicet capitulo secundo.
+        -   [78v] 2.1.9. Qualiter.
+            -   2.1.9.1. Ex sermone de omnibus sanctis.
+        -   2.1.10. Ex quo.
+            -   2.1.10.1. Ex sermone qui sic incipit. Tu es qui uenturus es.
+            -   2.1.10.2. Ex sermone qui sic incipit. Exeamus extra castra.
+            -   [79r] 2.1.10.3. Ex sermone qui sic incipit. Inclinauit celos.
+            -   2.1.10.4. Ex sermone de omnibus sanctis qui sic incipit. Beati pauperes spiritu.
+            -   [79v] 2.1.10.5. Ex sermone qui sic incipit. Exeamus extra castra.
+            -   2.1.10.6. Ex eodem sermone.
+            -   2.1.10.7. Ex sermone qui sic incipit. Dixit iesus petro.
+            -   2.1.10.8. Ex sermone qui sic incipit. Exeamus extra castra.
+            -   [80r] 2.1.10.9. Ex libro qui intitulatur solacium fidelis anime.
+            -   2.1.10.10. Ex sermone qui sic incipit. Tu es qui uenturus es.
+            -   2.1.10.11. Ex tractatu super parabolas.
+            -   [80v] 2.1.10.12. Ex sermone qui sic incipit. Nuptie facte sunt.
+            -   2.1.10.13. Ex sermone qui sic incipit. Et tu turris gregis.
+            -   2.1.10.14. Ex sermone qui sic incipit. Domine si inueni gratiam.
+        -   [81r] 2.1.10.15. Item. Ex quo.
+            -   2.1.10.16. Ex sermone de omnibus sanctis.
+            -   [81v] 2.1.10.17. Ex sermone qui sic incipit. Ad locum unde exeunt flumina.
+            -   [82r] 2.1.10.18. Ex sermone de omnibus sanctis qui sic incipit. Beati pauperes spiritu.
+            -   2.1.10.19. Ex eodem sermone.
+            -   [82v] 2.1.10.20. Ex sermone de apostolis petri et pauli.
+            -   [83r] 2.1.10.21. Ex tractatu super cantica canticorum.
+        -   2.1.11. De hanibalo.
+            -   2.1.11.1. Ex sermone de apostolis.
+            -   2.1.11.2. Ex tractatu super cantica.
+            -   2.1.11.3. Ex sermone de apostolis.
+            -   [83v] 2.1.11.4. Ex tractatu super ecclesiasten vbi legitur. Non prohibui cor me quin omni voluptate frueretur⸵ et oblectaret se in hiis que preparaueram.
+            -   [84v] 2.1.11.5. Ex libro de naturis rerum.
+            -   [85r] 2.1.11.6. Ex libro de naturis rerum.
+            -   [85v] 2.1.11.7. Ex tractatu super mulierem fortem.
+            -   2.1.11.8. Ex tractatu super cantica canticorum.
+            -   2.1.11.9. Ex libro de naturis rerum.
+            -   2.1.11.10. Ex tractatu super ecclesiasten.
+    -   2.2. Narraciuncula.
+        -   [86r] 2.2.1. Ex libro qui intitulatur de naturis rerum.
+        -   [86v] 2.2.2. Ex tractatu super parabolas.
+        -   [87r] 2.2.3. Super mulierem fortem.
+        -   2.2.2. Ex sermone qui sic incipit. Exeamus extra castra.
+        -   2.2.5. Ex libro qui intitulatur corrogationes promothei.
+        -   2.2.6. Ex sermone. exeamus extra castra.
+        -   [87v] 2.2.7. Ex tractatu super ecclesiasten.
+        -   2.2.8. Ex eodem tractatu.
+        -   2.2.9. Ex libro de naturis rerum.
+        -   2.2.10. Super ecclesiasten.
+        -   2.2.11. Ex sermone qui sic incipit. Ductus est iesus in deserto.
+        -   [88r] 2.2.12. Ex sermone qui sic incipit. Omnia tempus habent.
+        -   2.2.13. Ex sermone qui sic incipit. Agar ancilla saray.
+        -   [88v] 2.2.12. Ex eodem sermone.
+        -   2.2.15. Ex tractatu super cantica.
+        -   2.2.16. Ex sermone qui sic incipit. Agar ancilla saray.
+        -   2.2.17. Ex libro qui intitulatur solacium fidelis anime.
+        -   [89r] 2.2.18. Ex eodem libro.
+        -   [90v] 2.2.19. Ex libro qui intitulatur solatium fidelis anime.
+        -   [91r] 2.2.20. Ex libro de naturis rerum.
+        -   2.2.21. Ex libro qui intitulatur solatium fidelis anime.
+        -   [93r] 2.2.22. Ex sermone de sancto paulo qui sic incipit. Nunquid ad preceptum tuum.
+        -   2.2.23. Ex eodem sermone.
+        -   2.2.22. Ex sermone qui sic incipit. Hii sunt uiri misericordie.
+        -   2.2.25. Ex libro qui intitulatur solatium fidelis anime.
+        -   [92r] 2.2.26. Ex libro qui intitulatur corrogationes promothei.
+        -   [93v] 2.2.27. Ex eodem tractatu.
+        -   [94r] 2.2.28. Ex tractatu super cantica canticorum.
+        -   [94v] 2.2.29. Ex sermone de spiritu sancto qui sic incipit. Spiritus intelligentie.
+        -   2.2.30. Super psalmum primum.
+        -   2.2.31. Ex sermone qui sic incipit. Operamini opus uestrum.
+        -   [95r] 2.2.32. Ex sermone qui sic incipit. Cantate domino.
+        -   2.2.33. Ex tractatu super mulierem fortem.
+        -   [95v] 2.2.32. Ex libro qui intitulatur de naturis rerum.
+        -   [97r] 2.2.35. Ex tractatu super cantica canticorum. Vbi legitur ego dilecto meo⸵ et ad me conuersio eius.
+        -   [98r] 2.2.36. Super psalmum Vigesimum tercium qui sic incipit. Dominus regit me.
+        -   2.2.37. Ex tractatu de conuersione admirabili beatissime magdalenes.
+        -   [98v] 2.2.38. Ex eodem tractatu.
+        -   2.2.39. Ex sermone de magdalena. qui sic incipit. Ad locum unde exeunt flumina.
+        -   2.2.40. Ex tractatu super admirabili conuersione beatissime magdalenes.
+        -   [99r] 2.2.41. Ex sermone qui sic incipit. Ad locum unde exeunt flumina.
+        -   2.2.42. Ex eodem sermone.
+        -   [99v] 2.2.43. Ex tractatu de conuersione ad mirabili beatissime magdalenes.
+        -   [100r] 2.2.42. Ex tractatu super cantica.
+        -   2.2.45. Ex eodem tractatu.
+        -   2.2.46. Ex sermone qui sic incipit. Operamini opus.
+        -   2.2.47. Ex sermone qui sic incipit. Cantate domino.
+        -   2.2.48. Ex tractatu super ecclesiasten.
+        -   [100v] 2.2.49. Ex sermone qui sic incipit cantate domino.
+        -   2.2.50. Ex sermone qui sic incipit. Operamini opus uestrum.
+        -   [101r] 2.2.51. Ex tractatu super parabolas salomonis.
+        -   [101v] 2.2.52. Ex tractatu super mulierem fortem.
+        -   2.2.53. Ex tractatu super parabolas.
+        -   2.2.52. Ex eodem tractatu.
+        -   [102r] 2.2.55. Ex eodem tractatu.
+        -   2.2.56. Ex tractatu super ecclesiasten.
+        -   2.2.57. Ex tractatu super ecclesiasten.
+        -   2.2.58. Ex tractatu super ecclesiasten.
+        -   2.2.59. Ex tractatu super mulierem fortem.
+        -   2.2.60. Ex eodem tractatu.
+    -   [103r] 2.3. [*untitled*]
+        -   2.3.1. [*untitled*]
+        -   2.3.2. Ex tractatu super mulierem fortem.
+        -   2.3.3. Ex eodem tractatu.
+        -   [103v] 2.3.2. Ex eodem tractatu.
+        -   [104r] 2.3.5. Ex eodem tractatu.
+        -   2.3.6. Ex tractatu super cantica canticorum.
+        -   [104v] 2.3.7. Ex libro de naturis rerum.
+        -   2.3.8. Super cantica.
+        -   [105r] 2.3.9. Ex sermone qui sic incipit. Exeamus extra castra.
+        -   [105v] 2.3.10. Ex sermone qui sic incipit. Cum exaltatus fuero a terra.
+        -   2.3.11. Ex sermone qui sic incipit. Siquis uult uenire post me.
+        -   [106r] 2.3.12. Ex tractatu super ecclesiasten.
+        -   [106v] 2.3.13. Ex sermone qui sic incipit. Siquis uult uenire post me.
+        -   [107v] 2.3.12. Ex sermone qui sic incipit. Grata est serenitas.
+        -   [108r] 2.3.15. Ex sermone qui sic incipit. Exeamus extra castra.
+        -   2.3.16. Ex tractatu super cantica canticorum.
+        -   2.3.17. Ex eodem capitulo.
+        -   [108v] 2.3.18. Ex eodem tractatu.
+        -   [109v] 2.3.19. Ex tractatu super cantica canticorum.
+        -   2.3.20. Ex sermone qui sic incipit. Operamini opus uestrum.
+    -   2.4. Narraciuncula. De petro qui uocabatur ocultus.
+        -   [112r] 2.4.1. Ex tractatu super parabolas.
+        -   2.4.2. Ex sermone qui sic incipit. Tu autem cum ieiunas.
+        -   2.4.3. Ex libro qui intitulatur solatium fidelis anime.
+        -   [113r] 2.4.4. Ex libro qui intitulatur solacium fidelis anime.
+        -   [113v] 2.4.5. Ex sermone qui sic incipit. Exeamus extra castra.
+        -   2.4.6. Ex sermone qui sic incipit. Inclinauit celos.
+    -   [114r] 2.5. De auaris.
+        -   2.5.1. Ex libro de naturis rerum.
+    -   [114v] 2.6. De diuiciis.
+        -   2.6.1. Ex eodem libro.
+        -   [115r] 2.6.2. Ex tractatu super ecclesiasten.
+    -   [115v] 2.7. [*untitled*]<!--renumber-->
+        -   [116r] 2.7.1. Ex tractatu super cantica.
+        -   2.7.2. Item ex eodem tractatu.
+    -   2.8. [*untitled*]
+        -   2.8.1. Ex libro qui intitulatur de naturis rerum.
+        -   [116v] 2.8.2. Ex eodem tractatu.
+        -   2.8.3. Ex tractatu super ecclesiasten.
+        -   2.8.4. Ex libro qui intitulatur de naturis rerum.
+        -   2.8.5. Ex libro qui intitulatur de naturis rerum.
+        -   [117r] 2.8.6. Ex sermone qui sic incipit. Cantate domino.
+        -   2.8.7. Ex tractatu super cantica canticorum.
+        -   2.8.8. Ex sermone qui sic incipit. Apertis thesauris suis.
+        -   [117v] 2.8.9. Ex tractatu super cantica. Vbi legitur. quia fereculum fecit sibi rex salomoni de lignis libani columnas eius fecit argenteas reclinatorium aureum.
+        -   [118r] 2.8.10. Ex tractatu super ecclesiasten.
+        -   2.8.11. Ex eodem tractatu.
+        -   2.8.12. Ex tractatu super mulierem fortem.
+        -   [118v] 2.8.13. Ex tractatu super ecclesiasten.
+        -   2.8.14. Ex eodem tractatu.
+        -   2.8.15. Ex eodem capitulo.
+        -   [119r] 2.8.16. Ex eodem capitulo.
+        -   2.8.17. Ex eodem capitulo.
+        -   2.8.18. Ex sermone qui sic incipit. Ponite corda uestra.
+        -   2.8.19. Ex eodem tractatu.
+        -   [119v] 2.8.20. Ex libro qui intitulatur solacium fidelis anime.
+        -   [120r] 2.8.21. Ex tractatu super cantica.
+        -   2.8.22. Ex sermone qui sic incipit. Cum uenerit plenitudo temporis.
+        -   2.8.23. Ex libro qui intitulatur solatium fidelis anime.
+        -   [120v] 2.8.24. Ex tractatu super cantica canticorum.
+    -   2.9. Narraciuncula.
+        -   2.9.1. Ex libro qui intitulatur de naturis rerum.
+        -   [121v] 2.9.2. Ex tractatu super cantica.
+        -   2.9.3. Ex tractatu super cantica canticorum. capitulo .xx.
+        -   2.9.4. Ex eodem tractatu. capitulo .xix.
+        -   [122r] 2.9.5. Ex eodem capitulo.
+        -   2.9.6. Ex tractatu super cantica. Vbi legitur. Qualis est dilectus tuus ex dilecto.
+        -   [123r] 2.9.7. Ex tractatu super cantica.
+        -   [123v] 2.9.8. Ex sermone qui sic incipit. Scio quod redemptor meus uiuit.
+        -   2.9.9. Ex tractatu super cantica.
+        -   [124r] 2.9.10. Ex tractatu super mulierem fortem.
+        -   [124v] 2.9.11. Super cantica.
+        -   [125r] 2.9.12. Ex libro qui intitulatur solacium fidelis anime.
+        -   2.9.13. Ex eodem libro.
+        -   [126v] 2.9.14. Ex sermone qui sic incipit. Vbi est qui natus est.
+        -   2.9.15. Ex sermone qui sic incipit. Mane nobiscum domine.
+        -   [127v] 2.9.16. Ex libro qui intitulatur solacium fidelis anime.
+    -   [128v] 2.10. [*untitled*]
+        -   2.10.1. Ex tractatu super ecclesiasten.
+        -   2.10.2. Ex eodem capitulo.
+        -   [129r] 2.10.3. Ex sermone qui sic incipit. Ductus est iesus. etc.
+        -   2.10.2. Ex tractatu super ecclesiasten.
+        -   [129v] 2.10.5. Ex eodem tractatu.
+        -   2.10.6. Item ex eodem tractatu.
+        -   [130r] 2.10.7. Ex eodem tractatu.
+        -   2.10.8. Ex eodem tractatu.
+        -   [130v] 2.10.9. Ex eodem tractatu.
+        -   2.10.10. Ex libro de naturis rerum.
+        -   2.10.11. Ex sermone qui sic incipit. operamini opus uestrum.
+        -   [131r] 2.10.12. Ex sermone qui sic incipit. Ecce ego omnia facio noua.
+        -   2.10.13. Ex eodem sermone.
+    -   [131v] 2.11. De detractoribus.
+        -   2.11.1. Ex tractatu super ecclesiasten.
+        -   [132r] 2.11.2. Ex libro de naturis rerum.
+    -   [132v] 2.12. De adulatoribus et detractoribus.
+        -   2.12.1. Ex tractatu super ecclesiasten.
+    -   [133r] 2.13. Quod uir sapiens ulcisci non debeat iniuriam sibi in detractionibus illatam incidenter.
+        -   2.13.1. Ex eodem tractatu.
+    -   [134v] 2.14. Item. De adulatoribus.
+        -   2.14.1. Ex libro de naturis rerum.
+        -   [135r] 2.14.2. Ex sermone qui sic incipit. Filii hominum.
+        -   2.14.3. Ex libro de naturis rerum.
+        -   [135v] 2.14.2. Ex eodem libro.
+    -   2.15. Qualiter uulpis circumuenit coruum adulatione sua.
+        -   2.15.1. Ex eodem libro.
+    -   [136r] 2.16. De adulatione.
+        -   2.16.1. Ex eodem libro.
+    -   [138r] 2.17. De ambitione.
+        -   2.17.1. Ex libro de naturis rerum.
+    -   2.18. De ambitiosis.
+        -   2.18.1. Ex eodem libro.
+    -   [138v] 2.19. De ypocritis.
+        -   [139r] 2.19.1. Ex libro de naturis rerum.
+        -   [139v] 2.19.2. Super ecclesiasten.
+        -   2.19.3. Ex libro de naturis rerum.
+    -   [140r] 2.20. De ypocritis.
+        -   2.20.1. Super ecclesiasten.
+    -   2.21. De iis qui muneribus inhiant.
+        -   2.21.1. Ex libro de naturis.
+    -   [140v] 2.22. Contra illos qui muneribus inhiant.
+        -   2.22.1. Ex eodem libro.
+        -   [141v] 2.22.2. Ex libro qui intitulatur solacium fidelis anime.
+        -   2.22.3. Ex tractatu super cantica.
+        -   2.22.2. Ex libro qui intitulatur solatium fidelis anime.
+        -   [142r] 2.22.5. Ex libro qui intitulatur solatium fidelis anime.
+        -   [142v] 2.22.6. Ex libro de naturis rerum.
+        -   [143r] 2.22.7. Ex sermone qui sic incipit. Omnia tempus habent.
+        -   2.22.8. Es libro de naturis rerum.
+        -   [143v] 2.22.9. Ex semone qui sic incipit. Omnia tempus habent.
+        -   2.22.10. Ex libro qui intitulatur speculum speculationum. caput. lxxv. libri tercii.
+        -   2.22.11. Ex eodem libro. caput. sequenti.
+        -   2.22.12. Ex libro qui intitulatur solacium fidelis anime.
+        -   [144r] 2.22.13. Ex tractatu super ecclesiasten.
+        -   2.22.12. Ex libro de naturis rerum.
+        -   2.22.15. Ex sermone qui sic incipit. Obsecro uos tam quam aduenias.
+        -   [146r] 2.22.16. Ex sermone qui sic incipit. Filioli mei.
+        -   [146v] 2.22.17. Ex sermone qui sic incipit. Obsecro vos.
+        -   [147r] 2.22.18. Ex eodem sermone.
+        -   [147v] 2.22.19. Ex libro de naturis rerum.
+        -   2.22.23. Ex libro qui intitulatur corrogationes noui promothei.
+        -   [148r] 2.22.21. Ex libro de naturis rerum.
+        -   2.22.22. Ex sermone qui sic incipit. Ductus est iesus in desertum.
+        -   2.22.23. Ex tractatu super parabolas.
+        -   [148v] 2.22.22. Ex proemio super parabolas.
+        -   [149r] 2.22.25. Ex sermone qui sic incipit. Exeamus extra castra.
+        -   2.22.26. Ex sermone qui sic incipit. Filioli me. manete nunc in christo.
+        -   2.22.27. Ex sermone qui sic incipit. Exeamus extra castra.
+        -   [149v] 2.22.28. Ex sermone qui sic incipit. Filioli manete nunc in christo.
+        -   2.22.29. Ex sermone qui sic incipit. Cum natus esset.
+        -   2.22.30. Ex sermone qui sic incipit. Cantate domino.
+        -   [150r] 2.22.31. Ex sermone qui sic incipit. Cum natus esset.
+        -   2.22.32. Ex libro qui intitulatur solacium fidelis anime.
+        -   2.22.33. Ex libro edito in laudem gloriose uirginis.
+        -   [150v] 2.22.32. Ex sermone qui sic incipit. Tu es pastor ouium.
+        -   [151r] 2.22.35. Ex eodem sermone.
+        -   2.22.36. Ex eodem sermone.
+        -   2.22.37. Ex libro de naturis rerum.
+        -   [151v] 2.22.38. Ex eodem libro.
+        -   2.22.39. Ex sermone qui sic incipit. Probasti cor meum.
+        -   2.22.40. Ex sermone de omnibus sanctis.
+        -   [152r] 2.22.41. Ex sermone qui sic incipit. Probasti cor meum.
+        -   2.22.42. Super ecclesiasten.
+        -   [152v] 2.22.43. Ex sermone qui sic incipit. Tu es pastor ouium.
+        -   [154r] 2.22.42. Ex sermone qui sic incipit. Funes ceciderunt.
+        -   [154v] 2.22.45. Ex sermone qui sic incipit. Filii hominum.
+        -   2.22.46. Ex sermone qui sic incipit. Si obliti sumus.
+        -   2.22.47. Ex sermone qui sic incipit. Funes ceciderunt.
+        -   [155r] 2.22.48. Ex sermone qui sic incipit. Dixit iesus petro.
+        -   [155v] 2.22.49. Ex sermone qui sic incipit. Inclinauit celos.
+        -   [156r] 2.22.50. Ex sermone qui sic incipit. Pascha nostrum.
+        -   [156v] 2.22.51. Ex sermone qui sic incipit. Videte vigilate et orate.
+        -   [157v] 2.22.52. Ex sermone qui sic incipit. Quare appenditis argentum.
+        -   [158v] 2.22.53. Ex tractatu super ecclesiasten.
+        -   2.22.52. Ex eodem capitulo.
+        -   2.22.55. Eo eodem capitulo.
+        -   [159r] 2.22.56. Ex sermone qui sic incipit. Ascendit deus in iubilo.
+        -   2.22.57. Ex sermone qui sic incipit. Quare appenditis argentum.
+        -   2.22.58. Super ecclesiasten.
+        -   [159v] 2.22.59. Super matheum.
+    -   2.23. De officio prelatorum.
+        -   2.23.1. Super mulierem fortem.
+        -   2.23.2. Ex sermone qui sic incipit. Nuptie facte sunt.
+        -   [160r] 2.23.3. Ex sermone qui sic incipit. Dulce est lumen.
+        -   2.23.4. Ex sermone qui sic incipit. Letare ierusalem.
+        -   [161r] 2.23.5. Ex sermone qui sic incipit. Ad te domine leuaui animam meam.
+        -   [161v] 2.23.6. Ex eodem sermone.
+        -   [162v] 2.23.7. Super ecclesiasten.
+        -   2.23.8. Super psalmum .xxiiii.
+        -   2.23.9. Super ecclesiasten.
+        -   2.23.10. Super psalmum .xxiii.
+        -   2.23.11. Ex libro intitulatur corrogationes promothei.
+        -   [163r] 2.23.12. Super mulierem fortem.
+        -   2.23.13. Ex sermone sanctorum petri et pauli qui sic incipit. Cum esses iunior.
+        -   2.23.14. Super mulierem fortem.
+        -   2.23.15. Ex eodem tractatu.
+        -   [163v] 2.23.16. Ex sermone qui sic incipit. Cum appropinquasset iesus.
+        -   2.23.17. Ex sermone qui sic incipit. Delibuta est fortitudo portantis.
+        -   [164r] 2.23.18. Ex tractatu super cantica canticorum. In fine canticorum.
+        -   [165r] 2.23.19. Ex sermone qui sic incipit. Delibuta est fortitudo portantis.
+        -   2.23.20. Ex tractatu super mulierem fortem.
+        -   2.23.21. Ex sermone qui sic incipit. Operamini opus uestrum ante tempus.
+        -   2.23.22. Ex tractatu super cantica canticorum.
+        -   2.23.23. Ex tractatu super ecclesiasten.
+        -   [165v] 2.23.24. Ex libro qui intitulatur solacium fidelis anime.
+        -   [166r] 2.23.25. Ex libro de naturis rerum.
+        -   2.23.26. Super ecclesiasten.
+    -   2.24. De Inuidia aristotilis.
+        -   2.24.1. Ex libro de naturis rerum.
+        -   [166v] 2.24.2. Super ecclesiasten.
+    -   [167v] 2.25. De Inuidia macedonis.
+        -   2.25.1. Ex libro de naturis rerum.
+    -   2.26. De Inuidia et superbia luciferi.
+        -   2.26.1. Ex libro de naturis rerum.
+    -   2.27. [*untitled*]
+        -   2.27.1. Ex eodem capitulo.
+        -   [168v] 2.27.2. Ex tractatu super mulierem fortem.
+        -   2.27.3. Super cantica.
+        -   [169r] 2.27.2. Super mulierem fortem.
+        -   2.27.5. Ex sermone qui sic incipit. Agar ancilla saray.
+        -   2.27.6. Ex libro qui intitulatur solacium fidelis anime.
+        -   [169v] 2.27.7. Ex sermone qui sic incipit. Agar ancilla.
+    -   [170r] 2.28. De Inconstancia claustralium.
+        -   2.28.1. Ex libro de naturis rerum.
+    -   2.29. De Vagis claustralium discursibus.
+        -   2.29.1. Ex libro de naturis rerum.
+        -   [171r] 2.29.2. Super ecclesiasten.
+        -   2.29.3. Ex libro de naturis rerum.
+    -   2.30. Quod felix sit conditio claustralium.
+        -   2.30.1. Ex tractatu super mulierem fortem.
+        -   [171v] 2.30.2. Ex proemio super parabolas.
+        -   [172r] 2.30.3. Ex sermone qui sic incipit. Dixit iesus petro.
+        -   [172v] 2.30.2. Ex proemio super parabolas.
+    -   [173r] 2.31. De perturbatoribus pacis fraterne.
+        -   2.31.1. Ex capitulo tercio libri primi de naturis rerum.
+    -   [174r] 2.32. Item. De superbia et invidia.
+        -   [174v] 2.32.1. Ex eodem capitulo.
+    -   [175r] 2.33. De Inuidia.
+        -   2.33.1. Ex libro de naturis rerum.
+        -   [175v] 2.33.2. Ex sermone qui sic incipit.
+        -   [176r] 2.33.3. Ex libro de naturis rerum.
+        -   2.33.2. Ex libro de naturis rerum.
+        -   2.33.5. Ex proemio super parabolas.
+        -   [176v] 2.33.6. Ex tractatu super parabolas.
+    -   [178r] 2.34. De Niso et mustela.
+        -   [178v] 2.34.1. Ex libro de naturis rerum.
+        -   2.34.2. Super ecclesiasten.
+        -   2.34.3. Super parabolas.
+    -   [179r] 2.35. Item. De Inuidia.
+        -   2.35.1. Ex libro de naturis rerum.
+    -   [180v] 2.36. De Invidia et inani gloria.
+        -   2.36.1. Ex sermone qui sic incipit. Ponite corda uestra.
+    -   [181v] 2.37. De Invidia que preuenit ex inani gloria.
+        -   2.37.1. Ex libro de naturis rerum.
+    -   [182r] 2.38. De arrogantia.
+        -   2.38.1. Ex eodem libro.
+    -   [183r] 2.39. Item. De Arrogantia.
+        -   2.39.1. Ex eodem libro.
+        -   [183v] 2.39.2. Ex sermone qui sic incipit. Ductus est iesus.
+    -   [184r] 2.40. De erecta ceruise ysmaelis.
+        -   2.40.1. Ex libro de naturis rerum.
+    -   [184v] 2.41. Ecclesiasticus. De superbia.
+        -   2.41.1. Ex eodem libro.
+    -   2.42. Contra Inuidiam.
+        -   2.42.1. Ex sermone qui sic incipit. Ductus est iesus.
+    -   [185r] 2.43. De Ira.
+        -   2.43.1. Ex libro de naturis rerum.
+    -   [185v] 2.44. [*untitled*]
+        -   2.44.1. Ex tractatu super ecclesiasten.
+    -   [186r] 2.45. Narratiuncula De stultiloquio.
+        -   2.45.1. Ex eodem tractatu.
+    -   [186v] 2.46. De lubricitate lingue.
+        -   2.46.1. Ex tractatu super mulierem fortem.
+        -   [187r] 2.46.2. Super ecclesiasten.
+        -   [187v] 2.46.3. Ex tractatu super ecclesiasten.
+        -   [188r] 2.46.2. Ex eodem tractatu.
+        -   [188v] 2.46.5. Super cantica canticorum.
+        -   2.46.6. Super mulierem fortem.
+        -   [189r] 2.46.7. Super mulierem fortem.
+        -   2.46.8. Super mulierem fortem.
+    -   2.47. Narraciuncula. De stultiloquio.
+        -   2.47.1. Ex libro de naturis rerum.
+        -   [190r] 2.47.2. Ex libro de naturis rerum.
+        -   [190v] 2.47.3. Ex libro de naturis rerum.
+    -   2.48. De Inuidia Iudeorum.
+        -   2.48.1. Ex libro de naturis rerum.
+        -   2.48.2. Super mulierem fortem.
+        -   [191r] 2.48.3. Super cantica.
+        -   2.48.2. Super cantica.
+        -   2.48.5. Ex tractatu super ecclesiasten.
+        -   2.48.6. Ex tractatu super cantica.
+        -   2.48.7. Ex eodem tractatu.
+        -   [191v] 2.48.8. Item. Ex eodem tractatu.
+        -   2.48.9. Ex tractatu super cantica.
+        -   [192r] 2.48.10. Ex eodem tractatu.
+        -   [192v] 2.48.11. Ex eodem tractatu.
+        -   2.48.12. Ex tractatu super ecclesiasten.
+        -   2.48.13. Ex eodem tractatu.
+        -   [193v] 2.48.12. Ex tractatu super cantica.
+        -   2.48.15. Ex glosa supper mattheum.
+        -   2.48.16. Ex sermone qui sic incipit. Memento homo.
+        -   [194r] 2.48.17. Ex sermone qui sic incipit. Ponite corda uestra.
+        -   2.48.18. Ex sermone qui sic incipit. transeamus usque beleem.
+        -   2.48.19. Ex sermone qui sic incipit. Ponite corda vestra.
+        -   [195r] 2.48.20. Ex tractatu super ecclesiasten.
+        -   2.48.21. Item. Ex eodem capitulo.
+        -   [195v] 2.48.22. Item. ex eodem capitulo.
+        -   [196r] 2.48.23. Ex eodem tractatu.
+        -   [196v] 2.48.22. Ex eodem tractatu.
+        -   2.48.25. Ex eodem tractatu.
+        -   2.48.26. Ex libro de naturis rerum.
+        -   [197v] 2.48.27. Ex sermone qui sic incipit. Misit herodes rex manus.
+        -   2.48.28. Ex sermone qui sic incipit. Abraham mortuus est.
+        -   [198r] 2.48.29. Ex eodem sermone.
+    -   [198v] 2.49. [*untitled*]
+        -   [198v] 2.49.1. Ex sermone qui sic incipit. Omnia tempus habent.
+        -   [199v] 2.49.2. Super mulierem fortem.
+        -   2.49.3. Ex tractatu super ecclesiasten.
+        -   2.49.4. Ex eodem tractatu.
+        -   2.49.5. Ex tractatu super ecclesiasten.
+        -   [200r] 2.49.6. Ex eodem tractatu.
+        -   [200v] 2.49.7. Ex eodem tractatu.
+        -   [201r] 2.49.8. Ex libro qui intitulatur solatium fidelis anime.
+        -   2.49.9. Super cantica.
+        -   2.49.10. Ex sermone qui sic incipit. Inpulsus euersus sum.
+        -   2.49.11. Super cantica.
+        -   2.49.12. Ex sermone qui sic incipit. Dixit iesus petro. sequere me.
+        -   [201v] 2.49.13. Ex sermone qui sic incipit. Spiritus domini.
+        -   [202r] 2.49.14. Ex libro edito in laudem gloriose uirginis. capitulo .vii.
+        -   [203r] 2.49.15. Ex eodem capitulo.
+        -   [203v] 2.49.16. Ex eodem libro.
+        -   [204v] 2.49.17. Super cantica. libro .viº. capitulo .xix.
+        -   2.49.18. Ex eodem capitulo.
+        -   [206r] 2.49.19. Ex eodem capitulo.
+        -   [206v] 2.49.20. Ex eodem capitulo.
+        -   [208r] 2.49.21. Ex eodem capitulo.
+        -   [208v] 2.49.22. Ex eodem capitulo.
+        -   [209r] 2.49.23. Ex eodem capitulo.
+        -   2.49.24. Ex eodem capitulo.
+        -   [209v] 2.49.25. Ex eodem capitulo.
+        -   [211r] 2.49.26. Super cantica. libro .viº. capitulo .xiii.
+        -   2.49.27. Ex eodem capitulo.
+        -   2.49.28. Ex sermone qui sic incipit. Dixit iesus pertro. Sequere me.
+        -   2.49.29. Ex sermone qui sic incipit. Quem queritis.
+        -   2.49.30. Ex sermone qui sic incipit. Dixit iesus petro. Sequere me.
+        -   [211v] 2.49.31. Ex eodem sermone.
+        -   2.49.32. Ex sermone qui sic incipit. Nox precessit.
+        -   [212r] 2.49.33. Ex sermone qui sic incipit. Dixit iesus petro. Sequere me.
+        -   2.49.34. Ex eodem sermone.
+        -   [212v] 2.49.35. Ex sermone qui sic incipit. Filii hominum.
+    -   2.50. [*closing verse epistle*]
 </div>
 
 There is a good case to be made for the second book as an unplanned addition. Although there is no shift in the hand, book one is never described as such: it might have originally ended on fol. 68v, where the 'sermon' closes with a doxology and space at the bottom of the page; or with the amorphous 'Ad libellum' section that follows, which collects several verses and is restricted to both sides of fol. 69.
@@ -1092,7 +1138,7 @@ There is a good case to be made for the second book as an unplanned addition. Al
 Geoffrey is quite careful in citing the sources he uses. The beginning each source is carefully noted, though occasional errors are made, usually through the omission of rubrics. Yet he does not quote sources verbatim: McDonough gives many examples of Geoffrey's tendency to recast passages from Alexander to fit their new context, adding connecting phrases and other passages from Alexander in the margins as explanations [@mcdonough:2005cambridge, pp. 795–799]. Words are added to make them flow together with the other excerpts, and he ensures that no loose ends are left after their removal from their original context – removing cross-references, or some of Alexander's exclamations (e.g. 'O pia magdalena') not related to the new theme at hand. Even where he is following the text fairly closely, he often modifies the punctuation. For instance, this passage from the *Tractatus super Mulierem fortem* appears as follows in the florilegium:
 
 <div lang="la">
-> *Ex tractatu super Mulierem fortem.*
+> *Ex tractatu super mulierem fortem.*
 >
 > Nonne claustri leta facies˷ paradysi representat amenitatem? Viror intermedius planiciei interiacentis. ad pascua uite nos inuitat⸝ prenuncians orti deliciarum uoluptates arbor meditulium prati obumbrans⸵ ligni uite quod est in medio paradysi tipum gerit. si formam dispositionis quadrate consulas. transmitteris ad conformitatem .iiii.or uirtutum principalium. longitudo ex equo respondens latitudini docet equalia esse latera ciuitatis. (Gg.6.42, fol. 168v)
 </div>

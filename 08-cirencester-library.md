@@ -4,13 +4,14 @@
 
 ## Manuscripts from Cirencester {.unnumbered}
 
-Most of Cirencester's manuscripts have been identified through the specific colophons found in many books; the list below collects and augments earlier catalogues [@baddeley:1924history, pp. 168–170; @ker:1964medieval, pp. 51–52; @ker:1987medieval, p. 14]. The index to the Hereford Cathedral Library catalogue suggests that O.III.6 might also be from Cirencester, but no evidence is presented in the entry [@mynors:1993catalogue, p. 20].
+Most of Cirencester's manuscripts have been identified through the specific colophons found in many books; the list below collects and augments earlier catalogues [@baddeley:1924history, pp. 168–170; @ker:1964medieval, pp. 51–52; @ker:1987medieval, p. 14]. The index to the Hereford Cathedral Library catalogue suggests that O.iii.6 might also be from Cirencester, but no evidence is presented in the entry [@mynors:1993catalogue, p. 20].
 
-1. Cambridge, University Library, Gg.6.42 ('Cirencestrie' [erased] written at top of fol. 2r<!--check-->)
-1. Hereford, Cathedral Library, O.i.3 (fol. 2r, 'Liber Ecclesie Sancte Marie de Cyrencestr’’)
+1. Cambridge, Pembroke College, 30 (same hands as found in Oxford, Magdalene College, 139 and Jesus College, 94; owned by Bury St Edmunds)
+1. Cambridge, University Library, Gg.6.42 (*Sol meldunensis*)
+1. Hereford, Cathedral Library, O.i.3 (fol. 2r, 'Liber ecclesie sancte Marie de Cyrencestr’’)
 1. Hereford, Cathedral Library, O.i.6 (fol. 89v, 'Hunc librum D. Iocelinus canonicus dedit deo et ecclesie beate Marie de Cyrecestre, D. Serlone ibidem tunc Abbate primo.')
 1. Hereford, Cathedral Library, O.i.10 (fol. 98v, 'Hunc librum D. Iocelinus canonicus dedit deo et ecclesie beate Marie de Cyrencestr', D. Serlone ibidem tunc Abbate primo.')
-1. Hereford, Cathedral Library, O.ii.4 (fol. i^v^, 'Liber magistri Aluredi', as Jesus College 26, All Souls College 82)
+1. Hereford, Cathedral Library, O.ii.4 (fol. i^v^, 'Liber magistri Aluredi', as Oxford, Jesus College 26, All Souls College 82)
 1. Hereford, Cathedral Library, O.iii.10 (may also be from St Frideswide's, Oxford)<!--[@mynors:1993catalogue, p. 22], prol refers to 'Reinalde prior de Gresileia'; 'Ego autem Robertus Cricheladensis prior ecclesie sancte Frideswide Oxenefordie' written over erasure, fol. 1r: what does Cambridge, Pembroke College, 30 say?-->
 1. Hereford, Cathedral Library, O.v.10 (fol. iir, '[L]iber sancte Marie de Cirecestr' D. Andree abbatis secundi tempore / scriptus per manum D. Serlonis canonici / D. Gilleberto primo tunc Cantore.')
 1. Hereford, Cathedral Library, O.v.14 (fol. 146v, 'Liber sancte Marie de Cirecestr' D. Andree abbatis secundi tempore scriptus per manum D. Odonis canonici, D. Adam de la More tunc cantore.')
@@ -309,7 +310,7 @@ Peter Lombard
 
 Robert of Cricklade
 : *De connubio Iacobi* (Hereford, Cathedral Library, P.iv.8; Leland)
-: *Homiliae in Ezechielem* (Hereford, Cathedral Library, O.iii.10; Leland)
+: *Homiliae in Ezechielem* (Hereford, Cathedral Library, O.iii.10 and Cambridge, Pembroke College, 30; Leland)
 
 Robert of Tumbalena
 : *Commentariorum in Cantica canticorum libri duo* (Oxford, Jesus College, 48) [as identified by @guglielmetti:2006tradizione, p. 161 (no. 648)]

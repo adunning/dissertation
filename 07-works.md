@@ -107,7 +107,7 @@ expl.
 
     a. fols 12–19; glossed
     b. fols 36r–v, continuous commentary with lemmata on beginning of *De utensilibus*
-    *c.* fols 38–54v
+    c. fols 38–54v
 
         gloss
         : In principio huius libri uidendum est quod auctor dicitur magister Alexander …
@@ -198,7 +198,7 @@ expl.
 - Augustinian Canons, Leicester, 15th cent. catalogue [@webber:1998libraries, A20.†978]; attributed to John of Garland
 - Augustinian Canons, Leicester, 15th cent. catalogue [@webber:1998libraries, A20.1000i]; 'qui bene uult disponere'
 - Austin Friars, York: Catalogue, 1382, with additions [@humphreys:1990friars, FA8.502f]
-- ?Benedictines, Bury: Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.20], 'de utensilibus necessariis, "quam bene"' = Wellcome 801 A
+- ?Benedictines, Bury: Henry de Kirkestede, *Catalogus*, *c.*1360 [@rouse:2004henry, K4.20], 'de utensilibus necessariis, "quam bene"' = Wellcome 801 A
 - Benedictines, Canterbury, Christ Church: Prior Eastry's catalogue, not after 1331 [@james:1903ancient, BC4.1356], 'Alexander coquinarius'
 - Benedictines, Canterbury, Christ Church: Prior Eastry's catalogue, not after 1331 [@james:1903ancient, BC4.1371c], 'Alexander coquinarius'
 - Benedictines, Canterbury, St Augustine's: 15th cent. catalogue [@barkerbenfield:2008augustines, BA1.1117e], 'liber A. Necquam qui incipit Qui bene uult disponere'
@@ -207,13 +207,13 @@ expl.
 - Benedictines, Dover, St Martin's: John Whitfield's catalogue, 1389 [@stoneman:1996dover, BM1.412b], 'Alexander cusynyer'
 - Benedictines, Dover, St Martin's: John Whitfield's catalogue, 1389 [@stoneman:1996dover, BM1.442e], 'Alexander cusynyer'
 - Benedictines, Durham [@botfield:1838catalogi, p. 33]
-- Benedictines, Holme, St Benet's: Leland, *c.* 1536–40 [@sharpe:1996english, B50.1]
-- Brigittines, Syon: *Registrum of the library of the Brethren*, *c.* 1500–*c.* 1524 [@gillespie:2001syon, SS1.9c], 'tractatus qui uult disponere familie sue cum glasa'
+- Benedictines, Holme, St Benet's: Leland, *c.*1536–40 [@sharpe:1996english, B50.1]
+- Brigittines, Syon: *Registrum of the library of the Brethren*, *c.*1500–*c.*1524 [@gillespie:2001syon, SS1.9c], 'tractatus qui uult disponere familie sue cum glasa'
 - Cambridge, Peterhouse: Catalogue, 24 Dec. 1418 [@clarke:2002university, UC48.\*435b] = Cambridge, Peterhouse 215 (now lacking *De utensilibus*)
 - Carmelites, Hulne: Catalogue, 1433 [@humphreys:1990friars, FC3.49b], 'libro de gramatica de nominibus utensilium in asseribus cum albo coreo et modici valoris'
 - Carmelites, Norwich [@bale:1902index, p. 23]<!-- check -->
-- Carthusians, Witham: John Blacman's gifts, *c.* 1463–74 [@gillespie:2001syon, C8.15f]
-- Dominicans, Exeter: Leland, *c.* 1536–40 [@humphreys:1990friars, F10.49b], 'cum libro de gramatica de nominibus utensilium', anon.
+- Carthusians, Witham: John Blacman's gifts, *c.*1463–74 [@gillespie:2001syon, C8.15f]
+- Dominicans, Exeter: Leland, *c.*1536–40 [@humphreys:1990friars, F10.49b], 'cum libro de gramatica de nominibus utensilium', anon.
 - Eton [@bale:1902index, p. 23]
 - Premonstratensians, Titchfield: Catalogue, Michaelmas 1400 [@bell:1992libraries, P6.157a]
 - Premonstratensians, Titchfield: Catalogue, Michaelmas 1400 [@bell:1992libraries, P6.178c]
@@ -329,8 +329,8 @@ title
 
 - @bale:1557scriptorum [p. 2:167]
 - Benedictines, Dover, St Martin's: John Whitfield's catalogue, 1389 [@stoneman:1996dover, BM1.316b]
-- Franciscans, Reading: Leland, *c.* 1536–40 [@humphreys:1990friars, F10.2]
-- Austin Friars, Oxford: Books noted by Thomas Gascoigne, *c.* 1430 [@humphreys:1990friars, F35.2]
+- Franciscans, Reading: Leland, *c.*1536–40 [@humphreys:1990friars, F10.2]
+- Austin Friars, Oxford: Books noted by Thomas Gascoigne, *c.*1430 [@humphreys:1990friars, F35.2]
 
 #### Edition {.unnumbered}
 
@@ -392,13 +392,13 @@ expl. text
 
 #### Records {.unnumbered}
 
-- Augustinian Canons, Hexham: Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.10]
-- Benedictines, Bury: Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.10]
+- Augustinian Canons, Hexham: Henry de Kirkestede, *Catalogus*, *c.*1360 [@rouse:2004henry, K4.10]
+- Benedictines, Bury: Henry de Kirkestede, *Catalogus*, *c.*1360 [@rouse:2004henry, K4.10]
 - Benedictines, Canterbury, Christ Church: Prior Eastry's catalogue, not after 1331 [@james:1903ancient, BC4.1256] = *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.10], correcting from Carthusians, Witham
 - Benedictines, Peterborough: Catalogue, late 14th cent. [@friisjensen:2001peterborough, BP21.159^x^]
 - Benedictines, Peterborough: Catalogue, late 14th cent. [@friisjensen:2001peterborough, BP21.162f]
-- Benedictines, Ramsey: Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.10]
-- Benedictines, St Albans: Leland, *c.* 1536–40 [@sharpe:1996english, B91.1] = *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.10], correcting from Carthusians, Witham
+- Benedictines, Ramsey: Henry de Kirkestede, *Catalogus*, *c.*1360 [@rouse:2004henry, K4.10]
+- Benedictines, St Albans: Leland, *c.*1536–40 [@sharpe:1996english, B91.1] = *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.10], correcting from Carthusians, Witham
 
 #### Literature {.unnumbered}
 
@@ -424,7 +424,7 @@ Quotations from a work with this title in *Sol meldunensis*, with an expanded te
 #### Records {.unnumbered}
 
 - Augustinian Canons, Lanthony: Catalogue, late 14th cent. [@webber:1998libraries, A16.\*209^x^] = Lambeth 421
-- Benedictines, Ramsey: Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.12]
+- Benedictines, Ramsey: Henry de Kirkestede, *Catalogus*, *c.*1360 [@rouse:2004henry, K4.12]
 - Carthusians, Witham: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.12]
 
 ### *Glose super psalterium* {.unnumbered}
@@ -473,10 +473,10 @@ Excerpts in *Sol meldunensis*.
 
 #### Records {.unnumbered}
 
-- Augustinian Canons, Cirencester: Leland, *c.* 1536–40 [@webber:1998libraries, A9.\*1] = [Jesus College 94](http://mlgb3.bodleian.ox.ac.uk/mlgb/book/1772/)
+- Augustinian Canons, Cirencester: Leland, *c.*1536–40 [@webber:1998libraries, A9.\*1] = [Jesus College 94](http://mlgb3.bodleian.ox.ac.uk/mlgb/book/1772/)
 - Augustinian Canons, Lanthony: Catalogue, late 14th cent. [@webber:1998libraries, A16.\*51] = [Lambeth 61](http://mlgb3.bodleian.ox.ac.uk/mlgb/book/3396/)
 - Augustinian Canons, Leicester: Catalogue, 15th cent. [@webber:1998libraries, A20.470], 'Alexander de materia psalmorum'
-- Benedictines, Bury: Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.3]
+- Benedictines, Bury: Henry de Kirkestede, *Catalogus*, *c.*1360 [@rouse:2004henry, K4.3]
 - Benedictines, Canterbury, Christ Church: Prior Eastry's catalogue, not after 1331 [@james:1903ancient, BC4.1249a]
 - Benedictines, Kelso: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.5]
 - Benedictines, Peterborough: Catalogue, late 14th cent. [@friisjensen:2001peterborough, BP21.94e]
@@ -581,21 +581,21 @@ expl. text
 
 #### Records {.unnumbered}
 
-- Augustinian Canons, Cirencester: Leland, *c.* 1536–40 [@webber:1998libraries, A9.9], 'de laude gloriosae uirginis'
+- Augustinian Canons, Cirencester: Leland, *c.*1536–40 [@webber:1998libraries, A9.9], 'de laude gloriosae uirginis'
 - Augustinian Canons, Leicester: Catalogue, 15th cent. [@webber:1998libraries, A20.84 = A20.466 = A20.1480 = A20.1564]
-- Austin Friars, London: Leland, *c.* 1536–40 [@humphreys:1990friars, F24.13]
-- Benedictines, Bury: Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.\*2] = Leland, *c.* 1536–40 [@sharpe:1996english, B16.\*13] = [Bodley 356](http://mlgb3.bodleian.ox.ac.uk/mlgb/book/813/)
+- Austin Friars, London: Leland, *c.*1536–40 [@humphreys:1990friars, F24.13]
+- Benedictines, Bury: Henry de Kirkestede, *Catalogus*, *c.*1360 [@rouse:2004henry, K4.\*2] = Leland, *c.*1536–40 [@sharpe:1996english, B16.\*13] = [Bodley 356](http://mlgb3.bodleian.ox.ac.uk/mlgb/book/813/)
 - Benedictines, Canterbury, Christ Church: List of books repaired, 1508 [@james:1903ancient, BC8.42] = *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.1]
 - Benedictines, Canterbury, St Augustine's: Catalogue, 15th cent. [@barkerbenfield:2008augustines, BA1.807f]
-- Benedictines, Gloucester: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.1] = Leland, *c.* 1536–40 [@sharpe:1996english, B49.9 ?= B47.18, anon.]
+- Benedictines, Gloucester: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.1] = Leland, *c.*1536–40 [@sharpe:1996english, B49.9 ?= B47.18, anon.]
 - Benedictines, Reading: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.1]
 - Benedictines, St Albans: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.1]
 - Benedictines, St Neots: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.1]
 - Benedictines, York St Mary's: Index catalogue of selected authors, 15th cent. [@sharpe:1996english, B120.501]
-- Brigittines, Syon: *Registrum of the library of the Brethren*, *c.* 1500-*c.* 1524 [@gillespie:2001syon, SS1.449]
+- Brigittines, Syon: *Registrum of the library of the Brethren*, *c.*1500-*c.*1524 [@gillespie:2001syon, SS1.449]
 - ?Carthusians, Hinton: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.1]
 - Cistercians, Buildwas: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.1] = Balliol College 39
-- Franciscans, London: Leland, *c.* 1536–40 [@humphreys:1990friars, F7.13], 'Alexander de s. Albano cognomento Necham super Cantica Canticorum siue in opus epithalamicum'
+- Franciscans, London: Leland, *c.*1536–40 [@humphreys:1990friars, F7.13], 'Alexander de s. Albano cognomento Necham super Cantica Canticorum siue in opus epithalamicum'
 - Oxford, Balliol College [@bale:1902index, p. 26] = ?Balliol College 40
 - Richard Grafton [@bale:1902index, p. 26]
 
@@ -747,7 +747,7 @@ expl. part 2
     : Libellus iste dicitur ferrum quem exposuit magister Alexander Necham (fol. 85v: s. xiv)
     : Expliciunt exposiciones parcium biblie secundum magistrum Alexandrum Necham (fol. 86: s. xiv)
 
-- Oxford, Bodleian Library. Bodley 57 (*SC* 2004), fols 20v, 81–3v, 53r–v (s. xiii-xiv: ?Leicester Can. Reg.), Part 2 only, excerpts (see P. Meyer, 'Notice du MS Bodley 57', *Romania* xxxv 1906, pp. 576–7; and *c.* Brown, 'Mulier est hominis confusio'. *Modern Language Notes*, xxxv [1920], 479–82, at 480: *re* fol. 20v).
+- Oxford, Bodleian Library. Bodley 57 (*SC* 2004), fols 20v, 81–3v, 53r–v (s. xiii-xiv: ?Leicester Can. Reg.), Part 2 only, excerpts (see P. Meyer, 'Notice du MS Bodley 57', *Romania* xxxv 1906, pp. 576–7; and *c.*Brown, 'Mulier est hominis confusio'. *Modern Language Notes*, xxxv [1920], 479–82, at 480: *re* fol. 20v).
 
 - Oxford, Bodleian Library, Bodley 550 (*SC* 2300), fols 1ra–100rb (s. xiii^1^: Reading) (= B)
 
@@ -769,7 +769,7 @@ expl. part 2
     rubric
     : Incipiunt Corrogaciones promethei. Prologus (fol. 9ra); in *list of contents:* Summa que uocatur Promotheus (fol. 1vb).
 
-- Oxford, Bodleian Library, Rawl. *c.* 67, fob. 95–161v (s. xiii: ?Hereford), Part 2 precedes Part 1
+- Oxford, Bodleian Library, Rawl. *c.*67, fob. 95–161v (s. xiii: ?Hereford), Part 2 precedes Part 1
 
     rubric
     : Explicit summa magistri A. Nequam super Bibliam. Sequitur summa de cognicione locutionum figuraturarum [sic] ab eodem compilata (fol. 145v); Explicit expositio litteralis diccionum difficilium in totam bibliam (fol. 161v).
@@ -804,17 +804,17 @@ Excerpts in *Sol meldunensis* and London, British Library, Add. 69999.
 
 #### Records {.unnumbered}
 
-- *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.11], 'Ysagoge Alexandri' = Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.11]
+- *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.11], 'Ysagoge Alexandri' = Henry de Kirkestede, *Catalogus*, *c.*1360 [@rouse:2004henry, K4.11]
 - Augustinian Canons, Lanthony: Catalogue, late 14th cent. [@webber:1998libraries, A16.264b], 'isagogicum Alexandri'
 - Augustinian Canons, Lanthony: Catalogue, late 14th cent. [@webber:1998libraries, A16.493], 'isagogicum Alexandri Nequam'
 - Augustinian Canons, Leicester: Catalogue, 15th cent. [@webber:1998libraries, A20.305h], 'Alexander Necham super uetus testamentum et nouum'
 - Augustinian Canons, Leicester: Catalogue, 15th cent. [@webber:1998libraries, A20.468 = A20.471]
 - Augustinian Canons, Leicester: Catalogue, 15th cent. [@webber:1998libraries, A20.469b], 'in uerbis biblie difficilibus'
 - Augustinian Canons, Leicester: Catalogue, 15th cent. [@webber:1998libraries, A20.746d], 'super diccionibus biblie'
-- Augustinian Canons, Waltham: Leland, *c.* 1536–40 [@webber:1998libraries, A39.3], 'uocabularius A. N. de singulis libris bibliothecae'
+- Augustinian Canons, Waltham: Leland, *c.*1536–40 [@webber:1998libraries, A39.3], 'uocabularius A. N. de singulis libris bibliothecae'
 - Austin Friars, York: Catalogue, 1382, with additions [@humphreys:1990friars, FA8.†142d], 'Alex. Nequam de partibus biblie'
 - Austin Friars, York: Catalogue, 1382, with additions [@humphreys:1990friars, FA8.31a]
-- Benedictines, Bury: Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.4], 'de difficilibus uerbis bibliae'
+- Benedictines, Bury: Henry de Kirkestede, *Catalogus*, *c.*1360 [@rouse:2004henry, K4.4], 'de difficilibus uerbis bibliae'
 - Benedictines, Canterbury, Christ Church: Prior Eastry's catalogue, not after 1331 [@james:1903ancient, BC4.1235e], 'Glose super nouum Tesamentum secundum A. Nequam' (i.e. part 2)
 - Benedictines, Canterbury, Christ Church: Prior Eastry's catalogue, not after 1331 [@james:1903ancient, BC4.1249], 'Promotheus'
 - Benedictines, Canterbury, Christ Church: Prior Eastry's catalogue, not after 1331 [@james:1903ancient, BC4.1355a], 'Tractatus M. A. Nequam super uetus et nouum Testamentum' (part 2)
@@ -829,7 +829,7 @@ Excerpts in *Sol meldunensis* and London, British Library, Add. 69999.
 - Benedictines, Dover, St Martin's: John Whitfield's catalogue, 1389 [@stoneman:1996dover, BM1.439v], 'Visio Platonis de grammatica'
 - Benedictines, Durham [@botfield:1838catalogi, p. 49]
 - Benedictines, Evesham: Books acquired by Abbot Thomas Marlborough, early 13th cent. [@sharpe:1996english, B29.32]
-- Benedictines, Gloucester: Books owned by Robert of Aldsworth, 13th cent. [@sharpe:1996english, B47.21], 'ferrum situ' = *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.8], 'super nouum et uetus testamentum' = Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.9]
+- Benedictines, Gloucester: Books owned by Robert of Aldsworth, 13th cent. [@sharpe:1996english, B47.21], 'ferrum situ' = *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.8], 'super nouum et uetus testamentum' = Henry de Kirkestede, *Catalogus*, *c.*1360 [@rouse:2004henry, K4.9]
 - Benedictines, Muchelney (London, BL, Royal 7 A.II, fol. 1v): 'Memoriale de Mucheln' propter Ysagogicum magistri Alexandri Nequam'
 - Benedictines, Peterborough: Books given by Abbot Alexander of Holderness (1222–6) [@friisjensen:2001peterborough, BP5.9], 'corrogaciones Promethei'
 - Benedictines, Peterborough: Catalogue, late 14th cent. [@friisjensen:2001peterborough, BP21.114d–e]
@@ -838,7 +838,7 @@ Excerpts in *Sol meldunensis* and London, British Library, Add. 69999.
 - Benedictines, Ramsey: Catalogue roll, late 14th cent. [@sharpe:1996english, B68.471]
 - Benedictines, Ramsey: Catalogue roll, late 14th cent. [@sharpe:1996english, B68.516a]
 - Benedictines, Ramsey: Fragment of catalogue, mid-14th cent. [@sharpe:1996english, B67.101]
-- Brigittines, Syon: *Registrum of the library of the Brethren*, *c.* 1500-*c.*1524 [@gillespie:2001syon, SS1.868j], 'Repertorium quoddam siue expositio optima verborum difficilium biblie secundum ordinem singulorum librorum eiusdem'
+- Brigittines, Syon: *Registrum of the library of the Brethren*, *c.*1500-*c.*1524 [@gillespie:2001syon, SS1.868j], 'Repertorium quoddam siue expositio optima verborum difficilium biblie secundum ordinem singulorum librorum eiusdem'
 - Cambridge, King's College [@bale:1902index, p. 24]<!--check following-->
 - Carmelites, Norwich [@humphreys:1990friars, FC6.1]
 - Cistercians, Meaux: Inventory of books, 1396 [@bell:1992libraries, Z14.260a]
@@ -882,7 +882,7 @@ expl.
 #### Records {.unnumbered}
 
 - Benedictines, Peterborough: Catalogue, late 14th cent. [@friisjensen:2001peterborough, BP21.241h], 'promotheus uersificatus'
-- Brigittines, Syon: *Registrum of the library of the Brethren*, *c.* 1500-*c.* 1524 [@gillespie:2001syon, SS1.352c], 'de quorundam terminorum explanacionibus omnium librorum Biblie in metro'
+- Brigittines, Syon: *Registrum of the library of the Brethren*, *c.*1500-*c.*1524 [@gillespie:2001syon, SS1.352c], 'de quorundam terminorum explanacionibus omnium librorum Biblie in metro'
 - ?Premonstratensians, Titchfield: Catalogue, Michaelmas 1400 [@bell:1992libraries, P6.147h, P6.156e]
 
 #### Literature {.unnumbered}
@@ -969,9 +969,9 @@ Excerpts in *Sol meldunensis*.
 
 #### Records {.unnumbered}
 
-- Augustinian Canons, Bridlington: Leland, *c.* 1536–40 [@webber:1998libraries, A5.3], 'A. N. super Ecclesiasten'
+- Augustinian Canons, Bridlington: Leland, *c.*1536–40 [@webber:1998libraries, A5.3], 'A. N. super Ecclesiasten'
 - Augustinian Canons, Leicester: Catalogue, 15th cent. [@webber:1998libraries, A20.467a–b = A20.1556 = A21.1]
-- Benedictines, Bury: Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.1], 'de naturis rerum'
+- Benedictines, Bury: Henry de Kirkestede, *Catalogus*, *c.*1360 [@rouse:2004henry, K4.1], 'de naturis rerum'
 - Benedictines, Canterbury, Christ Church: Prior Eastry's catalogue, not after 1331 [@james:1903ancient, BC4.708a] = *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.2 = R42.6]
 - Benedictines, Canterbury, Christ Church: Prior Eastry's catalogue, not after 1331 [@james:1903ancient, BC4.738a] = *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.2 = R42.6]
 - Benedictines, Canterbury, St Augustine's: Catalogue, 15th cent. [@barkerbenfield:2008augustines, BA1.866a–b], 'A. N. de naturis rerum et … super ecclesiastem'
@@ -981,26 +981,26 @@ Excerpts in *Sol meldunensis*.
 - Benedictines, Reading: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.2] = Corpus Christi College 45
 - Benedictines, St Albans: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.2] = Harley 3737
 - Benedictines, Westminster [@robinson:1909manuscripts, p. 32: no. 115]
-- Brigittines, Syon: *Registrum of the library of the Brethren*, *c.* 1500-*c.* 1524 [@gillespie:2001syon,  SS1.154]
-- Brigittines, Syon: Registrum of the library of the Brethren, *c.* 1500-*c.* 1524 [@gillespie:2001syon, SS1.\*870k], 'de naturis rerum' = [Barlow 49](http://mlgb3.bodleian.ox.ac.uk/mlgb/book/5409/); Corpus Christi College 245
+- Brigittines, Syon: *Registrum of the library of the Brethren*, *c.*1500-*c.*1524 [@gillespie:2001syon,  SS1.154]
+- Brigittines, Syon: Registrum of the library of the Brethren, *c.*1500-*c.*1524 [@gillespie:2001syon, SS1.\*870k], 'de naturis rerum' = [Barlow 49](http://mlgb3.bodleian.ox.ac.uk/mlgb/book/5409/); Corpus Christi College 245
 - Cambridge, King's College [@bale:1902index, p. 24]
 - Cambridge, Queens' College: Inventory, 1472 [@clarke:2002university, UC50.86], 'Alexander Nekkam de naturis rerum'
-- Carmelites, London: Leland, *c.* 1536–40 [@humphreys:1990friars, FC5.28], 'super Ecclesiasten *Forma decens*'
+- Carmelites, London: Leland, *c.*1536–40 [@humphreys:1990friars, FC5.28], 'super Ecclesiasten *Forma decens*'
 - ?Carthusians, Hinton: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.6]
 - Carthusians, Witham: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.2]
 - Cistercians, Bordesley: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.2 = R42.6]
 - Cistercians, Buildwas: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.2 = R42.6]
-- Franciscans, London: Leland, *c.* 1536–40 [@humphreys:1990friars, F7.5], 'Alexander \\Necham/ de s. Albano de naturis rerum'
+- Franciscans, London: Leland, *c.*1536–40 [@humphreys:1990friars, F7.5], 'Alexander \\Necham/ de s. Albano de naturis rerum'
 - Library of King Henry VIII, Westminster: Inventory of the Upper Library, 1542 [@carley:2000libraries, H2.\*592] = Cambridge, Trinity College, O.4.1 (1232)
 - Dominicans, King's Lynn: Books bequeathed by Thomas Lexham, 1382 [@humphreys:1990friars, F19.31], 'idem super Ecclesiastem, Forma decens'
-- Austin Friars, London: Leland, *c.* 1536–40 [@humphreys:1990friars, F24.5], 'A. \\Necham/ de S. Albano de naturis rerum'
+- Austin Friars, London: Leland, *c.*1536–40 [@humphreys:1990friars, F24.5], 'A. \\Necham/ de S. Albano de naturis rerum'
 - Oxford University, gift of Master John Somerset, 1452 [@anstey:1898epistolae, pp. 1:309–310 (no. 218); @emden:1957biographical, pp. 3:1727–1728; cited in @hunt:1984schools, p. 122n25]
 - Oxford, Canterbury College [@pantin:1947canterbury, p. 46 (no. 34)]<!-- vol.? -->
 - Oxford, Merton College: Inventory of books drawn up for the Marian commissioners, 1556 [@thomson:2015university, UO68.179]
-- Oxford, New College: Inventory of books in the library, *c.* 1386 and later [@thomson:2015university, UO70.34; @leach:1896wykehams, p. 224, no. 134]<!-- same? -->
+- Oxford, New College: Inventory of books in the library, *c.*1386 and later [@thomson:2015university, UO70.34; @leach:1896wykehams, p. 224, no. 134]<!-- same? -->
 - Austin Friars, York: Catalogue, 1382, with additions [@humphreys:1990friars, FA8.334]
 
-Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.7], 'super ecclesiasten' has no additions to the *Registrum*.
+Henry de Kirkestede, *Catalogus*, *c.*1360 [@rouse:2004henry, K4.7], 'super ecclesiasten' has no additions to the *Registrum*.
 
 #### Editions {.unnumbered}
 
@@ -1085,7 +1085,7 @@ Excerpts in *Sol meldunensis*, which refers to it as *Tractatus super admirabili
 #### Records {.unnumbered}
 
 - @bale:1902index [p. 25]
-- Benedictines, Bury: Leland, *c.* 1536–40 [@sharpe:1996english, B16.4] = Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.6]
+- Benedictines, Bury: Leland, *c.*1536–40 [@sharpe:1996english, B16.4] = Henry de Kirkestede, *Catalogus*, *c.*1360 [@rouse:2004henry, K4.6]
 
 #### Edition {.unnumbered}
 
@@ -1109,11 +1109,11 @@ Excerpts in *Sol meldunensis* and in Oxford, Bodleian Library, Hatton 102 (*SC* 
 
 #### Records {.unnumbered}
 
-- Augustinian Canons, Cirencester: Leland, *c.* 1536–40 [@webber:1998libraries, A9.\*1^x^] = [Jesus College 94](http://mlgb3.bodleian.ox.ac.uk/mlgb/book/1772/)
+- Augustinian Canons, Cirencester: Leland, *c.*1536–40 [@webber:1998libraries, A9.\*1^x^] = [Jesus College 94](http://mlgb3.bodleian.ox.ac.uk/mlgb/book/1772/)
 - Augustinian Canons, Leicester: Catalogue, 15th cent. [@webber:1998libraries, A20.†297f], 'comparaciones de beata uirgine'
-- Augustinian Canons, Mottisfont: Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.5]
+- Augustinian Canons, Mottisfont: Henry de Kirkestede, *Catalogus*, *c.*1360 [@rouse:2004henry, K4.5]
 - ?Benedictines, Dover, St Martin's: John Whitfield's catalogue, 1389 [@stoneman:1996dover, BM1.†198b]
-- Benedictines, Bury: Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.5]
+- Benedictines, Bury: Henry de Kirkestede, *Catalogus*, *c.*1360 [@rouse:2004henry, K4.5]
 - Benedictines, Reading: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.3] = Bodley 528
 - Carthusians, Witham: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.3]
 
@@ -1156,8 +1156,8 @@ Numerous excerpts in *Sol meldunensis* and a brief passage in MS Oxford, Bodleia
 
 #### Records {.unnumbered}
 
-- Augustinian Canons, Cirencester: Leland, *c.* 1536–40 [@webber:1998libraries, A9.\*1^x^] = [Jesus College 94](http://mlgb3.bodleian.ox.ac.uk/mlgb/book/1772/)
-- Dominicans, Lincoln: Leland, *c.* 1536–40 [@humphreys:1990friars, FD5.1]
+- Augustinian Canons, Cirencester: Leland, *c.*1536–40 [@webber:1998libraries, A9.\*1^x^] = [Jesus College 94](http://mlgb3.bodleian.ox.ac.uk/mlgb/book/1772/)
+- Dominicans, Lincoln: Leland, *c.*1536–40 [@humphreys:1990friars, FD5.1]
 - Carmelites, Hulne: Catalogue, 1366 [@humphreys:1990friars, F15.1]
 
 #### Dating {.unnumbered}
@@ -1189,7 +1189,7 @@ Excerpts in *Sol meldunensis*: fols 70, 143v.
 
 #### Records {.unnumbered}
 
-- Augustinian Canons, Cirencester: Leland, *c.* 1536–40 [@webber:1998libraries, A9.\*10] = [British Library, Royal 7 F.i](http://mlgb3.bodleian.ox.ac.uk/mlgb/book/1756/)
+- Augustinian Canons, Cirencester: Leland, *c.*1536–40 [@webber:1998libraries, A9.\*10] = [British Library, Royal 7 F.i](http://mlgb3.bodleian.ox.ac.uk/mlgb/book/1756/)
 
 #### Dating {.unnumbered}
 
@@ -1249,7 +1249,7 @@ One excerpt in *Sol meldunensis* (fol. 70*bis*r–v) = lines 318–28. Further e
 
 #### Records {.unnumbered}
 
-- ?Augustinian Canons, Barnwell: Leland, *c.* 1536–40 [@webber:1998libraries, A2.†3], 'prometicus Alexandri Nequam carmine prosa intermixta'
+- ?Augustinian Canons, Barnwell: Leland, *c.*1536–40 [@webber:1998libraries, A2.†3], 'prometicus Alexandri Nequam carmine prosa intermixta'
 
 #### Edition {.unnumbered}
 
@@ -1303,10 +1303,10 @@ Excerpts in *Sol meldunensis* and the notebook of John Curteys, Winchester Colle
 
 #### Records {.unnumbered}
 
-- Augustinian Canons, Cirencester: Leland, *c.* 1536–40 [@webber:1998libraries, A9.6]
+- Augustinian Canons, Cirencester: Leland, *c.*1536–40 [@webber:1998libraries, A9.6]
 - Augustinian Canons, Leicester: Catalogue, 15th cent. [@webber:1998libraries, A20.467c
 - @bale:1902index [p. 26] = Biblioteca de Palacio II.468
-- Benedictines, Hyde: Leland, *c.* 1536–40 [@sharpe:1996english, B51.1]
+- Benedictines, Hyde: Leland, *c.*1536–40 [@sharpe:1996english, B51.1]
 - Benedictines, Peterborough: Catalogue, late 14th cent. [@friisjensen:2001peterborough, BP21.301a]
 - Benedictines, Reading (MS London, BL, Harley 979, fol. 1v)
 
@@ -1790,7 +1790,7 @@ Listed in @hunt:1984schools [pp. 150–153]; @schneyer:1969repertorium [pp. 1:27
 - Augustinian Canons, Lanthony: Catalogue, late 14th cent. [@webber:1998libraries, A16.\*229^x^] = [Lambeth 481](http://mlgb3.bodleian.ox.ac.uk/mlgb/book/3501/)
 - Augustinian Canons, Leicester: Catalogue, 15th cent. [@webber:1998libraries, A20.192 = A20.469a
 - Augustinian Canons, Leicester: Catalogue, 15th cent. [@webber:1998libraries, A20.469a
-- Benedictines, Bury: Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.17], 'de annunciatione sermones 6'
+- Benedictines, Bury: Henry de Kirkestede, *Catalogus*, *c.*1360 [@rouse:2004henry, K4.17], 'de annunciatione sermones 6'
 - Benedictines, Canterbury, St Augustine's: Catalogue, 15th cent. [@barkerbenfield:2008augustines, BA1.1575c]
 - Benedictines, Canterbury, St Augustine's: Catalogue, 15th cent. [@barkerbenfield:2008augustines, BA1.\*675] = [Wood empt. 13](http://mlgb3.bodleian.ox.ac.uk/mlgb/book/6622/)
 - Benedictines, Canterbury-Christ Church: Prior Eastry's catalogue, not after 1331 [@james:1903ancient, BC4.994] = Canterbury, Lit. B. 13 (57, iii)<!-- check this is RN book -->
@@ -1798,7 +1798,7 @@ Listed in @hunt:1984schools [pp. 150–153]; @schneyer:1969repertorium [pp. 1:27
 - Benedictines, Peterborough: Catalogue, late 14th cent. [@friisjensen:2001peterborough, BP21.104g], 'decem sermones Alexandri Nekham'
 - Benedictines, Peterborough: Catalogue, late 14th cent. [@friisjensen:2001peterborough, BP21.89a]
 - Benedictines, Peterborough: Catalogue, late 14th cent. [@friisjensen:2001peterborough, BP21.90g, BP21.92e,k]
-- Benedictines, Ramsey: Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.13, 'sermones ab aduentu domini'
+- Benedictines, Ramsey: Henry de Kirkestede, *Catalogus*, *c.*1360 [@rouse:2004henry, K4.13, 'sermones ab aduentu domini'
 - Benedictines, St Albans: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.9]
 
 #### Literature {.unnumbered}
@@ -1873,7 +1873,7 @@ Worcester, Cathedral Library, Q. 6, fols 94–101
 
 (103)-(104)
 
-(s. xiii^ex^): see A. G. Little and F. Pelster, *Oxford Theology and Theologians *c.* A.D. 1281–1302* (*OHS *XCVI, Oxford, 1934), pp. 151 ff. To be rejected. RWH noted eight further manuscripts, which brought further sermons to light, here numbered in brackets (96)-(104):
+(s. xiii^ex^): see A. G. Little and F. Pelster, *Oxford Theology and Theologians *c.*A.D. 1281–1302* (*OHS *XCVI, Oxford, 1934), pp. 151 ff. To be rejected. RWH noted eight further manuscripts, which brought further sermons to light, here numbered in brackets (96)-(104):
 
 
 
@@ -2145,11 +2145,11 @@ inc.
 : Operis … (Kirkestede)
 : Operis immensi quoniam Deus … [@bale:1557scriptorum, p. 1:273]
 
-Attributed to Alexander in Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.15], 'Cur Deus homo, uel cur Filius incarnatus tract. 1': *Mariale* fol. 23r. Unidentified.
+Attributed to Alexander in Henry de Kirkestede, *Catalogus*, *c.*1360 [@rouse:2004henry, K4.15], 'Cur Deus homo, uel cur Filius incarnatus tract. 1': *Mariale* fol. 23r. Unidentified.
 
 ### *De desponsatione beatae Mariae* {.unnumbered}
 
-- Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.18]: *Mariale* fol. 16v
+- Henry de Kirkestede, *Catalogus*, *c.*1360 [@rouse:2004henry, K4.18]: *Mariale* fol. 16v
 
 ### *De natiuitate beatae Mariae* {.unnumbered}
 
@@ -2157,14 +2157,14 @@ inc.
 : Egredietur … (Kirkestede)
 : Egredietur uirga de radice … [@bale:1557scriptorum, p. 1:273]
 
-Attributed to Alexander in Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.16]: *Mariale* fol. 189r. Unidentified (incipit is Isaiah 11:1).
+Attributed to Alexander in Henry de Kirkestede, *Catalogus*, *c.*1360 [@rouse:2004henry, K4.16]: *Mariale* fol. 189r. Unidentified (incipit is Isaiah 11:1).
 
 ### *De fide spe et caritate* {.unnumbered}
 
 This may be part of Hugh of St Victor's *Summa sententiarum*, sometimes known by this name [@mynors:1991registrum, p. 191]. Attributed to Alexander in two sources:
 
 - Benedictines, Peterborough: Catalogue, late 14th cent. [@friisjensen:2001peterborough, BP21.†112a], 'tractatus A. N. de tribus uir⟨tut⟩ibus anime'
-- Benedictines, Reading: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.4] = Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.8]
+- Benedictines, Reading: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.4] = Henry de Kirkestede, *Catalogus*, *c.*1360 [@rouse:2004henry, K4.8]
 
 ### *De humilitatis gradibus* {.unnumbered}
 
@@ -2187,11 +2187,11 @@ Attributed to Alexander by @bale:1557scriptorum [p. 1:272]. Possibly pseudo-Albe
 
 ### *De rebus creatis in specie* {.unnumbered}
 
-Leland lists this work from the Augustinian Canons at Guisborough, *c.* 1536–40 [@webber:1998libraries, A11.1].
+Leland lists this work from the Augustinian Canons at Guisborough, *c.*1536–40 [@webber:1998libraries, A11.1].
 
 ### *De uirtutibus* {.unnumbered}
 
-Listed by Bale, from the Benedictines at Glastonbury *c.* 1550 [@sharpe:1996english, B45.7]. May be the same as *De fide spe et caritate*.
+Listed by Bale, from the Benedictines at Glastonbury *c.*1550 [@sharpe:1996english, B45.7]. May be the same as *De fide spe et caritate*.
 
 ### *De uita Christi* {.unnumbered}
 
@@ -2239,7 +2239,7 @@ Attributed to Alexander by @bale:1902index [p. 27], based on his MS Madrid, Bibl
 
 ### *Exorcismus siue Baptisterium*/*Super exorcismo baptismi* {.unnumbered}
 
-Attributed to Alexander by Leland, *c.* 1536–40, visting the Benedictines at Spalding [@sharpe:1996english, B96.2]: 'exorcismus siue baptisterium Alexandri Neccham. "Huic operi talis praeponitur titulus"'.
+Attributed to Alexander by Leland, *c.*1536–40, visting the Benedictines at Spalding [@sharpe:1996english, B96.2]: 'exorcismus siue baptisterium Alexandri Neccham. "Huic operi talis praeponitur titulus"'.
 
 ### *Expositio de anima* {.unnumbered}
 
@@ -2250,7 +2250,7 @@ inc.
 
 ### *Festiuale* {.unnumbered}
 
-Attributed to Alexander by Henry de Kirkestede, *Catalogus*, *c.* 1360 [@rouse:2004henry, K4.16], 'Liber qui dicitur Festiuale': *Mariale* fol. 2r. Leland associated this with the text of this name by Alexander of Ashby [@leland:1774rebus, p. 1:243].<!-- Sharpe?-->
+Attributed to Alexander by Henry de Kirkestede, *Catalogus*, *c.*1360 [@rouse:2004henry, K4.16], 'Liber qui dicitur Festiuale': *Mariale* fol. 2r. Leland associated this with the text of this name by Alexander of Ashby [@leland:1774rebus, p. 1:243].<!-- Sharpe?-->
 
 ### *Historia britonum versificata* {.unnumbered}
 
@@ -2323,7 +2323,7 @@ inc. text.
 expl. text.
 : … et sic uidentes semper colletemur.
 
-@schneyer:1969repertorium [nos. 81–86]. Attributed to Alexander in Durham, Cathedral Library, B.IV.30, fols 1–12 (s. xiv^2^); rubric (fol. 1): 'Sermones VI siue tractatus Alexandri Necham super Aue maris stella'. Cambridge, Peterhouse, MS 255 (s. xiii^1^), which also contains some sermons of Alexander and is the only witness to the prologue, is anonymous; as is [Herzog August Bibliothek, Cod. Guelf. 410 Helmst. (445)](http://dbs.hab.de/mss/?list=ms&id=410-helmst). London, British Library, Royal 8 A.X, fols 36–53v (*c.* 1300), an expanded text, is attributed to Stephen Langton [@lacombe:1930incipits, p. 185].
+@schneyer:1969repertorium [nos. 81–86]. Attributed to Alexander in Durham, Cathedral Library, B.IV.30, fols 1–12 (s. xiv^2^); rubric (fol. 1): 'Sermones VI siue tractatus Alexandri Necham super Aue maris stella'. Cambridge, Peterhouse, MS 255 (s. xiii^1^), which also contains some sermons of Alexander and is the only witness to the prologue, is anonymous; as is [Herzog August Bibliothek, Cod. Guelf. 410 Helmst. (445)](http://dbs.hab.de/mss/?list=ms&id=410-helmst). London, British Library, Royal 8 A.X, fols 36–53v (*c.*1300), an expanded text, is attributed to Stephen Langton [@lacombe:1930incipits, p. 185].
 
 ### *Super Ezechielem* {.unnumbered}
 
