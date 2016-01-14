@@ -1,5 +1,5 @@
 ---
-title: "The Recording and Dissemination of Alexander Neckam's Writings at Oxford and Cirencester"
+title: "Alexander Neckam's Manuscripts and the Augustinian Canons of Oxford and Cirencester"
 author: Andrew Nelson Judd Dunning
 date: 2016
 lang: en-GB
@@ -7,7 +7,7 @@ department: Centre for Medieval Studies
 institution: University of Toronto
 degree: Doctor of Philosophy
 abstract: |
-  Alexander Neckam (Nequam, Neckham; also known as Alexander of St Albans; 1157–1217) was a teacher and Augustinian canon, leading St Mary's Abbey in Cirencester as abbot from 1213 to 1217, where he took part in royal and papal operations. His extensive writings are typically studied according to genre (grammatical treatises, biblical commentaries, sermons, poetry) and assumed to be directed to two separate audiences, scholastic and monastic. This dissertation shows that Alexander's works form a more coherent whole by considering them within the historical circumstances of his career and the intellectual context of the Augustinian order.
+  Alexander Neckam (Nequam, Neckham; also known as Alexander of St Albans; 1157–1217) was a teacher and Augustinian canon, leading St Mary's Abbey in Cirencester as abbot from 1213 to 1217, where he took part in royal and papal operations. His extensive writings are typically studied according to genre (grammatical treatises, commentaries, sermons, poetry) and assumed to be directed to two separate audiences, scholastic and monastic. This dissertation shows that Alexander's works form a more coherent whole by considering them within the historical circumstances of his career and the intellectual context of the Augustinian order.
 
   While past scholarship has assumed that Alexander only became a regular canon *c.*1197 at Cirencester, he more likely had already joined the Augustinians in Oxford, where he moved *c.*1190 and was associated with the Priory of St Frideswide (now Christ Church). The order's influence shaped Alexander's largest body of writings: his commentaries on the biblical wisdom books, often thought of as encyclopedias but better understood using his own label of *meditationes*. These reify the idea of meditation as a natural step in the progression of learning, as promoted by figures such as Hugh of St Victor. Alexander viewed this as a means of caring for souls, promoting female figures as universal models of holy living and seeking closer cooperation between religious orders.
 
