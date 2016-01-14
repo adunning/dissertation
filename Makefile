@@ -25,7 +25,7 @@ help:
 
 pdf:
 	pandoc "$(INPUTDIR)"/*.md \
-	-o "$(OUTPUTDIR)/thesis.pdf" \
+	-o "$(OUTPUTDIR)/Dunning_Andrew_NJ_201606_PhD_thesis.pdf" \
 	--template="$(STYLEDIR)/thesis.tex" \
 	--bibliography="$(BIBFILE)" \
 	--csl="chicago-fullnote-bibliography-no-ibid.csl" \
