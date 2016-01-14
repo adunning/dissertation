@@ -492,113 +492,6 @@ Post 1183: Refers to the Third Crusade [@hunt:1984schools, pp. 26–27].
 
 - *De naturis rerum* [Bodley 284, fol. iiira: @hunt:1984schools, p. 27]
 
-### *Solatium fidelis anime* {.unnumbered}
-
-@stegmüller:1950repertorium, no. 8987
-
-incl. prol.
-: Rerum subtilium fugas uenari presentis renuit pagine simplicitas…
-
-expl. prol.
-: … quem constituere debemus finem laborum nostorum.
-
-inc. text
-: Deus totius origo boni quem non externe pepulerunt…
-
-expl. text
-: … malum uero inobedientie detestemur. Quod nobis prestare dignetur qui uiuit et regnat deus per infinita secula seculorum. Arnen.
-
-#### Manuscript {.unnumbered}
-
-- Canterbury, Cathedral Library, Lit. B. 6 (4), fols 2ra–29vb (s. xiii^in^: St Augustine's, Canterbury)
-
-    title
-    : tractatus Moralium super Genesim qui dicitur Solatium fidelis anime (fol. 1v).
-
-Excerpts in *Sol meldunensis*.
-
-#### Records {.unnumbered}
-
-- Benedictines, Canterbury, St Augustine's: Catalogue, 15th cent. [@barkerbenfield:2008augustines, BA1.\*17b], 'tractatus moralis super genesim', anon. = [Canterbury, Lit. B. 6 (4)](http://mlgb3.bodleian.ox.ac.uk/mlgb/book/1443/)
-
-The only other record of the *Solatium* is a seventeenth-century annotation to *Laus beatissime uirginis* (London, British Library, Royal 4 D. <span style="font-variant:small-caps;">xi</span>, fol. 32r): 'Neckami liber inscriptus Solatium fidelis animae'. The 'Liber supplicationum' noted by @damon:1957note [p. 102] is *Suppletio defectuum* [@hunt:1984schools, p. 139].
-
-#### Literature {.unnumbered}
-
-@ellis:1886notes; @záhora:2011tropology
-
-### *Laus beatissime uirginis* (Commentary on the Song of Songs) {.unnumbered}
-
-@stegmüller:1950repertorium, no. 1168
-
-The commentary on the Song of Songs was once thought to have been a separate work [@mcdonough:2004laus].
-
-inc. prol.
-: Humilitas uera gloriam excellencie et dignitatis feliciter …
-
-expl. prol.
-: … Conferat nobis omnibus subsidium dominus noster Iesus noster qui est benedictus in secula. Amen.
-
-inc. text
-: Ortus deliciarum paradisi celestis scripture amena iocunda …
-
-expl. text
-: … ut pro me misero misericordie mater intercedas ad dominum nostrum Iesum Christum filium tuum, cui laus et honor et imperium per infinita secula seculorum. Amen.
-
-#### Manuscripts {.unnumbered}
-
-- Cambridge, University Library, Ii.2.31, fols 132ra–254va (s. xiv)
-
-    rubric
-    : Prohemium Alex. Nequam super cantica.
-
-- London, British Library, Royal 4 D. <span style="font-variant:small-caps;">xi</span>, fols 1ra–205vb (s. xiii^1^)
-
-    rubric
-    : Alex. Nequam super cantica (fol. 1: s. xv).
-
-- London, Lambeth Palace, 23, fols 1ra–143vb (s. xiv/xv: Durham)
-
-- Oxford, Bodleian Library, Bodley 356 (*SC* 2716), fols 7ra–257vb (s. xiii: Bury St Edmunds)
-
-    inc.
-    : /hominis deuotis … (1.4)
-
-    rubric
-    : Alexander Nequam super (cantica) (on spine: s. xiii).
-
-- Oxford, Balliol College, 39, fols 2–133 (books 1–3) (s. xiii: Buildwas, O. Cist.)
-
-- Oxford, Balliol College, 40, fols 1–118 (books 4.4–5) (s. xv: William Gray, bishop of Ely). Text lacks 4.1–3.
-
-- Oxford, Magdalen College, 149, fols 1ra–194ra (s. xiii; s. xv, John Mower: Emden, *BRUO* 1326–7).
-
-- Oxford, New College, 43, fols 3–235v (s. xvi^in^: Archbishop Wareham).
-
-#### Records {.unnumbered}
-
-- Augustinian Canons, Cirencester: Leland, *c.*1536–40 [@webber:1998libraries, A9.9], 'de laude gloriosae uirginis'
-- Augustinian Canons, Leicester: Catalogue, 15th cent. [@webber:1998libraries, A20.84 = A20.466 = A20.1480 = A20.1564]
-- Austin Friars, London: Leland, *c.*1536–40 [@humphreys:1990friars, F24.13]
-- Benedictines, Bury: Henry de Kirkestede, *Catalogus*, *c.*1360 [@rouse:2004henry, K4.\*2] = Leland, *c.*1536–40 [@sharpe:1996english, B16.\*13] = [Bodley 356](http://mlgb3.bodleian.ox.ac.uk/mlgb/book/813/)
-- Benedictines, Canterbury, Christ Church: List of books repaired, 1508 [@james:1903ancient, BC8.42] = *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.1]
-- Benedictines, Canterbury, St Augustine's: Catalogue, 15th cent. [@barkerbenfield:2008augustines, BA1.807f]
-- Benedictines, Gloucester: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.1] = Leland, *c.*1536–40 [@sharpe:1996english, B49.9 ?= B47.18, anon.]
-- Benedictines, Reading: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.1]
-- Benedictines, St Albans: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.1]
-- Benedictines, St Neots: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.1]
-- Benedictines, York St Mary's: Index catalogue of selected authors, 15th cent. [@sharpe:1996english, B120.501]
-- Brigittines, Syon: *Registrum of the library of the Brethren*, *c.*1500-*c.*1524 [@gillespie:2001syon, SS1.449]
-- ?Carthusians, Hinton: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.1]
-- Cistercians, Buildwas: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.1] = Balliol College 39
-- Franciscans, London: Leland, *c.*1536–40 [@humphreys:1990friars, F7.13], 'Alexander de s. Albano cognomento Necham super Cantica Canticorum siue in opus epithalamicum'
-- Oxford, Balliol College [@bale:1902index, p. 26] = ?Balliol College 40
-- Richard Grafton [@bale:1902index, p. 26]
-
-#### Literature {.unnumbered}
-
-@fulton:1996mimetic; @fulton:1998quae; @guglielmetti:2006tradizione [pp. 306–307]; @holdsworth:1996two; @loewe:1966hebrew; @mcdonough:2004laus; @riedlinger:1958makellosigkeit [pp. 320-333]
-
 ### *Corrogationes Promethei* {.unnumbered}
 
 incl. prol.
@@ -884,6 +777,113 @@ expl.
 #### Literature {.unnumbered}
 
 @hunt:1991teaching [pp. 1:247–250]
+
+### *Solatium fidelis anime* {.unnumbered}
+
+@stegmüller:1950repertorium, no. 8987
+
+incl. prol.
+: Rerum subtilium fugas uenari presentis renuit pagine simplicitas…
+
+expl. prol.
+: … quem constituere debemus finem laborum nostorum.
+
+inc. text
+: Deus totius origo boni quem non externe pepulerunt…
+
+expl. text
+: … malum uero inobedientie detestemur. Quod nobis prestare dignetur qui uiuit et regnat deus per infinita secula seculorum. Arnen.
+
+#### Manuscript {.unnumbered}
+
+- Canterbury, Cathedral Library, Lit. B. 6 (4), fols 2ra–29vb (s. xiii^in^: St Augustine's, Canterbury)
+
+    title
+    : tractatus Moralium super Genesim qui dicitur Solatium fidelis anime (fol. 1v).
+
+Excerpts in *Sol meldunensis*.
+
+#### Records {.unnumbered}
+
+- Benedictines, Canterbury, St Augustine's: Catalogue, 15th cent. [@barkerbenfield:2008augustines, BA1.\*17b], 'tractatus moralis super genesim', anon. = [Canterbury, Lit. B. 6 (4)](http://mlgb3.bodleian.ox.ac.uk/mlgb/book/1443/)
+
+The only other record of the *Solatium* is a seventeenth-century annotation to *Laus beatissime uirginis* (London, British Library, Royal 4 D. <span style="font-variant:small-caps;">xi</span>, fol. 32r): 'Neckami liber inscriptus Solatium fidelis animae'. The 'Liber supplicationum' noted by @damon:1957note [p. 102] is *Suppletio defectuum* [@hunt:1984schools, p. 139].
+
+#### Literature {.unnumbered}
+
+@ellis:1886notes; @záhora:2011tropology
+
+### *Laus beatissime uirginis* (Commentary on the Song of Songs) {.unnumbered}
+
+@stegmüller:1950repertorium, no. 1168
+
+The commentary on the Song of Songs was once thought to have been a separate work [@mcdonough:2004laus].
+
+inc. prol.
+: Humilitas uera gloriam excellencie et dignitatis feliciter …
+
+expl. prol.
+: … Conferat nobis omnibus subsidium dominus noster Iesus noster qui est benedictus in secula. Amen.
+
+inc. text
+: Ortus deliciarum paradisi celestis scripture amena iocunda …
+
+expl. text
+: … ut pro me misero misericordie mater intercedas ad dominum nostrum Iesum Christum filium tuum, cui laus et honor et imperium per infinita secula seculorum. Amen.
+
+#### Manuscripts {.unnumbered}
+
+- Cambridge, University Library, Ii.2.31, fols 132ra–254va (s. xiv)
+
+    rubric
+    : Prohemium Alex. Nequam super cantica.
+
+- London, British Library, Royal 4 D. <span style="font-variant:small-caps;">xi</span>, fols 1ra–205vb (s. xiii^1^)
+
+    rubric
+    : Alex. Nequam super cantica (fol. 1: s. xv).
+
+- London, Lambeth Palace, 23, fols 1ra–143vb (s. xiv/xv: Durham)
+
+- Oxford, Bodleian Library, Bodley 356 (*SC* 2716), fols 7ra–257vb (s. xiii: Bury St Edmunds)
+
+    inc.
+    : /hominis deuotis … (1.4)
+
+    rubric
+    : Alexander Nequam super (cantica) (on spine: s. xiii).
+
+- Oxford, Balliol College, 39, fols 2–133 (books 1–3) (s. xiii: Buildwas, O. Cist.)
+
+- Oxford, Balliol College, 40, fols 1–118 (books 4.4–5) (s. xv: William Gray, bishop of Ely). Text lacks 4.1–3.
+
+- Oxford, Magdalen College, 149, fols 1ra–194ra (s. xiii; s. xv, John Mower: Emden, *BRUO* 1326–7).
+
+- Oxford, New College, 43, fols 3–235v (s. xvi^in^: Archbishop Wareham).
+
+#### Records {.unnumbered}
+
+- Augustinian Canons, Cirencester: Leland, *c.*1536–40 [@webber:1998libraries, A9.9], 'de laude gloriosae uirginis'
+- Augustinian Canons, Leicester: Catalogue, 15th cent. [@webber:1998libraries, A20.84 = A20.466 = A20.1480 = A20.1564]
+- Austin Friars, London: Leland, *c.*1536–40 [@humphreys:1990friars, F24.13]
+- Benedictines, Bury: Henry de Kirkestede, *Catalogus*, *c.*1360 [@rouse:2004henry, K4.\*2] = Leland, *c.*1536–40 [@sharpe:1996english, B16.\*13] = [Bodley 356](http://mlgb3.bodleian.ox.ac.uk/mlgb/book/813/)
+- Benedictines, Canterbury, Christ Church: List of books repaired, 1508 [@james:1903ancient, BC8.42] = *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.1]
+- Benedictines, Canterbury, St Augustine's: Catalogue, 15th cent. [@barkerbenfield:2008augustines, BA1.807f]
+- Benedictines, Gloucester: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.1] = Leland, *c.*1536–40 [@sharpe:1996english, B49.9 ?= B47.18, anon.]
+- Benedictines, Reading: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.1]
+- Benedictines, St Albans: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.1]
+- Benedictines, St Neots: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.1]
+- Benedictines, York St Mary's: Index catalogue of selected authors, 15th cent. [@sharpe:1996english, B120.501]
+- Brigittines, Syon: *Registrum of the library of the Brethren*, *c.*1500-*c.*1524 [@gillespie:2001syon, SS1.449]
+- ?Carthusians, Hinton: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.1]
+- Cistercians, Buildwas: *Registrum Anglie*, early 14th cent. [@mynors:1991registrum, R42.1] = Balliol College 39
+- Franciscans, London: Leland, *c.*1536–40 [@humphreys:1990friars, F7.13], 'Alexander de s. Albano cognomento Necham super Cantica Canticorum siue in opus epithalamicum'
+- Oxford, Balliol College [@bale:1902index, p. 26] = ?Balliol College 40
+- Richard Grafton [@bale:1902index, p. 26]
+
+#### Literature {.unnumbered}
+
+@fulton:1996mimetic; @fulton:1998quae; @guglielmetti:2006tradizione [pp. 306–307]; @holdsworth:1996two; @loewe:1966hebrew; @mcdonough:2004laus; @riedlinger:1958makellosigkeit [pp. 320-333]
 
 ### *De naturis rerum* (Commentary on Ecclesiastes) {.unnumbered}
 
