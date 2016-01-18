@@ -13,7 +13,7 @@ Most of Cirencester's manuscripts have been identified through the specific colo
 1. Hereford, Cathedral Library, O.i.6 (fol. 89v, 'Hunc librum D. Iocelinus canonicus dedit deo et ecclesie beate Marie de Cyrecestre, D. Serlone ibidem tunc Abbate primo.')
 1. Hereford, Cathedral Library, O.i.10 (fol. 98v, 'Hunc librum D. Iocelinus canonicus dedit deo et ecclesie beate Marie de Cyrencestr', D. Serlone ibidem tunc Abbate primo.')
 1. Hereford, Cathedral Library, O.ii.4 (fol. i^v^, 'Liber magistri Aluredi', as Oxford, Jesus College 26, All Souls College 82)
-1. Hereford, Cathedral Library, O.iii.10 (Robert of Cricklade, *Homiliae in Ezechielem*: may also be from St Frideswide's, Oxford, as the prologue refers to Reginald, prior of Church Gresley, recorded in documents from 1151 × 1157 and 1170; but the catalogue notes that 'Ego autem Robertus Cricheladensis prior ecclesie sancte Frideswide Oxenefordie', fol. 1r, is written over an erasure) [@mynors:1993catalogue, p. 22; @knowles:2001heads, pp. 1:159, 1:278]
+1. Hereford, Cathedral Library, O.iii.10 (Robert of Cricklade, *Homiliae in Ezechielem*: may also be from St Frideswide's, Oxford, as the prologue refers to Reginald, prior of Church Gresley, recorded in documents from 1151×1157 and 1170; but the catalogue notes that 'Ego autem Robertus Cricheladensis prior ecclesie sancte Frideswide Oxenefordie', fol. 1r, is written over an erasure) [@mynors:1993catalogue, p. 22; @knowles:2001heads, pp. 1:159, 1:278]
 1. Hereford, Cathedral Library, O.v.10 (fol. iir, '[L]iber sancte Marie de Cirecestr' D. Andree abbatis secundi tempore / scriptus per manum D. Serlonis canonici / D. Gilleberto primo tunc Cantore.')
 1. Hereford, Cathedral Library, O.v.14 (fol. 146v, 'Liber sancte Marie de Cirecestr' D. Andree abbatis secundi tempore scriptus per manum D. Odonis canonici, D. Adam de la More tunc cantore.')
 1. Hereford, Cathedral Library, O.vi.10 (fol. ir, 'Liber sancte Marie de Cirecestr' abbatis / primi Serlonis tempore scriptus per manum D. / Ade postea abbatis inceptus D. Gilberto primo / tunc Cantore.')
@@ -28,7 +28,7 @@ Most of Cirencester's manuscripts have been identified through the specific colo
 1. Hereford, Cathedral Library, P.v.4 (fol. ir, '[L]iber sancte Marie de Cirecestr' D. / Andree abbatis secundi tempore scriptus per ma/num D. Fulconis canonici postea prioris / D. Adam de la Mora tunc Cantore.')
 1. Hereford, Cathedral Library, P.v.9 (fol. ii^v^, 'Liber ecclesie Marie Cirencestrie'; 'Hunc librum habuimus de Magistro Nicholas de Preston' una cum v. marcis in / recompensacione cuiusdam debiti, et unam cuppam deauratam ponderis / sex marcarum que est in sacristaria.'<!--check fol-->)
 1. London, British Library, Cotton Claudius B. <span style="font-variant:small-caps;">ii</span> (includes hand of Walter de Melida)
-1. London, British Library, Cotton Vesp. A. <span style="font-variant:small-caps;">xv</span> (fol. 1v, 'Hunc librum Domnus Jocelinus Canonicus dedit deo et ecclesie beate marie de Cirecestr. Domne Serlone tunc ibidem Abbate primo.')
+1. London, British Library, Cotton Vespasian A. <span style="font-variant:small-caps;">xv</span> (fol. 1v, 'Hunc librum Domnus Jocelinus Canonicus dedit deo et ecclesie beate marie de Cirecestr. Domne Serlone tunc ibidem Abbate primo.')
 1. London, British Library, Royal 3 A. <span style="font-variant:small-caps;">xii</span> (fol. 1r, '[L]iber sancte Marie de Cirecestria. D. Andree abbatis secundi tempore scriptus per manum D. Fulconis canonici postea prioris. D. Alexandro de Weleue tunc cantore.')
 1. London, British Library, Royal 5 E. <span style="font-variant:small-caps;">xviii</span> ('Cirencestrie' written at top of fols 5r, 14r, 40r, 50r, 72r, 92r, 102r)
 <!--maybe London, British Library, Royal 6 E. <span style="font-variant:small-caps;">iv</span> (identified by Michael Gullick), but I cannot find citation, check @thomson:2006books and @gullick:1990twelfthcentury; he also looked at Burney MS 42-->
@@ -322,7 +322,7 @@ William of Auvergne
 : *De claustro anime* (Hereford, Cathedral Library, P.v.9)
 
 William of Malmesbury
-: *Defloratio Gregorii* [Robert of Cricklade, *De connubio patriarche Iacob* 2.22 indicates that he had copies of William of Malmesbury's books made for Cirencester: quoted in @hunt:1936english, pp. 31–32]
+: *Defloratio Gregorii* [Robert of Cricklade, *De connubio patriarche Iacob* 2.22 indicates that he had copies of William of Malmesbury's books made for Cirencester: see @hunt:1936english, pp. 31–32; @thomson:2003william, p. 74]
 : *De miraculis beatae uirginis Mariae*
 : *Commentary on Lamentations*
 

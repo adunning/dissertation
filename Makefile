@@ -12,7 +12,7 @@ BIBFILE=/Users/Andrew/.pandoc/references.json
 
 all: pdf html
 
-auth: docx docxa tex texa
+auth: tex texa
 
 help:
 	@echo ' 																	  '
