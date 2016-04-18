@@ -1,6 +1,6 @@
 # Bibliography {.unnumbered}
 
-\markboth{Bibliography}{Bibliography}
+\markboth{\textsc{Bibliography}}{\textsc{Bibliography}}
 
 &nbsp;
 

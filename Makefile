@@ -25,6 +25,8 @@ help:
 
 pdf:
 	pandoc "$(INPUTDIR)"/*.md \
+	-F pandoc-crossref \
+	-F pandoc-citeproc \
 	-o "$(OUTPUTDIR)/Dunning_Andrew_NJ_201606_PhD_thesis.pdf" \
 	--template="$(STYLEDIR)/thesis.tex" \
 	--bibliography="$(BIBFILE)" \
@@ -47,6 +49,8 @@ pdf:
 
 tex:
 	pandoc "$(INPUTDIR)"/*.md \
+	-F pandoc-crossref \
+	-F pandoc-citeproc \
 	-o "$(OUTPUTDIR)/thesis.tex" \
 	--template="$(STYLEDIR)/thesis.tex" \
 	--bibliography="$(BIBFILE)" \
@@ -69,6 +73,8 @@ tex:
 
 docx:
 	pandoc "$(INPUTDIR)"/*.md \
+	-F pandoc-crossref \
+	-F pandoc-citeproc \
 	-o "$(OUTPUTDIR)/thesis.docx" \
 	--bibliography="$(BIBFILE)" \
 	--csl="chicago-fullnote-bibliography-no-ibid.csl" \
@@ -79,6 +85,8 @@ docx:
 
 html:
 	pandoc "$(INPUTDIR)"/*.md \
+	-F pandoc-crossref \
+	-F pandoc-citeproc \
 	-t html5 \
 	-o "$(OUTPUTDIR)/thesis.html" \
 	--template="$(STYLEDIR)/template.html" \
@@ -97,6 +105,8 @@ html:
 
 texa:
 	pandoc "$(INPUTDIR)"/*.md \
+	-F pandoc-crossref \
+	-F pandoc-citeproc \
 	-o "$(OUTPUTDIR)/thesis-auth.tex" \
 	--template="$(STYLEDIR)/thesis.tex" \
 	--bibliography="$(BIBFILE)" \
@@ -118,6 +128,8 @@ texa:
 
 docxa:
 	pandoc "$(INPUTDIR)"/*.md \
+	-F pandoc-crossref \
+	-F pandoc-citeproc \
 	-o "$(OUTPUTDIR)/thesis-auth.docx" \
 	--bibliography="$(BIBFILE)" \
 	--table-of-contents \
