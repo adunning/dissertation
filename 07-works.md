@@ -259,7 +259,7 @@ exp.
 
 \noindent 'Isopet II de Paris' translation [edited in @bastin:1929recueil, pp. xiii–xx, 31–111; translated in @boivin:1996fables, pp. 182–205]:
 
-- [Paris, Bibliothèque nationale, fr. 15213](http://gallica.bnf.fr/ark:/12148/btv1b90667289), fols 1r-54r (s. xiv^1^)
+- [Paris, Bibliothèque nationale, fr. 15213](http://gallica.bnf.fr/ark:/12148/btv1b8452195w), fols 1r-54r (s. xiv^1^)
 - [Paris, Bibliothèque nationale, fr. 24432](http://gallica.bnf.fr/ark:/12148/btv1b90075147), fols 171rb-184ra (s. xiv)
 
 #### Records {.unnumbered}
