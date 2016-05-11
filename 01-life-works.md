@@ -10,7 +10,7 @@ There are several famous anecdotes of Alexander's life – his birth at St Alban
     >
     > Hic cum temporis anno scilicet proximo transacto apud dunestaple scolam rexisset⸵ uocauit eum abbas G. hiis litteris breuiter et iocose scriptis. petiuerat enim idem Alexander nequam scolam sancti albani instanter. Si bonus es venias. si nequam⸵ nequaquam. Cui tam breuiter et iocose rescribens A. ait. Si uelis veniam. sin autem⸵ tu autem. Ac si diceret. Non multum curo.
 
-    \noindent @riley:1867gesta [p. 1:196]. Memorialized in a slightly different form, 'si bonus es intres', on an fifteenth-century gateway from Ascott Park in Oxfordshire: @bilbey:2002british [p. 33 (no. 50, A.5–1925)], installed in 2015 at the Weston Library, University of Oxford. Transclated in @leach:1911educational [pp. 132–135]. An alternate version of the story is found in @rouse:2004henry [pp. 100–101].
+    \noindent @riley:1867gesta [p. 1:196]. Memorialized in a slightly different form, 'si bonus es intres', on an fifteenth-century gateway from Ascott Park in Oxfordshire: @bilbey:2002british [p. 33 (no. 50, A.5–1925)], installed in 2015 at the Weston Library, University of Oxford. Translated in @leach:1911educational [pp. 132–135]. An alternate version of the story is found in @rouse:2004henry [pp. 100–101].
 
 <!-- ![Effigy at Worcester Cathedral said to represent Alexander Neckam. (Photograph by [Aidan McRae Thomson](https://flic.kr/p/a9poTP).)](figures/neckam-worcester.jpg) -->
 

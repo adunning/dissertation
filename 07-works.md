@@ -636,19 +636,19 @@ exp. part 2
     : Libellus iste dicitur ferrum quem exposuit magister Alexander Necham (fol. 85v: s. xiv)
     : Expliciunt exposiciones parcium biblie secundum magistrum Alexandrum Necham (fol. 86: s. xiv)
 
-- Oxford, Bodleian Library. Bodley 57 (*SC* 2004), fols 20v, 81–3v, 53r–v (s. xiii-xiv: ?Leicester Can. Reg.); excerpts from part 2 only [@meyer:1906notice; @brown:1920mulier, p. 480 quotes from fol. 20v]
+- Oxford, Bodleian Library, Bodley 57 (*SC* 2004), fols 20v, 81–3v, 53r–v (s. xiii-xiv: ?Leicester Can. Reg.); excerpts from part 2 only [@meyer:1906notice; @brown:1920mulier, p. 480 quotes from fol. 20v]
 
 - Oxford, Bodleian Library, Bodley 550 (*SC* 2300), fols 1ra–100rb (s. xiii^1^: Reading)
 
     rubric
     : Incipiunt corrogationes promethei. (fol. 1ra)
 
-- Oxford, Bodleian Library. Bodley 760 (*SC* 2673), fols 99ra–171va (s. xiii^ex^: Reading)
+- Oxford, Bodleian Library, Bodley 760 (*SC* 2673), fols 99ra–171va (s. xiii^ex^: Reading)
 
     rubric
     : Explicit liber magistri Alexander Nequam Abbatis. (fol. 171vb)
 
-- Oxford, Bodleian Library. f (*SC* 4094), fols 3ra–143vb (s. xiii)
+- Oxford, Bodleian Library, Hatton 44 (*SC* 4094), fols 3ra–143vb (s. xiii)
 
     rubric
     : (In)cipit ysago(gi) cum magis(tri) Alexandri. (fol. 3ra)
