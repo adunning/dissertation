@@ -634,9 +634,9 @@ exp. part 2
 
     rubric
     : Libellus iste dicitur ferrum quem exposuit magister Alexander Necham (fol. 85v: s. xiv)
-    : Expliciunt exposiciones parcium biblie secundum magistrum Alexandrum Necham (fol. 86: s. xiv)
+    : Expliciunt exposiciones parcium biblie secundum magistrum Alexandrum Necham (fol. 86r: s. xiv)
 
-- Oxford, Bodleian Library, Bodley 57 (*SC* 2004), fols 20v, 81–3v, 53r–v (s. xiii-xiv: ?Leicester Can. Reg.); excerpts from part 2 only [@meyer:1906notice; @brown:1920mulier, p. 480 quotes from fol. 20v]
+- Oxford, Bodleian Library, Bodley 57 (*SC* 2004), fols 20v, 81r–83v, 53r–v (s. xiii-xiv: ?Leicester Can. Reg.); excerpts from part 2 only [@meyer:1906notice; @brown:1920mulier, p. 480 quotes fol. 20v]
 
 - Oxford, Bodleian Library, Bodley 550 (*SC* 2300), fols 1ra–100rb (s. xiii^1^: Reading)
 
@@ -693,7 +693,7 @@ exp. part 2
 
 - Vienna, Österreichische Nationalbibliothek, 1310, fols 1r–108r (s. xiv, Bremen), part II only
 
-- Worcester, Cathedral Library, F.1, fols 168ra–2S4rb (s. xiii: Worcester)
+- Worcester, Cathedral Library, F.1, fols 168ra–254rb (s. xiii: Worcester)
 
 \noindent Excerpts in *Sol meldunensis* and London, British Library, Add. 69999.
 
